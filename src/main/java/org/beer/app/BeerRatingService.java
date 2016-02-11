@@ -1,4 +1,4 @@
-package es.test.client;
+package org.beer.app;
 
 import java.util.List;
 
@@ -11,6 +11,7 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
+import org.elasticsearch.index.IndexNotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -20,8 +21,9 @@ public class BeerRatingService {
 	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRatingService.class);
 	private EsClient esClient;
 
-	public void init(EsClient esClient1) {
-		this.esClient = esClient1;
+	public BeerRatingService() {
+		this.esClient = EsClient.getInstance();
+		this.esClient.start();
 	}
 
 	@POST
@@ -36,7 +38,6 @@ public class BeerRatingService {
 			int status = 500; // TODO
 			return Response.status(status).entity(e).build();
 		}
-
 		return Response.status(200).entity("Beer rating succesfully created.").build();
 	}
 
@@ -53,7 +54,6 @@ public class BeerRatingService {
 			int status = 500; // TODO
 			return Response.status(status).entity(response).build();
 		}
-
 		return Response.status(200).entity(response).build();
 	}
 
@@ -65,13 +65,19 @@ public class BeerRatingService {
 		List<BeerRating> response;
 		try {
 			response = this.esClient.getBeerRatings(field, term);
-		} catch (Exception e) {
-			LOG.error("Get beer ratings failed: " + e);
+		} catch (IndexNotFoundException e) {
+			LOG.error("Index not found, exception: " + e);
 			int status = 500; // TODO
 			return Response.status(status).entity(e).build();
 		}
-
 		return Response.status(200).entity(response).build();
 	}
 
+	@POST
+	@Path("close")
+	@Consumes(MediaType.APPLICATION_JSON)
+	public Response close() {
+		this.esClient.stop();
+		return Response.status(200).entity("Elasticsearch connection closed.").build();
+	}
 }

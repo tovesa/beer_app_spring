@@ -1,4 +1,4 @@
-package es.test.client;
+package org.beer.app;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package es.test.client;
+package org.beer.app;
 
 import java.net.InetSocketAddress;
 import java.util.List;
@@ -23,6 +23,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class EsClient implements DataStorageClient {
 	private static final transient Logger LOG = LoggerFactory.getLogger(EsClient.class);
 
+	private static EsClient instance = new EsClient();
+
 	private TransportClient transportClient;
 
 	private static final String ES_IP = "localhost";
@@ -40,6 +42,13 @@ public class EsClient implements DataStorageClient {
 	private String esSearchScrollSize;
 
 	private ObjectMapper objectMapper;
+
+	private EsClient() {
+	}
+
+	public static EsClient getInstance() {
+		return instance;
+	}
 
 	@Override
 	public void start() {

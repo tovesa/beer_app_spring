@@ -15,7 +15,7 @@ public class ConvertCases {
 		formattedLine = formattedLine.replaceAll("haras", "Haras");
 		formattedLine = formattedLine.replaceAll("apina", "Apina");
 		formattedLine = formattedLine.replaceAll("koivistonkylä", "Koivistonkylä");
-		formattedLine = formattedLine.replaceAll("partola", "Partola");
+		formattedLine = formattedLine.replaceAll("partola", "Pirkkala");
 		formattedLine = formattedLine.replaceAll("lielahti", "Lielahti");
 		formattedLine = formattedLine.replaceAll("linnainmaa", "Linnainmaa");
 		formattedLine = formattedLine.replaceAll("ylöjärvi", "Ylöjärvi");
@@ -33,11 +33,6 @@ public class ConvertCases {
 		formattedLine = formattedLine.replaceAll("to öl", "To Øl");
 		formattedLine = formattedLine.replaceAll("To öl", "To Øl");
 		formattedLine = formattedLine.replaceAll("To Öl", "To Øl");
-		formattedLine = formattedLine.replaceAll("To ˆl", "To Øl");
-		formattedLine = formattedLine.replaceAll("N‰rke", "Närke");
-		formattedLine = formattedLine.replaceAll("n‰rke", "Närke");
-		formattedLine = formattedLine.replaceAll("Â", "å");
-		formattedLine = formattedLine.replaceAll("%%", "ää");
 		formattedLine = formattedLine.replaceAll("lervig", "Lervig");
 		formattedLine = formattedLine.replaceAll("nogne o", "Nøgne Ø");
 		formattedLine = formattedLine.replaceAll("nögne ö", "Nøgne Ø");
@@ -50,6 +45,28 @@ public class ConvertCases {
 		formattedLine = formattedLine.replaceAll("Nögne", "Nøgne Ø");
 		formattedLine = formattedLine.replaceAll("hiisi", "Hiisi");
 		formattedLine = formattedLine.replaceAll("draft", "Draft");
+		formattedLine = formattedLine.replaceAll("ccccc", "CCCCC");
+		formattedLine = formattedLine.replaceAll("alko", "Alko");
+		formattedLine = formattedLine.replaceAll("hopping brewster", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("hopping brewsters", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("Hopping Brewster", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("Hopping brewster", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("Hopping brewsters", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("hoppin brewster", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("hoppin brewsters", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("Hoppin Brewster", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("Hoppin brewster", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("Hoppin brewsters", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("Hoppin Brewsters", "Hopping Brewsters");
+		formattedLine = formattedLine.replaceAll("tommyknocker", "Tommyknocker");
+		formattedLine = formattedLine.replaceAll(" ipa ", " IPA ");
+		formattedLine = formattedLine.replaceAll(" ipa. ", " IPA. ");
+		formattedLine = formattedLine.replaceAll(" ipa, ", " IPA. ");
+		formattedLine = formattedLine.replaceAll(" dipa, ", " DIPA. ");
+		formattedLine = formattedLine.replaceAll(" iipa, ", " IIPA. ");
+		formattedLine = formattedLine.replaceAll("beer hunters", "Beer Hunters");
+		formattedLine = formattedLine.replaceAll("mufloni", "Mufloni");
+
 		sb.append(formattedLine);
 		return sb.toString();
 	}

@@ -7,5 +7,4 @@ public class ConvertSpaces {
 		formattedLine = formattedLine.replaceAll(" +", " ");
 		return formattedLine;
 	}
-
 }

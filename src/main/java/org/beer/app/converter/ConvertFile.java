@@ -16,11 +16,14 @@ public class ConvertFile {
 
 	public static void main(String args[]) {
 
-		String inputFileName = "src/main/resources/beers2016.txt";
-		String outputFileName = "src/main/resources/beers_converted.txt";
+		String inputFileName = "src/main/resources/beers2016_2.txt";
+		String outputFileName = "src/main/resources/beers_converted_2.txt";
+
+		// String inputFileName = "src/main/resources/beers_converted.txt";
+		// String outputFileName = "src/main/resources/beers_converted_2.txt";
 
 		List<String> lines = ConvertFile.readFile(inputFileName);
-		lines.removeIf(p -> p.isEmpty());
+		// lines.removeIf(p -> p.isEmpty());
 		List<String> formattedLines = ConvertFile.formatLines(lines);
 
 		for (int i = 0; i < lines.size(); i++) {
@@ -33,7 +36,7 @@ public class ConvertFile {
 			}
 		}
 
-		ConvertFile.writeFile(outputFileName, formattedLines);
+		// ConvertFile.writeFile(outputFileName, formattedLines);
 	}
 
 	private static List<String> formatLines(List<String> lines) {
@@ -45,19 +48,29 @@ public class ConvertFile {
 			if (line.startsWith("YEAR:")) {
 				year = line.substring(5, 9);
 			}
-			String formattedLine = ConvertSpaces.trimSpaces(line);
-			formattedLine = ConvertDates.formatDates(formattedLine, year);
-			if (ConvertDates.hasDate(formattedLine)) {
-				date = ConvertDates.getDate(formattedLine);
-			} else {
-				if (formattedLine.length() > 10) {
-					formattedLine = ConvertDates.addDate(date, formattedLine);
-				}
-			}
-			formattedLine = ConvertPunctuationMarks.formatPunctuationMarks(formattedLine);
-			formattedLine = ConvertCases.convertToUpperCase(formattedLine);
-			formattedLine = ConvertAbbreviations.replaceAbbreviations(formattedLine);
+			// String formattedLine = ConvertSpaces.trimSpaces(line);
+			// formattedLine = ConvertDates.formatDates(formattedLine, year);
+			// if (ConvertDates.hasDate(formattedLine)) {
+			// date = ConvertDates.getDate(formattedLine);
+			// } else {
+			// if (formattedLine.length() > 10) {
+			// formattedLine = ConvertDates.addDate(date, formattedLine);
+			// }
+			// }
+			// formattedLine =
+			// ConvertAbbreviations.replaceAbbreviations(formattedLine);
+			// formattedLine = ConvertCases.convertToUpperCase(formattedLine);
+			// formattedLine =
+			// ConvertPunctuationMarks.formatPunctuationMarks(formattedLine);
+			String formattedLine = line;
 			formattedLines.add(formattedLine);
+			if (ConvertOrder.formatOrder(formattedLine)) {
+				System.out.println("FIX SCORE: " + formattedLine);
+			}
+			if (ConvertOrder.tooManyDots(formattedLine)) {
+				System.out.println("TOO MANY DOTS: " + formattedLine);
+			}
+
 		}
 		return formattedLines;
 	}

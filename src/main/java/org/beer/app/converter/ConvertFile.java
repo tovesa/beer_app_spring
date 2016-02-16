@@ -23,18 +23,18 @@ public class ConvertFile {
 		// String outputFileName = "src/main/resources/beers_converted_2.txt";
 
 		List<String> lines = ConvertFile.readFile(inputFileName);
-		// lines.removeIf(p -> p.isEmpty());
+		lines.removeIf(p -> p.isEmpty());
 		List<String> formattedLines = ConvertFile.formatLines(lines);
 
-		for (int i = 0; i < lines.size(); i++) {
-			String oldLine = lines.get(i);
-			String newLine = formattedLines.get(i);
-			if (!oldLine.equals(newLine)) {
-				System.out.println("old: " + oldLine);
-				System.out.println("new: " + newLine);
-				System.out.println("-----------");
-			}
-		}
+		// for (int i = 0; i < lines.size(); i++) {
+		// String oldLine = lines.get(i);
+		// String newLine = formattedLines.get(i);
+		// if (!oldLine.equals(newLine)) {
+		// System.out.println("old: " + oldLine);
+		// System.out.println("new: " + newLine);
+		// System.out.println("-----------");
+		// }
+		// }
 
 		// ConvertFile.writeFile(outputFileName, formattedLines);
 	}
@@ -62,14 +62,18 @@ public class ConvertFile {
 			// formattedLine = ConvertCases.convertToUpperCase(formattedLine);
 			// formattedLine =
 			// ConvertPunctuationMarks.formatPunctuationMarks(formattedLine);
-			String formattedLine = line;
-			formattedLines.add(formattedLine);
-			if (ConvertOrder.formatOrder(formattedLine)) {
-				System.out.println("FIX SCORE: " + formattedLine);
-			}
+			String formattedLine = ConvertOrder.addEndingDot(line);
+
+			// if (ConvertOrder.formatOrder(formattedLine)) {
+			// System.out.println("FIX SCORE: " + formattedLine);
+			// }
 			if (ConvertOrder.tooManyDots(formattedLine)) {
 				System.out.println("TOO MANY DOTS: " + formattedLine);
 			}
+			if (ConvertOrder.tooFewDots(formattedLine)) {
+				System.out.println("TOO FEW DOTS: " + formattedLine);
+			}
+			formattedLines.add(formattedLine);
 
 		}
 		return formattedLines;

@@ -67,11 +67,9 @@ public class ConvertFile {
 			// if (ConvertOrder.formatOrder(formattedLine)) {
 			// System.out.println("FIX SCORE: " + formattedLine);
 			// }
-			if (ConvertOrder.tooManyDots(formattedLine)) {
-				System.out.println("TOO MANY DOTS: " + formattedLine);
-			}
-			if (ConvertOrder.tooFewDots(formattedLine)) {
-				System.out.println("TOO FEW DOTS: " + formattedLine);
+			int numberOfDots = ConvertOrder.isNumberOfDotsCorrect(formattedLine);
+			if (numberOfDots != 0) {
+				System.out.println("WRONG NUMBER OF DOTS: " + numberOfDots + " : " + formattedLine);
 			}
 			formattedLines.add(formattedLine);
 

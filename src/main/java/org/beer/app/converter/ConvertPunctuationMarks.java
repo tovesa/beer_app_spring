@@ -97,4 +97,20 @@ public class ConvertPunctuationMarks {
 		String ret = sb.toString().replaceFirst("\\s+$", "");
 		return ret;
 	}
+
+	private static String addDotBetweenBbeAndScore(String line) {
+		Pattern p = Pattern.compile("\\d{4}-\\d{2}-\\d{2}\\.\\s\\d{6}");
+		Matcher m = p.matcher(line);
+		StringBuffer sb = new StringBuffer();
+		while (m.find()) {
+			String text = m.group();
+			StringBuffer formattedDate = new StringBuffer();
+			formattedDate.append(text);
+			formattedDate.append(".");
+			m.appendReplacement(sb, formattedDate.toString());
+		}
+		m.appendTail(sb);
+		String ret = sb.toString().replaceFirst("\\s+$", "");
+		return ret;
+	}
 }

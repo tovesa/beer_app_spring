@@ -6,7 +6,6 @@ public class ConvertAbbreviations {
 		String formattedLine;
 		StringBuffer sb = new StringBuffer();
 		formattedLine = line.replaceAll("pla", "Pirkkala");
-		formattedLine = formattedLine.replaceAll("Pla", "Pirkkala");
 		formattedLine = formattedLine.replaceAll("Naamat", "Kahdet Kasvot");
 		formattedLine = formattedLine.replaceAll(". Tuulensuu", ". Gastropub Tuulensuu");
 		formattedLine = formattedLine.replaceAll("Haras", "O'Hara's Freehouse");

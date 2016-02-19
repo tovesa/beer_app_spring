@@ -44,11 +44,13 @@ public class ConvertFile {
 		List<String> formattedLines = new ArrayList<>();
 		String year = "2013";
 		String date = "2013-08-18";
+
+		int i = 0;
 		for (String line : lines) {
 			if (line.startsWith("YEAR:")) {
 				year = line.substring(5, 9);
 			}
-			// String formattedLine = ConvertSpaces.trimSpaces(line);
+			String formattedLine = ConvertSpaces.trimSpaces(line);
 			// formattedLine = ConvertDates.formatDates(formattedLine, year);
 			// if (ConvertDates.hasDate(formattedLine)) {
 			// date = ConvertDates.getDate(formattedLine);
@@ -62,18 +64,55 @@ public class ConvertFile {
 			// formattedLine = ConvertCases.convertToUpperCase(formattedLine);
 			// formattedLine =
 			// ConvertPunctuationMarks.formatPunctuationMarks(formattedLine);
-			String formattedLine = ConvertOrder.addEndingDot(line);
+			formattedLine = ConvertOrder.addEndingDot(line);
 
 			// if (ConvertOrder.formatOrder(formattedLine)) {
 			// System.out.println("FIX SCORE: " + formattedLine);
 			// }
-			int numberOfDots = ConvertOrder.isNumberOfDotsCorrect(formattedLine);
-			if (numberOfDots != 0) {
+			// if (ConvertOrder.isBrewInfoMissing(formattedLine)) {
+			// System.out.println("BREW INFO MISSING: " + formattedLine);
+			// }
+
+			// if (ConvertOrder.isBrewInfoMissing(formattedLine)) {
+			// System.out.println("BREW INFO MISSING: " + formattedLine);
+			// }
+
+			// if (!ConvertOrder.isPackMissing(formattedLine)) {
+			// i++;
+			// System.out.println("PACK MISSING: " + formattedLine);
+			// }
+
+			String pack = ConvertOrder.getPack(formattedLine);
+			if (pack.equals("")) {
+				i++;
+				System.out.println("PACK IS MISSING: " + formattedLine);
+			}
+
+			boolean atHome = ConvertOrder.atHome(formattedLine);
+
+			int numberOfDots = ConvertOrder.getNumberOfDots(formattedLine);
+			if (numberOfDots != 10) {
+				i++;
 				System.out.println("WRONG NUMBER OF DOTS: " + numberOfDots + " : " + formattedLine);
 			}
-			formattedLines.add(formattedLine);
 
+			// if ((pack.equals("Bottle ") || pack.equals("Can ")) &&
+			// numberOfDots != 10) {
+			// i++;
+			// System.out.println("WRONG NUMBER OF DOTS: " + numberOfDots + " :
+			// " + formattedLine);
+			// }
+			//
+			// if ((pack.equals("Draft.") || pack.equals("Cask.")) &&
+			// numberOfDots != 6) {
+			// i++;
+			// System.out.println("WRONG NUMBER OF DOTS FOR DRAFT: " +
+			// numberOfDots + " : " + formattedLine);
+			// }
+
+			formattedLines.add(formattedLine);
 		}
+		System.out.println("NUMBER OF ERRORS: " + i);
 		return formattedLines;
 	}
 

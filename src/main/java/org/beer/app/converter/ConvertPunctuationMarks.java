@@ -15,6 +15,12 @@ public class ConvertPunctuationMarks {
 		return formattedLine;
 	}
 
+	public static String addEndingDot(String line) {
+		String formattedLine = line + ".";
+		formattedLine = formattedLine.replaceAll("\\.\\.", ".");
+		return formattedLine;
+	}
+
 	public static String changeCommasToDots(String line) {
 		String formattedLine;
 		// formattedLine = line.replaceAll("cl ", "cl. ");
@@ -92,22 +98,6 @@ public class ConvertPunctuationMarks {
 			String text = m.group();
 			String formattedText = text.replaceFirst(",", ".");
 			m.appendReplacement(sb, formattedText);
-		}
-		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
-	}
-
-	private static String addDotBetweenBbeAndScore(String line) {
-		Pattern p = Pattern.compile("\\d{4}-\\d{2}-\\d{2}\\.\\s\\d{6}");
-		Matcher m = p.matcher(line);
-		StringBuffer sb = new StringBuffer();
-		while (m.find()) {
-			String text = m.group();
-			StringBuffer formattedDate = new StringBuffer();
-			formattedDate.append(text);
-			formattedDate.append(".");
-			m.appendReplacement(sb, formattedDate.toString());
 		}
 		m.appendTail(sb);
 		String ret = sb.toString().replaceFirst("\\s+$", "");

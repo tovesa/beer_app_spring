@@ -20,46 +20,38 @@ public class BeerRating {
 	private String purchasingPlace;
 	private String purchasingDate;
 	private String name;
-	private String brewery;
-	private String country;
-	private String bbe;
-	private String bottled;
 	private String pack;
+	private String bbe;
+	private String brewInfo;
 	private int aroma;
 	private int appearance;
 	private int taste;
 	private int palate;
 	private int overall;
 	private String comments;
-	private String batch;
+	private String brewery;
+	private String country;
 	private int rbId;
 
-	public BeerRating(String rated, String ratingPlace, String name, String brewery, String pack, int aroma,
-			int appearance, int taste, int palate, int overall, String notes) {
-		this(rated, ratingPlace, "", "", name, brewery, "", "", "", pack, aroma, appearance, taste, palate, overall,
-				notes, "", 0);
-	}
-
-	public BeerRating(String rated, String ratingPlace, String purchased, String purchasingDate, String name,
-			String brewery, String country, String bbe, String bottled, String pack, int aroma, int appearance,
-			int taste, int palate, int overall, String notes, String batch, int rbId) {
-		this.ratingDate = rated;
+	public BeerRating(String ratingDate, String ratingPlace, String purchasingDate, String purchasingPlace, String name,
+			String pack, String bbe, String brewInfo, int aroma, int appearance, int taste, int palate, int overall,
+			String comments, String brewery, String country, int rbId) {
+		this.ratingDate = ratingDate;
 		this.ratingPlace = ratingPlace;
-		this.purchasingPlace = purchased;
 		this.purchasingDate = purchasingDate;
+		this.purchasingPlace = purchasingPlace;
 		this.name = name;
-		this.brewery = brewery;
-		this.country = country;
 		this.bbe = bbe;
-		this.bottled = bottled;
+		this.brewInfo = brewInfo;
 		this.pack = pack;
 		this.aroma = aroma;
 		this.appearance = appearance;
 		this.taste = taste;
 		this.palate = palate;
 		this.overall = overall;
-		this.comments = notes;
-		this.batch = batch;
+		this.comments = comments;
+		this.brewery = brewery;
+		this.country = country;
 		this.rbId = rbId;
 	}
 
@@ -121,9 +113,9 @@ public class BeerRating {
 			}
 		}
 
-		if (!this.bottled.isEmpty()) {
+		if (!this.brewInfo.isEmpty()) {
 			try {
-				validateDate(this.bottled, "bottled");
+				validateDate(this.brewInfo, "bottled");
 			} catch (BeerValidationException e) {
 				errorMap.putAll(e.getErrorMap());
 			}
@@ -290,12 +282,12 @@ public class BeerRating {
 		this.bbe = bbe;
 	}
 
-	public String getBottled() {
-		return this.bottled;
+	public String getGrewInfo() {
+		return this.brewInfo;
 	}
 
-	public void setBottled(String bottled) {
-		this.bottled = bottled;
+	public void setBrewInfo(String brewInfo) {
+		this.brewInfo = brewInfo;
 	}
 
 	public String getPack() {
@@ -354,14 +346,6 @@ public class BeerRating {
 		this.comments = notes;
 	}
 
-	public String getBatch() {
-		return this.batch;
-	}
-
-	public void setBatch(String batch) {
-		this.batch = batch;
-	}
-
 	public int getRbId() {
 		return this.rbId;
 	}
@@ -378,12 +362,18 @@ public class BeerRating {
 		sb.append(this.ratingDate);
 		sb.append("\nratingPlace=");
 		sb.append(this.ratingPlace);
+		sb.append("\npurchasingPlace=");
+		sb.append(this.purchasingPlace);
+		sb.append("\npurchasingPlace=");
+		sb.append(this.purchasingDate);
 		sb.append("\nname=");
 		sb.append(this.name);
-		sb.append("\nebrewery=");
-		sb.append(this.brewery);
 		sb.append("\npack=");
 		sb.append(this.pack);
+		sb.append("\nbbe=");
+		sb.append(this.bbe);
+		sb.append("\nbrewInfo=");
+		sb.append(this.brewInfo);
 		sb.append("\naroma=");
 		sb.append(this.aroma);
 		sb.append("\nappearance=");
@@ -396,16 +386,10 @@ public class BeerRating {
 		sb.append(this.overall);
 		sb.append("\ncomments=");
 		sb.append(this.comments);
-		sb.append("\npurchasingPlace=");
-		sb.append(this.purchasingPlace);
-		sb.append("\npurchasingPlace=");
-		sb.append(this.purchasingDate);
+		sb.append("\nebrewery=");
+		sb.append(this.brewery);
 		sb.append("\ncountry=");
 		sb.append(this.country);
-		sb.append("\nbbe=");
-		sb.append(this.bbe);
-		sb.append("\nbatch=");
-		sb.append(this.batch);
 		sb.append("\nrbId=");
 		sb.append(this.rbId);
 

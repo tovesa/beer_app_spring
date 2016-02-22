@@ -143,13 +143,13 @@ public class EsClient implements DataStorageClient {
 	private static BeerRating getBeerRating(SearchHit hit) {
 		Map<String, Object> sourceAsMap = hit.getSource();
 		BeerRating beerRating = new BeerRating(sourceAsMap.get("ratingDate").toString(),
-				sourceAsMap.get("ratingPlace").toString(), sourceAsMap.get("name").toString(),
-				sourceAsMap.get("brewery").toString(), sourceAsMap.get("pack").toString(),
-				Integer.parseInt(sourceAsMap.get("aroma").toString()),
+				sourceAsMap.get("ratingPlace").toString(), "", "", sourceAsMap.get("name").toString(),
+				sourceAsMap.get("pack").toString(), "", "", Integer.parseInt(sourceAsMap.get("aroma").toString()),
 				Integer.parseInt(sourceAsMap.get("appearance").toString()),
 				Integer.parseInt(sourceAsMap.get("taste").toString()),
 				Integer.parseInt(sourceAsMap.get("palate").toString()),
-				Integer.parseInt(sourceAsMap.get("overall").toString()), sourceAsMap.get("notes").toString());
+				Integer.parseInt(sourceAsMap.get("overall").toString()), sourceAsMap.get("comments").toString(), "", "",
+				0);
 		return beerRating;
 	}
 

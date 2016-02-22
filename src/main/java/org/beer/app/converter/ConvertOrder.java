@@ -1,50 +1,37 @@
 package org.beer.app.converter;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 public class ConvertOrder {
 
-	public static boolean formatOrder(String line) {
-		String formattedLine = line;
-		boolean toRet = moveScore(formattedLine);
-		return toRet;
-	}
-
-	public static boolean moveScore(String line) {
-		return line.matches(".*\\d{6}\\.$");
-	}
-
-	public static boolean isBrewInfoMissing(String line) {
-		return line.matches(".*bbe\\s{1}\\d{4}-\\d{2}-\\d{2}\\.\\s{1}\\d{6}.*");
-	}
-
-	public static int getNumberOfDots(String line) {
-		int count = line.length() - line.replace(".", "").length();
-		return count;
-	}
-
-	public static boolean isPackMissing(String line) {
-		return line.matches(".*(Bottle\\s|Can\\s|Draft\\.|Cask\\.).*");
-	}
-
-	public static boolean atHome(String line) {
-		return line.matches(".*(Pirkkala\\.|Ruovesi\\.).*");
-	}
-
-	public static String getPack(String line) {
-		String pack = "";
-		Pattern pattern = Pattern.compile("(Bottle\\s|Can\\s|Draft\\.|Cask\\.)");
-		Matcher matcher = pattern.matcher(line);
-		if (matcher.find()) {
-			pack = (matcher.group(0));
+	public static String moveScore(String line) {
+		if (isScoreLastWord(line)) {
+			int ninthDot = nthIndexOfDot(line, 9);
+			int eighthDot = nthIndexOfDot(line, 8);
+			StringBuilder sb = new StringBuilder();
+			String begin = line.substring(0, eighthDot + 1);
+			sb.append(begin);
+			String score = line.substring(ninthDot + 1);
+			sb.append(score);
+			String description = line.substring(eighthDot + 1, ninthDot + 1);
+			sb.append(description);
+			return sb.toString();
 		}
-		return pack;
+		return line;
 	}
 
-	public static String addEndingDot(String line) {
-		String formattedLine = line + ".";
-		formattedLine = formattedLine.replaceAll("\\.\\.", ".");
-		return formattedLine;
+	private static boolean isScoreLastWord(String line) {
+		return line.matches(".*\\s{1}\\d{5,6}\\.$");
+	}
+
+	private static int nthIndexOfDot(String line, int n) {
+		final String dot = ".";
+		int index = line.indexOf(dot);
+		if (index == -1)
+			return -1;
+		for (int i = 1; i < n; i++) {
+			index = line.indexOf(dot, index + 1);
+			if (index == -1)
+				return -1;
+		}
+		return index;
 	}
 }

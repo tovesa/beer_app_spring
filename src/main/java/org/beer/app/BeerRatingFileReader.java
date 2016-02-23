@@ -35,7 +35,7 @@ public class BeerRatingFileReader {
 				LOG.error(e.getMessage() + " Line: " + rating);
 			}
 		}
-		printBeerRatingsToLog(beerRatingList);
+		// printBeerRatingsToLog(beerRatingList);
 		return beerRatingList;
 	}
 

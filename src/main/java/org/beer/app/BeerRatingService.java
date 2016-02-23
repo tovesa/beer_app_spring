@@ -11,7 +11,6 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import org.elasticsearch.index.IndexNotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -65,8 +64,8 @@ public class BeerRatingService {
 		List<BeerRating> response;
 		try {
 			response = this.esClient.getBeerRatings(field, term);
-		} catch (IndexNotFoundException e) {
-			LOG.error("Index not found, exception: " + e);
+		} catch (Exception e) {
+			LOG.error("Get ratings failed: " + e);
 			int status = 500; // TODO
 			return Response.status(status).entity(e).build();
 		}

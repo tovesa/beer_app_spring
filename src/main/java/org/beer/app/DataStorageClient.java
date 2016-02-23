@@ -11,7 +11,7 @@ public interface DataStorageClient {
 
 	public void createBeerRating(BeerRating beerRating) throws JsonProcessingException;
 
-	public String getAutoSuggestions(String searchField, String searchTerm);
+	public String getAutoSuggestions(String searchField, String searchTerm) throws BeerValidationException;
 
-	public List<BeerRating> getBeerRatings(String searchField, String searchTerm);
+	public List<BeerRating> getBeerRatings(String searchField, String searchTerm) throws BeerValidationException;
 }

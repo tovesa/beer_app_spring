@@ -1,6 +1,8 @@
 package org.beer.app;
 
 import java.net.InetSocketAddress;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
@@ -24,6 +26,8 @@ public class EsClient implements DataStorageClient {
 	private static final transient Logger LOG = LoggerFactory.getLogger(EsClient.class);
 
 	private static EsClient instance = new EsClient();
+
+	private boolean running;
 
 	private TransportClient transportClient;
 
@@ -52,17 +56,23 @@ public class EsClient implements DataStorageClient {
 
 	@Override
 	public void start() {
+		if (isRunning()) {
+			LOG.debug("EsClient is already running.");
+			return;
+		}
 		LOG.debug("Starting EsClient with values: {}", toString());
 		Settings settings = getTransportClientSettings();
 		this.transportClient = TransportClient.builder().settings(settings).build();
 		this.transportClient.addTransportAddress(new InetSocketTransportAddress(new InetSocketAddress(ES_IP, ES_PORT)));
 		this.objectMapper = new ObjectMapper();
+		this.running = true;
 		LOG.debug("EsClient succesfully started.");
 	}
 
 	@Override
 	public void stop() {
 		this.transportClient.close();
+		this.running = false;
 		LOG.debug("EsClient succesfully closed.");
 	}
 
@@ -78,11 +88,8 @@ public class EsClient implements DataStorageClient {
 	}
 
 	@Override
-	public String getAutoSuggestions(String searchField, String searchTerm) {
-
-		// TODO remove fixed field
-		searchField = "name";
-
+	public String getAutoSuggestions(String searchField, String searchTerm) throws BeerValidationException {
+		validateSearchField(searchField);
 		SearchResponse response = this.transportClient.prepareSearch(ES_INDEX).setTypes(ES_TYPE_RATING)
 				.setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
 				.setQuery(QueryBuilders.termQuery(searchField, searchTerm)).execute().actionGet();
@@ -90,19 +97,13 @@ public class EsClient implements DataStorageClient {
 		if (LOG.isDebugEnabled()) {
 			logSearchResponse(response);
 		}
-
 		String beerRatings = getAutoSuggestionsAsJsonString(response);
-
 		return beerRatings;
-
 	}
 
 	@Override
-	public List<BeerRating> getBeerRatings(String searchField, String searchTerm) {
-
-		// TODO remove fixed field
-		searchField = "name";
-
+	public List<BeerRating> getBeerRatings(String searchField, String searchTerm) throws BeerValidationException {
+		validateSearchField(searchField);
 		SearchResponse response = this.transportClient.prepareSearch(ES_INDEX).setTypes(ES_TYPE_RATING)
 				.setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
 				.setQuery(QueryBuilders.termQuery(searchField, searchTerm)).execute().actionGet();
@@ -112,9 +113,14 @@ public class EsClient implements DataStorageClient {
 		}
 
 		List<BeerRating> beerRatings = getBeerRatingsAsList(response);
-
 		return beerRatings;
+	}
 
+	private static void validateSearchField(String searchField) throws BeerValidationException {
+		List<String> allowedValues = new ArrayList<>(Arrays.asList(EsSearchField.values().toString()));
+		if (!allowedValues.contains(searchField)) {
+			throw new BeerValidationException("Illegal search field: " + searchField);
+		}
 	}
 
 	private String getAutoSuggestionsAsJsonString(SearchResponse response) {
@@ -189,7 +195,7 @@ public class EsClient implements DataStorageClient {
 		}
 	}
 
-	private Settings getTransportClientSettings() {
+	private static Settings getTransportClientSettings() {
 		Settings settings = Settings.settingsBuilder().put("cluster.name", ES_CLUSTER_NAME)
 				.put("client.transport.sniff", true).build();
 		return settings;
@@ -217,6 +223,10 @@ public class EsClient implements DataStorageClient {
 				i++;
 			}
 		}
+	}
+
+	public boolean isRunning() {
+		return this.running;
 	}
 
 	public TransportClient getTransportClient() {

@@ -1,3 +1,8 @@
+sudo /bin/systemctl start elasticsearch
+sudo /bin/systemctl status elasticsearch
+sudo /bin/systemctl start kibana
+sudo /bin/systemctl status kibana
+
 # Kibana stuff
 curl -XPUT 'http://localhost:9200/.kibana' -d '{
     "index.mapper.dynamic" : "true"

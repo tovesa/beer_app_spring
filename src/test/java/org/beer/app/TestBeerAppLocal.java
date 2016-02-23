@@ -4,9 +4,26 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.beer.app.converter.ConvertFile;
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+
 public class TestBeerAppLocal {
+
+	private static EsClient esClient;
+
+	@Before
+	public void setUp() {
+		esClient = EsClient.getInstance();
+		esClient.start();
+	}
+
+	@After
+	public void tearDown() {
+		esClient.stop();
+	}
 
 	@Test
 	public void testStartBeerApp() {
@@ -24,9 +41,30 @@ public class TestBeerAppLocal {
 	@Test
 	public void testCreteBeerRatings() {
 		String inputFile = "src/main/resources/beers_converted_2.txt";
+		List<BeerRating> brList = getBeerRatings(inputFile);
+	}
+
+	@Test
+	public void testAddBeerRatingsToEs() throws JsonProcessingException {
+		String inputFile = "src/main/resources/beers_converted_2.txt";
+		List<BeerRating> brList = getBeerRatings(inputFile);
+		for (BeerRating br : brList) {
+			esClient.createBeerRating(br);
+		}
+	}
+
+	@Test
+	public void testGetBeerRatingsFromEs() throws BeerValidationException {
+		List<BeerRating> brList = esClient.getBeerRatings("name", "Siperia");
+		for (BeerRating br : brList) {
+			System.out.println("Beer rating from ES:\n" + br.toString());
+		}
+	}
+
+	private static List<BeerRating> getBeerRatings(String inputFile) {
 		List<BeerRating> brList = new ArrayList<>();
 		BeerRatingFileReader brReader = new BeerRatingFileReader();
 		brList = brReader.readBeerRatingsFromFile(inputFile);
+		return brList;
 	}
-
 }

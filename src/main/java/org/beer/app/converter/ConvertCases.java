@@ -66,7 +66,6 @@ public class ConvertCases {
 		formattedLine = formattedLine.replaceAll(" iipa, ", " IIPA. ");
 		formattedLine = formattedLine.replaceAll("beer hunters", "Beer Hunters");
 		formattedLine = formattedLine.replaceAll("mufloni", "Mufloni");
-
 		sb.append(formattedLine);
 		return sb.toString();
 	}

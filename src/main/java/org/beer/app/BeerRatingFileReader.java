@@ -8,124 +8,95 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class BeerRatingFileReader {
 
+	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRatingFileReader.class);
+
 	public List<BeerRating> readBeerRatingsFromFile(String file) {
-
 		List<String> lines = readFile(file);
+		removeCommentLines(lines);
 		List<BeerRating> beerRatingList = getBeerRatingsAsList(lines);
-
 		return beerRatingList;
+	}
+
+	private static void removeCommentLines(List<String> lines) {
+		lines.removeIf(p -> p.startsWith("#"));
 	}
 
 	private static List<BeerRating> getBeerRatingsAsList(List<String> ratings) {
 		List<BeerRating> beerRatingList = new ArrayList<>();
 		for (String rating : ratings) {
-			BeerRating br = createBeerRating(rating);
-			beerRatingList.add(br);
+			try {
+				beerRatingList.add(createBeerRating(rating));
+			} catch (BeerValidationException e) {
+				LOG.error(e.getMessage() + " Line: " + rating);
+			}
 		}
+		printBeerRatingsToLog(beerRatingList);
 		return beerRatingList;
 	}
 
-	private static BeerRating createBeerRating(String rating) {
-		String ratingDate = getRatingDate(rating);
-		String ratingPlace = getRatingPlace(rating);
-		String purchasingDate = getPurchasingDate(rating);
-		String purchasingPlace = getPurchasingPlace(rating);
-		String name = getName(rating);
-		String pack = getPack(rating);
-		String bbe = getBbe(rating);
-		String brewInfo = getBrewInfo(rating);
-		int aroma = getAroma(rating);
-		int appearance = getAppearance(rating);
-		int taste = getTaste(rating);
-		int palate = getPalate(rating);
-		int overall = getOverall(rating);
-		String comments = getComments(rating);
+	private static void printBeerRatingsToLog(List<BeerRating> beerRatingList) {
+		if (LOG.isDebugEnabled()) {
+			for (BeerRating br : beerRatingList) {
+				LOG.debug("beerRating :\n" + br.toString());
+			}
+		}
+	}
+
+	private static BeerRating createBeerRating(String line) throws BeerValidationException {
+		String ratingArray[] = null;
+		ratingArray = BeerRatingFileUtil.tokenizeLine(line);
+
+		String ratingDate = ratingArray[0];
+		String ratingPlace = ratingArray[1];
+		String purchasingDate = ratingArray[2];
+		String purchasingPlace = ratingArray[3];
+		String name = ratingArray[4];
+		String pack = ratingArray[5];
+		String bbe = ratingArray[6];
+		String brewInfo = ratingArray[7];
+		int aroma = getAroma(ratingArray[8]);
+		int appearance = getAppearance(ratingArray[8]);
+		int taste = getTaste(ratingArray[8]);
+		int palate = getPalate(ratingArray[8]);
+		int overall = getOverall(ratingArray[8]);
+		String comments = ratingArray[9];
+
 		BeerRating br = new BeerRating(ratingDate, ratingPlace, purchasingDate, purchasingPlace, name, pack, bbe,
 				brewInfo, aroma, appearance, taste, palate, overall, comments, "", "", 0);
 		return br;
 	}
 
-	private static String getRatingDate(String rating) {
-		// TODO Auto-generated method stub
-		return null;
+	private static int getAroma(String score) {
+		return Integer.parseInt(score.substring(0, 1));
 	}
 
-	private static String getRatingPlace(String rating) {
-		// TODO Auto-generated method stub
-		return null;
+	private static int getAppearance(String score) {
+		return Integer.parseInt(score.substring(1, 2));
 	}
 
-	private static String getPurchasingDate(String rating) {
-		// TODO Auto-generated method stub
-		return null;
+	private static int getTaste(String score) {
+		return Integer.parseInt(score.substring(2, 3));
 	}
 
-	private static String getPurchasingPlace(String rating) {
-		// TODO Auto-generated method stub
-		return null;
+	private static int getPalate(String score) {
+		return Integer.parseInt(score.substring(3, 4));
 	}
 
-	private static String getName(String rating) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	private static String getPack(String rating) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	private static String getBbe(String rating) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	private static String getBrewInfo(String rating) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	private static int getAroma(String rating) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	private static int getAppearance(String rating) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	private static int getTaste(String rating) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	private static int getPalate(String rating) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	private static int getOverall(String rating) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	private static String getComments(String comments) {
-		// TODO Auto-generated method stub
-		return null;
+	private static int getOverall(String score) {
+		return Integer.parseInt(score.substring(4));
 	}
 
 	public static List<String> readFile(String fileName) {
-
 		List<String> lines = new ArrayList<>();
-
 		try (BufferedReader br = new BufferedReader(
 				new InputStreamReader(new FileInputStream(new File(fileName)), "UTF8"))) {
 
 			String line = br.readLine();
-
 			while (line != null) {
 				lines.add(line);
 				line = br.readLine();
@@ -133,8 +104,6 @@ public class BeerRatingFileReader {
 		} catch (IOException e) {
 			System.out.println("Exception: " + e);
 		}
-
 		return lines;
 	}
-
 }

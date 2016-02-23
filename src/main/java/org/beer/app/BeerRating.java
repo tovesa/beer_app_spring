@@ -386,7 +386,7 @@ public class BeerRating {
 		sb.append(this.overall);
 		sb.append("\ncomments=");
 		sb.append(this.comments);
-		sb.append("\nebrewery=");
+		sb.append("\nbrewery=");
 		sb.append(this.brewery);
 		sb.append("\ncountry=");
 		sb.append(this.country);

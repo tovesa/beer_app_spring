@@ -5,20 +5,17 @@ import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Validator {
+public class BeerRatingValidator {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(Validator.class);
+	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRatingValidator.class);
 
 	public static void validate(String line) {
-
-		// gormat: *rating date. *rating place. purchasing date.
+		// format: *rating date. *rating place. purchasing date.
 		// purchasing place. *name. *pack. bbe. brew info. *score. *description.
 		// * = mandatory
 		String ratingArray[] = null;
 		try {
-			validateNumberDots(line);
 			ratingArray = BeerRatingFileUtil.tokenizeLine(line);
-			BeerRatingFileUtil.stripLeadingWhitespace(ratingArray);
 			validateRatingDate(ratingArray[0]);
 			validateRatingPlace(ratingArray[1]);
 			validatePurchasingDate(ratingArray[2]);
@@ -30,24 +27,9 @@ public class Validator {
 			validateScore(ratingArray[8]);
 			validateDescription(ratingArray[9]);
 		} catch (BeerValidationException e) {
-			// printToConsole(ratingArray);
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
 			LOG.error(fixedLengthErrorMessage + " Line: " + line);
 		}
-	}
-
-	private static void printToConsole(String array[]) {
-		for (int i = 0; i < array.length; i++) {
-			System.out.println("array[" + i + "] : " + array[i]);
-		}
-	}
-
-	public static void validateNumberDots(String line) throws BeerValidationException {
-		int count = line.length() - line.replace(".", "").length();
-		if (count != 10) {
-			throw new BeerValidationException("Wrong number of dots: " + count);
-		}
-
 	}
 
 	private static void validateRatingDate(String s) throws BeerValidationException {

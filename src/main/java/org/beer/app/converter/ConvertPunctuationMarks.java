@@ -3,7 +3,10 @@ package org.beer.app.converter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ConvertPunctuationMarks {
+public final class ConvertPunctuationMarks {
+
+	private ConvertPunctuationMarks() {
+	}
 
 	public static String formatPunctuationMarks(String line) {
 		String formattedLine = line;
@@ -22,12 +25,7 @@ public class ConvertPunctuationMarks {
 	}
 
 	public static String changeCommasToDots(String line) {
-		String formattedLine;
-		// formattedLine = line.replaceAll("cl ", "cl. ");
-		// formattedLine = formattedLine.replaceAll("cl,", "cl.");
-		// formattedLine = formattedLine.replaceAll("ml ", "ml. ");
-		// formattedLine = formattedLine.replaceAll("ml,", "ml.");
-		formattedLine = line.replaceAll("Pirkkala,", "Pirkkala.");
+		String formattedLine = line.replaceAll("Pirkkala,", "Pirkkala.");
 		formattedLine = formattedLine.replaceAll("Ruovesi,", "Ruovesi.");
 		formattedLine = formattedLine.replaceAll("Kasvot,", "Kasvot.");
 		formattedLine = formattedLine.replaceAll("Konttori,", "Konttori.");
@@ -39,9 +37,7 @@ public class ConvertPunctuationMarks {
 		formattedLine = formattedLine.replaceAll("\\.,", ".");
 		formattedLine = formattedLine.replaceAll(",\\.", ".");
 		formattedLine = formattedLine.replaceAll("\\.\\.", ".");
-		StringBuffer sb = new StringBuffer();
-		sb.append(formattedLine);
-		return sb.toString();
+		return formattedLine;
 	}
 
 	private static String addDotAfterDate(String line) {
@@ -56,8 +52,7 @@ public class ConvertPunctuationMarks {
 			m.appendReplacement(sb, formattedDate.toString());
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
 	}
 
 	private static String replaceCommaBeforeDate(String line) {
@@ -70,8 +65,7 @@ public class ConvertPunctuationMarks {
 			m.appendReplacement(sb, formattedText);
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
 	}
 
 	private static String addDotAfterScore(String line) {
@@ -86,8 +80,7 @@ public class ConvertPunctuationMarks {
 			m.appendReplacement(sb, formattedScore.toString());
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
 	}
 
 	private static String replaceCommaBeforeScore(String line) {
@@ -100,7 +93,6 @@ public class ConvertPunctuationMarks {
 			m.appendReplacement(sb, formattedText);
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
 	}
 }

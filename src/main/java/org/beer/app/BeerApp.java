@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 
 public class BeerApp {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(BeerApp.class);
+	private static final Logger LOG = LoggerFactory.getLogger(BeerApp.class);
 
 	private EmbeddedHttpServer httpServer;
 
@@ -20,7 +20,8 @@ public class BeerApp {
 		try {
 			this.httpServer.start();
 		} catch (IllegalStateException e) {
-			// stopped, ignore exception
+			// stopped, just log exception
+			LOG.info("Start BeerApp failed, exception: ", e);
 		} catch (Exception e) {
 			LOG.error("Start BeerApp failed, exception: ", e);
 			stop();

@@ -13,13 +13,12 @@ import org.slf4j.LoggerFactory;
 
 public class BeerRatingFileReader {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRatingFileReader.class);
+	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingFileReader.class);
 
 	public List<BeerRating> readBeerRatingsFromFile(String file) {
 		List<String> lines = readFile(file);
 		removeCommentLines(lines);
-		List<BeerRating> beerRatingList = getBeerRatingsAsList(lines);
-		return beerRatingList;
+		return getBeerRatingsAsList(lines);
 	}
 
 	private static void removeCommentLines(List<String> lines) {
@@ -33,13 +32,13 @@ public class BeerRatingFileReader {
 				beerRatingList.add(createBeerRating(rating));
 			} catch (BeerValidationException e) {
 				LOG.error(e.getMessage() + " Line: " + rating);
+				LOG.debug("Create beer rating failed: " + e);
 			}
 		}
-		// printBeerRatingsToLog(beerRatingList);
 		return beerRatingList;
 	}
 
-	private static void printBeerRatingsToLog(List<BeerRating> beerRatingList) {
+	public static void printBeerRatingsToLog(List<BeerRating> beerRatingList) {
 		if (LOG.isDebugEnabled()) {
 			for (BeerRating br : beerRatingList) {
 				LOG.debug("beerRating :\n" + br.toString());
@@ -48,9 +47,7 @@ public class BeerRatingFileReader {
 	}
 
 	private static BeerRating createBeerRating(String line) throws BeerValidationException {
-		String ratingArray[] = null;
-		ratingArray = BeerRatingFileUtil.tokenizeLine(line);
-
+		String[] ratingArray = BeerRatingFileUtil.tokenizeLine(line);
 		String ratingDate = ratingArray[0];
 		String ratingPlace = ratingArray[1];
 		String purchasingDate = ratingArray[2];
@@ -66,9 +63,8 @@ public class BeerRatingFileReader {
 		int overall = getOverall(ratingArray[8]);
 		String comments = ratingArray[9];
 
-		BeerRating br = new BeerRating(ratingDate, ratingPlace, purchasingDate, purchasingPlace, name, pack, bbe,
-				brewInfo, aroma, appearance, taste, palate, overall, comments, "", "", 0);
-		return br;
+		return new BeerRating(ratingDate, ratingPlace, purchasingDate, purchasingPlace, name, pack, bbe, brewInfo,
+				aroma, appearance, taste, palate, overall, comments, "", "", 0);
 	}
 
 	private static int getAroma(String score) {
@@ -102,7 +98,7 @@ public class BeerRatingFileReader {
 				line = br.readLine();
 			}
 		} catch (IOException e) {
-			System.out.println("Exception: " + e);
+			LOG.error("Read file " + fileName + " failed: " + e);
 		}
 		return lines;
 	}

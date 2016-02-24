@@ -1,9 +1,13 @@
 package org.beer.app.converter;
 
-public class ConvertCases {
+public final class ConvertCases {
+
+	private ConvertCases() {
+	}
+
 	public static String convertToUpperCase(String line) {
 		String formattedLine;
-		StringBuffer sb = new StringBuffer();
+		StringBuilder sb = new StringBuilder();
 		formattedLine = line.replaceAll("pirkkala", "Pirkkala");
 		formattedLine = formattedLine.replaceAll("ruovesi", "Ruovesi");
 		formattedLine = formattedLine.replaceAll("konttori", "Konttori");

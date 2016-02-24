@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 public class EmbeddedHttpServer {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(EmbeddedHttpServer.class);
+	private static final Logger LOG = LoggerFactory.getLogger(EmbeddedHttpServer.class);
 
 	private Server jettyServer;
 

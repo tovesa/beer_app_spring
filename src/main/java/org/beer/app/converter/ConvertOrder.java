@@ -1,6 +1,9 @@
 package org.beer.app.converter;
 
-public class ConvertOrder {
+public final class ConvertOrder {
+
+	private ConvertOrder() {
+	}
 
 	public static String moveScore(String line) {
 		if (isScoreLastWord(line)) {

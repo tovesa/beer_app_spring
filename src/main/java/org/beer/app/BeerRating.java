@@ -12,7 +12,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class BeerRating {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRating.class);
+	private static final Logger LOG = LoggerFactory.getLogger(BeerRating.class);
 
 	private static final int COMMENTS_MIN_LENGTH = 30;
 	private String ratingDate;
@@ -61,24 +61,28 @@ public class BeerRating {
 			validateDates();
 		} catch (BeerValidationException e) {
 			errorMap.putAll(e.getErrorMap());
+			LOG.info("Invalid dates detected: " + e);
 		}
 
 		try {
 			validateScore();
 		} catch (BeerValidationException e) {
 			errorMap.putAll(e.getErrorMap());
+			LOG.info("Invalid score detected: " + e);
 		}
 
 		try {
 			validateComments();
 		} catch (BeerValidationException e) {
 			errorMap.putAll(e.getErrorMap());
+			LOG.info("Invalid comments detected: " + e);
 		}
 
 		try {
 			validateDateRbId();
 		} catch (BeerValidationException e) {
 			errorMap.putAll(e.getErrorMap());
+			LOG.info("Invalid RB id detected: " + e);
 		}
 
 		if (!errorMap.isEmpty()) {

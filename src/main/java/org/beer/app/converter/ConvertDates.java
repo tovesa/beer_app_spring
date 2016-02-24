@@ -3,7 +3,10 @@ package org.beer.app.converter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ConvertDates {
+public final class ConvertDates {
+
+	private ConvertDates() {
+	}
 
 	public static String formatDates(String line, String year) {
 		// d.m. --> yyyy-mm-dd
@@ -60,7 +63,6 @@ public class ConvertDates {
 		Pattern p = Pattern.compile("\\d{8}");
 		Matcher m = p.matcher(date);
 		StringBuffer sb = new StringBuffer();
-
 		while (m.find()) {
 			String text = m.group();
 			StringBuffer formattedDate = new StringBuffer();
@@ -72,8 +74,7 @@ public class ConvertDates {
 			m.appendReplacement(sb, formattedDate.toString());
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
 	}
 
 	/**
@@ -90,7 +91,6 @@ public class ConvertDates {
 		Pattern p = Pattern.compile("\\d{1,2}\\.\\d{1,2}\\.\\d{2,4}");
 		Matcher m = p.matcher(date);
 		StringBuffer sb = new StringBuffer();
-
 		while (m.find()) {
 			String text = m.group();
 			int firstDot = text.indexOf(".");
@@ -124,8 +124,7 @@ public class ConvertDates {
 			m.appendReplacement(sb, formattedDate.toString());
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
 	}
 
 	/**
@@ -170,8 +169,8 @@ public class ConvertDates {
 			m.appendReplacement(sb, formattedDate.toString());
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
+
 	}
 
 	/**
@@ -209,8 +208,7 @@ public class ConvertDates {
 			m.appendReplacement(sb, formattedDate.toString());
 		}
 		m.appendTail(sb);
-		String ret = sb.toString().replaceFirst("\\s+$", "");
-		return ret;
+		return sb.toString().replaceFirst("\\s+$", "");
 	}
 
 	public static String addDate(String previousDate, String line) {

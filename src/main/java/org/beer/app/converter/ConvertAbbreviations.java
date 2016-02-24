@@ -1,10 +1,13 @@
 package org.beer.app.converter;
 
-public class ConvertAbbreviations {
+public final class ConvertAbbreviations {
+
+	private ConvertAbbreviations() {
+	}
 
 	public static String replaceAbbreviations(String line) {
 		String formattedLine;
-		StringBuffer sb = new StringBuffer();
+		StringBuilder sb = new StringBuilder();
 		formattedLine = line.replaceAll("pla", "Pirkkala");
 		formattedLine = formattedLine.replaceAll("Naamat", "Kahdet Kasvot");
 		formattedLine = formattedLine.replaceAll(". Tuulensuu", ". Gastropub Tuulensuu");

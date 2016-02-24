@@ -14,11 +14,24 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class StopJettyHandler extends AbstractHandler {
-	protected static final transient Logger LOG = LoggerFactory.getLogger(StopJettyHandler.class);
+	protected static final Logger LOG = LoggerFactory.getLogger(StopJettyHandler.class);
 	protected Server server;
 
 	public StopJettyHandler(Server server) {
 		this.server = server;
+	}
+
+	@Override
+	public void handle(String target, Request baseRequest, HttpServletRequest request, HttpServletResponse response)
+			throws IOException, ServletException {
+		String pathInfo = request.getPathInfo();
+		LOG.debug("requestUri: " + request.getRequestURI());
+		LOG.debug("pathInfo: " + pathInfo);
+		if ("/stop".equals(pathInfo)) {
+			stopServer(response);
+			return;
+		}
+		// response.sendRedirect("http://ratebeer.com");
 	}
 
 	private boolean stopServer(HttpServletResponse response) throws IOException {
@@ -27,8 +40,17 @@ public class StopJettyHandler extends AbstractHandler {
 		response.setContentType("text/plain");
 		try (ServletOutputStream os = response.getOutputStream()) {
 			os.println("Shutting down.");
+		} catch (IOException e) {
+			LOG.error("Write response failed: " + e);
 		}
 		response.flushBuffer();
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		LOG.error("Try to stop now...");
 		try {
 			new Thread() {
 				@Override
@@ -41,25 +63,22 @@ public class StopJettyHandler extends AbstractHandler {
 					}
 				}
 			}.start();
+
+			// Runnable stopTask = () -> {
+			// try {
+			// StopJettyHandler.this.server.stop();
+			// LOG.debug("Jetty stopped.");
+			// } catch (Exception e) {
+			// LOG.error("Stop Jetty failed, exception: ", e);
+			// }
+			// };
+			//
+			// try {
+			// new Thread(stopTask).start();
 		} catch (Exception e) {
 			LOG.error("Stop Jetty failed, exception: ", e);
 			return false;
 		}
 		return true;
 	}
-
-	@Override
-	public void handle(String target, Request baseRequest, HttpServletRequest request, HttpServletResponse response)
-			throws IOException, ServletException {
-
-		String pathInfo = request.getPathInfo();
-		System.out.println(request.getRequestURI());
-		System.out.println(pathInfo);
-		if ("/stop".equals(pathInfo)) {
-			stopServer(response);
-			return;
-		}
-		// response.sendRedirect("http://ratebeer.com");
-	}
-
 }

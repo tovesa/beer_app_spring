@@ -5,17 +5,19 @@ import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class BeerRatingValidator {
+public final class BeerRatingValidator {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRatingValidator.class);
+	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingValidator.class);
+
+	private BeerRatingValidator() {
+	}
 
 	public static void validate(String line) {
 		// format: *rating date. *rating place. purchasing date.
 		// purchasing place. *name. *pack. bbe. brew info. *score. *description.
 		// * = mandatory
-		String ratingArray[] = null;
 		try {
-			ratingArray = BeerRatingFileUtil.tokenizeLine(line);
+			String[] ratingArray = BeerRatingFileUtil.tokenizeLine(line);
 			validateRatingDate(ratingArray[0]);
 			validateRatingPlace(ratingArray[1]);
 			validatePurchasingDate(ratingArray[2]);
@@ -29,6 +31,7 @@ public class BeerRatingValidator {
 		} catch (BeerValidationException e) {
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
 			LOG.error(fixedLengthErrorMessage + " Line: " + line);
+			LOG.debug("Validate failed: " + e);
 		}
 	}
 
@@ -52,13 +55,13 @@ public class BeerRatingValidator {
 	}
 
 	private static void validatePurchasingPlace(String s) throws BeerValidationException {
-		if (!s.matches("(.*){4,}") && !s.isEmpty()) {
+		if (!s.matches("(.*){6,}") && !s.isEmpty()) {
 			throw new BeerValidationException("Incorrect purchasing place: " + s);
 		}
 	}
 
 	private static void validateName(String s) throws BeerValidationException {
-		if (!s.matches("(.*){4,}")) {
+		if (!s.matches("(.*){3,}")) {
 			throw new BeerValidationException("Incorrect name: " + s);
 		}
 	}

@@ -2,9 +2,11 @@ package org.beer.app;
 
 import java.net.InetSocketAddress;
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import org.elasticsearch.action.bulk.BulkItemResponse;
 import org.elasticsearch.action.bulk.BulkResponse;
@@ -23,7 +25,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class EsClient implements DataStorageClient {
-	private static final transient Logger LOG = LoggerFactory.getLogger(EsClient.class);
+	private static final Logger LOG = LoggerFactory.getLogger(EsClient.class);
 
 	private static EsClient instance = new EsClient();
 
@@ -97,8 +99,7 @@ public class EsClient implements DataStorageClient {
 		if (LOG.isDebugEnabled()) {
 			logSearchResponse(response);
 		}
-		String beerRatings = getAutoSuggestionsAsJsonString(response);
-		return beerRatings;
+		return getAutoSuggestionsAsJsonString(response);
 	}
 
 	@Override
@@ -112,12 +113,17 @@ public class EsClient implements DataStorageClient {
 			logSearchResponse(response);
 		}
 
-		List<BeerRating> beerRatings = getBeerRatingsAsList(response);
-		return beerRatings;
+		if (response.getHits().getTotalHits() < 1) {
+			LOG.debug("No beer ratings matching the given searh criteria: field: {}, term: {}", searchField,
+					searchTerm);
+			return Collections.emptyList();
+		}
+
+		return getBeerRatingsAsList(response);
 	}
 
 	private static void validateSearchField(String searchField) throws BeerValidationException {
-		List<String> allowedValues = new ArrayList<>(Arrays.asList(EsSearchField.values().toString()));
+		List<String> allowedValues = Stream.of(EsSearchField.values()).map(Enum::name).collect(Collectors.toList());
 		if (!allowedValues.contains(searchField)) {
 			throw new BeerValidationException("Illegal search field: " + searchField);
 		}
@@ -128,9 +134,12 @@ public class EsClient implements DataStorageClient {
 		return null;
 	}
 
-	private List<BeerRating> getBeerRatingsAsList(SearchResponse response) {
-		// TODO Auto-generated method stub
-		return null;
+	private static List<BeerRating> getBeerRatingsAsList(SearchResponse response) {
+		List<BeerRating> beerRatingList = new ArrayList<>();
+		for (SearchHit hit : response.getHits().getHits()) {
+			beerRatingList.add(getBeerRating(hit));
+		}
+		return beerRatingList;
 	}
 
 	private String getBeerRatingsAsJsonString(SearchResponse response) {
@@ -148,15 +157,20 @@ public class EsClient implements DataStorageClient {
 
 	private static BeerRating getBeerRating(SearchHit hit) {
 		Map<String, Object> sourceAsMap = hit.getSource();
-		BeerRating beerRating = new BeerRating(sourceAsMap.get("ratingDate").toString(),
-				sourceAsMap.get("ratingPlace").toString(), "", "", sourceAsMap.get("name").toString(),
-				sourceAsMap.get("pack").toString(), "", "", Integer.parseInt(sourceAsMap.get("aroma").toString()),
+		return buildBeerRating(sourceAsMap);
+	}
+
+	private static BeerRating buildBeerRating(Map<String, Object> sourceAsMap) {
+		return new BeerRating(sourceAsMap.get("ratingDate").toString(), sourceAsMap.get("ratingPlace").toString(),
+				sourceAsMap.get("purchasingDate").toString(), sourceAsMap.get("purchasingPlace").toString(),
+				sourceAsMap.get("name").toString(), sourceAsMap.get("pack").toString(), "", "",
+				Integer.parseInt(sourceAsMap.get("aroma").toString()),
 				Integer.parseInt(sourceAsMap.get("appearance").toString()),
 				Integer.parseInt(sourceAsMap.get("taste").toString()),
 				Integer.parseInt(sourceAsMap.get("palate").toString()),
-				Integer.parseInt(sourceAsMap.get("overall").toString()), sourceAsMap.get("comments").toString(), "", "",
-				0);
-		return beerRating;
+				Integer.parseInt(sourceAsMap.get("overall").toString()), sourceAsMap.get("comments").toString(),
+				sourceAsMap.get("brewery").toString(), sourceAsMap.get("country").toString(),
+				Integer.parseInt(sourceAsMap.get("rbId").toString()));
 	}
 
 	private static void logIndexResponse(IndexResponse response) {
@@ -165,7 +179,7 @@ public class EsClient implements DataStorageClient {
 		LOG.debug("id:" + response.getId());
 		LOG.debug("type:" + response.getType());
 		LOG.debug("version:" + response.getVersion());
-		String operation = (response.isCreated()) ? "create" : "update";
+		String operation = response.isCreated() ? "create" : "update";
 		LOG.debug("operation:" + operation);
 	}
 
@@ -178,9 +192,7 @@ public class EsClient implements DataStorageClient {
 		if (object == null) {
 			return null;
 		}
-
-		String str = null;
-		str = object.toString();
+		String str = object.toString();
 		str = str.replaceAll("[\\[\\]]", "");
 		return str;
 	}
@@ -196,9 +208,8 @@ public class EsClient implements DataStorageClient {
 	}
 
 	private static Settings getTransportClientSettings() {
-		Settings settings = Settings.settingsBuilder().put("cluster.name", ES_CLUSTER_NAME)
-				.put("client.transport.sniff", true).build();
-		return settings;
+		return Settings.settingsBuilder().put("cluster.name", ES_CLUSTER_NAME).put("client.transport.sniff", true)
+				.build();
 	}
 
 	protected void initForIntegrationTest(String esSearchScrollExpiry1, String esSearchScrollSize1) {

@@ -1,5 +1,7 @@
 package org.beer.app;
 
+import static org.junit.Assert.assertEquals;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -42,6 +44,7 @@ public class TestBeerAppLocal {
 	public void testCreteBeerRatings() {
 		String inputFile = "src/main/resources/beers_converted_2.txt";
 		List<BeerRating> brList = getBeerRatings(inputFile);
+		verifyNumberOfCreatedBeerRatings(inputFile, brList);
 	}
 
 	@Test
@@ -59,6 +62,16 @@ public class TestBeerAppLocal {
 		for (BeerRating br : brList) {
 			System.out.println("Beer rating from ES:\n" + br.toString());
 		}
+	}
+
+	private void verifyNumberOfCreatedBeerRatings(String inputFile, List<BeerRating> brList) {
+		assertEquals(getNumberOfLines(inputFile), brList.size());
+
+	}
+
+	private int getNumberOfLines(String inputFile) {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 
 	private static List<BeerRating> getBeerRatings(String inputFile) {

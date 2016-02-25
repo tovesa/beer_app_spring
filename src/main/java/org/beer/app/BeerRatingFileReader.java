@@ -15,13 +15,16 @@ public class BeerRatingFileReader {
 
 	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingFileReader.class);
 
-	public List<BeerRating> readBeerRatingsFromFile(String file) {
+	private BeerRatingFileReader() {
+	}
+
+	public static List<BeerRating> readBeerRatingsFromFile(String file) {
 		List<String> lines = readFile(file);
 		removeCommentLines(lines);
 		return getBeerRatingsAsList(lines);
 	}
 
-	private static void removeCommentLines(List<String> lines) {
+	public static void removeCommentLines(List<String> lines) {
 		lines.removeIf(p -> p.startsWith("#"));
 	}
 

@@ -286,7 +286,7 @@ public class BeerRating {
 		this.bbe = bbe;
 	}
 
-	public String getGrewInfo() {
+	public String getBrewInfo() {
 		return this.brewInfo;
 	}
 
@@ -368,7 +368,7 @@ public class BeerRating {
 		sb.append(this.ratingPlace);
 		sb.append("\npurchasingPlace=");
 		sb.append(this.purchasingPlace);
-		sb.append("\npurchasingPlace=");
+		sb.append("\npurchasingDate=");
 		sb.append(this.purchasingDate);
 		sb.append("\nname=");
 		sb.append(this.name);

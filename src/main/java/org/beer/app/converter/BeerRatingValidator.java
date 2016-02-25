@@ -1,5 +1,8 @@
 package org.beer.app.converter;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+
 import org.beer.app.BeerRatingFileUtil;
 import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
@@ -12,7 +15,7 @@ public final class BeerRatingValidator {
 	private BeerRatingValidator() {
 	}
 
-	public static void validate(String line) {
+	public static boolean isValid(String line) {
 		// format: *rating date. *rating place. purchasing date.
 		// purchasing place. *name. *pack. bbe. brew info. *score. *description.
 		// * = mandatory
@@ -32,11 +35,13 @@ public final class BeerRatingValidator {
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
 			LOG.error(fixedLengthErrorMessage + " Line: " + line);
 			LOG.debug("Validate failed: " + e);
+			return false;
 		}
+		return true;
 	}
 
 	private static void validateRatingDate(String s) throws BeerValidationException {
-		if (!s.matches("^\\d{4}-\\d{2}-\\d{2}.*")) {
+		if (!isValidTimeStamp(s)) {
 			throw new BeerValidationException("Incorrect rating date: " + s);
 		}
 	}
@@ -49,7 +54,7 @@ public final class BeerRatingValidator {
 	}
 
 	private static void validatePurchasingDate(String s) throws BeerValidationException {
-		if (!s.matches("\\d{4}-\\d{2}-\\d{2}") && !s.isEmpty()) {
+		if (!isValidTimeStamp(s) && !s.isEmpty()) {
 			throw new BeerValidationException("Incorrect purchasing date: " + s);
 		}
 	}
@@ -98,4 +103,16 @@ public final class BeerRatingValidator {
 			throw new BeerValidationException("Incorrect description: " + s);
 		}
 	}
+
+	private static boolean isValidTimeStamp(String s) {
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+		sdf.setLenient(false);
+		try {
+			sdf.parse(s);
+			return true;
+		} catch (ParseException e) {
+			return false;
+		}
+	}
+
 }

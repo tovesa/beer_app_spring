@@ -2,12 +2,9 @@ package org.beer.app;
 
 import static org.junit.Assert.assertEquals;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.beer.app.converter.ConvertFile;
-import org.junit.After;
-import org.junit.Before;
 import org.junit.Test;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -16,14 +13,12 @@ public class TestBeerAppLocal {
 
 	private static EsClient esClient;
 
-	@Before
-	public void setUp() {
+	public void startEsClient() {
 		esClient = EsClient.getInstance();
 		esClient.start();
 	}
 
-	@After
-	public void tearDown() {
+	public void stopEsClient() {
 		esClient.stop();
 	}
 
@@ -41,43 +36,42 @@ public class TestBeerAppLocal {
 	}
 
 	@Test
-	public void testCreteBeerRatings() {
+	public void testCreateBeerRatings() {
 		String inputFile = "src/main/resources/beers_converted_2.txt";
-		List<BeerRating> brList = getBeerRatings(inputFile);
+		List<BeerRating> brList = BeerRatingFileReader.readBeerRatingsFromFile(inputFile);
 		verifyNumberOfCreatedBeerRatings(inputFile, brList);
 	}
 
 	@Test
 	public void testAddBeerRatingsToEs() throws JsonProcessingException {
+		startEsClient();
 		String inputFile = "src/main/resources/beers_converted_2.txt";
-		List<BeerRating> brList = getBeerRatings(inputFile);
+		List<BeerRating> brList = BeerRatingFileReader.readBeerRatingsFromFile(inputFile);
 		for (BeerRating br : brList) {
 			esClient.createBeerRating(br);
 		}
+		stopEsClient();
 	}
 
 	@Test
 	public void testGetBeerRatingsFromEs() throws BeerValidationException {
-		List<BeerRating> brList = esClient.getBeerRatings("name", "Siperia");
+		startEsClient();
+		List<BeerRating> brList = esClient.getBeerRatings("name", "Svaneke Skøre Elg");
 		for (BeerRating br : brList) {
 			System.out.println("Beer rating from ES:\n" + br.toString());
 		}
+		stopEsClient();
 	}
 
-	private void verifyNumberOfCreatedBeerRatings(String inputFile, List<BeerRating> brList) {
+	private static void verifyNumberOfCreatedBeerRatings(String inputFile, List<BeerRating> brList) {
 		assertEquals(getNumberOfLines(inputFile), brList.size());
 
 	}
 
-	private int getNumberOfLines(String inputFile) {
-		// TODO Auto-generated method stub
-		return 0;
+	private static int getNumberOfLines(String inputFile) {
+		List<String> lines = BeerRatingFileReader.readFile(inputFile);
+		BeerRatingFileReader.removeCommentLines(lines);
+		return lines.size();
 	}
 
-	private static List<BeerRating> getBeerRatings(String inputFile) {
-		List<BeerRating> brList = new ArrayList<>();
-		BeerRatingFileReader brReader = new BeerRatingFileReader();
-		brList = brReader.readBeerRatingsFromFile(inputFile);
-		return brList;
-	}
 }

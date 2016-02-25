@@ -29,8 +29,9 @@ public class ConvertFile {
 			}
 			formattedLine = ConvertPunctuationMarks.addEndingDot(formattedLine);
 			formattedLine = ConvertOrder.moveScore(formattedLine);
-			BeerRatingValidator.validate(formattedLine);
-			formattedLines.add(formattedLine);
+			if (BeerRatingValidator.isValid(formattedLine)) {
+				formattedLines.add(formattedLine);
+			}
 		}
 		return formattedLines;
 	}

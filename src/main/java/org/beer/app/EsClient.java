@@ -11,6 +11,7 @@ import java.util.stream.Stream;
 import org.elasticsearch.action.bulk.BulkItemResponse;
 import org.elasticsearch.action.bulk.BulkResponse;
 import org.elasticsearch.action.index.IndexResponse;
+import org.elasticsearch.action.search.SearchRequestBuilder;
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.action.search.SearchType;
 import org.elasticsearch.client.transport.TransportClient;
@@ -21,6 +22,7 @@ import org.elasticsearch.search.SearchHit;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -67,6 +69,7 @@ public class EsClient implements DataStorageClient {
 		this.transportClient = TransportClient.builder().settings(settings).build();
 		this.transportClient.addTransportAddress(new InetSocketTransportAddress(new InetSocketAddress(ES_IP, ES_PORT)));
 		this.objectMapper = new ObjectMapper();
+		this.objectMapper.setSerializationInclusion(Include.NON_EMPTY);
 		this.running = true;
 		LOG.debug("EsClient succesfully started.");
 	}
@@ -83,7 +86,6 @@ public class EsClient implements DataStorageClient {
 		String ratingAsJson = this.objectMapper.writeValueAsString(beerRating);
 		IndexResponse response = this.transportClient.prepareIndex(ES_INDEX, ES_TYPE_RATING).setSource(ratingAsJson)
 				.get();
-
 		if (LOG.isDebugEnabled()) {
 			logIndexResponse(response);
 		}
@@ -105,11 +107,14 @@ public class EsClient implements DataStorageClient {
 	@Override
 	public List<BeerRating> getBeerRatings(String searchField, String searchTerm) throws BeerValidationException {
 		validateSearchField(searchField);
-		SearchResponse response = this.transportClient.prepareSearch(ES_INDEX).setTypes(ES_TYPE_RATING)
-				.setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
-				.setQuery(QueryBuilders.termQuery(searchField, searchTerm)).execute().actionGet();
+		validateSearchTerm(searchTerm);
+
+		SearchRequestBuilder searchRequestBuilder = this.transportClient.prepareSearch(ES_INDEX)
+				.setTypes(ES_TYPE_RATING).setQuery(QueryBuilders.matchQuery(searchField, searchTerm));
+		SearchResponse response = searchRequestBuilder.execute().actionGet();
 
 		if (LOG.isDebugEnabled()) {
+			LOG.debug("Query:\n" + searchRequestBuilder.internalBuilder());
 			logSearchResponse(response);
 		}
 
@@ -118,8 +123,13 @@ public class EsClient implements DataStorageClient {
 					searchTerm);
 			return Collections.emptyList();
 		}
-
 		return getBeerRatingsAsList(response);
+	}
+
+	private static void validateSearchTerm(String searchTerm) throws BeerValidationException {
+		if (!searchTerm.matches("(.*){2,}")) {
+			throw new BeerValidationException("Illegal search term: " + searchTerm);
+		}
 	}
 
 	private static void validateSearchField(String searchField) throws BeerValidationException {
@@ -129,7 +139,7 @@ public class EsClient implements DataStorageClient {
 		}
 	}
 
-	private String getAutoSuggestionsAsJsonString(SearchResponse response) {
+	private static String getAutoSuggestionsAsJsonString(SearchResponse response) {
 		// TODO Auto-generated method stub
 		return null;
 	}

@@ -4,7 +4,7 @@
 
 2013-08-20. Pirkkala. 2013-08-17. Alko Kaleva. Svaneke Skøre Elg. Bottle 500ml. bbe 2014-07-29. . 647312. Black, khaki head Roasted malt, little bit sweetness, Dark chocolate Quite Dry.
 
-2013-08-22. Pirkkala. 2013-08-17. Alko Kaleva. Green Flash West Coast IPA (-2013). Bottle 355ml. bbe 2015-03-31. . 948315. Clear amber/orange color, off white head Fruity hops, Grape, grass Nice long lasting bitter finnish Reference wc ipa.
+2013-08-22. Pirkkala. 2013-08-17. Alko Kaleva. Green Flash West Coast IPA (-2013). Bottle 355ml. bbe 2015-03-31. . 948315. Clear amber/orange color, off white head Fruity hops, Grape, grass Nice long lasting bitter finnish Reference wc IPA.
 
 2013-08-22. Pirkkala. . Alko Arkadia. Ægir Ratatosk Double IPA. Bottle 500ml. . . 849314. Hazy Orange, off white head Berries, fruits, Pine, caramel, warming alcohol.
 
@@ -90,7 +90,7 @@
 
 2013-09-20. Gastropub Nordic. . . Kuninkaankartanon Jatsityttö. Draft. . . 436313. hazy Orange, white head Fruits, malt, Sweet and sour Bad Taste.
 
-2013-09-20. Gastropub Nordic. . . Nøgne Ø Mandarina ipa. Bottle 500ml. bbe 2015-06-27. #991 Brewed 2013-06-27. 837314. Hazy Orange, off white head, Lots of sediment Fruity hops, caramel, biscuit.
+2013-09-20. Gastropub Nordic. . . Nøgne Ø Mandarina IPA. Bottle 500ml. bbe 2015-06-27. #991 Brewed 2013-06-27. 837314. Hazy Orange, off white head, Lots of sediment Fruity hops, caramel, biscuit.
 
 2013-09-20. Gastropub Nordic. . . Nøgne Ø / Holgate half a world away. Bottle 500ml. . . 737313. hazy mahogny color, beige head Sweet, Grain, malt, berries.
 
@@ -270,7 +270,7 @@
 
 2013-10-19. Pikkulintu. . . Det Lille Bryggeri Barrel Aged Barley Wine. Bottle 250ml. . Bottled 2009. 849416. Dark brown beige head, Chocolate, oak barrel, Dark fruits, resin, oily, Med carbo.
 
-2013-10-25. Ruovesi. 2013-10-19. Alko arkadia. Lervig galaxy IPA. Bottle 330ml. bbe 2014-06-07. . 838315. Hazy Orange, off white head, aroma is Grape, fruity hops, malt, Flavor is Grape, citrus, crispy hops, One of the best Nordic ipas.
+2013-10-25. Ruovesi. 2013-10-19. Alko arkadia. Lervig Galaxy IPA. Bottle 330ml. bbe 2014-06-07. . 838315. Hazy Orange, off white head, aroma is Grape, fruity hops, malt, Flavor is Grape, citrus, crispy hops, One of the best Nordic IPAs.
 
 2013-10-25. Ruovesi. 2013-10-19. Alko arkadia. Bouleward Bully! Porter. Bottle 355ml. bbe 2013-11-06. Bottled 06/2014. 948315. Dark Brown, beige head, Aroma is Chocolate, roasted malt, Flavor is chocolate, licorice, cocoa, roasted malt, Med Body and carb.
 
@@ -308,7 +308,7 @@
 
 2013-11-02. Pirkkala. 2013-11-01. Alko Pirkkala. Litovel Sváteční Speciál 13°. Bottle 500ml. bbe 2014-10-01. . 525210. Clear Golden, Thin white head Aroma is malt, Grain, butter flavor is Sweet malt, Grass, aromatic hops, butter.
 
-2013-11-02. Pirkkala. 2013-11-01. K-citymarket Pirkkala. Lervig Lule Öl. Bottle 330ml. bbe 2014-09-24. . 636312. Deep clear, mahogny, off white head Aroma is Bread, malts Flavor is Bread, Sweet malt, Grain.
+2013-11-02. Pirkkala. 2013-11-01. K-citymarket Pirkkala. Lervig Jule Öl. Bottle 330ml. bbe 2014-09-24. . 636312. Deep clear, mahogny, off white head Aroma is Bread, malts Flavor is Bread, Sweet malt, Grain.
 
 2013-11-04. Pirkkala. 2013-10-19. Alko Arkadia. North Coast Old Stock ale. Bottle 355ml. . 2012 vintage. 848415. Deep mahogny color, Tan head Aroma is Dark fruits, resin, alcohol,caramel flavor is Dark fruits, malt, alcohol, Sweetness, mild hops Full Body, med To High carbonation.
 
@@ -354,13 +354,13 @@
 
 2013-11-14. Pirkkala. . Bierkompass. Siren Liquid mistress. Bottle 330ml. . . 848314. Dark Brown reddish Brown, Tan head Aroma is fruits, malt, hops Flavor is dried fruits, resin, Grape, caramel Butter finnish.
 
-2013-11-14. Pirkkala. 2013-11-14. Alko Koivistonkylä. Kasteel Winter. Bottle 330ml. bbe 2016-09-11. . 737313. Dark reddish Brown beige head Aroma is chocolate, Coffee, burnt Sugar flavor is Dark Chocolate, Coffee, caramel, Dark fruits Medium Body Too Much Chocolate for me.
+2013-11-14. Pirkkala. 2013-11-07. Alko Koivistonkylä. Kasteel Winter. Bottle 330ml. bbe 2016-09-11. . 737313. Dark reddish Brown beige head Aroma is chocolate, Coffee, burnt Sugar flavor is Dark Chocolate, Coffee, caramel, Dark fruits Medium Body Too Much Chocolate for me.
 
 2013-11-15. Ruovesi. 2013-11-14. K-citymarket Pirkkala. Nøgne Ø Julesnadder. Bottle 500ml. bbe 2015-09-09. 2013-09-09 #1026B. 646313. Dark Brown reddish color, beige head Aroma is Grain, mild roasted malts, flavor is roasted malt, Grain, light bitterness, Bread, hint of chocolate Smooth Mouth Feel, med carbonation.
 
-2013-11-15. Ruovesi. 2014-04-26. Prisma Koivistonkylä. Keo. Bottle 330ml. . . 42428. Light Yellow white head Sweet malt, corn, mild bitterness, Honey Med Body and carbo.
+2013-11-15. Ruovesi. 2013-11-07. Prisma Koivistonkylä. Keo. Bottle 330ml. 2014-04-26. . 42428. Light Yellow white head Sweet malt, corn, mild bitterness, Honey Med Body and carbo.
 
-2013-11-15. Ruovesi. 2013-11-14. Alko Koivistonkylä. Nøgne Ø Imperial Stout. Bottle 500ml. . . 849415. Pitch Black, Thin khaki head Aroma is Roasted malt, burnt Motor oil, flavor is roasted malt, Dark Chocolate, caramel, Coffee, mild bitterness, Full Body, Soft carbonation.
+2013-11-15. Ruovesi. 2013-11-07. Alko Koivistonkylä. Nøgne Ø Imperial Stout. Bottle 500ml. . . 849415. Pitch Black, Thin khaki head Aroma is Roasted malt, burnt Motor oil, flavor is roasted malt, Dark Chocolate, caramel, Coffee, mild bitterness, Full Body, Soft carbonation.
 
 2013-11-16. Ruovesi. . Bierkompass. Port brewing Anniversary Ale. Bottle 650ml. . Bottled 2013-04-25. 949416. Hazy Orange color, off white head Aroma is fruity hops, caramel, Grape, alcohol Flavor is Grape, fruits, piney hops, caramel Nice butter finnish Exellent Beer by Exellent brewery.
 
@@ -370,27 +370,27 @@
 
 2013-11-16. Ruovesi. 2013-11-16. Alko Ruovesi. Aecht Schlenkerla Eiche Doppelbock. Bottle 500ml. bbe 2014-04-30. . 838315. Clear Copper color, white head, aroma is Smoke, Wood Bacon flavor is smoke Wood, bacon, Sweet Notes, caramel.
 
-2013-11-17. Pirkkala. 2013-11-14. Alko Koivistonkylä. Erdinger schnerweise. Bottle 500ml. bbe 2014-09-30. . 636312. Hazy Golden Orange, white head Aroma is wheat, yeast, spices flavor is wheat, Banana, Pepper, Sweet fruits.
+2013-11-17. Pirkkala. 2013-11-07. Alko Koivistonkylä. Erdinger Schneeweise. Bottle 500ml. bbe 2014-09-30. . 636312. Hazy Golden Orange, white head Aroma is wheat, yeast, spices flavor is wheat, Banana, Pepper, Sweet fruits.
 
-2013-11-17. Pirkkala. 2013-11-14. Alko Koivistonkylä. Nøgne Ø Underlig Jul. Bottle 500ml. bbe 2013-11-15. #1008/1011D. 747414. Deep mahogny color, beige head Aroma is overhelming Christmas spices, mild roastiness flavor is mostly spices, mild roasted malts, chocolate Bit less spices and This would be good, Soft mouthfeel, strong carbonation.
+2013-11-17. Pirkkala. 2013-11-07 Alko Koivistonkylä. Nøgne Ø Underlig Jul. Bottle 500ml. bbe 2013-11-15. #1008/1011D. 747414. Deep mahogny color, beige head Aroma is overhelming Christmas spices, mild roastiness flavor is mostly spices, mild roasted malts, chocolate Bit less spices and This would be good, Soft mouthfeel, strong carbonation.
 
-2013-11-18. Pirkkala. 2013-11-14. Alko Koivistonkylä. Pirkkala Stallhagen Julbock. Bottle 500ml. bbe 2014-07-16. . 647313. Aroma is sit, roasted malt, chocolate Flavor, is roasted malt, Chocolate, Brown Sugar.
+2013-11-18. Pirkkala. 2013-11-07. Alko Koivistonkylä. Pirkkala Stallhagen Julbock. Bottle 500ml. bbe 2014-07-16. . 647313. Aroma is sit, roasted malt, chocolate Flavor, is roasted malt, Chocolate, Brown Sugar.
 
-2013-11-19. Pirkkala. 2013-11-14. K-citymarket Pirkkala. Lervig Winter ale. Bottle 330ml. bbe 2016-08-14. . 747313. Deep Amber color, quickly disappearing off white head Aroma is malt, alcohol, raisin, caramel flavor is malt, fruits, alcohol, caramel, mild bitterness.
+2013-11-19. Pirkkala. 2013-11-07. Alko Koivistonkylä. Lervig Brewers Reserve Winter Ale. Bottle 330ml. bbe 2016-08-14. . 747313. Deep Amber color, quickly disappearing off white head Aroma is malt, alcohol, raisin, caramel flavor is malt, fruits, alcohol, caramel, mild bitterness.
 
-2013-11-20. Pirkkala. 2013-11-14. Prisma Koivistonkylä. Pyynikki Ruby Jazz Ale. Bottle 330ml. bbe 2014-05-31. . 636313. Dark Brown, beige head Aroma is malt, hops, mild roastiness Flavor is fruits, malt, mild bitterness, mild roastiness With bit higher abv This Would be Much Better, One more Beer ruined by finnish alcohol regulation.
+2013-11-20. Pirkkala. 2013-11-07. Prisma Koivistonkylä. Pyynikki Ruby Jazz Ale. Bottle 330ml. bbe 2014-05-31. . 636313. Dark Brown, beige head Aroma is malt, hops, mild roastiness Flavor is fruits, malt, mild bitterness, mild roastiness With bit higher abv This Would be Much Better, One more Beer ruined by finnish alcohol regulation.
 
-2013-11-21. Pirkkala. 2013-11-14. Pisma Koivistonkylä. BrewDog Santa Paws. Bottle 330ml. bbe 2014-10-08. #236. 747314. Aroma Chocolate, Coffee, mild roasted Notes flavor is Chocolate, Coffee, malts Nice for such low abv.
+2013-11-21. Pirkkala. 2013-11-07. Prisma Koivistonkylä. BrewDog Santa Paws. Bottle 330ml. bbe 2014-10-08. #236. 747314. Aroma Chocolate, Coffee, mild roasted Notes flavor is Chocolate, Coffee, malts Nice for such low abv.
 
 2013-11-22. Pirkkala. 2013-11-22. Prisma Koivistonkylä. Beerhunters Huurupukki. Bottle 330ml. bbe 2014-04-30. . 636312. Pitch Black, beige head Aroma is roasted malt, Coffee, chocolate flavor is malt, mild roastiness, brown sugar, malt, chocolate med body and carbo.
 
-2013-11-22. Pirkkala. . Alko Kaleva. Fullers Vintage 2013. Bottle 500ml.  bbe 2023-12-31. no 037545. 737414. Deep Copper color, off white head Aroma is malt, caramel, dried fruits Flavor is malt, caramel, Sweet fruits, warming alcohol.
+2013-11-22. Pirkkala. 2013-11-07. Alko Koivistonkylä. Fullers Vintage 2013. Bottle 500ml.  bbe 2023-12-31. no 037545. 737414. Deep Copper color, off white head Aroma is malt, caramel, dried fruits Flavor is malt, caramel, Sweet fruits, warming alcohol.
 
 2013-11-22. Pirkkala. 2013-11-22. Alko Koivistonkylä. Tripel Karmeliet. Bottle 330ml. bbe 2015-10-01. . 838314. Clear Yellow color, thick white head Aroma is yeast, Sweet fruits, wheat, spices flavor is yeast, citrus, Sweet fruits, spicy notes High carbonation med Body.
 
 2013-11-23. Pirkkala. 2013-11-22. Alko Koivistonkylä. Fullers old Winter ale. Bottle 500ml. bbe 2014-10-09. . 737313. Clear Copper color, off white head Malt, caramel, coocies flavor is Sweet, malts, caramel, cookies, mild bitterrness.
 
-2013-11-24. Pirkkala. . Bierkompass. Siren Soundwave. Bottle 330ml. . . 938314. Cloudy Orange, off white head Aroma is Exotic fruits, caramel, Orange flavor is fruits, caramel, malt, grape Mild bitterness Nice Fresh ipa.
+2013-11-24. Pirkkala. . Bierkompass. Siren Soundwave. Bottle 330ml. . . 938314. Cloudy Orange, off white head Aroma is Exotic fruits, caramel, Orange flavor is fruits, caramel, malt, grape Mild bitterness Nice Fresh IPA.
 
 2013-11-24. Pirkkala. 2013-11-22. Alko Koivistonkylä. St Feuillien cuvee de Noel. Bottle 330ml. bbe 2015-07-27. . 848313. Deep Brown reddish color off white head Aroma is malt, spices, caramel, Brown Sugar flavor is cyrup, belgian yeast, Brown Sugar, Dark fruits High carbonation.
 
@@ -486,7 +486,7 @@
 
 2013-12-24. Ruovesi. . . Dougall’s 942 IPA. Bottle 330ml. . . 737314. hazy Orange, white head Fruits, malt, caramel, mild butter finnish.
 
-2013-12-25. Ruovesi. . . Moor Hoppiness. Bottle 660ml. bbe 2014-05-31. . 838315. hazy Orange, white head Grape, caramel, fruits, citrus, fruity hops Classic wc Style ipa.
+2013-12-25. Ruovesi. . . Moor Hoppiness. Bottle 660ml. bbe 2014-05-31. . 838315. hazy Orange, white head Grape, caramel, fruits, citrus, fruity hops Classic wc Style IPA.
 
 2013-12-25. Ruovesi. . System Bolaget. Mohawk Black Rocket Porter. Bottle 500ml. bbe 2015-09-15. . 848315. Dark Brown, Tan head, Coffee, Chocolate, mild roastiness.
 
@@ -550,7 +550,7 @@
 
 2014-01-04. Kahdet Kasvot. . . Dark star revelation. Draft. . . 636313. Hazy Amber color, off white head Aroma is fruits, hops, Grass flavor is Grass, hops, citrus malt Straightforward Apa.
 
-2014-01-04. Kahdet Kasvot. . . Elav techno double ipa. Bottle 330ml. bbe 2018-09-12. Oot 93/2013.  838314. Aroma is fruits, hops, booze, citrus flavor is malt, hops, citrus, mild Pepper, fruits Med Body, Good Beer.
+2014-01-04. Kahdet Kasvot. . . Elav techno double IPA. Bottle 330ml. bbe 2018-09-12. Oot 93/2013.  838314. Aroma is fruits, hops, booze, citrus flavor is malt, hops, citrus, mild Pepper, fruits Med Body, Good Beer.
 
 2014-01-04. Kahdet Kasvot. . . BrewDog Unleash The Yeast. Bottle 330ml. bbe 2014-10-10. #240. 738314. Clear Orange color, Thin white head Aroma is floral hops, malt, orange flavor is hops , malt, Grape, earth, Best Beer of This Serie.
 
@@ -744,7 +744,7 @@
 
 2014-03-13. Konttori. . . Emelisse Espresso Stout. Draft. . . 848415. Dark Brown off white head, aroma is Coffee, Dark chocolate, roasted malt, flsvor is chocolate,coffee, med Body, Nice smooth and silky mouthfeel.
 
-2014-03-13. Gastropub Nordic. . . Stallhagen ipa2. Draft. . . 627313. Clear Golden Orange offw white head Aroma is fruits,grape, malts Med Body and carbo.
+2014-03-13. Gastropub Nordic. . . Stallhagen IPA2. Draft. . . 627313. Clear Golden Orange offw white head Aroma is fruits,grape, malts Med Body and carbo.
 
 2014-03-14. Ruovesi. . Alko Kaleva. Hornbeer Caribbean Rumstout. Bottle 500ml. bbe 2022-02-04. . 949417. Pitch Black, beige head Aroma is mild roasted Notes, Coffee, Dark Chocolate, Oak barrel flavor is roasted malts, Coffee, mild Oak barrel Notes, chocolateNice silky moutfeel, Full Body, med carbonation.
 
@@ -830,13 +830,13 @@
 
 2014-04-13. Pirkkala. . . Nils Oscar Imperial Stout. Bottle 330ml. bbe 2015-09-30. 89473-03. 948315. Pitch Black, no head Aroma is licorice, roasted malt, Chocolate, aging flavor is roasted malt, Chocolate, coffee Nicely aged, Full Body, oily texture, Soft carbo.
 
-2014-04-14. Kahdet Kasvot. . . Epic Armageddon ipa. Bottle 330ml. . . 838315. Clear Golden color, white head Aroma is fruit, hops, pine, malts flavor is Sweet malt, Tropical fruits, citrus Rather malty caramelish med Body, med carbo
+2014-04-14. Kahdet Kasvot. . . Epic Armageddon IPA. Bottle 330ml. . . 838315. Clear Golden color, white head Aroma is fruit, hops, pine, malts flavor is Sweet malt, Tropical fruits, citrus Rather malty caramelish med Body, med carbo
 
 2014-04-14. Kahdet Kasvot. . . Lagunitas IPA. Draft. . . Clear Golden color, white head Aroma is Dull, Some fruits, malt, floral hops flavor is malt, mild hops, Grass, caramel Med Body, flat carbo, Disappointment. 637313.
 
 2014-04-14. Pirkkala. 2014-04-12. K-citymarket Pirkkala. Bavaria Lander Bräu Weissbeer. Bottle 330ml. bbe 2015-10-21. Bottled 2013-10-21. 635211. Cloudy Orange, white head Aroma is yeast, wheat, Banana flavor is wheat, Banana, Pepper, Thin Body, med carbo.
 
-2014-04-15. Pirkkala. 2014-04-12. K-citymarket Pirkkala. Pyynikin Kauppa ipa. Bottle 330ml. bbe 2014-10-31. Cloudy Yellow, white head Aroma is fruits, Sweet malt, Flavor is malt, Hay, mild citrus Not bitter at All. Watery med Body Soft carbo. 635212.
+2014-04-15. Pirkkala. 2014-04-12. K-citymarket Pirkkala. Pyynikin Kauppa IPA. Bottle 330ml. bbe 2014-10-31. Cloudy Yellow, white head Aroma is fruits, Sweet malt, Flavor is malt, Hay, mild citrus Not bitter at All. Watery med Body Soft carbo. 635212.
 
 2014-04-16. Pirkkala. 2014-04-12. K-citymarket Pirkkala. Fuller's Frontier. Bottle 330ml. bbe 2014-11-13. . Clear Yellow, white head Aroma is malt, Grass, citrus flavor is crisp, malt, floral Notes, mild hops Med Body and carbo. 626212.
 
@@ -874,7 +874,7 @@
 
 2014-04-23. Konttori. . . Coronado Idiot IPA. Bottle 355ml. . . Clear Golden Orange, white head Aroma is fruity/floral hops, alcohol, citrus, caramel flavor is malt, caramel, floral Notes, citrus mild hoppiness, Meb Body, med carbo. 738315.
 
-2014-04-23. Konttori. . . Lervig Voss Fandens ipa. Bottle 330ml. . . Dark Amber color, off white head Aroma is caramel, berries, hops, Pine flavor is caramel malt, fruits, mild hops Med Body and carbo. 737313.
+2014-04-23. Konttori. . . Lervig Voss Fandens IPA. Bottle 330ml. . . Dark Amber color, off white head Aroma is caramel, berries, hops, Pine flavor is caramel malt, fruits, mild hops Med Body and carbo. 737313.
 
 2014-04-25. Konttori. . . Crew 7:45 escalation. Bottle 330ml. bbe 2014-10-22. . hazy Orange, off white head Aroma is fruity, caramel, Pine flavor is Tropical fruits, caramel, malt, alcohol Med Body & Soft carbo. 838315.
 
@@ -1100,7 +1100,7 @@
 
 2014-07-01. Pirkkala. 2014-06-15. K-citymarket Pirkkala. Gypsy Inc Gyp Wit. Bottle 330ml. bbe 2015-09-25. . Cloudy Yellow, white head, Orange, Sweet malt, spices, wheat, med To Thin Body, med carbo. 736313.
 
-2014-07-04. Pirkkala. 2014-07-04. S-market Pirkkala. Thwaites indus ipa. Bottle 500ml. bbe 2015-05-31. . malt, cookies, floral Notes, perfume. 536311.
+2014-07-04. Pirkkala. 2014-07-04. S-market Pirkkala. Thwaites indus IPA. Bottle 500ml. bbe 2015-05-31. . malt, cookies, floral Notes, perfume. 536311.
 
 2014-07-04. Pirkkala. 2014-06-15. K-citymarket Pirkkala. Little Walley Vanilla Porter. Bottle 500ml. bbe 2016-05-31. 14072. Dark brown, Tan head, roasted malt, caramel, Vanilla. 637313.
 
@@ -1242,7 +1242,7 @@
 
 2014-08-14. Gastropub Nordic. . . Ruosniemen Sourniemen Sourstuot. Draft. . . dark Brown, beige head, flavor is really sour, some chocolate, and caramel, cherries aroma is caramel, chocolate Weird but good med body and carbo. 737313.
 
-2014-08-14. Konttori. . . Widmer Upheaval ipa. Bottle 355ml.  bbe 2015-06-30. Bottled 2014-04-01. cloudy Golden orange, white head, Tropical fruits, caramel malt, hops, orange, citrus Seems to be quite fresh bottle, Nice one med body and carbo. 838315.
+2014-08-14. Konttori. . . Widmer Upheaval IPA. Bottle 355ml.  bbe 2015-06-30. Bottled 2014-04-01. cloudy Golden orange, white head, Tropical fruits, caramel malt, hops, orange, citrus Seems to be quite fresh bottle, Nice one med body and carbo. 838315.
 
 2014-08-14. Konttori. . . Mission IPA. Bottle 355ml. . . 737314. Clear yellow, white head, fruits, hops, caramel malt, resin, bit too sweet.
 
@@ -1390,9 +1390,9 @@
 
 2014-10-11. Pirkkala. 2014-10-10. Alko Koivistonkylä. Laitilan Kievari Tuomas Saison (2014). Bottle 330ml. bbe 2015-09-22. . Cloudy golden orange, off white head Wheat, yeast, spices, Very much like hefe med bc. 637312.
 
-2014-10-11. Pirkkala. . Bier Deluxe.  Braukunst Keller Laguna ipa. Bottle 330ml. bbe 2015-03-23. . Hazy orange, off white head Tropical fruits, orange, citrus, hops, pine, caramel, malts med bc. 838315.
+2014-10-11. Pirkkala. . Bier Deluxe.  Braukunst Keller Laguna IPA. Bottle 330ml. bbe 2015-03-23. . Hazy orange, off white head Tropical fruits, orange, citrus, hops, pine, caramel, malts med bc. 838315.
 
-2014-10-12. Pirkkala. . Bier Deluxe. Braukunst Keller Mandarina ipa. Bottle 330ml. bbe 2015-04-23. . Cloudy Yellow, thin white head Hops, caramel malt, tropical fruits, orange, citrus Med bc, Long bitter finnish. 738314.
+2014-10-12. Pirkkala. . Bier Deluxe. Braukunst Keller Mandarina IPA. Bottle 330ml. bbe 2015-04-23. . Cloudy Yellow, thin white head Hops, caramel malt, tropical fruits, orange, citrus Med bc, Long bitter finnish. 738314.
 
 2014-10-12. Pirkkala. 2015-10-11. Alko turtola. Moa Methode Pilsener. Bottle 330ml. bbe 2015-04-05. . Cloudy yellow,foamy white head Citrus, malts, fruits Nice bitter and refresing pilsrner med b, high c. 637314.
 
@@ -1402,7 +1402,7 @@
 
 2014-10-14. Pirkkala. . Bier Deluxe. Schönramer India Pale Ale. Bottle 330ml. bbe 2015-03-27. .  838315. Clear golden orange, off white head Fruity hops, citrus, pine, malts, caramel Nice bitter finnishh med bc.
 
-2014-10-16. Konttori. . . Tiny Rebel Urban ipa. Bottle 330ml. bbe 2015-05-31. oot 355/356. Cloudy golden orange, off white head, malts, citrus, hops, fruits, med body, high carbo. 838314.
+2014-10-16. Konttori. . . Tiny Rebel Urban IPA. Bottle 330ml. bbe 2015-05-31. oot 355/356. Cloudy golden orange, off white head, malts, citrus, hops, fruits, med body, high carbo. 838314.
 
 2014-10-16. Konttori. . . Thornbridge Chiron. Bottle 500ml. bbe 2015-04-03. . Cloudy golden color, white head Malts, mild fruity hops, citrus, caramel, Med bc. 837314.
 
@@ -1412,7 +1412,7 @@
 
 2014-10-17. Pirkkala. . Bier Deluxe. Brewfist Low Gravity Saison. Bottle 330ml. bbe 2015-07-15. . cloudy yellow, white head, yeast, citrus, spices, bit watery, med to light body, med carbo. 837313.
 
-2014-10-17. Pirkkala. . Bier Deluxe. Camba Imperial Black ipa. Bottle 330ml. bbe 2015-03-04. . Pitch black, beige head, heavy roastiness, hops, grape, fruits, licorice, burnt notes. 848315.
+2014-10-17. Pirkkala. . Bier Deluxe. Camba Imperial Black IPA. Bottle 330ml. bbe 2015-03-04. . Pitch black, beige head, heavy roastiness, hops, grape, fruits, licorice, burnt notes. 848315.
 
 2014-10-18. Ukkometso. . . Närke Rainbow Warrior. Draft. . . cloudy golden orange, off white head, floral hops, tropical fruits, perfume in aroma, caramel malt, med bc, Bitter finnish. 637313.
 
@@ -1420,7 +1420,7 @@
 
 2014-10-18. Pirkkala. . Alko Stockmann. Theakston Old Peculier. Bottle 500ml. bbe 2015-05-30. . dark Brown reddish, beige head, Brown sugar, dried fruits, sweet caramel, anis, smooth palate, med to soft carbo. 637313.
 
-2014-10-19. Pirkkala. . Bier Deluxe. Hopfenstopfer Comet ipa. Bottle 330ml. bbe 2015-01-14. . cloudy golden, thick and foamy white head, fruits, orange, citrus, hops, malts, med body, med carbo, bitter finnish. 738314.
+2014-10-19. Pirkkala. . Bier Deluxe. Hopfenstopfer Comet IPA. Bottle 330ml. bbe 2015-01-14. . cloudy golden, thick and foamy white head, fruits, orange, citrus, hops, malts, med body, med carbo, bitter finnish. 738314.
 
 2014-10-21. Konttori. . . Ballast Point Victory at Sea. Bottle 650ml. . . almost black, beige head, strong coffee in aroma, roasted, malt, caramel, med bc. 949415.
 
@@ -1454,7 +1454,7 @@
 
 2014-10-24. Olutexpo 2014. . . Elav Humulus. Draft. . . dark Brown thick beige head, hops, fruits, chocolate, roasted malts, med b flat carbo, some problems with keg. 847314.
 
-2014-10-24. Olutexpo 2014. . . Bad Attitude / Nøgne Ø White ipa. Bottle 330ml. . . cloudy yellow, white head, citrus, tropical fruits, hops, meb bc. 738314.
+2014-10-24. Olutexpo 2014. . . Bad Attitude / Nøgne Ø White IPA. Bottle 330ml. . . cloudy yellow, white head, citrus, tropical fruits, hops, meb bc. 738314.
 
 2014-10-24. Olutexpo 2014. . . Hiisi Pint Please. Draft. . . cloudy orange, thin off white head, caramel malts, faint hops, citrus, grass, med bc. 737314.
 
@@ -1882,7 +1882,7 @@
 
 2015-02-04. Pirkkala. 2015-02-03. Alko Pirkkala. Prykmestar SavuVehnä. Bottle 500ml. bbe 2015-09-08. . 838314. Hazy Brown, foamy off white head, smoke, Wood, mild wheaty notes, spices, smoke is quite dominating, med b, high carbonation.
 
-2015-02-04. Pirkkala. 2015-02-03. Alko Pirkkala. Hiisi Aarni. Bottle 330ml. bbe 2016-09-30. . 737314. Clear copper, off white head, grainy malts, caramel, toffee, grape, hops, med bc, english kind of ipa.
+2015-02-04. Pirkkala. 2015-02-03. Alko Pirkkala. Hiisi Aarni. Bottle 330ml. bbe 2016-09-30. . 737314. Clear copper, off white head, grainy malts, caramel, toffee, grape, hops, med bc, english kind of IPA.
 
 2015-02-05. Pirkkala. 2015-02-03. Alko Pirkkala. Lammin Kotka Olut. Bottle 330ml. bbe 2015-08-31. . 636312. Cloudy Brown reddish, off white head, sweet malts, grain, bread, mild bitterness, med bc, not so pleasant.
 
@@ -2568,7 +2568,7 @@
 
 2015-06-12. Konttori. . . Ghost Brewing Copper Rose APA. Bottle 330ml. bbe 2017-01-01. batch #19. 737313. hazy orange off white head lots of partiles, hops malts fruits med bc.
 
-2015-06-12. Konttori. . . Del Ducato Freeride West Coast ipa. Bottle 330ml. bbe 2015-12-31. lot 336 14. 736313. hazy orange white head fruits malts grape bit harsh flavor med bc.
+2015-06-12. Konttori. . . Del Ducato Freeride West Coast IPA. Bottle 330ml. bbe 2015-12-31. lot 336 14. 736313. hazy orange white head fruits malts grape bit harsh flavor med bc.
 
 2015-06-12. Konttori. . . Ghost Brewing Darkest Moon. Bottle 330ml. bbe 2020-01-01. #15. 748314. dark brown beige head chocolate roasted malts licorice full body oily texture med c.
 
@@ -2644,7 +2644,7 @@
 
 2015-07-01. Gastropub Nordic. . . To Øl Rödgröd Med Flöde. Draft. . . 637314. hazy brown red tan head fruits sour red berries strawberries black currant malts caramel med body med carbo soft palate.
 
-2015-07-01. Oluthuone Pekko. . . Henricus Paljas ipa. Bottle 330ml. . . 637313. cloudy golden orange off white head caramel malts fruits pine hops med bc.
+2015-07-01. Oluthuone Pekko. . . Henricus Paljas IPA. Bottle 330ml. . . 637313. cloudy golden orange off white head caramel malts fruits pine hops med bc.
 
 2015-07-02. Ukkometso. . . Hiisi Blondi (as kynnys). Draft. . . 737314. cloudy golden orange thin white head crispy malts grass hops citrus med bc nice refreshing ale.
 
@@ -2698,7 +2698,7 @@
 
 2015-07-18. Kultainen Apina. . . Mikkeller Beer Geek Dessert. Bottle 330ml. . . 848415. dark brown beige head roasted malts dark chocolate cocoa burnt coffee full oily body med carbo bitter burnt finnish
 
-2015-07-18. Kultainen Apina. . . Lervig Oat ipa. Bottle 330ml. . . 738314. hazy yellow white head tangy tropical fruits (typical Nelson flavor) grape white wines wheaty notws med bc.
+2015-07-18. Kultainen Apina. . . Lervig Oat IPA. Bottle 330ml. . . 738314. hazy yellow white head tangy tropical fruits (typical Nelson flavor) grape white wines wheaty notws med bc.
 
 2015-07-18. Kultainen Apina. . . Radbrew Wasteland Oasis. Draft. . . 737313. hazy yellow white head wheat yeast fruity hops thin body med to high carbo.
 
@@ -2844,7 +2844,7 @@
 
 2015-08-09. Konttori. . . Victory Prima Pils. Draft. . . 737314. cloudy golden white head crispy malts hops citrus med bc.
 
-2015-08-09. Konttori. . . Lervig oat IPA. Draft. . . 838315. hazy yellow white head hops citrus malts grape fresh fruits med bc.
+2015-08-09. Konttori. . . Lervig Oat IPA. Draft. . . 838315. hazy yellow white head hops citrus malts grape fresh fruits med bc.
 
 2015-08-09. Pirkkala. 2015-08-09. K-citymarket Pirkkala. Fam Ølgaard Pilsner. Bottle 500ml. bbe 2016-03-02. . 635312. hazy yellow white head sweet malts hops light citrus med bc.
 
@@ -2894,7 +2894,7 @@
 
 2015-08-28. Gastropub Tuulensuu. . . Het Uiltje Meneer de Uil (Clynelish BA). Bottle 330ml. . Bottled 2015-03. 849416. pitch black thin beige head roasted malts barrel aging full body med carbo.
 
-2015-08-28. Gastropub Tuulensuu. . . 7 De Hemel Vision Black ipa. Bottle 330ml. . . 647313. pitch Black beige head roasted malts med bc.
+2015-08-28. Gastropub Tuulensuu. . . 7 De Hemel Vision Black IPA. Bottle 330ml. . . 647313. pitch Black beige head roasted malts med bc.
 
 2015-08-28. Gastropub Tuulensuu. . . Snab maelstrom. Bottle 330ml. . . 647313. hazy amber off white head sweet fruits malts alcohol berries hops full body med carbo.
 
@@ -2988,7 +2988,7 @@
 
 2015-10-04. Pirkkala. 2015-09-12. Alko Kaleva. Ruosniemen Diplomi Insinööri. Bottle 330ml. bbe 2016-03-31. . 738314. cloudy golden white head malts grape floral hops some vegetables med bc bitter Finnish.
 
-2015-10-06. Konttori. . . Põhjala Boneyard Baltic notorious ipa3. Draft. . . 939416. cloudy orange off white head tropical fruits hops grapefruit booze caramel malts full body soft texture, best IPA for long time.
+2015-10-06. Konttori. . . Põhjala Boneyard Baltic notorious IPA3. Draft. . . 939416. cloudy orange off white head tropical fruits hops grapefruit booze caramel malts full body soft texture, best IPA for long time.
 
 2015-10-06. Konttori. . . Sierra Nevada Hop Hunter. Bottle 330ml. . Bottled 2015-04-28. 738315. clear yellow white head citrus malts fresh hops fresh fruits med bc.
 
@@ -3182,7 +3182,7 @@
 
 2015-10-24. Black Door. . . Prairie birra farmhouse. Draft. . . 737314. cloudy yellow white head malts yeast orange mac.
 
-2015-10-24. Black Door. . . Borg Bryghus Leifur. Draft. . . 737314. fresh hops malts fruits citrus mac.
+2015-10-24. Black Door. . . Borg Bryghus Leifur Nr 32. Draft. . . 737314. fresh hops malts fruits citrus mac.
 
 2015-10-25. Pirkkala. 2015-10-24. Alko Arkadia. Founders Curmudgeon. Bottle 355ml. . . 738314. Deep copper off white head malts sugar dark fruits wood mild hops alcohol Full body.
 
@@ -3230,7 +3230,7 @@
 
 2015-11-06. Pirkkala. . Bierkompass. Mikkeller Foret de troncais toasted. Bottle 375ml. . . 938415. Hazy orange off white head dried fruits tangy wineous notes warming alcohol sugar full body med c.
 
-2015-11-07. Pirkkala. 2015-11-07. Alko Kaleva. Nøgne Ø Gud Jul. Bottle 500ml. bbe 2019-07-23. Brewed 2015-07-23 #1483. 848315. dark brown beige head hops roasted malts licorice chocolate med bc bitter Finnish totally different than previous batch tasted reminds me a lot of black ipa.
+2015-11-07. Pirkkala. 2015-11-07. Alko Kaleva. Nøgne Ø Gud Jul. Bottle 500ml. bbe 2019-07-23. Brewed 2015-07-23 #1483. 848315. dark brown beige head hops roasted malts licorice chocolate med bc bitter Finnish totally different than previous batch tasted reminds me a lot of black IPA.
 
 2015-11-07. Pirkkala. 2015-11-07. Alko Kaleva. Maredsous Triple. Bottle 330ml. bbe 2017-06-30. . 737314. clear golden off white head malts yeast wheat orange med bc.
 
@@ -3382,7 +3382,7 @@
 
 2015-12-11. Kultainen Apina. . . Thornbridge Tonttu. Draft. . . 738314. clear golden orange off white head fresh fruityness hops citrus pine malts med bc.
 
-2015-12-11. Kultainen Apina. . . Borg Brugghus Ulfur no 3. Draft. . . 737314. clear golden orange off white head floral hops citrus crispy malts grape med bc bitter Finnish.
+2015-12-11. Kultainen Apina. . . Borg Brugghus Ulfur Nr 3. Draft. . . 737314. clear golden orange off white head floral hops citrus crispy malts grape med bc bitter Finnish.
 
 2015-12-11. Kultainen Apina. . . Lagunitas Sucs Holaday Ale Brown Shugga Substitute. Bottle 355ml. . . 738315. cloudy golden white head sweet tropical fruits citrus hops med body med carbo bitter Finnish.
 

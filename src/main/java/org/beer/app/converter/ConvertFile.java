@@ -8,6 +8,9 @@ import org.beer.app.BeerRatingFileWriter;
 
 public class ConvertFile {
 
+	private ConvertFile() {
+	}
+
 	public static void convert(String inputFile, String outputFile) {
 		List<String> lines = BeerRatingFileReader.readFile(inputFile);
 		removeEmptyLines(lines);
@@ -29,6 +32,7 @@ public class ConvertFile {
 			}
 			formattedLine = ConvertPunctuationMarks.addEndingDot(formattedLine);
 			formattedLine = ConvertOrder.moveScore(formattedLine);
+			formattedLine = ConvertPunctuationMarks.dotsToSemicolons(formattedLine);
 			if (BeerRatingValidator.isValid(formattedLine)) {
 				formattedLines.add(formattedLine);
 			}

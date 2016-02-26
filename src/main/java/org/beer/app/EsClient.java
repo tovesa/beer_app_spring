@@ -87,7 +87,7 @@ public class EsClient implements DataStorageClient {
 		IndexResponse response = this.transportClient.prepareIndex(ES_INDEX, ES_TYPE_RATING).setSource(ratingAsJson)
 				.get();
 		if (LOG.isDebugEnabled()) {
-			logIndexResponse(response);
+			// logIndexResponse(response);
 		}
 	}
 

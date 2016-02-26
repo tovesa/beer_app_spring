@@ -1,0 +1,169 @@
+
+GET _cat/indices?v
+
+GET beer-rating/_mapping/rating
+
+GET beer-rating/_analyze?analyzer=my_autocomplete&text=Kissmeyer West Coast Pale Ale
+
+GET beer-rating/_analyze?field=rating.name&text=Kissmeyer West Coast Pale Ale
+
+GET _search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+
+PUT /_cluster/settings
+{
+    "transient" : {
+        "logger._root" : "DEBUG"
+    }
+}
+
+GET beer-rating/rating/_search
+{
+  "query": {
+    "match": {
+      "name": "Svaneke American Pale Ale"
+    }
+  }
+}
+
+GET beer-rating/rating/_search
+{
+  "query": {
+    "match": {
+      "name.autocomplete": "Svan"
+    }
+  }
+}
+
+GET beer-rating/rating/_validate/query?explain
+{
+  "query": {
+    "match": {
+      "name": "Svaneke American Pale Ale"
+    }
+  }
+}
+
+GET beer-rating/rating/_search
+{
+  "query" : {
+    "term" : {
+      "name" : "Svaneke Skøre Elg"
+    }
+  }
+}
+
+GET beer-rating/rating/_search
+{
+  "query": {
+    "match": {
+      "ratingPlace": "Pirkkala"
+    }
+  }
+}
+
+DELETE beer-rating
+
+PUT beer-rating
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "analysis": {
+      "filter": {
+        "my_edgengram_filter": {
+          "type": "edge_ngram",
+          "min_gram": "2",
+          "max_gram": "10"
+        }
+      },
+      "analyzer": {
+        "my_autocomplete": {
+          "type":"custom",
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "stop",
+            "kstem",
+            "my_edgengram_filter"
+          ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "rating": {
+      "properties": {
+        "appearance": {
+          "type": "long"
+        },
+        "aroma": {
+          "type": "long"
+        },
+        "bbe": {
+          "type": "string"
+        },
+        "brewery": {
+          "type": "string"
+        },
+        "brewInfo": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "name": {
+          "type": "multi_field",
+          "fields":{
+            "name":{
+              "type": "string",
+              "index": "not_analyzed"
+            },
+            "autocomplete":{
+              "type": "string", 
+              "analyzer": "my_autocomplete",
+              "search_analyzer": "standard"
+            }
+          }
+        },
+        "notes": {
+          "type": "string"
+        },
+        "overall": {
+          "type": "long"
+        },
+        "pack": {
+          "type": "string"
+        },
+        "palate": {
+          "type": "long"
+        },
+        "purchasingDate": {
+          "type": "date",
+          "format": "strict_date_optional_time||epoch_millis"
+        },
+        "purchasingPlace": {
+          "type": "string"
+        },
+        "ratingDate": {
+          "type": "date",
+          "format": "strict_date_optional_time||epoch_millis"
+        },
+        "ratingPlace": {
+          "type": "string"
+        },
+        "rbId": {
+          "type": "long"
+        },
+        "taste": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}
+

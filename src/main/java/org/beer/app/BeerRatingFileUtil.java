@@ -2,18 +2,18 @@ package org.beer.app;
 
 public class BeerRatingFileUtil {
 	public static String[] tokenizeLine(String line) throws BeerValidationException {
-		validateNumberDots(line);
+		validateNumberOfSemicolons(line);
 		String[] ratingArray;
-		ratingArray = line.split("\\.");
+		ratingArray = line.split(";");
 		stripLeadingWhitespace(ratingArray);
 		// printToConsole(ratingArray);
 		return ratingArray;
 	}
 
-	private static void validateNumberDots(String line) throws BeerValidationException {
-		int count = line.length() - line.replace(".", "").length();
+	private static void validateNumberOfSemicolons(String line) throws BeerValidationException {
+		int count = line.length() - line.replace(";", "").length();
 		if (count != 10) {
-			throw new BeerValidationException("Wrong number of dots: " + count);
+			throw new BeerValidationException("Wrong number of semicolons: " + count);
 		}
 	}
 

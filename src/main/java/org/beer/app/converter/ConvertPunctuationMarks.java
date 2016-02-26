@@ -40,6 +40,13 @@ public final class ConvertPunctuationMarks {
 		return formattedLine;
 	}
 
+	public static String dotsToSemicolons(String line) {
+		String formattedLine = line.replaceAll("\\. ", ";");
+		formattedLine = formattedLine.replaceAll("\\.", ";");
+		return formattedLine;
+
+	}
+
 	private static String addDotAfterDate(String line) {
 		Pattern p = Pattern.compile("\\d{4}-\\d{2}-\\d{2}");
 		Matcher m = p.matcher(line);
@@ -95,4 +102,5 @@ public final class ConvertPunctuationMarks {
 		m.appendTail(sb);
 		return sb.toString().replaceFirst("\\s+$", "");
 	}
+
 }

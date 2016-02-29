@@ -24,13 +24,7 @@ public class BeerApp {
 			LOG.info("Start BeerApp failed, exception: ", e);
 		} catch (Exception e) {
 			LOG.error("Start BeerApp failed, exception: ", e);
-			stop();
 		}
 
-	}
-
-	public void stop() {
-		this.httpServer.stop();
-		LOG.debug("BeerApp stopped");
 	}
 }

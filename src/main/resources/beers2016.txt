@@ -140,7 +140,7 @@
 
 2013-09-29. Pirkkala. 2013-09-24. K-citymarket Pirkkala. Mufloni IPA. Bottle 330ml. bbe 2014-03-31. . 636312. Cloudy Copper color, khaki head Floral hops, grass, reminds english bitters Harsh Bitter finnish.
 
-2013-09-30. Pirkkala. . Bierzwerg. Fritz Ale Extra Special Bitter. Bottle 330ml. bbe 2014-03-31. . 737314. Cloudy Golden Orange color, off white head More Like apa Grassy hops, citrus, malts Long bitter finnish.
+2013-09-30. Pirkkala. . Bierkompass. Fritz Ale Extra Special Bitter. Bottle 330ml. bbe 2014-03-31. . 737314. Cloudy Golden Orange color, off white head More Like apa Grassy hops, citrus, malts Long bitter finnish.
 
 2013-10-01. Pirkkala. . Bierkompass. Mikkeller Beer Hop Breakfast. Bottle 330ml. . . 848314. by Lervig, Black With beige head Strong Coffee in aroma and flavor, fruits, hops, mild roastiness, Grape, licorice, Full Body, smooth carbonation Good but not one of My Favorite bipas.
 
@@ -460,7 +460,7 @@
 
 2013-12-20. Pirkkala. . Bierkompass. Evil twin falco. Bottle 330ml. bbe 2013-10-07. . 838314. Clear Yellow, white head Aroma Grass, citrus, Tropical fruits Flavor is hops, fruits, crisp malt, grape Bitter finnish.
 
-2013-12-21. Pirkkala. . Bier Temple. Struise Pannepot. Bottle 330ml. . 2007 version. 848415. Dark Brown beige head Aroma is malt, Brown Sugar, cyrup, aging, Flavor, mild roastiness, Brown Sugar, chocolate,nice smooth mouthfeel.
+2013-12-21. Pirkkala. 2009-06-22. Bier Temple. Struise Pannepot. Bottle 330ml. bbe 2013-08-30. 2007 version. 848415. Dark Brown beige head Aroma is malt, Brown Sugar, cyrup, aging, Flavor, mild roastiness, Brown Sugar, chocolate,nice smooth mouthfeel.
 
 2013-12-21. Pirkkala. . Bierkompass. Mikkeller Amass West Coast IPA. Bottle 750ml. bbe 2015-08-18. . 848315. Cloudy Orange, off white head Aroma is fruity hops, citrus, Pine Flavor is Grape, Grass, Pine, fruits Classic wc IPA bit Straight forward.
 
@@ -492,7 +492,7 @@
 
 2013-12-26. Ruovesi. . System Bolaget. Djaevlebrygg son of nekron. Bottle 500ml. . Bottled 08-2013. 838315. Pitch Black beige head Salty licorice, Smoke, Chocolate, Chocolate.
 
-2013-12-26. Ruovesi. . Bierkompass. Struise Arabier. Bottle 330ml. . . 838314. cloudy Orange, off white head Sour Notes, sweetness, yeast, apricot, HIGH CARBO.
+2013-12-26. Ruovesi. . Bierkompass. De Dolle Arabier. Bottle 330ml. . . 838314. cloudy Orange, off white head Sour Notes, sweetness, yeast, apricot, HIGH CARBO.
 
 2013-12-27. Pirkkala. 2013-12-23. K-citymarket Pirkkala. Mountain Goat Steam ale. Bottle 330ml. bbe 2014-05-24. . 726212. Light Yellow, white head Aroma is lemon, malt, hops Flavor is mild citrus, Grain, hops.
 
@@ -722,7 +722,7 @@
 
 2014-03-07. Ruovesi. 2014-03-06. K-citymarket Pirkkala. Emelisse Saison. Bottle 330ml. bbe 2014-12-31. . 637313. Hazy yellow/orange, white head Aroma is yeast, fruits, citrus flavor is yeast, spices, grape, mild bitterness, Medium Body, High carbonation.
 
-2014-03-07. Ruovesi. . Bierzwerg. Cuvee van de Keizer Bleue. Bottle 750ml. bbe 2022-10-08. 2012 version. 838415. Deep dark reddish brown, tan head Aroma is dark fruits, brown sugar, chocolate flavor is sweet, chocolate, dark fruits Full body, nice mouth feel, med carbonation.
+2014-03-07. Ruovesi. 2012-11-12. Bierzwerg. Cuvee van de Keizer Bleue. Bottle 750ml. bbe 2022-10-08. 2012 version. 838415. Deep dark reddish brown, tan head Aroma is dark fruits, brown sugar, chocolate flavor is sweet, chocolate, dark fruits Full body, nice mouth feel, med carbonation.
 
 2014-03-08. Ruovesi. 2014-03-08. Alko Ruovesi. Luostari Dubbel. Bottle 330ml. bbe 2014-11-30. .  526311.Clear copper color, tin disappearing off white head Aroma is sweet malt, biscuit flavor is cyrup, herbs, spices med body, low carbo.
 
@@ -892,7 +892,7 @@
 
 2014-04-28. Pirkkala. 2014-04-04. Prisma Koivistonkylä. St:Eriks Pale Ale. Bottle 330ml. bbe 2014-10-30. .  738314. Clear Yellow, white head Aroma is malt, Grass, mild citrus flavor is Grass, malt, citrus Fresh, mild bitter finnish.
 
-2014-04-28. Pirkkala. . Bierkompass. Struise Black damnation 3 Black mes. Bottle 330ml. . . 949417. Dark Brown, beige head Aroma is chocolate, roasted malt, coffee, smoke flavor is malts, Chocolate, Salt, peat, Full Body, Soft carbo, Really Nice mild islay flavor.
+2014-04-28. Pirkkala. 2011-12-09. Ølbutikken. Struise Black damnation 3 Black mes. Bottle 330ml. . . 949417. Dark Brown, beige head Aroma is chocolate, roasted malt, coffee, smoke flavor is malts, Chocolate, Salt, peat, Full Body, Soft carbo, Really Nice mild islay flavor.
 
 2014-04-29. Pirkkala. . Alko Koivistonkylä. Coisbo Queens Desire. Bottle 330ml. . . 636212. Hazy Yellow, white head Aroma is wheat, yeast, Banana flavor is wheat, spices, bit watery.
 
@@ -1564,7 +1564,7 @@
 
 2014-11-01. Pirkkala. . Bier Deluxe. Urthel Samaranth. Bottle 330ml. bbe 2016-11-30. . Cloudy dark amber color, off white head, dark fruits, yeast, resin, spices, al ohol is totally hidden med bc. 747314.
 
-2014-11-01. Pirkkala. . System Bolaget Regeringsgatan. Amager / Goose Island RyeKing. Bottle 500ml. bbe 2015-03-31. #426.  949316. Dark Brown beige head Chocolate, caramel, coffee, roasted malts, vanilla full b Med c, Second best stout so far.
+2014-11-01. Pirkkala. 2012-10-04. System Bolaget Regeringsgatan. Amager / Goose Island RyeKing. Bottle 500ml. bbe 2015-03-31. #426.  949316. Dark Brown beige head Chocolate, caramel, coffee, roasted malts, vanilla full b Med c, Second best stout so far.
 
 2014-11-02. Ukkometso. . . Hiisi Alces Tripel. Draft. . . Hazy golden orange, off white head Fruits, citrus, yeast, spicy puraisu, mild bitter finnish med b high carbo. 737313.
 
@@ -2788,7 +2788,7 @@
 
 2015-07-26. Ruovesi. . . Karhu Huurre. Can 568ml. bbe 2016-03-22. . 52429. clear yellow white head sweet malts grain med to thin body med carbo.
 
-2015-07-27. Pirkkala. . Bierkompass. Troubadour Stout. Bottle 750ml. . . 748315. dark brown thick beige head roasted malts sugar chocolate bread full body med carbo.
+2015-07-27. Pirkkala. 2012-10-30. Bierzwerg. Troubadour Imperial Stout. Bottle 750ml. bbe 2022-05-06. . 748315. dark brown thick beige head roasted malts sugar chocolate bread full body med carbo.
 
 2015-07-30. Ruovesi. . Bierkompass. Rooie Dop Double Oat Meal Stout Bourbon Barrel Aged (9,6%). Bottle 330ml. bbe 2038-03-03. Bottled 2013-03-03. 949416. pitch black beige head heavy bourbon aroma roasted malts bourbon flavor chocolate full body med carbo.
 
@@ -3482,7 +3482,7 @@
 
 2016-01-04. Gastropub Nordic. . . Hiisi Herraskainen olut. Draft. . . 638315. clear yellow white head crispy malts sweet fruits hops citrus med bc.
 
-2016-01-05. Ukkometso. . . Maistila jälkipeli. Draft. . . 737314. clear yellow white head sweet fruits wheat yeast citrus med b high carbo.
+2016-01-05. Ukkometso. . . Maistila Jälkipeli. Draft. . . 737314. clear yellow white head sweet fruits wheat yeast citrus med b high carbo.
 
 2016-01-05. Ukkometso. . . Top Fuel Blacktop Porter. Draft. . . 748314. Black beer with beige head roasted malts chocolate licorice vanilla quite sweet for a porter med bc.
 

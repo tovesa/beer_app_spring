@@ -19,7 +19,6 @@ import org.slf4j.LoggerFactory;
 public class EmbeddedHttpServer {
 
 	private static final Logger LOG = LoggerFactory.getLogger(EmbeddedHttpServer.class);
-
 	private Server jettyServer;
 	private ServerConnector connector;
 

@@ -16,10 +16,10 @@ public final class BeerRatingValidator {
 	}
 
 	public static boolean isValid(String line) {
-		// format: *rating date. *rating place. purchasing date.
-		// purchasing place. *name. *pack. bbe. brew info. *score. *description.
-		// * = mandatory
+		// format: rating date;rating place;purchasing date;purchasing
+		// place;name;pack;bbe;brew info;score;description
 		try {
+			validateNumberOfSemicolons(line);
 			String[] ratingArray = BeerRatingFileUtil.tokenizeLine(line);
 			validateRatingDate(ratingArray[0]);
 			validateRatingPlace(ratingArray[1]);
@@ -29,15 +29,25 @@ public final class BeerRatingValidator {
 			validatePack(ratingArray[5]);
 			validateBbe(ratingArray[6]);
 			validateBrewInfo(ratingArray[7]);
-			validateScore(ratingArray[8]);
-			validateDescription(ratingArray[9]);
+			validateAroma(ratingArray[8]);
+			validateAppearance(ratingArray[9]);
+			validateTaste(ratingArray[10]);
+			validatePalate(ratingArray[11]);
+			validateOverall(ratingArray[12]);
+			validateDescription(ratingArray[13]);
 		} catch (BeerValidationException e) {
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
 			LOG.error(fixedLengthErrorMessage + " Line: " + line);
-			LOG.debug("Validate failed: " + e);
 			return false;
 		}
 		return true;
+	}
+
+	private static void validateNumberOfSemicolons(String line) throws BeerValidationException {
+		int count = line.length() - line.replace(";", "").length();
+		if (count != 14) {
+			throw new BeerValidationException("Wrong number of semicolons: " + count);
+		}
 	}
 
 	private static void validateRatingDate(String s) throws BeerValidationException {
@@ -79,7 +89,7 @@ public final class BeerRatingValidator {
 	}
 
 	private static void validateBbe(String s) throws BeerValidationException {
-		if (!s.matches("bbe\\s{1}\\d{4}-\\d{2}-\\d{2}") && !s.isEmpty()) {
+		if (!s.matches("\\d{4}-\\d{2}-\\d{2}") && !s.isEmpty()) {
 			throw new BeerValidationException("Incorrect bbe: " + s);
 		}
 	}
@@ -88,14 +98,36 @@ public final class BeerRatingValidator {
 		if (!s.matches("(.*){4,}") && !s.isEmpty()) {
 			throw new BeerValidationException("Incorrect brew info: " + s);
 		}
-
 	}
 
-	private static void validateScore(String s) throws BeerValidationException {
-		if (!s.matches("\\d{5,6}")) {
-			throw new BeerValidationException("Incorrect score: " + s);
+	private static void validateAroma(String s) throws BeerValidationException {
+		if (!s.matches("([1-9]|10)")) {
+			throw new BeerValidationException("Incorrect aroma: " + s);
 		}
+	}
 
+	private static void validateAppearance(String s) throws BeerValidationException {
+		if (!s.matches("[1-5]")) {
+			throw new BeerValidationException("Incorrect appearance: " + s);
+		}
+	}
+
+	private static void validateTaste(String s) throws BeerValidationException {
+		if (!s.matches("([1-9]|10)")) {
+			throw new BeerValidationException("Incorrect taste: " + s);
+		}
+	}
+
+	private static void validatePalate(String s) throws BeerValidationException {
+		if (!s.matches("[1-5]")) {
+			throw new BeerValidationException("Incorrect palate: " + s);
+		}
+	}
+
+	private static void validateOverall(String s) throws BeerValidationException {
+		if (!s.matches("([1-9]|1[0-9]|20)")) {
+			throw new BeerValidationException("Incorrect overall: " + s);
+		}
 	}
 
 	private static void validateDescription(String s) throws BeerValidationException {

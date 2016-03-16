@@ -1,20 +1,16 @@
 package org.beer.app;
 
 public class BeerRatingFileUtil {
+
+	private BeerRatingFileUtil() {
+	}
+
 	public static String[] tokenizeLine(String line) throws BeerValidationException {
-		validateNumberOfSemicolons(line);
 		String[] ratingArray;
 		ratingArray = line.split(";");
 		stripLeadingWhitespace(ratingArray);
 		// printToConsole(ratingArray);
 		return ratingArray;
-	}
-
-	private static void validateNumberOfSemicolons(String line) throws BeerValidationException {
-		int count = line.length() - line.replace(";", "").length();
-		if (count != 10) {
-			throw new BeerValidationException("Wrong number of semicolons: " + count);
-		}
 	}
 
 	private static void stripLeadingWhitespace(String[] array) {

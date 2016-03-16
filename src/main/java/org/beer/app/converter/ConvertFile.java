@@ -33,6 +33,7 @@ public class ConvertFile {
 			formattedLine = ConvertPunctuationMarks.addEndingDot(formattedLine);
 			formattedLine = ConvertOrder.moveScore(formattedLine);
 			formattedLine = ConvertPunctuationMarks.dotsToSemicolons(formattedLine);
+			formattedLine = ConvertAbbreviations.splitScore(formattedLine);
 			if (BeerRatingValidator.isValid(formattedLine)) {
 				formattedLines.add(formattedLine);
 			}

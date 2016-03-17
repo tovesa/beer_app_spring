@@ -12,13 +12,16 @@ import org.slf4j.LoggerFactory;
 
 public class BeerRatingFileWriter {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRatingFileWriter.class);
+	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingFileWriter.class);
+
+	private BeerRatingFileWriter() {
+	}
 
 	public static void writeFile(String newFileName, List<String> formattedLines) {
 
 		try (Writer writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(newFileName), "utf-8"))) {
 			for (String line : formattedLines) {
-				LOG.debug("Line to write: " + line);
+				// LOG.debug("Line to write: " + line);
 				writer.write(line + "\n");
 			}
 		} catch (IOException e) {

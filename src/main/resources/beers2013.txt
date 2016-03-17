@@ -667,8 +667,8 @@
 2011-04-09;HBF 2011;;;Van Den Bossche Buffalo Belgian Stout;330;;;7;3;7;3;10;
 2011-04-09;Pirkkala;2011-04-09;Alko Arkadia;Fuller's Past Masters XX;500;2013-12-31;;6;3;6;3;10;
 2011-04-09;Pirkkala;2009-09-26;System Bolaget Passagen;Southern Tier Un*Earthly;Draft;;;9;4;9;4;16;
-2011-04-10;Pirkkala;2011-12-20;Bierkompass;Baird Rising Sun Pale Ale;330;2012-11-30;;8;3;7;3;11;
-2011-04-11;Pirkkala;2011-12-20;Bierkompass;Westoek XX (8% ABV);330;2016-01-31;;8;3;7;3;11;
+2011-04-10;Pirkkala;2011-12-06;Bierkompass;Baird Rising Sun Pale Ale;330;2012-11-30;;8;3;7;3;11;
+2011-04-11;Pirkkala;2011-12-06;Bierkompass;Westoek XX (8% ABV);330;2016-01-31;;8;3;7;3;11;
 2011-04-12;Pirkkala;2011-04-12;K-citymarket Pirkkala;Det Lille Bryggeri Humlemord High and Low;330;2011-10-09;;8;3;7;2;12;
 2011-04-13;Pirkkala;2011-04-13;Alko Pirkkala;Svyturys Baltijos;500;2011-08-13;;6;3;6;2;11;
 2011-04-13;Pirkkala;2011-04-12;K-citymarket Pirkkala;Ægir Brime Red Lager;500;2012-04-26;;7;3;6;3;12;
@@ -1085,10 +1085,10 @@
 2011-12-23;Pirkkala;2011-12-23;K-citymarket Pirkkala;De la Senne Taras Boulba;330;2012-06-30;;8;3;7;3;11;
 2011-12-24;Pirkkala;2011-12-15;Alko Koivistonkylä;Memminger Premium;500;;;4;3;5;2;8;
 2011-12-24;Pirkkala;2011-12-23;K-citymarket Pirkkala;Stadin NZ Pacifica Pale Ale;330;2012-04-01;;7;3;7;3;11;
-2011-12-26;Pirkkala;2011-12-20;Bierkompass;Aecht Schlenkerla Eiche Doppelbock;;2011-06-30;;8;3;8;3;12;
+2011-12-26;Pirkkala;2011-12-06;Bierkompass;Aecht Schlenkerla Eiche Doppelbock;;2011-06-30;;8;3;8;3;12;
 2011-12-26;Pirkkala;2011-12-23;K-citymarket Pirkkala;Nøgne Ø Julesnadder;500;2013-10-03;#704;8;3;7;2;11;ei erikoinen
 2011-12-26;Pirkkala;2010-07-21;System Bolaget;Pauwel Kwak;330;2012-04-12;;8;3;8;4;13;
-2011-12-26;Pirkkala;2011-12-20;Bierkompass;Westoek X (6% ABV);330;2014-01-31;;7;3;7;3;11;
+2011-12-26;Pirkkala;2011-12-06;Bierkompass;Westoek X (6% ABV);330;2014-01-31;;7;3;7;3;11;
 2011-12-27;Gastropub Nordic;;;Mikkeller Snowman Ralph FI X-mas Porter ;Draft;;;8;3;7;3;10;
 2011-12-27;Gastropub Nordic;;;Nøgne Ø Der Kollaborator ;Draft;;;8;3;8;3;13;
 2011-12-27;Olutravintola Konttori;;;De Molen Molenbier 7.5%;330;2016-06-23;2011-06-23;7;3;8;3;11;
@@ -1101,9 +1101,9 @@
 2011-12-29;Olutravintola Konttori;;;Stone Ruination IPA;355;2012-01-17;;8;3;7;3;11;
 2011-12-31;Ruovesi;2011-02-26;Alko Arkadia;Haandbryggeriet Bestefar;500;2012-09-17;#312;8;4;8;3;13;
 2011-12-31;Ruovesi;2011-07-28;Alko Arkadia;Weihenstephaner/Samuel Adams Infinium;750;;;7;3;8;3;12;
-2012-01-08;Pirkkala;2012-05-29;Bierkompass;Clown Shoes Tramp Stamp;650;;;8;3;8;3;13;
+2012-01-08;Pirkkala;2012-05-22;Bierkompass;Clown Shoes Tramp Stamp;650;;;8;3;8;3;13;
 2012-01-08;Pirkkala;2011-09-28;Gift from Hessu;La_ko Temno (Dark);330;;;6;3;5;3;9;
-2012-01-11;Ruovesi;2011-12-20;Bierkompass;Glazen Toren Canaster Winterscotch;750;;Bottled 2011-12-04;7;3;8;3;13;
+2012-01-11;Ruovesi;2011-12-06;Bierkompass;Glazen Toren Canaster Winterscotch;750;;Bottled 2011-12-04;7;3;8;3;13;
 2012-01-12;Gastropub Nordic;;;Slottskällans Svart Cognac ;Draft;;;7;3;8;3;11;
 2012-01-12;O'Connell's Irish Bar;;;Mikkeller Jackie Brown ;Draft;;;7;3;7;3;11;Eroaa pullo versiosta, hapokas, kitkerä
 2012-01-12;Olutravintola Konttori;;;Arrogant Bastard Ale - Oaked;355;;;8;3;8;3;13;
@@ -1129,14 +1129,14 @@
 2012-02-03;Ruovesi;;Niko;Cuvée De Ranke;750;;;7;3;8;3;11;
 2012-02-03;Ruovesi;2012-01-03;Bierkompass;Freigeist Hoppeditz;375;;;8;3;8;4;12;
 2012-02-03;Ruovesi;2011-09-28;Gift from Hessu;Gontyniec Gniewosz Piwo Jasne;330;2011-12-09;;7;3;6;3;9;
-2012-02-03;Ruovesi;2011-12-20;Bierkompass;Port Brewing Wipeout IPA;650;Bottled 2011-08-23;;9;4;9;4;16;
+2012-02-03;Ruovesi;2011-12-06;Bierkompass;Port Brewing Wipeout IPA;650;Bottled 2011-08-23;;9;4;9;4;16;
 2012-02-03;Ruovesi;2012-01-03;Bierkompass;Southern Tier Harvest Ale;355;;Bottled 2011-10-06;7;3;8;3;13;
 2012-02-04;Ruovesi;2009-09-26;System Bolaget Regeringsgatan;Amager Fru Frederiksen;500;;;8;3;9;4;15;
 2012-02-04;Ruovesi;2009-02-02;Alko Kaleva;Brooklyn Local 1;750;;;7;3;8;3;13;
 2012-02-04;Ruovesi;;Niko;Gordon X-Mas Ale;330;;;7;3;7;3;11;
 2012-02-04;Ruovesi;2009-05-16;Alko Arkadia;Harviestoun Ola Dubh (16 Year Old);330;2012-01-01;;9;3;8;3;13;
 2012-02-04;Ruovesi;2009-09-26;System Bolaget Regeringsgatan;Left Hand Oak Aged Imperial Stout;650;2011-12-01;2009 version;9;3;8;4;15;
-2012-02-04;Ruovesi;2011-12-20;Bierkompass;Port Brewing Mongo IPA;650;;Bottled 2011-08-04;9;4;9;4;15;
+2012-02-04;Ruovesi;2011-12-06;Bierkompass;Port Brewing Mongo IPA;650;;Bottled 2011-08-04;9;4;9;4;15;
 2012-02-04;Ruovesi;2009-09-26;System Bolaget Passagen;Rogue Old Crustacean Barleywine;750;;;8;3;9;4;15;
 2012-02-08;Pirkkala;2009-03-05;Alko Kaleva ;BrewDog Riptide;330;2011-11-27;;8;4;8;3;13;hyvä +
 2012-02-10;Pirkkala;2012-02-06;Alko Pirkkala Partola;Lammin Sahti Juhlaolut;330;2012-10-31;;7;3;5;2;8;
@@ -1156,11 +1156,11 @@
 2012-02-16;Pirkkala;2012-02-06;Alko Pirkkala Partola;Stadin American Amber IPA;330;2012-08-01;;8;3;8;3;12;
 2012-02-19;Pirkkala;2012-02-09;K-citymarket Pirkkala;Dupont Biolégère;250;2012-03-31;;7;3;6;2;9;
 2012-02-21;Pirkkala;2012-01-31;Bierkompass;De Dolle Arabier;330;2012-03-31;;8;3;7;3;10;hyvä, melko tavallinen
-2012-02-22;Pirkkala;2012-05-29;Bierkompass;Beer Valley Leafer Madness Imperial Pale Ale;650;;;8;3;8;3;14;
+2012-02-22;Pirkkala;2012-05-22;Bierkompass;Beer Valley Leafer Madness Imperial Pale Ale;650;;;8;3;8;3;14;
 2012-02-23;Pirkkala;2012-09-23;Bierkompass;Westbrook Covert Hops;650;;;8;4;8;3;15;
 2012-03-01;Gastropub Tuulensuu;;;De Molen Rasputin;Draft;;;9;4;9;4;16;
 2012-03-01;Plevna;2012-03-01;Plevna;Plevnan Leskinen XX IPA ;Draft;;;7;3;8;3;12;
-2012-03-01;Ruovesi;2012-10-10;Bierkompass;Omnipollo Mazarin Oatmeal Pale Ale;330;;;7;3;7;3;13;
+2012-03-01;Ruovesi;2012-10-11;Bierkompass;Omnipollo Mazarin Oatmeal Pale Ale;330;;;7;3;7;3;13;
 2012-03-02;Gastropub Tuulensuu;;;3 Fonteinen Zwet.be;330;;;7;3;8;3;12;
 2012-03-02;Gastropub Tuulensuu;;;Rodenbach Grand Cru;330;2013-09-06;;7;3;7;3;11;
 2012-03-02;O'Hara's Freehouse;;;Wadworth Beer Kitchen India Pale Ale;330;;;7;3;7;3;10;
@@ -1208,9 +1208,8 @@
 2012-04-21;Ruovesi;2012-04-12;Lidl Pirkkala;Grafenwalder Vehnäolut;Can 500;2013-02-10;;7;3;7;3;10;
 2012-04-21;Ruovesi;2012-04-19;K-citymarket Pirkkala;Lapin Kulta Arctic Malt Pils;;2012-11-26;;5;2;4;2;8;
 2012-04-21;Ruovesi;2012-04-16;K-citymarket Pirkkala;Slottskällans Blåkulla Påsköl Ekologisk;500;2012-08-22;;7;3;7;3;11;
-2012-04-22;Pirkkala;2011-12-20;Bierkompass;De Dolle Lichtervelds Blond;330;;;8;3;7;3;11;
-2012-04-22;Pirkkala;2012-01-03;Bierkompass;Evil Twin Hop Flood;330;;;8;4;8;3;12;
-2012-04-22;Pirkkala;2012-04-09;Bierkompass;Evil Twin Hop Flood;330;2015-12-31;;8;4;7;3;13;
+2012-04-22;Pirkkala;2011-12-06;Bierkompass;De Dolle Lichtervelds Blond;330;;;8;3;7;3;11;
+2012-04-22;Pirkkala;2012-04-09;Bierkompass;Evil Twin Hop Flood;500;2015-12-31;;8;4;7;3;13;
 2012-04-25;Pirkkala;2012-01-03;Bierkompass;Thornbridge Raven;500;2012-05-01;;8;4;8;3;14;
 2012-04-26;Pirkkala;2011-08-26;Alko Kaleva;Cantillon Kriek;375;2021-06-02;;7;3;7;2;10;
 2012-04-27;Pirkkala;2012-04-27;Alko Kaleva;Black Isle Hibernator Oatmeal Stout;330;2013-05-31;LOT145;9;4;8;3;12;
@@ -1433,7 +1432,7 @@
 2012-08-10;Olutravintola Konttori;;;Southern Tier IPA;355;;dob 04/09/12;8;3;8;3;14;
 2012-08-10;Pirkkala;2012-08-10;Alko Koivistonkylä;Bacchus Frambozenbier;375;2014-02-14;;7;3;8;3;10;
 2012-08-11;Pirkkala;2012-08-10;Lidl Pirkkala;Riedenburger Pilsner;330;2013-03-03;;6;2;5;2;7;
-2012-08-11;Pirkkala;2012-05-29;Bierkompass;Uerige Doppel Sticke;330;2013-02-28;bottled 2012-02;8;4;8;3;14;
+2012-08-11;Pirkkala;2012-05-22;Bierkompass;Uerige Doppel Sticke;330;2013-02-28;bottled 2012-02;8;4;8;3;14;
 2012-08-11;Pub Kultainen Apina;;;BrewDog Dog A;330;;#037 2012-04-01;9;4;9;4;14;
 2012-08-11;Pub Kultainen Apina;;;BrewDog Flying Dog International Arms Race;330;2013-05-23;#164;7;2;5;2;8;
 2012-08-11;Pub Kultainen Apina;;;Haandbryggeriet Costa Rica;500;;bottled 2012-02-17, brewed 2012-02-03;8;3;9;3;13;
@@ -1453,10 +1452,10 @@
 2012-08-18;Gastropub Nordic;;;Slottskällans Freedom IPA ;Draft;;;8;3;8;3;13;
 2012-08-18;Gastropub Nordic;;;Suomenlinnan Helsinki Portteri ;Draft;;;6;4;7;2;11;
 2012-08-18;Niko;;;Amager Double Black IPA;500;2014-02-28;#331;9;3;8;3;14;
-2012-08-18;Pirkkala;2012-05-29;Bierkompass;8 Wired Saison Sauvin;500;;;8;3;8;3;13;
+2012-08-18;Pirkkala;2012-05-22;Bierkompass;8 Wired Saison Sauvin;500;;;8;3;8;3;13;
 2012-08-18;Pirkkala;2012-04-09;Bierkompass;Evil Twin/Omnipollo Russian Roulette;;2014-12-31;;8;4;8;3;13;
-2012-08-18;Pirkkala;2012-05-29;Bierkompass;Sly Fox Phoenix Pale Ale;Can 355;2012-06-23;;6;3;6;3;11;
-2012-08-18;Pirkkala;2012-05-29;Bierkompass;Sly Fox Rte. 113 India Pale Ale;Can 355;2012-10-06;;7;3;7;3;11;
+2012-08-18;Pirkkala;2012-05-22;Bierkompass;Sly Fox Phoenix Pale Ale;Can 355;2012-06-23;;6;3;6;3;11;
+2012-08-18;Pirkkala;2012-05-22;Bierkompass;Sly Fox Rte. 113 India Pale Ale;Can 355;2012-10-06;;7;3;7;3;11;
 2012-08-19;Pirkkala;2012-08-19;Prisma Koivistonkylä;Adnams Southwold Bitter;330;2012-12-31;;7;3;6;3;11;
 2012-08-22;Pirkkala;2012-08-22;Alko Kaleva;Laitilan Kievari Barley Wine;330;2015-08-22;;7;3;6;3;11;
 2012-08-23;Pirkkala;2012-08-23;K-citymarket Pirkkala;North Coast Scrimshaw;355;;;7;3;7;2;11;
@@ -1502,7 +1501,7 @@
 2012-09-28;Gastropub Nordic;;;Pinta Atak Chmielu;500;;;7;3;7;3;12;
 2012-09-28;Ilkka;;;Harboe Beer Guldøl (Gold);Can 330;;;5;2;3;2;6;
 2012-09-28;Ilkka;;;Maribo Slots Guld;Can 330;;;4;2;4;2;5;
-2012-09-28;Pirkkala;2012-05-29;Bierkompass;Fritz Ale Imperial IPA Doppelt Hopfengestopft;330;2012-12-31;;8;3;8;3;13;
+2012-09-28;Pirkkala;2012-05-22;Bierkompass;Fritz Ale Imperial IPA Doppelt Hopfengestopft;330;2012-12-31;;8;3;8;3;13;
 2012-09-28;Pirkkala;2012-04-09;Bierkompass;Omnipollo/Evil Twin Russian Roulette;500;2014-12-31;;7;3;8;3;13;
 2012-09-28;Pirkkala;2012-09-28;Alko Stockmann;Teerenpeli Sauhusanttu;330;2013-05-11;N777 255;7;3;7;3;11;
 2012-09-28;Vinoteca del Piemonte;;;Brewfist Spaceman;330;2013-08-30;2321;7;3;8;3;13;
@@ -1594,12 +1593,12 @@
 2012-10-15;Pirkkala;2012-10-09;K-citymarket Pirkkala;Stadin Lager;330;2013-03-01;#446;7;3;6;2;12;
 2012-10-16;Pirkkala;2012-10-09;K-citymarket Pirkkala;Shipyard Blue Fin Stout;355;2013-03-31;;8;3;8;3;13;
 2012-10-17;Pirkkala;2012-10-09;K-citymarket Pirkkala;Stadin New Zealand Pacific Pale Ale;330;2013-02-01;#451;7;3;7;3;12;
-2012-10-18;Pirkkala;2012-10-10;Bierkompass;De Molen Lentehop (2012-);330;2014-02-02;bottled 2012-02-02;7;3;7;3;12;
+2012-10-18;Pirkkala;2012-10-11;Bierkompass;De Molen Lentehop (2012-);330;2014-02-02;bottled 2012-02-02;7;3;7;3;12;
 2012-10-19;Gastropub Nordic;;;Hornbeer Imperial IPA ;Draft;;;8;4;8;3;14;alkoholi puskee läpi
 2012-10-19;Ruovesi;2012-10-02;K-citymarket Pirkkala;Beer Here Wicked Wheat;500;2014-05-23;;7;2;7;3;12;
-2012-10-19;Ruovesi;2012-10-10;Bierkompass;De Molen Rye IPA Cascade-Amarillo;330;;;7;3;7;3;12;
+2012-10-19;Ruovesi;2012-10-11;Bierkompass;De Molen Rye IPA Cascade-Amarillo;330;;;7;3;7;3;12;
 2012-10-19;Ruovesi;2012-10-04;System Bolaget Passagen;Djævlebryg Schopenhauers Vilje;500;2013-05-28;;6;3;7;3;12;
-2012-10-20;Ruovesi;2012-10-10;Bierkompass;Green Flash Le Freak;355;;;8;3;8;3;13;
+2012-10-20;Ruovesi;2012-10-11;Bierkompass;Green Flash Le Freak;355;;;8;3;8;3;13;
 2012-10-20;Ruovesi;2012-09-22;Alko Arkadia;Hornbeer Dryhop;500;2015-06-18;;8;3;8;3;13;
 2012-10-20;Ruovesi;2012-10-20;Alko Ruovesi;Left Hand Polestar Pilsner;355;2014-07-31;;6;2;6;2;11;
 2012-10-20;Ruovesi;2012-10-18;K-citymarket Pirkkala;Suomenlinnan Seth Lager;500;2013-09-28;;6;2;6;2;10;
@@ -1613,8 +1612,8 @@
 2012-10-26;Gastropub Nordic;;;Malmgård Summit Ale;Draft;;;7;3;7;3;12;
 2012-10-26;Olutravintola Konttori;;;Hornbeer Grisk;500;;;9;3;8;3;15;
 2012-10-26;Olutravintola Konttori;;;Nynäshamns Smörpundet Porter ;Draft;;;8;4;8;3;14;
-2012-10-26;Pirkkala;2012-10-10;Bierkompass;Mikkeller P1;330;;;8;3;7;3;13;
-2012-10-26;Pirkkala;2012-10-10;Bierkompass;To Øl Mochaccino Messiah;330;;;8;3;7;3;13;
+2012-10-26;Pirkkala;2012-10-11;Bierkompass;Mikkeller P1;330;;;8;3;7;3;13;
+2012-10-26;Pirkkala;2012-10-11;Bierkompass;To Øl Mochaccino Messiah;330;;;8;3;7;3;13;
 2012-10-27;Pirkkala;2012-10-20;S-market Ruovesi;Brooklyn American Ale;355;2013-02-28;;7;3;7;3;12;ok--
 2012-10-27;Pirkkala;2012-10-25;Prisma Koivistonkylä;Laitilan Kievari Tuomas (2012);330;2013-06-02;;6;3;5;2;10;
 2012-10-27;Pirkkala;2012-10-27;K-citymarket Lielahti;Malmgårdin Huvila Brown Ale;500;2013-05-25;;6;3;6;3;10;
@@ -1628,10 +1627,10 @@
 2012-11-03;Gastropub Nordic;;;Pinta Imperium Atakuje;500;2013-02-28;;7;3;8;3;13;
 2012-11-03;Gastropub Nordic;;;_ywiec Porter;330;;;7;3;7;3;13;
 2012-11-03;Pirkkala;2012-10-25;Alko Arkadia;Green Flash West Coast IPA;355;2014-04-30;;9;3;9;4;15;Clear orange color, off white head. Aroma is fresh, caramel,fruits. Flavor is pine grape, sweet notes, lots of hops. Really nice.
-2012-11-03;Pirkkala;2012-10-10;Bierkompass;Southern Tier Pale Ale;355;;;7;3;8;3;13;
+2012-11-03;Pirkkala;2012-10-11;Bierkompass;Southern Tier Pale Ale;355;;;7;3;8;3;13;
 2012-11-04;Pirkkala;2012-09-23;Bierkompass;De Molen Zomerhop;330;;;8;3;7;3;13;
-2012-11-05;Pirkkala;2012-10-10;Bierkompass;De Molen Single Hop Cascade;330;;;7;3;7;3;13;
-2012-11-05;Pirkkala;2012-10-10;Bierkompass;De Molen Single Hop Citra;330;;;7;3;7;3;14;
+2012-11-05;Pirkkala;2012-10-11;Bierkompass;De Molen Single Hop Cascade;330;;;7;3;7;3;13;
+2012-11-05;Pirkkala;2012-10-11;Bierkompass;De Molen Single Hop Citra;330;;;7;3;7;3;14;
 2012-11-07;Olutravintola Konttori;;;Nøgne Ø Citrus Hystrix IPA ;Draft;;;7;3;7;3;13;
 2012-11-07;Pirkkala;2012-10-27;Bierkompass;De Molen Amarillo;330;2014-08-08;Brew 2012-08-08;8;3;8;3;14;hyvä++
 2012-11-08;Pirkkala;2012-10-27;Bierkompass;Emelisse Black IPA;330;;;8;3;8;3;13;
@@ -1653,7 +1652,7 @@
 2012-11-15;Pirkkala;2009-05-29;Alko Anttila;Nøgne Ø India Pale Ale;500;2014-03-31;#420;9;4;8;3;16;lähes erinomainen
 2012-11-16;Ruovesi;2012-11-09;Alko Kaleva;Aecht Schlenkerla Rauchbier Urbock;500;2013-04-30;;8;3;8;4;14;hyvä-
 2012-11-16;Ruovesi;2012-10-27;Bierkompass;Haandbryggeriet Farewell Ale;500;2014-03-08;2012-03-08 #453;8;3;9;3;15;
-2012-11-16;Ruovesi;2012-10-10;Bierkompass;Struise Svea IPA;330;;;7;3;7;3;13;
+2012-11-16;Ruovesi;2012-10-11;Bierkompass;Struise Svea IPA;330;;;7;3;7;3;13;
 2012-11-17;Ruovesi;2012-03-24;Alko Arkadia;BrewDog Punk IPA (5,6%);330;2012-11-03;#463;9;3;8;3;14;Clear golden color with thin white head.Aroma is hop, citrus and pine. Flavor is floral hops and citrus. Medium body with soft carbonation.
 2012-11-17;Ruovesi;2012-11-15;Alko Kaleva;Thornbridge Halcyon;500;2013-05-05;;9;3;8;3;15;
 2012-11-18;Pirkkala;2010-09-23;Alko Arkadia;Mikkeller Beer Geek Brunch Weasel;500;(#470;;9;4;9;4;17;
@@ -1661,7 +1660,7 @@
 2012-11-20;Pirkkala;2011-11-19;Alko Pirkkala Partola;Brunehaut Abbaye de Saint-Martin Cuvée de Noël;330;2015-09-30;;6;3;6;2;11;
 2012-11-21;Pirkkala;2012-10-30;Bierzwerg;Straffe Hendrik Brugs Quadrupel;330;2015-04-30;;7;3;7;3;14;
 2012-11-24;Gastropub Nordic;;;Kormoran Porter Warminski;500;2013-03-16;;7;4;8;3;14;
-2012-11-25;Pirkkala;2012-05-29;Bierkompass;Beer Valley Delta 9 IPA;650;;;7;3;7;3;13;
+2012-11-25;Pirkkala;2012-05-21;Bierkompass;Beer Valley Delta 9 IPA;650;;;7;3;7;3;13;
 2012-11-25;Pirkkala;2011-12-09;BarleyWine, Copenhagen;Cigar City Either Black Ale;355;;;9;4;9;4;15;
 2012-11-26;Pirkkala;2012-11-24;K-citymarket Pirkkala;Rekolan Metsän Henki;500;2013-01-13;;7;3;6;2;10;
 2012-11-27;Pirkkala;2012-10-30;Bierzwerg;Flying Dog Raging Bitch;355;2013-06-08;;8;3;8;3;15;
@@ -1677,13 +1676,13 @@
 2012-12-03;Pirkkala;2012-11-30;K-citymarket Pirkkala;Suomenlinnan Spithead Bitter;500;2013-10-03;;6;3;6;2;12;
 2012-12-04;Pirkkala;2012-10-30;Bierzwerg;BrewDog Libertine Black Ale;330;2013-08-28;277;8;4;8;3;14;
 2012-12-05;Ruovesi;2012-12-04;Alko Koivistonkylä;Suomenlinnan Helsinki Portteri;500;2013-10-02;;7;3;7;3;13;
-2012-12-06;Ruovesi;2012-02-10;Bierkompass;Glazen Toren Cuvée Angélique;750;2013-02-24;;7;4;7;4;13;
+2012-12-06;Ruovesi;2012-01-31;Bierkompass;Glazen Toren Cuvée Angélique;750;2013-02-24;;7;4;7;4;13;
 2012-12-07;Ruovesi;2012-11-28;Bierkompass;8 Wired C4 - Double Coffee Brown Ale;500;;;8;3;7;3;14;
 2012-12-07;Ruovesi;2012-11-09;Alko Kaleva;Mikkeller Red/White Christmas;330;2018-08-22;;8;4;8;3;14;
 2012-12-07;Ruovesi;2012-12-04;Prisma Koivistonkylä;Störtebeker Keller-Bier 1402;330;2013-06-15;;6;2;5;2;10;
 2012-12-09;Gastropub Tuulensuu;;;Mikkeller Mexas Ranger ;Draft;;;8;4;9;4;15;
 2012-12-09;Pirkkala;2012-10-30;Bierzwerg;Flying Dog In de Wildeman Farmhouse IPA;355;2013-02-09;;7;3;7;3;13;
-2012-12-11;Pirkkala;2011-12-20;Bierkompass;Beer Here Mørke Pumpernickel Porter;500;2014-06-17;#515, 2010-06-17;8;4;8;4;15;
+2012-12-11;Pirkkala;2011-12-06;Bierkompass;Beer Here Mørke Pumpernickel Porter;500;2014-06-17;#515, 2010-06-17;8;4;8;4;15;
 2012-12-14;Pirkkala;2012-11-09;Alko Kaleva;Gouden Carolus Cuvee Van De Keizer Rood/Red;750;;;8;3;8;3;14;
 2012-12-14;Pirkkala;2012-10-30;Bierzwerg;Victory Hop Wallop;355;;;9;4;9;3;15;Total Wine, Fort Lauderdale, Florida USA 2010-10-19
 2012-12-16;Niko;;;Founders Breakfast Stout;355;;;9;4;9;3;15;
@@ -1694,13 +1693,13 @@
 2012-12-19;Pirkkala;2012-12-18;K-citymarket Pirkkala;Alvinne Freaky Dark;330;2014-09-30;;6;4;6;2;12;
 2012-12-19;Pirkkala;2012-12-18;K-citymarket Pirkkala;De la Senne Stouterik;330;2013-07-31;;7;4;7;3;13;
 2012-12-20;Pirkkala;2012-12-18;K-citymarket Pirkkala;Alvinne Freaky;330;2013-07-31;;7;3;7;3;13;
-2012-12-20;Pirkkala;2012-02-09;Bierkompass;De Ranke Guldenberg;330;2016-04-30;;7;3;8;3;13;
+2012-12-20;Pirkkala;2012-01-31;Bierkompass;De Ranke Guldenberg;750;2016-04-30;;7;3;8;3;13;
 2012-12-22;Pirkkala;2010-12-16;Alko Stockmann;De Ranke Noir De Dottignies;750;2015-10-31;;8;3;8;3;14;
 2012-12-22;Pirkkala;2012-12-18;K-citymarket Pirkkala;Fanø Rav;330;2013-09-11;;6;3;6;3;12;
 2012-12-22;Pirkkala;2012-12-18;K-citymarket Pirkkala;Lervig Hoppy Joe;330;2013-07-05;;8;3;6;3;13;
 2012-12-22;Pirkkala;2012-12-18;K-citymarket Pirkkala;Lervig Juleøl 4.7% (2011 -);330;2013-10-02;;6;3;5;2;11;
 2012-12-22;Pirkkala;2012-10-27;Bierkompass;Weyerbacher Double Simcoe IPA;355;;;8;4;9;4;15;Whole Foods Bowery, New York, New York USA 2010-10-10
-2012-12-23;Pirkkala;2012-05-29;Bierkompass;Clown Shoes Supa Hero;650;;;7;3;8;3;13;
+2012-12-23;Pirkkala;2012-05-22;Bierkompass;Clown Shoes Supa Hero;650;;;7;3;8;3;13;
 2012-12-23;Pirkkala;2012-12-22;K-citymarket Pirkkala;Ridgeway Reindeer Droppings (4.7 %);500;2014-10-22;;7;2;6;2;12;
 2012-12-24;Pirkkala;2012-10-04;System Bolaget Passagen;North Coast Old Stock Ale;355;2017-07-31;2012 version;8;3;8;3;14;
 2012-12-25;Pirkkala;2012-11-28;Bierkompass;Green Flash / St Feuillien Friendship Brew Black Saison;355;;;7;4;7;3;12;too spicy
@@ -1708,7 +1707,7 @@
 2012-12-26;Pirkkala;;Gift from Hanna P;Shepherd Neame Christmas Ale;500;2014-02-28;;7;3;6;2;11;
 2012-12-26;Pirkkala;2012-10-30;Bierzwerg;Swannay Orkney Porter;330;;Vintage 2011;7;3;7;3;13;
 2012-12-26;Pirkkala;2012-12-18;K-citymarket Pirkkala;Xingu;330;2013-09-22;;6;3;5;2;10;
-2012-12-27;Pirkkala;2012-10-10;Bierkompass;Evil Twin Ashtray Heart;330;;;8;4;8;3;14;
+2012-12-27;Pirkkala;2012-10-11;Bierkompass;Evil Twin Ashtray Heart;330;;;8;4;8;3;14;
 2012-12-27;Pirkkala;2012-10-30;Bierzwerg;Häffner Bräu Hopfenstopfer Amarillo Strong Ale;330;;#01-2012;8;3;7;3;13;
 2012-12-27;Pirkkala;2012-12-18;K-citymarket Pirkkala;Lervig Betty Brown;330;2013-04-27;;6;3;6;2;11;
 2012-12-28;Gastropub Tuulensuu;;;Engelszell Gregorius Trappistenbier;330;2014-11-08;;6;3;7;3;13;
@@ -1725,7 +1724,7 @@
 2012-12-30;Pirkkala;2012-12-30;K-citymarket Pirkkala;Williams Brothers Caesar Augustus;500;2013-12-31;;6;2;6;3;11;
 2012-12-31;Olutravintola Konttori;;;Moinette Blonde;330;2013-03-31;;7;3;7;3;13;
 2012-12-31;Pirkkala;2012-12-30;K-citymarket Pirkkala;Durham Magus;500;2013-07-31;;7;2;7;3;13;
-2012-12-31;Pirkkala;2012-05-29;Bierkompass;Element Dark Element;750;;bottled 2011-03-17;9;4;8;3;14;
+2012-12-31;Pirkkala;2012-05-22;Bierkompass;Element Dark Element;750;;bottled 2011-03-17;9;4;8;3;14;
 2013-01-05;Pirkkala;2013-01-05;K-citymarket Pirkkala;Little Valley Withens Pale Ale;500;2013-06-30;;7;3;7;2;12;
 2013-01-05;Pirkkala;2011-04-16;System Bolaget Haparanda;Nils Oscar Julöl 2009 & 2010 (2010);330;2016-12-31;;8;4;8;3;14;
 2013-01-05;Pirkkala;2013-01-05;K-citymarket Pirkkala;Ridgeway Bad Elf (4.5%);500;2014-10-04;;6;3;6;2;11;
@@ -1773,11 +1772,11 @@
 2013-02-10;Pirkkala;2013-02-09;K-Market Pirkkala;Sinebrychoff Panimomestarin Nikolai Vuosiolut 2013 Cascade Ale (4.5 %);Can 500;2013-10-16;;5;2;5;2;10;
 2013-02-10;Pirkkala;2013-02-05;Alko Pirkkala Partola;Teerenpeli Vehnäväinö (6.0% version);330;2013-09-15;N871 015;7;3;7;3;12;
 2013-02-12;Pirkkala;2013-02-07;K-citymarket Pirkkala;Sambrooks Wandle;500;2013-09-11;;6;3;6;3;12;
-2013-02-15;Pirkkala;2013-02-05;Bierkompass;De Molen Blikken & Blozen;330;2014-07-12;Bottled 12.7.2012;7;4;8;3;14;
+2013-02-15;Pirkkala;2013-02-04;Bierkompass;De Molen Blikken & Blozen;330;2014-07-12;Bottled 12.7.2012;7;4;8;3;14;
 2013-02-15;Pirkkala;2013-02-07;K-citymarket Pirkkala;Sambrooks Junction;500;2013-10-23;;6;3;6;3;12;
 2013-02-16;Pirkkala;2012-09-23;Bierkompass;Evil Twin Femme Fatale Brett;330;;;6;3;7;3;12;
 2013-02-16;Pirkkala;2012-11-28;Bierkompass;Evil Twin Sønderho Hipster Ale;330;;;7;3;7;3;12;too sour for me
-2013-02-16;Pirkkala;2012-02-01;Bierkompass;Freigeist Caulfield;375;2012-12-31;;8;4;8;3;14;
+2013-02-16;Pirkkala;2012-01-31;Bierkompass;Freigeist Caulfield;375;2012-12-31;;8;4;8;3;14;
 2013-02-16;Pirkkala;2012-09-23;Bierkompass;Mikkeller Hop Bomb Challenge (2011);;;;8;4;8;3;14;
 2013-02-16;Pirkkala;2012-09-23;Bierkompass;Rooie Dop Chica Americana IPA;330;;;8;4;7;3;13;
 2013-02-16;Pirkkala;2012-02-12;Prisma Kaleva;Stronzo Proud Stronzo;500;2013-02-13;;7;3;7;3;13;
@@ -1788,14 +1787,14 @@
 2013-02-22;O'Hara's Freehouse;;;BrewDog Anarchist / Alchemist;330;2017-06-05;185;8;3;8;3;13;
 2013-02-23;Gastropub Nordic;;;Lervig Brewers Reserve Galaxy IPA Single Hopped;Draft;;;7;3;7;3;12;
 2013-02-23;Gastropub Nordic;;;Slottskällans Eight ;Draft;;;8;4;8;3;14;
-2013-02-23;Pirkkala;2012-02-06;Bierkompass;De Dolle Extra Export Stout;330;2013-01-31;2011-01;8;4;8;4;14;
+2013-02-23;Pirkkala;2012-01-31;Bierkompass;De Dolle Extra Export Stout;330;2013-01-31;2011-01;8;4;8;4;14;
 2013-02-26;Pirkkala;2012-02-25;K-citymarket Pirkkala;Stronzo Hop Lunch;330;2014-04-30;;8;3;6;3;12;
 2013-02-27;Pirkkala;2012-02-25;K-citymarket Pirkkala;Coopers Original Pale Ale;375;2014-02-04;;5;2;5;2;9;
 2013-03-01;Ruovesi;2012-02-23;Alko Kaleva;Beer Hunters Mufloni Saison de Randonneur Kataja Edition;330;2014-01-24;;7;3;8;3;14;
 2013-03-01;Ruovesi;2012-02-25;K-citymarket Pirkkala;Curious Brew Lager Beer;330;2014-03-31;;6;2;6;3;12;
 2013-03-03;Pirkkala;2013-03-02;S-market Ruovesi;Hartwall Sininen 3.5%;Can 500;2013-10-21;;5;2;5;2;10;
 2013-03-08;Pirkkala;2009-06-09;Alko Arkadia;Nils Oscar Barley Wine;330;2014-07-01;;8;3;8;3;14;
-2013-03-09;Pirkkala;2013-03-13;Alko Kaleva;Master Tmav_ 18°;330;2013-07-27;;6;3;7;3;13;
+2013-03-09;Pirkkala;2013-03-09;Alko Kaleva;Master Tmavy 18°;330;2013-07-27;;6;3;7;3;13;
 2013-03-09;Pirkkala;2013-03-09;Alko Kaleva;Neuzeller Bock;500;2014-01-23;;6;2;6;2;11;
 2013-03-11;Pirkkala;2013-03-09;Alko Kaleva;Svaneke Påskebryg;500;2014-01-15;;5;3;5;2;10;
 2013-03-13;Pirkkala;2013-03-12;K-citymarket Pirkkala;Inveralmond Lia Fail;500;2014-04-30;;7;3;7;3;12;
@@ -1947,7 +1946,7 @@
 2013-05-20;Pirkkala;2013-05-17;Alko Ylöjärvi;Ayinger Bräu-Weisse;500;;;7;3;7;3;14;Bottle 50cl. Hazy yellow with white head. Aroma is wheat, Banana. Flawor is wheat, Banana, fruits. Medium Body, soft carbonation. One of the best hefes so far.
 2013-05-22;Pirkkala;2013-05-22;Alko Kaleva;Stadin Savuruis Portteri;330; 2013-11-01;#497-8;8;4;8;3;14;Bottle 33cl. Black color, Tan head. Aroma is Smoked malt, roast, fritsu. Flavor is Smoke, rye, strong roasted Notes, Some sweetness.
 2013-05-24;Pirkkala;2012-10-27;Bierkompass;Hoppin Frog Hopped-Up Goose Juice Rye IPA;650;;;9;4;8;3;14;Bottle 66cl. Hazy Copper, off white head. Aroma is hops, fruits. Flavor is hoppy and pine. Basic us ipa. Medium Body and carbonation.
-2013-05-24;Pirkkala;2012-05-29;Bierkompass;Mikkeller Hop Burn High;330;2018-03-29;;9;4;8;3;14;Bottle 33cl. Hazy copper, off white head aroma is citrus, tropical fruits, flavor is citrus, warming alcohol, grass. Us Style. Nice palate.
+2013-05-24;Pirkkala;2012-05-22;Bierkompass;Mikkeller Hop Burn High;330;2018-03-29;;9;4;8;3;14;Bottle 33cl. Hazy copper, off white head aroma is citrus, tropical fruits, flavor is citrus, warming alcohol, grass. Us Style. Nice palate.
 2013-05-24;Pirkkala;2012-11-28;Bierkompass;Pretty Things Meadowlark IPA;650;;Bottled Aug 2012;9;4;9;3;15;Bottle 66cl. Almost clear Amber color with white head. Aroma is sweet fruits and hops. Flavor is grape fruits and hops. Really bitter finish. Good one, West Coast Style. Medium boby and carbonation.
 2013-05-26;Pirkkala;2013-04-13;System Bolaget Haparanda;BrewDog Nanny State (0.5%);330;;;7;3;5;2;11;Bottle 33cl. Clear copper color, off white head, aroma is hoppy. Flavor malt, wood, bitter hoppy finnish,  watery palate. Thin Body.
 2013-05-26;Pirkkala;2013-05-25;K-citymarket Lielahti;Rousals Pils;330;2013-08-04;;7;3;7;3;12;Bottle 33cl. Almost clear Orange color. Thick white head. Aroma is floral, honey, malt. Flavor is malt, mild bitterness. High carbonation.
@@ -1972,9 +1971,8 @@
 2013-06-06;Pirkkala;2013-06-05;K-citymarket Pirkkala;Primator Stout;500;2013-12-04;;7;4;7;3;12;Bottle 50cl. Black with tan head. Aroma is pretty much Like czech dark Lager. Sweet malt, roasted notes. Flavor is roasted malt, coffee, licorice. Body is bit watery and carbonation is flat. 
 2013-06-07;Ruovesi;2013-06-07;Alko Linnainmaa;Herold Bohemian Wheat Lager;330;2014-04-17;;7;3;7;3;13;Bottle 50cl. Hazy orange color, white head. Aroma is Banana, wheat, yeast. Flavor is Banana, yeast, pepper. I am not big fan of hefes but This is quite good.
 2013-06-08;Ruovesi;2012-11-28;Bierkompass;Cambridge Red God IPA;650;;Bottled June 2012 #1;8;4;8;3;14;Bottle 66cl.  Hazy amber with off white head. Aroma is resin, sweet fruits, hops. Flavor is resin, grape, hops, medium bitterness. Medium body and carbonation.
-2013-06-08;Ruovesi;2012-10-10;Bierkompass;Epic Hopulent IPA;650;;Release Batch #45;8;4;9;4;15;"Bottle 66cl. Hazy orange, off white head. Aroma is fresh hops, Tropical fruits, resin. Flavor is resin, fruits, hops, Sweet caramel. Nice palate.
-"
-2013-06-08;Ruovesi;2012-10-10;Bierkompass;Epic Imperial Red Ale;650;; Release batch #18;9;4;8;4;15;Bottle 66cl. Dark mahogny, tan head. Aroma is sweet, resin, fruits, hops. Flavor is dark fruits, resin, caramel, Nice bitterness.  A beer to have.
+2013-06-08;Ruovesi;2012-10-11;Bierkompass;Epic Hopulent IPA;650;;Release Batch #45;8;4;9;4;15;"Bottle 66cl. Hazy orange, off white head. Aroma is fresh hops, Tropical fruits, resin. Flavor is resin, fruits, hops, Sweet caramel. Nice palate.
+2013-06-08;Ruovesi;2012-10-11;Bierkompass;Epic Imperial Red Ale;650;; Release batch #18;9;4;8;4;15;Bottle 66cl. Dark mahogny, tan head. Aroma is sweet, resin, fruits, hops. Flavor is dark fruits, resin, caramel, Nice bitterness.  A beer to have.
 2013-06-08;Ruovesi;2012-10-04;System Bolaget Passagen;Samuel Adams Tasman Red Red IPA;650;2013-08-31;;7;4;7;3;13;Bottle 66cl. Hazy mahogny, tan head. Aroma is pine, hops, dark fruits. Flavor is like ASA or BW. Malt, resin, hops. Mild bitter finnish.
 2013-06-08;Ruovesi;2012-10-30;Bierzwerg;Williams Brothers Profanity Stout;330;2013-03-31;;7;3;7;3;13;Bottle 33cl. Black no head. Aroma is Chocolate, hops, mild roastiness flavor is mldly roasyed, hops. Medium body. Bit watery.
 2013-06-12;Oluthuone Pekko;;;Beer Here/Ugly Duck Helmuth Kellerbier;500;2014-01-10;;6;3;6;3;11;Bottle 50cl. Clear golden with white head. Bread, malt, grass. Uber-hoppy. What?
@@ -1987,7 +1985,7 @@
 2013-06-14;Gastropub Nordic;;;Flying Couch Reggae Dude;Draft;;;7;3;8;3;14;Draft. Clear yellow white head. Aroma is orange, hops, sweet fruits. Flavor is citrus, mild bitter hops, sweet fruits. Medium body and carbonation.
 2013-06-14;Gastropub Nordic;;;Malmgård Proto #2;Draft;;;6;3;6;3;12;Draft. Hazy orange off white head, aroma is wheat, yeast. Flavor is like flat hefe. wheat mostly. Medium body, soft carbonation.
 2013-06-14;Olutravintola Konttori;;;Nynäshamns Indianviken Pale Ale;Draft;;;7;3;7;3;13;Draft. Clear golden color, white head. Aroma is floral, hops, malt. Flavor is sweet malt, bitter hops, sweet fruity notes. Medium body and carbonation.
-2013-06-14;Pirkkala;2012-05-29;Bierkompass;Mikkeller Texas Ranger;330;2016-03-28;;9;4;9;4;15;Bottle 33cl.  Pours Black, thick khaki head.aroma is caramel, chocolate, spices .flavor is roasted malt, coffee, chili. Spicy finnish. Full body , soft carbo.
+2013-06-14;Pirkkala;2012-05-22;Bierkompass;Mikkeller Texas Ranger;330;2016-03-28;;9;4;9;4;15;Bottle 33cl.  Pours Black, thick khaki head.aroma is caramel, chocolate, spices .flavor is roasted malt, coffee, chili. Spicy finnish. Full body , soft carbo.
 2013-06-15;O'Hara's Freehouse;;;BrewDog Lichtenstein Pale Ale;330;2014-02-11;;8;3;8;3;14;Bottle 33cl. hazy Orange off white head. Aroma is fruity and floral. flavor is floral hops, caramel,   Medium Body and carbo.
 2013-06-15;O'Hara's Freehouse;;;Evil Twin / Stillwater / Stone The Perfect Crime Black Smoked Saison;355;;;6;3;7;3;13;Bottle 12oz. Black, Thin khaki head. Aroma is lite, floral, chocolate. Flavor is roasted malt, citrus.
 2013-06-15;O'Hara's Freehouse;;;Odell Red Ale;355;2013-06-20;;7;4;8;3;14;Bottle 12oz. Clear Amber Tan head. Aroma is fruits, caramel malt. flavor is berries, caramel, mild hops.
@@ -2023,7 +2021,7 @@
 2013-07-09;Gastropub Tuulensuu;;;Bayerischer Bahnhof Berliner Style Weisse Kartoffel;Draft;;;6;2;5;2;9;Draft. light Yellow, no head. Acid dishwash.
 2013-07-09;Gastropub Tuulensuu;;;Sainte Hélène Gypsy Rose;330;;;7;3;6;3;12;Draft. Rose, wite head, caramel, Sweet alcohol
 2013-07-09;Olutravintola Kahdet Kasvot;;;Arbor / Musketeers Mundus Vetus;Draft;;;7;3;7;3;13;Draft. 9%. clear Golden color white head, alcohol, fruits, caramel
-2013-07-09;Pirkkala;2012-05-29;Bierkompass;Mikkeller Hop Burn Low;330;2018-04-04;;9;3;9;4;15;"Bottle 33cl. hazy Orange, off white head, fruits, hops, malt, Grape, alcohol. Exellent for a ""lager"""
+2013-07-09;Pirkkala;2012-05-22;Bierkompass;Mikkeller Hop Burn Low;330;2018-04-04;;9;3;9;4;15;"Bottle 33cl. hazy Orange, off white head, fruits, hops, malt, Grape, alcohol. Exellent for a ""lager"""
 2013-07-10;Pirkkala;2013-07-10;K-citymarket Pirkkala;Motörhead Bastards Lager;330;28/02/14;;5;2;5;2;10;Bottle 33cl. Light clear Yellow. White head. Malt, Grain, water.
 2013-07-10;Pub Kultainen Apina;;;Anderson Valley Heelch O’ Hops;355;;;8;3;8;3;15;Bottle 12oz. clear Golden color, white head, fruits,hops, Grape, Some sweetness, malt.
 2013-07-10;Pub Kultainen Apina;;;Beer Hunters Mufloni Amber;Draft;;;6;3;7;3;13;Draft. hazy Amber, off white head. Floral hops, berries, some disturbing note (soap maybe)
@@ -2134,12 +2132,12 @@
 2013-10-05;Ruovesi;2013-07-16;Bierkompass;Midtfyns Barley Wine;500;2014-12-05;;7;4;8;3;14;Bottle 50cl. Cloudy amber, tan head. Malt, caramel, alcohol, hops.
 2013-10-11;Ruovesi;2013-10-04;Alko Koivistonkylä;Westheimer Weizen;500;2014-08-31;;6;3;6;2;12;Bottle 50cl. Hazy golden color, white head. Aroma is wheat and hefe yeast. Flavor is wheat, some yeast, mild spices. Bland medium hefe.
 2013-10-12;Ruovesi;2013-10-10;Prisma Koivistonkylä;Laitilan Kievari Tuomas 2013;330;2014-05-21;;5;2;4;2;9;Bottle 33cl. Clear copper color, thin white head. Malt, grain, bread. Flavor is the same. Really boring. 
-2013-10-12;Ruovesi;2013-02-05;Bierkompass;Port Brewing High Tide Fresh Hop IPA;650;;;9;3;8;3;14;Bottle 24oz. Cloudy golden color, white head. Aroma is sweet, hops, grape. Flavor is citrus, hops, grass. Nice bitter finnish. Bit thin body.
+2013-10-12;Ruovesi;2013-02-04;Bierkompass;Port Brewing High Tide Fresh Hop IPA;650;;;9;3;8;3;14;Bottle 24oz. Cloudy golden color, white head. Aroma is sweet, hops, grape. Flavor is citrus, hops, grass. Nice bitter finnish. Bit thin body.
 2013-10-24;Pirkkala;2013-10-24;Prisma Koivistonkylä;Founders All Day IPA;500;2014-06-09;;7;3;6;3;13;Bottle 355ml. Clear golden orange color, thin off white head. Aroma is pine, grape, fruits. Flavor is hops, citrus, flat and bit watery. Thin body, soft carbonation.
 2013-12-06;Ruovesi;2012-09-23;Bierkompass;Birrificio del Ducato Verdi (Black Jack Islay 2002);330;2020-12-31;L182 10;8;4;9;4;16;Bottle 33cl. Pitch black, thin beige head. Aroma is smoke, roasted malt, burnt motor oil, licorice. Aroma is smoke, peat, roasted malt, caramel, licorice. BA is really strong, in a good way. Oily texture, full body, smooth carbonation.
 TODO;Pirkkala;2010-05-10;Alko Arkadia;BrewDog Tokyo*;330;;;9;4;8;4;15;hyvä++, makea,pehmeän alkoholinen, parempi kuin odotti
 TODO;;2011-11-16;Alko Arkadia;BrewDog Nøgne Ø Mikkeller Black Tokyo* Horizon;330;;#057;;;;;;
-TODO;;2012-05-29;Bierkompass;Clown Shoes Blaecorn Unidragon;650;;;;;;;;
+TODO;;2012-05-22;Bierkompass;Clown Shoes Blaecorn Unidragon;650;;;;;;;;
 TODO;;2012-01-03;Bierkompass;De Molen Hel & Verdoemenis (Hell & Damnation);750;2036-11-01;2011-11-01;;;;;;
 TODO;;2012-01-03;Bierkompass;De Molen Hel & Verdoemenis 666;330;2036-11-14;2011-11-14;;;;;;
 TODO;;2012-10-27;Bierkompass;De Molen Hel & Verdoemenis Bunnahabhain B.A.;330;2037-09-05;2012-09-05;;;;;;
@@ -2151,7 +2149,7 @@ TODO;;2012-10-27;Bierkompass;De Molen Sodom & Gomorra Barrel Aged;330;2037-08-28
 TODO;;2013-03-20;De Bierkoning;Emelisse White Label Imperial Russian Stout Peated;330;;;;;;;;
 TODO;;2012-11-28;Bierkompass;Evil Twin Even More Jesus;330;;;;;;;;
 TODO;;2012-10-27;Bierkompass;Evil Twin The Beer Formerly known as Blackout;330;;;;;;;;
-TODO;;2011-12-20;Bierkompass;Green Flash Barleywine;650;;2011 vintage;;;;;;
+TODO;;2011-12-06;Bierkompass;Green Flash Barleywine;650;;2011 vintage;;;;;;
 TODO;;2012-11-28;Bierkompass;Lost Abbey 10 Commandments;750;;;;;;;;
 TODO;;2013-03-20;De Bierkoning;Lost Abbey Judgment Day;375;;;;;;;;
 TODO;;2012-11-28;Bierkompass;Lost Abbey Lost and Found;750;;;;;;;;

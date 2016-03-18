@@ -1,1 +1,0 @@
-#FORMAT ratingDate;ratingPlace;purchasingDate;purchasingPlace;name;pack;bbe;brewInfo;aroma;appearance;taste;palate;overall;score;description;purchaseInfo;

@@ -1,4 +1,5 @@
 #EXPECTED FORMAT: ratingDate;ratingPlace;purchasingDate;purchasingPlace;name;pack;bbe;brewInfo;aroma;appearance;taste;palate;overall;description
+#SEPARATOR: .
 
 2013-08-18. Pirkkala. 2013-08-17. Alko Kaleva. Hofbräu Schwarze Weisse. Bottle 500ml. 2014-07-16. . 636312. Hazy Brown, off white head Wheat, mild roastiness, caramel, Banana.
 
@@ -132,7 +133,7 @@
 
 2013-09-28. Ruovesi. 2013-09-24. K-citymarket Pirkkala. Bulmers original. Bottle 500ml. 2014-07-31. . 526210. clear Golden color, no head Apple, Some Wood Medium Sweet.
 
-2013-09-28. Ruovesi. 2013-09-24. K-citymarket Pirkkala. Nøgne Ø gpa. Bottle 500ml. 2014-03-25. Brewed 2013-03-25 943/948A. 837313. Hazy Golden Orange off white head Grass, Grape, citrus hops, malts.
+2013-09-28. Ruovesi. 2013-09-24. K-citymarket Pirkkala. Nøgne Ø GPA. Bottle 500ml. 2014-03-25. Brewed 2013-03-25 943/948A. 837313. Hazy Golden Orange off white head Grass, Grape, citrus hops, malts.
 
 2013-09-28. Ruovesi. 2011-11-04. Alko Anttila. Mikkeller Santas Little Helper 2011. Bottle 375ml. 2017-08-31. . 949417. Black With beige head Roasted malt, Chocolate, spices, Full Body, soft carbonation Nicely aged.
 
@@ -186,47 +187,47 @@
 
 2013-10-16. Pirkkala. 2013-10-11. Alko Lielahti. Beer Hunters CCCCC. Bottle 500ml. . . 838315. Cloudy Copper, Tan head Aroma is Tropical fruits, fruity hops Flavor isfruits, Orange, Tropical fruits, malt, caramel Bitter finnish.
 
-2013-10-18. Olutexpo 2013. . . Founders Imperial Stout. Draft. . . 949416. Dark br, khaki head, roasted malt,coffee, hops, Bit toi Rough oily texture, Soft carb.
+2013-10-18. OlutExpo 2013. . . Founders Imperial Stout. Draft. . . 949416. Dark br, khaki head, roasted malt,coffee, hops, Bit toi Rough oily texture, Soft carb.
 
-2013-10-18. Olutexpo 2013. . . To Øl Ridiculously Close To Insanity. Draft. . . 838313. cloudy yellow, no head fruits, floral, hops, malts, soft carbonation, med body.
+2013-10-18. OlutExpo 2013. . . To Øl Ridiculously Close To Insanity. Draft. . . 838313. cloudy yellow, no head fruits, floral, hops, malts, soft carbonation, med body.
 
-2013-10-18. Olutexpo 2013. . . Beaverton 8 Ball. Draft. . . 737313. Hazy Amber no head, Malts, hint of fruits, hops, bitter finnish, med Body, Soft carb.
+2013-10-18. OlutExpo 2013. . . Beaverton 8 Ball. Draft. . . 737313. Hazy Amber no head, Malts, hint of fruits, hops, bitter finnish, med Body, Soft carb.
 
-2013-10-18. Olutexpo 2013. . . BrewDog Abstrakt 14. Draft. . . 838314. hazy Copper, Tan head, wheat Banana, sweet, dried fruits, Full Body.
+2013-10-18. OlutExpo 2013. . . BrewDog Abstrakt 14. Draft. . . 838314. hazy Copper, Tan head, wheat Banana, sweet, dried fruits, Full Body.
 
-2013-10-18. Olutexpo 2013. . . BrewDog Voodoo doll. Draft. . . 837313. clear Golden Tan head, citrus, Lots of hops, fruits, Refreshing.
+2013-10-18. OlutExpo 2013. . . BrewDog Voodoo doll. Draft. . . 837313. clear Golden Tan head, citrus, Lots of hops, fruits, Refreshing.
 
-2013-10-18. Olutexpo 2013. . . CAP Curious Double IPA. Draft. . . 838313. clear golden whote headfruits, hops, too Much alcohol med Body and carb.
+2013-10-18. OlutExpo 2013. . . CAP Curious Double IPA. Draft. . . 838313. clear golden whote headfruits, hops, too Much alcohol med Body and carb.
 
-2013-10-18. Olutexpo 2013. . . CAP Exiter IPA. Draft. . . 536310. clear Golden white head, Grain, Grass, ohratärkkelys Huono.
+2013-10-18. OlutExpo 2013. . . CAP Exiter IPA. Draft. . . 536310. clear Golden white head, Grain, Grass, ohratärkkelys Huono.
 
-2013-10-18. Olutexpo 2013. . . Helsinki Bryggeri Porter. Draft. . . 848415. Dark Brown, beige head, heavy roasted Notes, oat, med Body and carb, Dry finnish.
+2013-10-18. OlutExpo 2013. . . Helsinki Bryggeri Porter. Draft. . . 848415. Dark Brown, beige head, heavy roasted Notes, oat, med Body and carb, Dry finnish.
 
-2013-10-18. Olutexpo 2013. . . Mikkeller Black Hole. Draft. . . 849415. Black Tan head, Vanilla, hops, roasted malt, fruits, weird but good.
+2013-10-18. OlutExpo 2013. . . Mikkeller Black Hole. Draft. . . 849415. Black Tan head, Vanilla, hops, roasted malt, fruits, weird but good.
 
-2013-10-18. Olutexpo 2013. . . Nøgne Ø Wet Hop Pale Ale. Draft. . . 736311. cloudy Orange, white head, worst Nøgne Ø so Far, carrot, vegetables, maa, vihannesmehu Murky.
+2013-10-18. OlutExpo 2013. . . Nøgne Ø Wet Hop Pale Ale. Draft. . . 736311. cloudy Orange, white head, worst Nøgne Ø so Far, carrot, vegetables, maa, vihannesmehu Murky.
 
-2013-10-18. Olutexpo 2013. . . Hatebrew Imperislisti Sika. Draft. . . 43327. Bun and strawberry jam, Clear Copper no head, Some alcohol too, propably the worst beer ever, We had to "vaska".
+2013-10-18. OlutExpo 2013. . . Hatebrew Imperislisti Sika. Draft. . . 43327. Bun and strawberry jam, Clear Copper no head, Some alcohol too, propably the worst beer ever, We had to "vaska".
 
-2013-10-18. Olutexpo 2013. . . Oakham Green Devil IPA. Cask. . . 837313. cloudy Yellow, white head, floral hops, fruits, Grape, Orange, Nice and refreshing.
+2013-10-18. OlutExpo 2013. . . Oakham Green Devil IPA. Cask. . . 837313. cloudy Yellow, white head, floral hops, fruits, Grape, Orange, Nice and refreshing.
 
-2013-10-18. Olutexpo 2013. . . Magic Rock Carnival. Cask. . . 736311. cloudy Amber off white head, Grain, Grass, bitterness, flat carbo Medium Body.
+2013-10-18. OlutExpo 2013. . . Magic Rock Carnival. Cask. . . 736311. cloudy Amber off white head, Grain, Grass, bitterness, flat carbo Medium Body.
 
-2013-10-18. Olutexpo 2013. . . Cap Black Celebration. Draft. . . 848314. chocolate, licorice, med Body and carb, Coffee, quite nici konservatiivinen Hops.
+2013-10-18. OlutExpo 2013. . . Cap Black Celebration. Draft. . . 848314. chocolate, licorice, med Body and carb, Coffee, quite nici konservatiivinen Hops.
 
-2013-10-18. Olutexpo 2013. . . Cap I am Curious Imperial Stout. Draft. . . 849416. Black, khaki head, roasted malt, coffee, Dark chocolate, licorice, Smoke, Real Nice.
+2013-10-18. OlutExpo 2013. . . Cap I am Curious Imperial Stout. Draft. . . 849416. Black, khaki head, roasted malt, coffee, Dark chocolate, licorice, Smoke, Real Nice.
 
-2013-10-18. Olutexpo 2013. . . Nøgne Ø 100% Peated. Bottle 250ml. 2014-10-25. Brewed 2012-10-25 #01464. 838315. cloudy Golden off white, strong peat, Some Smoke, bacon, I Like This.
+2013-10-18. OlutExpo 2013. . . Nøgne Ø 100% Peated. Bottle 250ml. 2014-10-25. Brewed 2012-10-25 #01464. 838315. cloudy Golden off white, strong peat, Some Smoke, bacon, I Like This.
 
-2013-10-18. Olutexpo 2013. . . Bridge Road / Nøgne Ø Aurora Australis. Bottle 250ml. 2017-12-20. Brewed 2012-12-20 #866b. 848316. Dark Brown khaki head, Barrel, wineous, mild sourness, chocolate, Medium Body,Soft carb, caramel, Oak.
+2013-10-18. OlutExpo 2013. . . Bridge Road / Nøgne Ø Aurora Australis. Bottle 250ml. 2017-12-20. Brewed 2012-12-20 #866b. 848316. Dark Brown khaki head, Barrel, wineous, mild sourness, chocolate, Medium Body,Soft carb, caramel, Oak.
 
-2013-10-18. Olutexpo 2013. . . Beer Hunters Pässinpää. Draft. . . 848314. Black khaki head, sour, chocolate, med Body and carb.
+2013-10-18. OlutExpo 2013. . . Beer Hunters Pässinpää. Draft. . . 848314. Black khaki head, sour, chocolate, med Body and carb.
 
-2013-10-18. Olutexpo 2013. . . Thornbridge / Mountain Goat Thorny Goat. Bottle 500ml. . . 948314. Smoke, peat, roasted malt, Meb Body, Full carb, Black, beige head, cocoa licorice.
+2013-10-18. OlutExpo 2013. . . Thornbridge / Mountain Goat Thorny Goat. Bottle 500ml. . . 948314. Smoke, peat, roasted malt, Meb Body, Full carb, Black, beige head, cocoa licorice.
 
-2013-10-18. Olutexpo 2013. . . Moa Imperial Stout. Bottle 330ml. . . 748314. Black khaki head, fruits, roasted malt, coffee, sweetness, Chocolate, sour Notes, murky, Licorice.
+2013-10-18. OlutExpo 2013. . . Moa Imperial Stout. Bottle 330ml. . . 748314. Black khaki head, fruits, roasted malt, coffee, sweetness, Chocolate, sour Notes, murky, Licorice.
 
-2013-10-18. Olutexpo 2013. . . Beer Hunters Äkäpukki. Draft. . . 838314. Black khaki head, roasted malt, chocolate, coffee med b, med c.
+2013-10-18. OlutExpo 2013. . . Beer Hunters Äkäpukki. Draft. . . 838314. Black khaki head, roasted malt, chocolate, coffee med b, med c.
 
 2013-10-18. Villi Wäinö. . . Kaksi Kotia kuuma kurpitsa. Draft. . . 636310. clear Copper, off white head, malts spices, soap, creamy toffee.
 
@@ -1436,59 +1437,59 @@
 
 2014-10-24. Ølhus København. . . Beavertown Gamma Ray. Draft. . . cloudy golden, off white head, fruits, grass, mild hops, refreshing med to thin b med c. 737314.
 
-2014-10-24. Olutexpo 2014. . . Sierra Nevada Hoptimum. Draft. . . clear golden off white head, lots of hops, grape, caramel malt, fruits, Med bc. 949416.
+2014-10-24. OlutExpo 2014. . . Sierra Nevada Hoptimum. Draft. . . clear golden off white head, lots of hops, grape, caramel malt, fruits, Med bc. 949416.
 
-2014-10-24. Olutexpo 2014. . . Närke Svarte Kungen. Draft. . . dark Brown beige head, mild roasted malts, Sugar, weird fruits, chocolate med bc, oily. 647313.
+2014-10-24. OlutExpo 2014. . . Närke Svarte Kungen. Draft. . . dark Brown beige head, mild roasted malts, Sugar, weird fruits, chocolate med bc, oily. 647313.
 
-2014-10-24. Olutexpo 2014. . . Nøgne Ø Triple Wood Knot Brown. Bottle 500ml. . . Brown reddish, khaki head, dried fruits, smoke, Brown Sugar, full body slick, med c. 838414.
+2014-10-24. OlutExpo 2014. . . Nøgne Ø Triple Wood Knot Brown. Bottle 500ml. . . Brown reddish, khaki head, dried fruits, smoke, Brown Sugar, full body slick, med c. 838414.
 
-2014-10-24. Olutexpo 2014. . . Padrino Vanilla Chocolate Porter. Draft. . . dark Brown beige head, chocolate, hops, caramel, hops, Vanilla, Med bc. 748314.
+2014-10-24. OlutExpo 2014. . . Padrino Vanilla Chocolate Porter. Draft. . . dark Brown beige head, chocolate, hops, caramel, hops, Vanilla, Med bc. 748314.
 
-2014-10-24. Olutexpo 2014. . . Mikkeller k:rlek 2014. Draft. . . hazy yellow orangeish white head, tangy fruity hops, grape, fresh, med bc. 838315.
+2014-10-24. OlutExpo 2014. . . Mikkeller k:rlek 2014. Draft. . . hazy yellow orangeish white head, tangy fruity hops, grape, fresh, med bc. 838315.
 
-2014-10-24. Olutexpo 2014. . . Oppigårds Thurbo dipa. Draft. . . clear golden color, off white head, hops, grape, caramel malt, fresh fruits, med bc. 839415.
+2014-10-24. OlutExpo 2014. . . Oppigårds Thurbo dipa. Draft. . . clear golden color, off white head, hops, grape, caramel malt, fresh fruits, med bc. 839415.
 
-2014-10-24. Olutexpo 2014. . . Beer Hunters Nelson Sauvin IPA. Draft. . . hazy Brown, malts, heavy hops, caramel, med bc. 738314.
+2014-10-24. OlutExpo 2014. . . Beer Hunters Nelson Sauvin IPA. Draft. . . hazy Brown, malts, heavy hops, caramel, med bc. 738314.
 
-2014-10-24. Olutexpo 2014. . . Elav Humulus. Draft. . . dark Brown thick beige head, hops, fruits, chocolate, roasted malts, med b flat carbo, some problems with keg. 847314.
+2014-10-24. OlutExpo 2014. . . Elav Humulus. Draft. . . dark Brown thick beige head, hops, fruits, chocolate, roasted malts, med b flat carbo, some problems with keg. 847314.
 
-2014-10-24. Olutexpo 2014. . . Bad Attitude / Nøgne Ø White IPA. Bottle 330ml. . . cloudy yellow, white head, citrus, tropical fruits, hops, meb bc. 738314.
+2014-10-24. OlutExpo 2014. . . Bad Attitude / Nøgne Ø White IPA. Bottle 330ml. . . cloudy yellow, white head, citrus, tropical fruits, hops, meb bc. 738314.
 
-2014-10-24. Olutexpo 2014. . . Hiisi Pint Please. Draft. . . cloudy orange, thin off white head, caramel malts, faint hops, citrus, grass, med bc. 737314.
+2014-10-24. OlutExpo 2014. . . Hiisi Pint Please. Draft. . . cloudy orange, thin off white head, caramel malts, faint hops, citrus, grass, med bc. 737314.
 
-2014-10-24. Olutexpo 2014. . . Sori What Is My Name? Black Rye IPA. Draft. . . dark brown, beige head, licorice, glue, chocolate, mild roasted notes, mild hops, med bc. 646312.
+2014-10-24. OlutExpo 2014. . . Sori What Is My Name? Black Rye IPA. Draft. . . dark brown, beige head, licorice, glue, chocolate, mild roasted notes, mild hops, med bc. 646312.
 
-2014-10-24. Olutexpo 2014. . . Rousal IPA. Draft. . . amber, off white head, malts, hops, biscuit caramel, med bc. 638314.
+2014-10-24. OlutExpo 2014. . . Rousal IPA. Draft. . . amber, off white head, malts, hops, biscuit caramel, med bc. 638314.
 
-2014-10-24. Olutexpo 2014. . . Little Creatures Pale Ale. Bottle 330ml. . . clear golden off white head, fruits, sweet notes, mild hops malts, caramel med bc. 738314.
+2014-10-24. OlutExpo 2014. . . Little Creatures Pale Ale. Bottle 330ml. . . clear golden off white head, fruits, sweet notes, mild hops malts, caramel med bc. 738314.
 
-2014-10-24. Olutexpo 2014. . . Bryggeri Helsinki Barley Wine. Draft. . . hazy Brown no head dried fruits, barrel, Brown Sugar, mild bitterness, malts, boozy. 738414.
+2014-10-24. OlutExpo 2014. . . Bryggeri Helsinki Barley Wine. Draft. . . hazy Brown no head dried fruits, barrel, Brown Sugar, mild bitterness, malts, boozy. 738414.
 
-2014-10-24. Olutexpo 2014. . . Bryggeri Helsinki Brewing Club II ”Syysmyrsky” DIPA. Draft. . . cloudy amber, off white head, caramel, malts, grape, fruits, mild hops, Med to full b, med c. 838315.
+2014-10-24. OlutExpo 2014. . . Bryggeri Helsinki Brewing Club II ”Syysmyrsky” DIPA. Draft. . . cloudy amber, off white head, caramel, malts, grape, fruits, mild hops, Med to full b, med c. 838315.
 
-2014-10-24. Olutexpo 2014. . . BrewDog Tokyo* (as 16,5% version). Draft. . . 849416. black beige head, chocolate caramel roasted malts nice barrel aging, full body soft carbo oily mouthfeeel.
+2014-10-24. OlutExpo 2014. . . BrewDog Tokyo* (as 16,5% version). Draft. . . 849416. black beige head, chocolate caramel roasted malts nice barrel aging, full body soft carbo oily mouthfeeel.
 
-2014-10-24. Olutexpo 2014. . . Lervig / Surly 1349 Black Ale. Bottle 330ml. . . fruits, mild roastiness, inesd, caramel, full b, med c, exellent. 849416.
+2014-10-24. OlutExpo 2014. . . Lervig / Surly 1349 Black Ale. Bottle 330ml. . . fruits, mild roastiness, inesd, caramel, full b, med c, exellent. 849416.
 
-2014-10-24. Olutexpo 2014. . . Coronado Islanders IPA. Bottle 355ml. . . cloudy orange off white head, fruits, carame malts ,mild hops, citrus, pine, Med bc. 838314.
+2014-10-24. OlutExpo 2014. . . Coronado Islanders IPA. Bottle 355ml. . . cloudy orange off white head, fruits, carame malts ,mild hops, citrus, pine, Med bc. 838314.
 
-2014-10-24. Olutexpo 2014. . . Weird Beard Decadence Stout. Bottle 330ml. . . dark Brown beige head, chocolate, roasted malts, cocoa, carmel, Med bc. 848314.
+2014-10-24. OlutExpo 2014. . . Weird Beard Decadence Stout. Bottle 330ml. . . dark Brown beige head, chocolate, roasted malts, cocoa, carmel, Med bc. 848314.
 
-2014-10-24. Olutexpo 2014. . . CAP Shot In The Dark. Draft. . . dark Brown beige head, fruits, wet hops, watery, med bc. 636313.
+2014-10-24. OlutExpo 2014. . . CAP Shot In The Dark. Draft. . . dark Brown beige head, fruits, wet hops, watery, med bc. 636313.
 
-2014-10-24. Olutexpo 2014. . . BrewDog / CAP Capdog. Draft. . . pitch black beigehead, fruits hops roasted malts, chocolate medbc. 737313.
+2014-10-24. OlutExpo 2014. . . BrewDog / CAP Capdog. Draft. . . pitch black beigehead, fruits hops roasted malts, chocolate medbc. 737313.
 
-2014-10-24. Olutexpo 2014. . . Ruosniemen Insinööri IPA. Draft. . . hazy yellow, off white head, tropiclfruits mild citrus, malts fruits, medbc. 637313.
+2014-10-24. OlutExpo 2014. . . Ruosniemen Insinööri IPA. Draft. . . hazy yellow, off white head, tropiclfruits mild citrus, malts fruits, medbc. 637313.
 
-2014-10-24. Olutexpo 2014. . . Iso-Kallan Panimo Syys-Rapa. Draft. . . golden orange off white fruits, floral hops off flavors med bc. 636212.
+2014-10-24. OlutExpo 2014. . . Iso-Kallan Panimo Syys-Rapa. Draft. . . golden orange off white fruits, floral hops off flavors med bc. 636212.
 
-2014-10-24. Olutexpo 2014. . . Nøgne Ø / Garage Project SummerSommer. Bottle 500ml. . . cloudy orange, white head, sweet fruits, malts, caramel med bc. 737313.
+2014-10-24. OlutExpo 2014. . . Nøgne Ø / Garage Project SummerSommer. Bottle 500ml. . . cloudy orange, white head, sweet fruits, malts, caramel med bc. 737313.
 
-2014-10-24. Olutexpo 2014. . . Nøgne Ø / AleBrowar Chmiel Iunga IPA. Bottle 500ml. . . cloudy yellow white head, Citrus grass malts med bc. 737313.
+2014-10-24. OlutExpo 2014. . . Nøgne Ø / AleBrowar Chmiel Iunga IPA. Bottle 500ml. . . cloudy yellow white head, Citrus grass malts med bc. 737313.
 
-2014-10-24. Olutexpo 2014. . . Fat Bat. Draft. . . cloydy amber off white head, berries, malts, hops, Med bc. 636312.
+2014-10-24. OlutExpo 2014. . . Fat Bat. Draft. . . cloydy amber off white head, berries, malts, hops, Med bc. 636312.
 
-2014-10-24. Olutexpo 2014. . . Two Tales Bohemian Black Ale. Bottle 330ml. . . Brown beige head, cookies, caramel malts. 637312.
+2014-10-24. OlutExpo 2014. . . Two Tales Bohemian Black Ale. Bottle 330ml. . . Brown beige head, cookies, caramel malts. 637312.
 
 2014-10-24. William K Kurvi. . . Suomenlinnan William K Tumma Vehnä. Draft. . . dark Brown reddish, Beige head, Malts sweet beries, wheat med bc. 737313.
 
@@ -1506,45 +1507,45 @@
 
 2014-10-25. William K Kurvi. . . BrewDog Russian Doll - Barley Wine. Bottle 330ml. 2015-07-31. #298. 839415. Deep mahogny, off white, tropical fruity notes in aroma which seems to ne common in serie, dried fruits, caramel, hops, caramel malts, resin, full b slick oily texture.
 
-2014-10-25. Olutexpo 2014. . . Hiisi Two Bad. Draft. . . clear amber thick off white head , hazy orange off white head, fruits, malts, caramel, pine, med to full b. 738314.
+2014-10-25. OlutExpo 2014. . . Hiisi Two Bad. Draft. . . clear amber thick off white head , hazy orange off white head, fruits, malts, caramel, pine, med to full b. 738314.
 
-2014-10-25. Olutexpo 2014. . . Beer Hunters Mufloni Wiesen Hopfenlager. Draft. . . 637314. hazy orange off white head, malts grain, mild hops, caramel, med bc.
+2014-10-25. OlutExpo 2014. . . Beer Hunters Mufloni Wiesen Hopfenlager. Draft. . . 637314. hazy orange off white head, malts grain, mild hops, caramel, med bc.
 
-2014-10-25. Olutexpo 2014. . . Bad Attitude Hop Sincope. Can 330ml. . . clear golden white head, tropical fruits, juice, citrus, malts, watery, orange med b soft c. 736313.
+2014-10-25. OlutExpo 2014. . . Bad Attitude Hop Sincope. Can 330ml. . . clear golden white head, tropical fruits, juice, citrus, malts, watery, orange med b soft c. 736313.
 
-2014-10-25. Olutexpo 2014. . . Cap Great White Hype. Draft. . . clear yellow white head, yeast wheat, citrus, mild hops Meb bc, long bitter finnish. 837314.
+2014-10-25. OlutExpo 2014. . . Cap Great White Hype. Draft. . . clear yellow white head, yeast wheat, citrus, mild hops Meb bc, long bitter finnish. 837314.
 
-2014-10-25. Olutexpo 2014. . . Iso-Kallan Panimo Oatmeal Stout. Draft. . . pitch black beige head, chocolate roasted malts, caramel, med b flat palate. 646313.
+2014-10-25. OlutExpo 2014. . . Iso-Kallan Panimo Oatmeal Stout. Draft. . . pitch black beige head, chocolate roasted malts, caramel, med b flat palate. 646313.
 
-2014-10-25. Olutexpo 2014. . . Oppigords Thurbo Stout. Draft. . . Pitch black beige head, roasted malts, caramel chocolate, full b oily texture med c. 848315.
+2014-10-25. OlutExpo 2014. . . Oppigords Thurbo Stout. Draft. . . Pitch black beige head, roasted malts, caramel chocolate, full b oily texture med c. 848315.
 
-2014-10-25. Olutexpo 2014. . . Permon sherpa IPA. Bottle 500ml. . . clear golden orange, off white head, floral hops, Malts, fruits, caramel, not so fresh, med bc. 637313.
+2014-10-25. OlutExpo 2014. . . Permon sherpa IPA. Bottle 500ml. . . clear golden orange, off white head, floral hops, Malts, fruits, caramel, not so fresh, med bc. 637313.
 
-2014-10-25. Olutexpo 2014. . . Thornbridge Hall Bracia Imperial Stout Rasberry. Bottle 500ml. . . pitch black, beige head, strong rasberry note in aroma, roasted malts, chocolate, mild sour notes, rasberry juice full body, soft cargo, oily texture. 848414.
+2014-10-25. OlutExpo 2014. . . Thornbridge Hall Bracia Imperial Stout Rasberry. Bottle 500ml. . . pitch black, beige head, strong rasberry note in aroma, roasted malts, chocolate, mild sour notes, rasberry juice full body, soft cargo, oily texture. 848414.
 
-2014-10-25. Olutexpo 2014. . . Suomenlinnan Diipadaapa. Draft. . . clear orange thin white head, caramel malts, mild hops grape fruits, Med b flat cargo. 637313.
+2014-10-25. OlutExpo 2014. . . Suomenlinnan Diipadaapa. Draft. . . clear orange thin white head, caramel malts, mild hops grape fruits, Med b flat cargo. 637313.
 
-2014-10-25. Olutexpo 2014. . . Suomenlinnan Old Graig Spicy 2014. Draft. . . deep brown reddish, tan head, dark fruits, berries, malts, brown sugar, med to full b med c oily texture. 737414.
+2014-10-25. OlutExpo 2014. . . Suomenlinnan Old Graig Spicy 2014. Draft. . . deep brown reddish, tan head, dark fruits, berries, malts, brown sugar, med to full b med c oily texture. 737414.
 
-2014-10-25. Olutexpo 2014. . . Teerenpeli Notkea Nipa. Draft. . . cloudy orange off white head, citrus, caramel malts, fruits, pine med bc. 637313.
+2014-10-25. OlutExpo 2014. . . Teerenpeli Notkea Nipa. Draft. . . cloudy orange off white head, citrus, caramel malts, fruits, pine med bc. 637313.
 
-2014-10-25. Olutexpo 2014. . . Coopers Extra Stout. Bottle 375ml. . . pitch black beige head, Chocolate, roasted malts, Caramel, med bc. 738314.
+2014-10-25. OlutExpo 2014. . . Coopers Extra Stout. Bottle 375ml. . . pitch black beige head, Chocolate, roasted malts, Caramel, med bc. 738314.
 
-2014-10-25. Olutexpo 2014. . . Nøgne Ø kriek of telemark. Draft. . . deep red ruby color, thin white head, weird aroma fat or something flavor is sour cherries, malts, too sour for me, Med b high cargo. 536312.
+2014-10-25. OlutExpo 2014. . . Nøgne Ø Kriek of Telemark. Draft. . . deep red ruby color, thin white head, weird aroma fat or something flavor is sour cherries, malts, too sour for me, Med b high cargo. 536312.
 
-2014-10-25. Olutexpo 2014. . . Widmer Alchemy. Bottle 355ml. . . cloudy golden orange, off white head, malts fruits mild hops, med bc, tusina kamaa. 636312.
+2014-10-25. OlutExpo 2014. . . Widmer Alchemy. Bottle 355ml. . . cloudy golden orange, off white head, malts fruits mild hops, med bc, tusina kamaa. 636312.
 
-2014-10-25. Olutexpo 2014. . . Elav Punks Do It Bitter. Draft. . . cloudy yellow, white head, malts, fruity hops, med bc, Quite good for low abv. 738314.
+2014-10-25. OlutExpo 2014. . . Elav Punks Do It Bitter. Draft. . . cloudy yellow, white head, malts, fruity hops, med bc, Quite good for low abv. 738314.
 
-2014-10-25. Olutexpo 2014. . . Bryggeri Spezial. Draft. . . clear golden orange, off white head, malts wood smoke fresh, med b med to high carbo, nice. 738314.
+2014-10-25. OlutExpo 2014. . . Bryggeri Spezial. Draft. . . clear golden orange, off white head, malts wood smoke fresh, med b med to high carbo, nice. 738314.
 
-2014-10-25. Olutexpo 2014. . . Stallhagen 1843 Historic Beer. Bottle 375ml. . . cloudy yellow white head, malts, caramel, med bc better than I thought. 637313.
+2014-10-25. OlutExpo 2014. . . Stallhagen 1843 Historic Beer. Bottle 375ml. . . cloudy yellow white head, malts, caramel, med bc better than I thought. 637313.
 
-2014-10-25. Olutexpo 2014. . . Thornbridge Hall Bracia. Bottle 500ml. . . pitch black beige head, roasted malts, chocolate fruity notes heavy malts caramel, full b oily texture. 748415.
+2014-10-25. OlutExpo 2014. . . Thornbridge Hall Bracia. Bottle 500ml. . . pitch black beige head, roasted malts, chocolate fruity notes heavy malts caramel, full b oily texture. 748415.
 
-2014-10-25. Olutexpo 2014. . . To Øl Jule Maelk. Draft. . . Sweet, chocolate mild roastiness, sweet berries candies full b oily texture. 949416.
+2014-10-25. OlutExpo 2014. . . To Øl Jule Maelk. Draft. . . Sweet, chocolate mild roastiness, sweet berries candies full b oily texture. 949416.
 
-2014-10-25. Olutexpo 2014. . . Modernist Stocholm Syndrome. Bottle 330ml. 2015-02-17. . Hazy amber off white head, aroma is tropical fruits, malts caramel, mild hops, med bc. 838314.
+2014-10-25. OlutExpo 2014. . . Modernist Stocholm Syndrome. Bottle 330ml. 2015-02-17. . Hazy amber off white head, aroma is tropical fruits, malts caramel, mild hops, med bc. 838314.
 
 2014-10-25. Kaisla. . . Birrificcio Sant Andreas blitz!. Bottle 750ml. 2015-03-31. 14165. cloudy golden orange, off white head, tropical fruits, fruity hops, grape, caramel malts, full body slick oily texture. 848415.
 

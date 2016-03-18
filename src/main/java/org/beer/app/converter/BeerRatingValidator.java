@@ -45,7 +45,7 @@ public final class BeerRatingValidator {
 
 	private static void validateNumberOfSemicolons(String line) throws BeerValidationException {
 		int count = line.length() - line.replace(";", "").length();
-		if (count != 14) {
+		if (count == 14) {
 			throw new BeerValidationException("Wrong number of semicolons: " + count);
 		}
 	}

@@ -18,10 +18,11 @@ public final class ConvertPunctuationMarks {
 		return formattedLine;
 	}
 
-	public static String addEndingDot(String line) {
-		String formattedLine = line + ".";
-		formattedLine = formattedLine.replaceAll("\\.\\.", ".");
-		return formattedLine;
+	public static String removeFinalDot(String line) {
+		if (line.endsWith(".")) {
+			return line.substring(0, line.length() - 1);
+		}
+		return line;
 	}
 
 	public static String changeCommasToDots(String line) {

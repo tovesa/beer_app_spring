@@ -15,7 +15,7 @@ public final class BeerRatingValidator {
 	private BeerRatingValidator() {
 	}
 
-	public static boolean isValid(String line) {
+	public static boolean isValid(String line, int lineNumber) {
 		// format: rating date;rating place;purchasing date;purchasing
 		// place;name;pack;bbe;brew info;score;description
 		try {
@@ -34,18 +34,31 @@ public final class BeerRatingValidator {
 			validateTaste(ratingArray[10]);
 			validatePalate(ratingArray[11]);
 			validateOverall(ratingArray[12]);
-			validateDescription(ratingArray[13]);
+			if (hasDescription(ratingArray)) {
+				validateDescription(ratingArray[13]);
+			}
 		} catch (BeerValidationException e) {
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
-			LOG.error(fixedLengthErrorMessage + " Line: " + line);
+			String fixedLengthLineNumber = String.format("%04d", lineNumber);
+			LOG.error(fixedLengthErrorMessage + " Line " + fixedLengthLineNumber + " : " + line);
+			// return false; TODO remove comments
+		} catch (ArrayIndexOutOfBoundsException e) {
+			String fixedLengthErrorMessage = String.format("%1$-50s",
+					"ArrayIndexOutOfBoundsException: " + e.getMessage());
+			String fixedLengthLineNumber = String.format("%04d", lineNumber);
+			LOG.error(fixedLengthErrorMessage + " Line " + fixedLengthLineNumber + " : " + line);
 			return false;
 		}
 		return true;
 	}
 
+	private static boolean hasDescription(String[] ratingArray) {
+		return ratingArray.length == 14 ? true : false;
+	}
+
 	private static void validateNumberOfSemicolons(String line) throws BeerValidationException {
 		int count = line.length() - line.replace(";", "").length();
-		if (count == 14) {
+		if (count != 13) {
 			throw new BeerValidationException("Wrong number of semicolons: " + count);
 		}
 	}
@@ -76,13 +89,13 @@ public final class BeerRatingValidator {
 	}
 
 	private static void validateName(String s) throws BeerValidationException {
-		if (!s.matches("(.*){3,}")) {
+		if (s.length() < 3) {
 			throw new BeerValidationException("Incorrect name: " + s);
 		}
 	}
 
 	private static void validatePack(String s) throws BeerValidationException {
-		if (!s.matches("(Bottle|Can)\\s\\d{3}ml") && !s.matches("(Draft|Cask)")) {
+		if (!s.matches("(Bottle|Can)\\s\\d{2,3}ml") && !s.matches("(Draft|Cask|Sample)")) {
 			throw new BeerValidationException("Incorrect pack: " + s);
 		}
 
@@ -131,8 +144,11 @@ public final class BeerRatingValidator {
 	}
 
 	private static void validateDescription(String s) throws BeerValidationException {
-		if (!s.matches("(.*){20,}")) {
+		if (s.isEmpty() || s.length() < 15) {
 			throw new BeerValidationException("Incorrect description: " + s);
+		}
+		if (s.startsWith("bottle") || s.startsWith("Bottle")) {
+			throw new BeerValidationException("Remove pack: " + s);
 		}
 	}
 

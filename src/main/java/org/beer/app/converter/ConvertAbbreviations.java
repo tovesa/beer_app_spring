@@ -10,8 +10,8 @@ public final class ConvertAbbreviations {
 	private ConvertAbbreviations() {
 	}
 
-	public static String replaceAbbreviations(String line) {
-		String formattedLine;
+	public static String replaceAbbreviations(String line, String separator) {
+		String formattedLine = line;
 		StringBuilder sb = new StringBuilder();
 		// formattedLine = line.replaceAll("pla", "Pirkkala");
 		// formattedLine = formattedLine.replaceAll("Naamat", "Kahdet Kasvot");
@@ -43,21 +43,46 @@ public final class ConvertAbbreviations {
 		// formattedLine = formattedLine.replaceAll("black door", "Black Door");
 		// formattedLine = formattedLine.replaceAll("bier bier", "Bier-Bier");
 
-		formattedLine = line.replaceAll(" 33cl", ". Bottle 330ml.");
-		formattedLine = formattedLine.replaceAll(" 35cl", ". Bottle 355ml.");
-		formattedLine = formattedLine.replaceAll(" 37,5cl", ". Bottle 375ml.");
-		formattedLine = formattedLine.replaceAll(" 37.5cl", ". Bottle 375ml.");
-		formattedLine = formattedLine.replaceAll(" 650cl", ". Bottle 650ml.");
-		formattedLine = formattedLine.replaceAll(" 660cl", ". Bottle 650ml.");
-		formattedLine = formattedLine.replaceAll(" 50cl", ". Bottle 500ml.");
-		formattedLine = formattedLine.replaceAll(" 75cl", ". Bottle 750ml.");
+		if (".".equals(separator)) {
+			formattedLine = line.replaceAll(" 33cl", ". Bottle 330ml.");
+			formattedLine = formattedLine.replaceAll(" 35cl", ". Bottle 355ml.");
+			formattedLine = formattedLine.replaceAll(" 37,5cl", ". Bottle 375ml.");
+			formattedLine = formattedLine.replaceAll(" 37.5cl", ". Bottle 375ml.");
+			formattedLine = formattedLine.replaceAll(" 650cl", ". Bottle 650ml.");
+			formattedLine = formattedLine.replaceAll(" 660cl", ". Bottle 650ml.");
+			formattedLine = formattedLine.replaceAll(" 50cl", ". Bottle 500ml.");
+			formattedLine = formattedLine.replaceAll(" 75cl", ". Bottle 750ml.");
 
-		formattedLine = formattedLine.replaceAll(" 330\\.", ". Bottle 330ml.");
-		formattedLine = formattedLine.replaceAll(" 355\\.", ". Bottle 355ml.");
-		formattedLine = formattedLine.replaceAll(" 500\\.", ". Bottle 500ml.");
-		formattedLine = formattedLine.replaceAll(" 650\\.", ". Bottle 650ml.");
-		formattedLine = formattedLine.replaceAll(" 650\\.", ". Bottle 650ml.");
-		formattedLine = formattedLine.replaceAll(" 750\\.", ". Bottle 750ml.");
+			formattedLine = formattedLine.replaceAll(" 330\\.", ". Bottle 330ml.");
+			formattedLine = formattedLine.replaceAll(" 341\\.", ". Bottle 341ml.");
+			formattedLine = formattedLine.replaceAll(" 355\\.", ". Bottle 355ml.");
+			formattedLine = formattedLine.replaceAll(" 500\\.", ". Bottle 500ml.");
+			formattedLine = formattedLine.replaceAll(" 510\\.", ". Bottle 510ml.");
+			formattedLine = formattedLine.replaceAll(" 600\\.", ". Bottle 600ml.");
+			formattedLine = formattedLine.replaceAll(" 650\\.", ". Bottle 650ml.");
+			formattedLine = formattedLine.replaceAll(" 660\\.", ". Bottle 660ml.");
+			formattedLine = formattedLine.replaceAll(" 750\\.", ". Bottle 750ml.");
+
+			formattedLine = formattedLine.replaceAll("Can 330\\.", ". Can 330ml.");
+			formattedLine = formattedLine.replaceAll("Can 355\\.", ". Can 355ml.");
+			formattedLine = formattedLine.replaceAll("Can 500\\.", ". Can 500ml.");
+		} else if (";".equals(separator)) {
+			formattedLine = line.replaceAll(";330;", ";Bottle 330ml;");
+			formattedLine = formattedLine.replaceAll(";341;", ";Bottle 341ml;");
+			formattedLine = formattedLine.replaceAll(";355;", ";Bottle 355ml;");
+			formattedLine = formattedLine.replaceAll(";400;", ";Bottle 400ml;");
+			formattedLine = formattedLine.replaceAll(";500;", ";Bottle 500ml;");
+			formattedLine = formattedLine.replaceAll(";510;", ";Bottle 510ml;");
+			formattedLine = formattedLine.replaceAll(";600;", ";Bottle 600ml;");
+			formattedLine = formattedLine.replaceAll(";650;", ";Bottle 650ml;");
+			formattedLine = formattedLine.replaceAll(";660;", ";Bottle 660ml;");
+			formattedLine = formattedLine.replaceAll(";750;", ";Bottle 750ml;");
+
+			formattedLine = formattedLine.replaceAll(";Can 330;", ";Can 330ml;");
+			formattedLine = formattedLine.replaceAll(";Can 355;", ";Can 355ml;");
+			formattedLine = formattedLine.replaceAll(";Can 500;", ";Can 500ml;");
+			formattedLine = formattedLine.replaceAll(";Can 568;", ";Can 568ml;");
+		}
 
 		sb.append(formattedLine);
 		return sb.toString();

@@ -14,6 +14,24 @@ public class BeerRating {
 
 	private static final Logger LOG = LoggerFactory.getLogger(BeerRating.class);
 
+	public static final String FN_RATING_DATE = "ratingDate";
+	public static final String FN_RATING_PLACE = "ratingPlace";
+	public static final String FN_PURCHASING_DATE = "purchasingDate";
+	public static final String FN_PURCHASING_PLACE = "purchasingPlace";
+	public static final String FN_NAME = "name";
+	public static final String FN_PACK = "pack";
+	public static final String FN_BBE = "bbe";
+	public static final String FN_BREW_INFO = "brewInfo";
+	public static final String FN_AROMA = "aroma";
+	public static final String FN_APPEARANCE = "appearance";
+	public static final String FN_TASTE = "taste";
+	public static final String FN_PALATE = "palate";
+	public static final String FN_OVERALL = "overall";
+	public static final String FN_COMMENTS = "comments";
+	public static final String FN_BREWERY = "brewery";
+	public static final String FN_COUNTRY = "country";
+	public static final String FN_RB_ID = "rbId";
+
 	private static final int COMMENTS_MIN_LENGTH = 30;
 	private String ratingDate;
 	private String ratingPlace;
@@ -238,20 +256,20 @@ public class BeerRating {
 		this.ratingPlace = ratingPlace;
 	}
 
-	public String getPurchased() {
-		return this.purchasingPlace;
-	}
-
-	public void setPurchased(String purchased) {
-		this.purchasingPlace = purchased;
-	}
-
 	public String getPurchasingDate() {
 		return this.purchasingDate;
 	}
 
 	public void setPurchasingDate(String purchasingDate) {
 		this.purchasingDate = purchasingDate;
+	}
+
+	public String getPurchasingPlace() {
+		return this.purchasingPlace;
+	}
+
+	public void setPurchasingPlace(String purchasingPlace) {
+		this.purchasingPlace = purchasingPlace;
 	}
 
 	public String getName() {
@@ -342,12 +360,12 @@ public class BeerRating {
 		this.overall = overall;
 	}
 
-	public String getNotes() {
+	public String getComments() {
 		return this.comments;
 	}
 
-	public void setNotes(String notes) {
-		this.comments = notes;
+	public void setComments(String comments) {
+		this.comments = comments;
 	}
 
 	public int getRbId() {
@@ -362,41 +380,50 @@ public class BeerRating {
 	public String toString() {
 
 		StringBuilder sb = new StringBuilder();
-		sb.append("ratingDate=");
+		sb.append(FN_RATING_DATE);
+		sb.append("=");
 		sb.append(this.ratingDate);
-		sb.append("\nratingPlace=");
+		sb.append(toStrFormat(FN_RATING_PLACE));
 		sb.append(this.ratingPlace);
-		sb.append("\npurchasingPlace=");
-		sb.append(this.purchasingPlace);
-		sb.append("\npurchasingDate=");
+		sb.append(toStrFormat(FN_PURCHASING_DATE));
 		sb.append(this.purchasingDate);
-		sb.append("\nname=");
+		sb.append(toStrFormat(FN_PURCHASING_PLACE));
+		sb.append(this.purchasingPlace);
+		sb.append(toStrFormat(FN_NAME));
 		sb.append(this.name);
-		sb.append("\npack=");
+		sb.append(toStrFormat(FN_PACK));
 		sb.append(this.pack);
-		sb.append("\nbbe=");
+		sb.append(toStrFormat(FN_BBE));
 		sb.append(this.bbe);
-		sb.append("\nbrewInfo=");
+		sb.append(toStrFormat(FN_BREW_INFO));
 		sb.append(this.brewInfo);
-		sb.append("\naroma=");
+		sb.append(toStrFormat(FN_AROMA));
 		sb.append(this.aroma);
-		sb.append("\nappearance=");
+		sb.append(toStrFormat(FN_APPEARANCE));
 		sb.append(this.appearance);
-		sb.append("\ntaste=");
+		sb.append(toStrFormat(FN_TASTE));
 		sb.append(this.taste);
-		sb.append("\npalate=");
+		sb.append(toStrFormat(FN_PALATE));
 		sb.append(this.palate);
-		sb.append("\noverall=");
+		sb.append(toStrFormat(FN_OVERALL));
 		sb.append(this.overall);
-		sb.append("\ncomments=");
+		sb.append(toStrFormat(FN_COMMENTS));
 		sb.append(this.comments);
-		sb.append("\nbrewery=");
+		sb.append(toStrFormat(FN_BREWERY));
 		sb.append(this.brewery);
-		sb.append("\ncountry=");
+		sb.append(toStrFormat(FN_COUNTRY));
 		sb.append(this.country);
-		sb.append("\nrbId=");
+		sb.append(toStrFormat(FN_RB_ID));
 		sb.append(this.rbId);
 
+		return sb.toString();
+	}
+
+	private static String toStrFormat(String str) {
+		StringBuilder sb = new StringBuilder();
+		sb.append("\n");
+		sb.append(str);
+		sb.append("=");
 		return sb.toString();
 	}
 }

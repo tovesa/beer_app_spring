@@ -35,7 +35,9 @@ GET _search
     "match_all": {}
   }
 }
+
 PUT beer-rating
+
 DELETE beer-rating
 
 PUT /_cluster/settings

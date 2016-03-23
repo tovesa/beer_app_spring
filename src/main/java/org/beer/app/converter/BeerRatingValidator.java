@@ -41,7 +41,7 @@ public final class BeerRatingValidator {
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
 			String fixedLengthLineNumber = String.format("%04d", lineNumber);
 			LOG.error(fixedLengthErrorMessage + " Line " + fixedLengthLineNumber + " : " + line);
-			// return false; TODO remove comments
+			return false;
 		} catch (ArrayIndexOutOfBoundsException e) {
 			String fixedLengthErrorMessage = String.format("%1$-50s",
 					"ArrayIndexOutOfBoundsException: " + e.getMessage());

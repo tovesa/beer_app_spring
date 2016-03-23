@@ -171,16 +171,19 @@ public class EsClient implements DataStorageClient {
 	}
 
 	private static BeerRating buildBeerRating(Map<String, Object> sourceAsMap) {
-		return new BeerRating(sourceAsMap.get("ratingDate").toString(), sourceAsMap.get("ratingPlace").toString(),
-				sourceAsMap.get("purchasingDate").toString(), sourceAsMap.get("purchasingPlace").toString(),
-				sourceAsMap.get("name").toString(), sourceAsMap.get("pack").toString(), "", "",
-				Integer.parseInt(sourceAsMap.get("aroma").toString()),
-				Integer.parseInt(sourceAsMap.get("appearance").toString()),
-				Integer.parseInt(sourceAsMap.get("taste").toString()),
-				Integer.parseInt(sourceAsMap.get("palate").toString()),
-				Integer.parseInt(sourceAsMap.get("overall").toString()), sourceAsMap.get("comments").toString(),
-				sourceAsMap.get("brewery").toString(), sourceAsMap.get("country").toString(),
-				Integer.parseInt(sourceAsMap.get("rbId").toString()));
+		return new BeerRating(sourceAsMap.get(BeerRating.FN_RATING_DATE).toString(),
+				sourceAsMap.get(BeerRating.FN_RATING_PLACE).toString(),
+				sourceAsMap.get(BeerRating.FN_PURCHASING_DATE).toString(),
+				sourceAsMap.get(BeerRating.FN_PURCHASING_PLACE).toString(),
+				sourceAsMap.get(BeerRating.FN_NAME).toString(), sourceAsMap.get(BeerRating.FN_PACK).toString(), "", "",
+				Integer.parseInt(sourceAsMap.get(BeerRating.FN_AROMA).toString()),
+				Integer.parseInt(sourceAsMap.get(BeerRating.FN_APPEARANCE).toString()),
+				Integer.parseInt(sourceAsMap.get(BeerRating.FN_TASTE).toString()),
+				Integer.parseInt(sourceAsMap.get(BeerRating.FN_PALATE).toString()),
+				Integer.parseInt(sourceAsMap.get(BeerRating.FN_OVERALL).toString()),
+				sourceAsMap.get(BeerRating.FN_COMMENTS).toString(), sourceAsMap.get(BeerRating.FN_BREWERY).toString(),
+				sourceAsMap.get(BeerRating.FN_COUNTRY).toString(),
+				Integer.parseInt(sourceAsMap.get(BeerRating.FN_RB_ID).toString()));
 	}
 
 	private static void logIndexResponse(IndexResponse response) {

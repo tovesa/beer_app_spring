@@ -12,7 +12,7 @@ public class PropertyReader {
 
 	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingService.class);
 
-	private static final String PROPERTIES_FILE = "";
+	private static final String PROPERTIES_FILE = "src/main/resources/config.properties";
 
 	private static PropertyReader instance = new PropertyReader();
 

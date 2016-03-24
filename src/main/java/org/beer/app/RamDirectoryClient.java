@@ -32,12 +32,12 @@ import org.slf4j.LoggerFactory;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class InMemoryClient implements DataStorageClient {
-	private static final Logger LOG = LoggerFactory.getLogger(InMemoryClient.class);
+public class RamDirectoryClient implements DataStorageClient {
+	private static final Logger LOG = LoggerFactory.getLogger(RamDirectoryClient.class);
 
 	private static final String BEER_RATINGS_FILE = "src/main/resources/beers2008-2016.txt";
 
-	private static InMemoryClient instance = new InMemoryClient();
+	private static RamDirectoryClient instance = new RamDirectoryClient();
 
 	private boolean running;
 
@@ -45,10 +45,10 @@ public class InMemoryClient implements DataStorageClient {
 
 	private RAMDirectory index;
 
-	private InMemoryClient() {
+	private RamDirectoryClient() {
 	}
 
-	public static InMemoryClient getInstance() {
+	public static RamDirectoryClient getInstance() {
 		return instance;
 	}
 
@@ -93,7 +93,6 @@ public class InMemoryClient implements DataStorageClient {
 			LOG.error("Parse query failed. ParseException: " + e.getMessage() + " Search term: " + searchTerm);
 			return "error:" + e.getMessage();
 		}
-
 		return getAutoSuggestionsAsJsonString(hits);
 	}
 

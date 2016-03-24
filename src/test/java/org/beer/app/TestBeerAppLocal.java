@@ -24,10 +24,10 @@ public class TestBeerAppLocal {
 	}
 
 	@Test
-	public void testInMemoryClient() throws BeerValidationException {
-		InMemoryClient client = InMemoryClient.getInstance();
+	public void testRamDirectoryClient() throws BeerValidationException {
+		RamDirectoryClient client = RamDirectoryClient.getInstance();
 		client.start();
-		String response = client.getAutoSuggestions("name", "brew");
+		String response = client.getAutoSuggestions("name", "brewdog");
 		System.out.println("Hits: " + response);
 	}
 

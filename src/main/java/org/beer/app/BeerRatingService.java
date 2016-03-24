@@ -26,11 +26,11 @@ public class BeerRatingService {
 	}
 
 	private static DataStorageClient getDataStorageClient() {
-		String dataStorage = PropertyReader.getProperty("dataStorage", DataStorage.RAMDISC.getValue());
+		String dataStorage = PropertyReader.getProperty("dataStorage", DataStorage.RAMDIRECTORY.getValue());
 		if (dataStorage.equals(DataStorage.ELASTICSEARCH.getValue())) {
 			return ElasticsearchClient.getInstance();
 		}
-		return InMemoryClient.getInstance();
+		return RamDirectoryClient.getInstance();
 	}
 
 	@POST

@@ -26,10 +26,10 @@ import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class EsClient implements DataStorageClient {
-	private static final Logger LOG = LoggerFactory.getLogger(EsClient.class);
+public class ElasticsearchClient implements DataStorageClient {
+	private static final Logger LOG = LoggerFactory.getLogger(ElasticsearchClient.class);
 
-	private static EsClient instance = new EsClient();
+	private static ElasticsearchClient instance = new ElasticsearchClient();
 
 	private boolean running;
 
@@ -51,10 +51,10 @@ public class EsClient implements DataStorageClient {
 
 	private ObjectMapper objectMapper;
 
-	private EsClient() {
+	private ElasticsearchClient() {
 	}
 
-	public static EsClient getInstance() {
+	public static ElasticsearchClient getInstance() {
 		return instance;
 	}
 
@@ -133,7 +133,7 @@ public class EsClient implements DataStorageClient {
 	}
 
 	private static void validateSearchField(String searchField) throws BeerValidationException {
-		List<String> allowedValues = Stream.of(EsSearchField.values()).map(Enum::name).collect(Collectors.toList());
+		List<String> allowedValues = Stream.of(ElasticsearchField.values()).map(Enum::name).collect(Collectors.toList());
 		if (!allowedValues.contains(searchField)) {
 			throw new BeerValidationException("Illegal search field: " + searchField);
 		}

@@ -27,6 +27,5 @@ public class BeerRatingFileWriter {
 		} catch (IOException e) {
 			System.out.println("Exception: " + e);
 		}
-
 	}
 }

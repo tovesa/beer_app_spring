@@ -55,6 +55,7 @@ public class ConvertFile {
 				formattedLines.add(formattedLine);
 			}
 		}
+
 		return formattedLines;
 	}
 }

@@ -17,12 +17,20 @@ import org.slf4j.LoggerFactory;
 @Path("/ws")
 public class BeerRatingService {
 
-	private static final transient Logger LOG = LoggerFactory.getLogger(BeerRatingService.class);
-	private EsClient esClient;
+	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingService.class);
+	private DataStorageClient dataStorageClient;
 
 	public BeerRatingService() {
-		this.esClient = EsClient.getInstance();
-		this.esClient.start();
+		this.dataStorageClient = getDataStorageClient();
+		this.dataStorageClient.start();
+	}
+
+	private static DataStorageClient getDataStorageClient() {
+		String dataStorage = PropertyReader.getProperty("dataStorage", DataStorage.RAMDISC.getValue());
+		if (dataStorage.equals(DataStorage.ELASTICSEARCH.getValue())) {
+			return ElasticsearchClient.getInstance();
+		}
+		return InMemoryClient.getInstance();
 	}
 
 	@POST
@@ -31,7 +39,7 @@ public class BeerRatingService {
 	public Response createRating(BeerRating beerRating) {
 		LOG.debug("createRating: " + beerRating.toString());
 		try {
-			this.esClient.createBeerRating(beerRating);
+			this.dataStorageClient.createBeerRating(beerRating);
 		} catch (Exception e) {
 			LOG.error("Create rating failed: " + e);
 			int status = 500; // TODO
@@ -44,15 +52,16 @@ public class BeerRatingService {
 	@Path("getAutoSuggestions")
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response getAutoSuggestions(@QueryParam("field") String field, @QueryParam("term") String term) {
-		LOG.debug("getAutoSuggestions: field:" + field + ", term:" + term);
+		LOG.debug("field: {}, term: {}", field, term);
 		String response = "";
 		try {
-			response = this.esClient.getAutoSuggestions(field, term);
+			response = this.dataStorageClient.getAutoSuggestions(field, term);
 		} catch (Exception e) {
 			LOG.error("Get auto suggestions failed: " + e);
 			int status = 500; // TODO
 			return Response.status(status).entity(response).build();
 		}
+		LOG.debug("Response: {}", response);
 		return Response.status(200).entity(response).build();
 	}
 
@@ -60,15 +69,16 @@ public class BeerRatingService {
 	@Path("getRatings")
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response getRatings(@QueryParam("field") String field, @QueryParam("term") String term) {
-		LOG.debug("getRatings: field:" + field + ", term:" + term);
+		LOG.debug("field: {}, term: {}", field, term);
 		List<BeerRating> response;
 		try {
-			response = this.esClient.getBeerRatings(field, term);
+			response = this.dataStorageClient.getBeerRatings(field, term);
 		} catch (Exception e) {
 			LOG.error("Get ratings failed: " + e);
 			int status = 500; // TODO
 			return Response.status(status).entity(e).build();
 		}
+		LOG.debug("Response: {}", response);
 		return Response.status(200).entity(response).build();
 	}
 
@@ -76,7 +86,7 @@ public class BeerRatingService {
 	@Path("close")
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Response close() {
-		this.esClient.stop();
+		this.dataStorageClient.stop();
 		return Response.status(200).entity("Elasticsearch connection closed.").build();
 	}
 }

@@ -12,15 +12,23 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 
 public class TestBeerAppLocal {
 
-	private static EsClient esClient;
+	private static ElasticsearchClient esClient;
 
 	public void startEsClient() {
-		esClient = EsClient.getInstance();
+		esClient = ElasticsearchClient.getInstance();
 		esClient.start();
 	}
 
 	public void stopEsClient() {
 		esClient.stop();
+	}
+
+	@Test
+	public void testInMemoryClient() throws BeerValidationException {
+		InMemoryClient client = InMemoryClient.getInstance();
+		client.start();
+		String response = client.getAutoSuggestions("name", "brew");
+		System.out.println("Hits: " + response);
 	}
 
 	@Test

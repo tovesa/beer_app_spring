@@ -25,6 +25,5 @@ public class BeerApp {
 		} catch (Exception e) {
 			LOG.error("Start BeerApp failed, exception: ", e);
 		}
-
 	}
 }

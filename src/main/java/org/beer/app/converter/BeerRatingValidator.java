@@ -34,25 +34,25 @@ public final class BeerRatingValidator {
 			validateTaste(ratingArray[10]);
 			validatePalate(ratingArray[11]);
 			validateOverall(ratingArray[12]);
-			if (hasDescription(ratingArray)) {
+			if (hasComments(ratingArray)) {
 				validateDescription(ratingArray[13]);
 			}
 		} catch (BeerValidationException e) {
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
-			String fixedLengthLineNumber = String.format("%04d", lineNumber);
+			String fixedLengthLineNumber = String.format("%04d", Integer.valueOf(lineNumber));
 			LOG.error(fixedLengthErrorMessage + " Line " + fixedLengthLineNumber + " : " + line);
 			return false;
 		} catch (ArrayIndexOutOfBoundsException e) {
 			String fixedLengthErrorMessage = String.format("%1$-50s",
 					"ArrayIndexOutOfBoundsException: " + e.getMessage());
-			String fixedLengthLineNumber = String.format("%04d", lineNumber);
+			String fixedLengthLineNumber = String.format("%04d", Integer.valueOf(lineNumber));
 			LOG.error(fixedLengthErrorMessage + " Line " + fixedLengthLineNumber + " : " + line);
 			return false;
 		}
 		return true;
 	}
 
-	private static boolean hasDescription(String[] ratingArray) {
+	private static boolean hasComments(String[] ratingArray) {
 		return ratingArray.length == 14 ? true : false;
 	}
 

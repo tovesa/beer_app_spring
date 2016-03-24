@@ -54,8 +54,10 @@ public class InMemoryClient implements DataStorageClient {
 
 	@Override
 	public void start() {
+		this.objectMapper = new ObjectMapper();
 		this.index = new RAMDirectory();
 		populateIndex();
+		LOG.debug("InMemoryClient started.");
 	}
 
 	@Override
@@ -71,18 +73,19 @@ public class InMemoryClient implements DataStorageClient {
 	@Override
 	public String getAutoSuggestions(String searchField, String searchTerm) throws BeerValidationException {
 		validateSearchField(searchField);
-		List<String> hits = new ArrayList<>();
+		validateSearchTerm(searchTerm);
+		List<AutoSuggestion> hits = new ArrayList<>();
+
 		try (IndexReader indexReader = DirectoryReader.open(this.index);) {
 			IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 			Query query = new QueryParser(searchField, new StandardAnalyzer()).parse(searchTerm);
-			TopDocs topDocs = indexSearcher.search(query, 100);
+			TopDocs topDocs = indexSearcher.search(query, 50);
 			ScoreDoc[] scoreDocs = topDocs.scoreDocs;
 			for (ScoreDoc sc : scoreDocs) {
 				int docId = sc.doc;
 				Document doc = indexSearcher.doc(docId);
-				hits.add(doc.get(searchField));
+				hits.add(new AutoSuggestion(searchField, doc.get(searchField)));
 			}
-
 		} catch (IOException e) {
 			LOG.error("Open index reder failed. IOException: " + e.getMessage());
 			return "error:" + e.getMessage();
@@ -91,23 +94,13 @@ public class InMemoryClient implements DataStorageClient {
 			return "error:" + e.getMessage();
 		}
 
-		if (LOG.isDebugEnabled()) {
-			logSearchResponse("");
-		}
-
-		return getAutoSuggestionsAsJsonString(searchTerm, hits);
+		return getAutoSuggestionsAsJsonString(hits);
 	}
 
 	@Override
 	public List<BeerRating> getBeerRatings(String searchField, String searchTerm) throws BeerValidationException {
 		validateSearchField(searchField);
 		validateSearchTerm(searchTerm);
-
-		if (LOG.isDebugEnabled()) {
-			LOG.debug("Query:\n" + "");
-			logSearchResponse("");
-		}
-
 		if (true) {
 			LOG.debug("No beer ratings matching the given searh criteria: field: {}, term: {}", searchField,
 					searchTerm);
@@ -118,14 +111,12 @@ public class InMemoryClient implements DataStorageClient {
 
 	private void populateIndex() {
 		List<BeerRating> beerRatingList = BeerRatingFileReader.readBeerRatingsFromFile(BEER_RATINGS_FILE);
-
-		for (BeerRating br : beerRatingList) {
-			try (IndexWriter indexWriter = new IndexWriter(this.index, new IndexWriterConfig(new StandardAnalyzer()))) {
+		try (IndexWriter indexWriter = new IndexWriter(this.index, new IndexWriterConfig(new StandardAnalyzer()))) {
+			for (BeerRating br : beerRatingList) {
 				indexWriter.addDocument(createDocument(br));
-			} catch (IOException e) {
-				LOG.error("Add document to index failed. IOException: " + e.getMessage() + " Beer rating: "
-						+ br.toString());
 			}
+		} catch (IOException e) {
+			LOG.error("Add document to index failed. IOException: " + e.getMessage());
 		}
 	}
 
@@ -155,15 +146,22 @@ public class InMemoryClient implements DataStorageClient {
 	}
 
 	private static void validateSearchField(String searchField) throws BeerValidationException {
-		List<String> allowedValues = Stream.of(EsSearchField.values()).map(Enum::name).collect(Collectors.toList());
+		List<String> allowedValues = Stream.of(ElasticsearchField.values()).map(Enum::name)
+				.collect(Collectors.toList());
 		if (!allowedValues.contains(searchField)) {
 			throw new BeerValidationException("Illegal search field: " + searchField);
 		}
 	}
 
-	private static String getAutoSuggestionsAsJsonString(String searchTerm, List<String> hits) {
-		// TODO Auto-generated method stub
-		return null;
+	private String getAutoSuggestionsAsJsonString(List<AutoSuggestion> hits) {
+		String jsonString;
+		try {
+			jsonString = this.objectMapper.writeValueAsString(hits);
+		} catch (JsonProcessingException e) {
+			LOG.error("JSON processing failed. JsonProcessingException. " + e.getMessage());
+			jsonString = "{\"error\":\"JSON processing failed. JsonProcessingException. " + e.getMessage() + "\"}";
+		}
+		return jsonString;
 	}
 
 	private static List<BeerRating> getBeerRatingsAsList(String response) {
@@ -222,11 +220,6 @@ public class InMemoryClient implements DataStorageClient {
 				i++;
 			}
 		}
-	}
-
-	private static void logSearchResponse(String response) {
-		LOG.debug("search hits: " + response);
-		// TODO fix log
 	}
 
 	public boolean isRunning() {

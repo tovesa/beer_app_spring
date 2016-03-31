@@ -57,12 +57,13 @@ public class RamDirectoryClient implements DataStorageClient {
 		this.objectMapper = new ObjectMapper();
 		this.index = new RAMDirectory();
 		populateIndex();
-		LOG.debug("InMemoryClient started.");
+		LOG.debug("RamDirectoryClient started.");
 	}
 
 	@Override
 	public void stop() {
 		this.index.close();
+		LOG.debug("RamDirectoryClient succesfully closed.");
 	}
 
 	@Override

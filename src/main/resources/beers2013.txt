@@ -1039,7 +1039,7 @@
 2011-12-09;The Bishops Arms, Copenhagen;;;Evil Twin Christmas Eve at a New York City Hotel Room 2011;Draft;;;8;3;8;4;13;
 2011-12-09;The Bishops Arms, Copenhagen;;;Evil Twin Soft Xmas aka Pretty Please With A Cherry On Top;Draft;;;9;3;8;4;13;
 2011-12-10;Mikkeller Bar, Copenhagen;;;Amager Hr. Frederiksen (Coffee Edition);Draft;;;9;4;9;4;15;
-2011-12-10;Mikkeller Bar, Copenhagen;;;BrewDog Stone Bashah;Bottle 330ml;;;9;4;8;3;12;
+2011-12-10;Mikkeller Bar, Copenhagen;;;BrewDog / Stone Bashah;Bottle 330ml;;;9;4;8;3;12;
 2011-12-10;Mikkeller Bar, Copenhagen;;;Dieu du Ciel Équinoxe du Printemps;Draft;;;7;3;8;3;11;
 2011-12-10;Mikkeller Bar, Copenhagen;;;Maui Brewing Shipwreck Stout;Draft;;;9;4;8;4;13;
 2011-12-10;Mikkeller Bar, Copenhagen;;;Mikkeller Single Hop Citra IPA;Draft;;;9;3;8;3;12;
@@ -1582,7 +1582,7 @@
 2012-10-05;Stockholm Beer and Whisky Festival;;;Xbeeriment Hoppenheimer Imperial IPA;Draft;;;7;3;8;3;12;
 2012-10-06;O'Connell's Irish Bar;;;Evil Twin All Occasions IPA;Bottle 330ml;;;8;3;8;3;14;
 2012-10-06;O'Connell's Irish Bar;;;Evil Twin P3;Bottle 330ml;;;8;4;8;3;14;
-2012-10-06;O'Connell's Irish Bar;;;Mikkeller/Lervig Double Eye PA;Bottle 330ml;;;8;3;8;3;13;
+2012-10-06;O'Connell's Irish Bar;;;Mikkeller / Lervig Double Eye PA;Bottle 330ml;;;8;3;8;3;13;
 2012-10-06;O'Connell's Irish Bar;;;Stronzo 1000 EBC;Bottle 375ml;;;9;4;9;4;17;
 2012-10-06;Panimoravintola Bruuveri;;;Bruuveri Compass IPA;Draft;;;7;3;8;3;12;
 2012-10-09;Pirkkala;2012-10-02;K-citymarket Pirkkala;BrewDog Dead Pony Club;Bottle 330ml;2013-08-08;256;8;3;7;3;13;
@@ -2140,7 +2140,7 @@
 2013-10-12;Ruovesi;2013-10-10;Prisma Koivistonkylä;Laitilan Kievari Tuomas 2013;Bottle 330ml;2014-05-21;;5;2;4;2;9;Clear copper color, thin white head. Malt, grain, bread. Flavor is the same. Really boring. 
 2013-10-12;Ruovesi;2013-02-04;Bierkompass;Port Brewing High Tide Fresh Hop IPA;Bottle 650ml;;;9;3;8;3;14;Cloudy golden color, white head. Aroma is sweet, hops, grape. Flavor is citrus, hops, grass. Nice bitter finnish. Bit thin body.
 2013-10-24;Pirkkala;2013-10-24;Prisma Koivistonkylä;Founders All Day IPA;Bottle 355ml;2014-06-09;;7;3;6;3;13;Clear golden orange color, thin off white head. Aroma is pine, grape, fruits. Flavor is hops, citrus, flat and bit watery. Thin body, soft carbonation.
-2013-12-06;Ruovesi;2012-09-23;Bierkompass;Birrificio del Ducato Verdi (Black Jack Islay 2002);Bottle 330ml;2020-12-31;L182 10;8;4;9;4;16;Pitch black, thin beige head. Aroma is smoke, roasted malt, burnt motor oil, licorice. Aroma is smoke, peat, roasted malt, caramel, licorice. BA is really strong, in a good way. Oily texture, full body, smooth carbonation.
+2013-12-06;Ruovesi;2012-09-23;Bierkompass;Birrificio del Ducato Verdi (Black Jack);Bottle 330ml;2020-12-31;Islay 2002, L182 10;8;4;9;4;16;Pitch black, thin beige head. Aroma is smoke, roasted malt, burnt motor oil, licorice. Aroma is smoke, peat, roasted malt, caramel, licorice. BA is really strong, in a good way. Oily texture, full body, smooth carbonation.
 2010-05-13;Ruovesi;2010-05-10;Alko Arkadia;BrewDog Tokyo*;Bottle 330ml;;;9;4;8;4;15;makea,pehmeän alkoholinen, parempi kuin odotti
 TODO;;2011-11-16;Alko Arkadia;BrewDog Nøgne Ø Mikkeller Black Tokyo* Horizon;Bottle 330ml;;#057;;;;;;
 TODO;;2012-05-22;Bierkompass;Clown Shoes Blaecorn Unidragon;Bottle 650ml;;;;;;;;

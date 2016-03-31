@@ -5,8 +5,12 @@ import java.util.List;
 
 import org.beer.app.BeerRatingFileReader;
 import org.beer.app.BeerRatingFileWriter;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class ConvertFile {
+
+	private static final Logger LOG = LoggerFactory.getLogger(ConvertFile.class);
 
 	private ConvertFile() {
 	}
@@ -44,6 +48,9 @@ public class ConvertFile {
 				continue;
 			}
 			if (".".equals(inputFileSeparator)) {
+				if (!correctNumberOfDots(line, lineNumber)) {
+					continue;
+				}
 				formattedLine = ConvertOrder.moveScore(formattedLine);
 				formattedLine = ConvertPunctuationMarks.removeFinalDot(formattedLine);
 				formattedLine = ConvertPunctuationMarks.dotsToSemicolons(formattedLine);
@@ -57,5 +64,15 @@ public class ConvertFile {
 		}
 
 		return formattedLines;
+	}
+
+	private static boolean correctNumberOfDots(String line, int lineNumber) {
+		int expectedNumberOfDots = line.charAt(line.length() - 1) == '.' ? 10 : 9;
+		int count = line.length() - line.replace(".", "").length();
+		if (count != expectedNumberOfDots) {
+			LOG.error("Incorrect number of dots: " + count + ". Line " + lineNumber + ": " + line);
+			return false;
+		}
+		return true;
 	}
 }

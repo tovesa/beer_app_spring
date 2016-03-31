@@ -2,33 +2,46 @@ package org.beer.app;
 
 import static org.junit.Assert.assertEquals;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 import org.beer.app.converter.ConvertFile;
 import org.junit.Test;
 
+import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonMappingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class TestBeerAppLocal {
 
-	private static ElasticsearchClient esClient;
+	private static final String ELASTICSEARCH = "elasticsearch";
+	private static final String RAM_DIR = "ramDirectory";
+	private String dataStorage = RAM_DIR;
 
-	public void startEsClient() {
-		esClient = ElasticsearchClient.getInstance();
-		esClient.start();
+	private static DataStorageClient dataStorageClient;
+
+	public void startDataStorageClient() {
+		if (ELASTICSEARCH.equals(this.dataStorage)) {
+			dataStorageClient = ElasticsearchClient.getInstance();
+		} else if (RAM_DIR.equals(this.dataStorage)) {
+			dataStorageClient = RamDirectoryClient.getInstance();
+		}
+		dataStorageClient.start();
 	}
 
-	public void stopEsClient() {
-		esClient.stop();
+	public void stopDataStorageClient() {
+		dataStorageClient.stop();
 	}
 
 	@Test
-	public void testRamDirectoryClient() throws BeerValidationException {
-		RamDirectoryClient client = RamDirectoryClient.getInstance();
-		client.start();
-		String response = client.getAutoSuggestions("name", "brewdog");
-		System.out.println("Hits: " + response);
+	public void testRamDirectoryClient()
+			throws BeerValidationException, JsonParseException, JsonMappingException, IOException {
+		startDataStorageClient();
+		String response = dataStorageClient.getAutoSuggestions("name", "To Øl");
+		printAutoSuggestionsToConsole(response);
+		stopDataStorageClient();
 	}
 
 	@Test
@@ -70,23 +83,35 @@ public class TestBeerAppLocal {
 
 	@Test
 	public void testAddBeerRatingsToEs() throws JsonProcessingException {
-		startEsClient();
+		this.dataStorage = ELASTICSEARCH;
+		startDataStorageClient();
 		String inputFile = "src/main/resources/beers_converted_2.txt";
 		List<BeerRating> brList = BeerRatingFileReader.readBeerRatingsFromFile(inputFile);
 		for (BeerRating br : brList) {
-			esClient.createBeerRating(br);
+			dataStorageClient.createBeerRating(br);
 		}
-		stopEsClient();
+		stopDataStorageClient();
 	}
 
 	@Test
 	public void testGetBeerRatingsFromEs() throws BeerValidationException {
-		startEsClient();
-		List<BeerRating> brList = esClient.getBeerRatings("name", "Svaneke Skøre Elg");
+		this.dataStorage = ELASTICSEARCH;
+		startDataStorageClient();
+		List<BeerRating> brList = dataStorageClient.getBeerRatings("name", "Svaneke Skøre Elg");
 		for (BeerRating br : brList) {
 			System.out.println("Beer rating from ES:\n" + br.toString());
 		}
-		stopEsClient();
+		stopDataStorageClient();
+	}
+
+	private static void printAutoSuggestionsToConsole(String response)
+			throws JsonParseException, JsonMappingException, IOException {
+		ObjectMapper mapper = new ObjectMapper();
+		List<AutoSuggestion> autoSuggestionList = mapper.readValue(response,
+				mapper.getTypeFactory().constructCollectionType(List.class, AutoSuggestion.class));
+		for (AutoSuggestion as : autoSuggestionList) {
+			System.out.println(as.toString());
+		}
 	}
 
 	private static void verifyNumberOfCreatedBeerRatings(String inputFile, List<BeerRating> brList) {

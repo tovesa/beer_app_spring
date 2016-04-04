@@ -1,0 +1,71 @@
+2016-04-01;TCBW 2016;;;AF Brew Mosaic IPA;Draft;;;8;3;8;3;15;clear yellow white head tr fruits hops citrus hops med bc bitter finnish
+2016-04-01;TCBW 2016;;;AF Brew Zimnaya Melankholiya;Draft;;;7;4;8;3;15;black beer with b head chocolate caramel med bc roasted malts faint coffee bitter finnish
+2016-04-01;TCBW 2016;;;LOC Brewery / All In Brewing I Milk Your Drinkshake;Draft;;;7;3;6;2;12;l yellow w heafd faint red berry juice hops malts citrus med bc
+2016-04-01;TCBW 2016;;;All In Brewing Hustle Imperial Stout;Draft;;;8;4;8;3;15;dark brown beige head chocolate coffee penut med bc
+2016-04-01;TCBW 2016;;;Bakunin Ghost Town (Cognac B.A.);Draft;;;8;4;7;3;15;dark brown thick beige head roasted malts chocolate sour notes berries faint barrel full b soft c
+2016-04-01;TCBW 2016;;;Beavertown Lupuloid IPA Series - Dr Enigmaticus;Draft;;;7;3;8;3;14;cloudy yellow white head trop fruits hops citrus tangy fruits med bc
+2016-04-01;TCBW 2016;;;Brew By Numbers 03/03 Porter - Traditional;Draft;;;7;4;7;3;14;dark brown beige head roasted malts med bc
+2016-04-01;TCBW 2016;;;Buxton / Lervig Trolltunga;Draft;;;6;3;7;3;14;hazy light yellow white head sour berries citrus med bc med bc much more sour ale than ipa
+2016-04-01;TCBW 2016;;;Cigar City Invasion;Draft;;;7;3;8;3;14;clear yellow tr fruits hops citrus med bc
+2016-04-01;TCBW 2016;;;Cigar City / Nantahala Two Regular Joes;Draft;;;8;4;8;4;15;pitch black beige head brown sugar bready malts full b med c
+2016-04-01;TCBW 2016;;;De Molen Hel & Verdoemenis Port Charlotte BA (peated);Draft;;;8;4;8;4;15;dark brown beige head ba roasted malts licorice fb mc
+2016-04-01;TCBW 2016;;;Lehe Suur Paks Mastif;Draft;;;8;4;8;3;15;hazy b orange off w head caramel resin dried fruits med to f body med c
+2016-04-01;TCBW 2016;;;Lervig / Põhjala Walnut Porter;Draft;;;7;4;7;3;13;d brown beige head chocolate roasted malts med bc
+2016-04-01;TCBW 2016;;;Põhjala / Mallaskoski Black Koivunen;Draft;;;7;4;7;3;14;dark brown beige head roasted bready malts choco rabit harsh and watery watery med bc
+2016-04-01;TCBW 2016;;;"Mikkeller 12"" Winale";Draft;;;7;3;8;3;15;c light yellow white head sour notes citrus wheat yeast med bc
+2016-04-01;TCBW 2016;;;Sori Delirious;Draft;;;8;3;8;3;15; clear golden off white head tr fruits crispy malts hops citrus med bc
+2016-04-01;TCBW 2016;;;Tanker/Van Moll Animal Instinct - brett IPA 6.2%;Draft;;;7;3;8;3;15;cloudy yellow white head sweetish fruits citrus grapefruit brett med bc
+2016-04-01;TCBW 2016;;;Tanker Hallucination;Draft;;;8;3;8;3;15;hazy light yellow white head hops crispy malts fruits citrus med bc
+2016-04-01;TCBW 2016;;;To Øl Hoppy Mondays;Draft;;;7;3;8;3;14;clear yellow white head hops yeast citrus
+2016-04-01;TCBW 2016;;;AF Brew ABV not IBU: Amarillo;Draft;;;8;3;8;3;15;cloudy yellow white head hops tr fruits citrus m bc really good
+2016-04-01;TCBW 2016;;;All In Brewing Big Blind;Draft;;;8;3;8;3;15;clear yellow qhite head tr fruits citrus hops med bc
+2016-04-01;TCBW 2016;;;Beavertown Imperial Lord Smog Almighty;Draft;;;7;3;8;4;15;dark brown beige head smoke chocolate coffee med bc
+2016-04-01;TCBW 2016;;;Beawertown Heavy Water;Draft;;;8;4;8;3;15;dark brown beige head chocolate coffee med bc
+2016-04-01;TCBW 2016;;;Boneyard The Backbone;Draft;;;8;4;7;3;14;dark brown beige head coffee malts caramel med bc
+2016-04-01;TCBW 2016;;;Buxton / Oedipus / Oproer Ring Your Mother 1832 XXXX Mild;Draft;;;7;3;6;4;12;cloudy amber white head hops fruits grass too boozyl med bc
+2016-04-01;TCBW 2016;;;Buxton Anglo-Belgique;Draft;;;8;4;8;3;15;cloudy yellow white head hops fruits
+2016-04-01;TCBW 2016;;;La Pirata ¡Ay, Carmela!;Draft;;;7;3;8;3;14;clear golden w head tr fruits hops malts suga m bc
+2016-04-01;TCBW 2016;;;La Pirata Lab Nº 001 Super Oatmeal Stout;Draft;;;8;3;8;3;14;dark brown beige head malts chocolate molasses
+2016-04-01;TCBW 2016;;;Lervig Barley Wine 2015 Jack Daniels BA;Draft;;;8;4;8;4;15;deep brown redfish caramel dried fruits f b med c
+2016-04-01;TCBW 2016;;;Lindheim Saison Farmhouse Ale;Draft;;;7;3;7;3;14;clear yellow white head hops yeast wheat caramel citrus med bc
+2016-04-01;TCBW 2016;;;LoverBeer Saison De L’ouvrier - Griotta;Draft;;;7;3;8;3;14;cloudy red thin white head cherries red berries sour and sweet dry finninsh
+2016-04-01;TCBW 2016;;;Põhjala Cellar Series - Pime Öö PX;Draft;;;8;4;8;4;16;black beer beige head barrel b suga dark fruits
+2016-04-01;TCBW 2016;;;Sori Ménage à Trois;Draft;;;8;3;8;3;15;clear yellow w heazd tr fruits hopa caramel med bc
+2016-04-01;TCBW 2016;;;Stone Arrogant Bastard Ale;Draft;;;7;3;8;3;14;friday 1700 clear copper off white head malts hops
+2016-04-01;TCBW 2016;;;Stone Ruination IPA 2.0;Draft;;;8;3;8;3;16;friday 1700 v 2.0 clear yellow white head tropical fruits hops citrus med bc bitter finnish
+2016-04-01;TCBW 2016;;;Tanker Kaksteistkuud 2016;Draft;;;7;3;8;3;14;cloudy yellow white head hops fruots grape mefd bc
+2016-04-01;TCBW 2016;;;To Øl Barley Wine Babushka;Draft;;;8;4;8;4;15;deep amber off white head sweet fruits resin b suga caramel
+2016-04-02;TCBW 2016;;;All In Brewing The Purpose of IPA - Grapefruit;Draft;;;8;3;8;3;15;clear yellow white head malts fruity hops citrus med nc
+2016-04-02;TCBW 2016;;;All In Brewing Unsecret Ingredient;Draft;;;7;3;7;3;14;clear yellow white head malts citrus sweet fruits faint hops med mc
+2016-04-02;TCBW 2016;;;Bakunin Zatmenie (Eclipse);Draft;;;8;4;8;4;16;chocolate caramel faint coffee med to full body med c
+2016-04-02;TCBW 2016;;;Beavertown Lupuloid IPA Series - Sgt. O Mors;Draft;;;7;3;7;3;13;clear yellow white head sweet fruits malts hops citrus med bc
+2016-04-02;TCBW 2016;;;Beavertown Bloody ’Ell;Draft;;;8;3;7;3;15;cloudy yellow white head sweet tangy fruits hops orange grape med bc
+2016-04-02;TCBW 2016;;;Boneyard Diablo Rojo;Draft;;;7;3;8;3;14;clear copper off white head malts caramel fruits med bc faint hops
+2016-04-02;TCBW 2016;;;BrewDog Jet Black Heart;Draft;;;7;3;7;3;13;dark brown beige head bready malts some roasted notes caramel chocolate med bc
+2016-04-02;TCBW 2016;;;Cigar City Jose Marti;Draft;;;8;4;8;3;15;dark brown thick beige head roasted malts caramel chocolate full body med c bitter finnish
+2016-04-02;TCBW 2016;;;CRAK Caroni Rum Imperial Stout;Draft;;;7;4;8;3;15;dark brown beige head roasted malts faint rum cask chocolate caramel full body med carbonation
+2016-04-02;TCBW 2016;;;Garage Merlot Series - Imperial Stout;Draft;;;8;4;7;3;15;dark brown beige head roasted malts licorice harsh coffee dried fruits med to full body med c
+2016-04-02;TCBW 2016;;;La Pirata Black Block;Draft;;;8;4;8;4;15;dark brown beige head roasted malts b sugar full body med carbo bitter roasted finnish
+2016-04-02;TCBW 2016;;;Labietis Pokainu Me_s;Draft;;;5;4;6;3;10;deep amber off white head toffee malts wet socks full slick body med carbo red berry jam horrible beer have
+2016-04-02;TCBW 2016;;;LoverBeer Madamin;Draft;;2015 version;7;3;7;3;14;cloudy copper white head sour red berries caramel med bc
+2016-04-02;TCBW 2016;;;Mikkeller Acid Trip White Wine;Draft;;;7;3;8;3;14;clear yellow white head acidic sourness fruits citrus yeast wheat med bc
+2016-04-02;TCBW 2016;;;Põhjala Virmalised GF - Grapefruit Edition;Draft;;;7;3;7;3;13;clear yellow white head sweet fruits hops grape fruit juice med b too much grape
+2016-04-02;TCBW 2016;;;Sori Leaping Lena;Draft;;;7;3;7;3;15;cloudy golden orange white head sweet med bc tropicsl fruots faint hops citrus
+2016-04-02;TCBW 2016;;;Stone Americano Stout;Draft;;;8;3;8;4;15;dark brown beige head roasted malts coffee chocolate med bc bitter finnish
+2016-04-02;TCBW 2016;;;Stone Pataskala Red IPA;Draft;;;8;3;8;3;15;clear copper off w head malts sweet tropical fruits hops pine med bc
+2016-04-02;TCBW 2016;;;Tanker / Pinta All Ryed!;Draft;;;6;3;7;3;13;cloudy golden white head malts hops fruots polish house flavor med bc
+2016-04-02;TCBW 2016;;;Vormsi Okkaline 2.0;Draft;;;8;3;8;3;14;cloudy golden orange off white head sweet tr fruits hops malts citrus med bc
+2016-04-02;TCBW 2016;;;AF Brew Lobotomiya 777;Draft;;;8;4;8;4;15;dark brown b headmalts ba b suga full b med c
+2016-04-02;TCBW 2016;;;Beavertown Lupuloid IPA Series - Cpt. Hasta;Draft;;;7;3;6;3;13;clear yellow w head citrus hops wet cardboarb med bc
+2016-04-02;TCBW 2016;;;Beavertown Imperial Lord Smog Almighty;Draft;;;8;3;8;3;15;d brown beige head alcoholic roasted malts chocolate caramel med bc
+2016-04-02;TCBW 2016;;;Brew By Numbers 55/01 Double IPA - Citra Mosaic Simcoe;Draft;;;7;3;8;3;14;cloudy golden off white head citrus hops tr fruits med bc
+2016-04-02;TCBW 2016;;;Cigar City The Dark Woods - 2015 (Old Ale);Draft;;;7;3;7;3;14;deep amber amber off white head caramel d fruits alcohol full body med carbo
+2016-04-02;TCBW 2016;;;De Molen Knippen & Scheren - double IPA 9.5%;Draft;;;8;3;8;3;15;cloudy golden orange tropical fruits hops citrus caramel mräed bc
+2016-04-02;TCBW 2016;;;Edge Brewing / Cigar City Gift To Gaspar - Barrel Aged;Draft;;;8;4;8;4;16;dark brown beige head strong rum barrel caramel dark fruits chocolate alcohol full slick body
+2016-04-02;TCBW 2016;;;La Pirata Vallenato;Draft;;;7;3;8;3;14;dark brow beige head coffee chocolate med bc
+2016-04-02;TCBW 2016;;;Lervig / Magic Rock Rustique Chardonnay BA - farmhouse IPA 6%;Draft;;;7;3;8;3;15;hazy golden red white head yeast citrus farm shit malts med bc
+2016-04-02;TCBW 2016;;;Lervig / Way 3 Bean Stout;Draft;;;7;4;8;4;15;dark brown beige head roasted malts chocolate sugar caramel alcohol
+2016-04-02;TCBW 2016;;;Lervig / Lindheim / Mikkeller Pop That Cherry;Draft;;;7;3;7;3;14;cloudy red beer with thin pink head cherries caramel sweet and sour fresh and crispy
+2016-04-02;TCBW 2016;;;Mikkeller Vild BA Bordeaux - BA Belgian strong ale 12,3%;Draft;;;7;4;8;4;16;pours amber with off whote head caramel dried fruots white head faint barrel flavor vineous notes malts full b med c
+2016-04-02;TCBW 2016;;;Põhjala Cellar Series - Odravein 2015 Bourbon BA;Draft;;;8;4;8;4;16;deep amber off white head caramel brown sugar malts dried fruits resin med bc
+2016-04-02;TCBW 2016;;;To Øl Smoke On the Porter - Fire in the Rye;Draft;;;8;4;8;4;16;dark brown beige head roasted malts smoke chili chocolate full body med c hot fhili after burn

@@ -3,6 +3,7 @@ package org.beer.app.converter;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
+import org.apache.commons.lang3.StringUtils;
 import org.beer.app.BeerRatingFileUtil;
 import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
@@ -17,7 +18,7 @@ public final class BeerRatingValidator {
 
 	public static boolean isValid(String line, int lineNumber) {
 		// format: rating date;rating place;purchasing date;purchasing
-		// place;name;pack;bbe;brew info;score;description
+		// place;name;pack;bbe;brew info;score;description;rbId
 		try {
 			validateNumberOfSemicolons(line);
 			String[] ratingArray = BeerRatingFileUtil.tokenizeLine(line);
@@ -34,9 +35,9 @@ public final class BeerRatingValidator {
 			validateTaste(ratingArray[10]);
 			validatePalate(ratingArray[11]);
 			validateOverall(ratingArray[12]);
-			if (hasComments(ratingArray)) {
-				validateDescription(ratingArray[13]);
-			}
+			validateDescription(ratingArray[13]);
+			validateRbId(ratingArray[14]);
+
 		} catch (BeerValidationException e) {
 			String fixedLengthErrorMessage = String.format("%1$-50s", e.getMessage());
 			String fixedLengthLineNumber = String.format("%04d", Integer.valueOf(lineNumber));
@@ -144,11 +145,14 @@ public final class BeerRatingValidator {
 	}
 
 	private static void validateDescription(String s) throws BeerValidationException {
-		if (s.isEmpty() || s.length() < 15) {
+		if (!s.isEmpty() && s.length() < 15) {
 			throw new BeerValidationException("Incorrect description: " + s);
 		}
-		if (s.startsWith("bottle") || s.startsWith("Bottle")) {
-			throw new BeerValidationException("Remove pack: " + s);
+	}
+
+	private static void validateRbId(String s) throws BeerValidationException {
+		if (!s.isEmpty() && !StringUtils.isNumeric(s)) {
+			throw new BeerValidationException("Incorrect RB id: " + s);
 		}
 	}
 

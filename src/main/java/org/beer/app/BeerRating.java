@@ -195,21 +195,7 @@ public class BeerRating {
 	}
 
 	private boolean beerFoundfromRb() {
-		String rbUrl = "http://ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=" + this.rbId;
-		HttpClient httpClient = new HttpClient(); // TODO
-		httpClient.init(rbUrl);
-
-		int status = 200;
-
-		if (status == 301) {
-			LOG.error("Invalid value: rbId:" + this.rbId);
-			return false;
-		}
-
-		if (status != 200) {
-			LOG.warn("rbId validity cannot be verified. HTTP status: " + status);
-		}
-		return true;
+		return false; // TODO
 	}
 
 	private static void validateDate(String date, String dateFieldname) throws BeerValidationException {

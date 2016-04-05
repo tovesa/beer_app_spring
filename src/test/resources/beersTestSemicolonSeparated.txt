@@ -1,0 +1,8 @@
+#EXPECTED FORMAT: ratingDate;ratingPlace;purchasingDate;purchasingPlace;name;pack;bbe;brewInfo;aroma;appearance;taste;palate;overall;description
+#SEPARATOR:;
+2016-04-01;TCBW 2016;;;All In Brewing Hustle Imperial Stout;Draft;;;8;4;8;3;15;
+2016-04-01;TCBW 2016;;;All In Brewing Hustle Imperial Stout;Draft;;;8;4;8;3;15;dark brown beige head chocolate coffee penut med bc
+2016-04-01;TCBW 2016;;;All In Brewing Hustle Imperial Stout;Draft;;;8;4;8;3;15;dark brown beige head chocolate coffee penut med bc;
+2016-04-01;TCBW 2016;;;All In Brewing Hustle Imperial Stout;Draft;;;8;4;8;3;15;dark brown beige head chocolate coffee penut med bc;391457
+2016-04-01;TCBW 2016;;;All In Brewing Hustle Imperial Stout;Draft;;;8;4;8;3;15;;391457
+2016-04-01;TCBW 2016;;;Beer That Does Not Exist;Draft;;;8;4;8;3;15;dark brown beige head chocolate coffee penut med bc

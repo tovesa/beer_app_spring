@@ -4,13 +4,18 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.beer.app.BeerRatingFileReader;
+import org.beer.app.BeerRatingFileUtil;
 import org.beer.app.BeerRatingFileWriter;
+import org.beer.app.BeerValidationException;
+import org.beer.app.RbClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class ConvertFile {
 
 	private static final Logger LOG = LoggerFactory.getLogger(ConvertFile.class);
+
+	private static final RbClient rbClient = new RbClient();
 
 	private ConvertFile() {
 	}
@@ -58,12 +63,34 @@ public class ConvertFile {
 			} else if (";".equals(inputFileSeparator)) {
 				formattedLine = ConvertAbbreviations.replaceAbbreviations(formattedLine, inputFileSeparator);
 			}
+			formattedLine = addRbId(formattedLine);
+
 			if (BeerRatingValidator.isValid(formattedLine, lineNumber)) {
 				formattedLines.add(formattedLine);
 			}
 		}
 
 		return formattedLines;
+	}
+
+	private static String addRbId(String line) {
+		StringBuilder sb = new StringBuilder();
+		sb.append(line);
+		if (!line.endsWith(";")) {
+			sb.append(";");
+		}
+
+		try {
+			sb.append(rbClient.getRbId(getName(line)));
+		} catch (BeerValidationException e) {
+			LOG.error("BeerValidationException: " + e.getMessage());
+		}
+		return sb.toString();
+	}
+
+	private static String getName(String line) throws BeerValidationException {
+		String[] ratingArray = BeerRatingFileUtil.tokenizeLine(line);
+		return ratingArray[4];
 	}
 
 	private static boolean correctNumberOfDots(String line, int lineNumber) {

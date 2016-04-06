@@ -1,5 +1,0 @@
-#EXPECTED FORMAT: ratingDate;ratingPlace;purchasingDate;purchasingPlace;name;pack;bbe;brewInfo;aroma;appearance;taste;palate;overall;description
-#SEPARATOR: .
-2013-08-18. Pirkkala. 2013-08-17. Alko Kaleva. Hofbräu München Schwarze Weisse. Bottle 500ml. 2014-07-16. . 636312. Hazy Brown, off white head Wheat, mild roastiness, caramel, Banana.
-
-

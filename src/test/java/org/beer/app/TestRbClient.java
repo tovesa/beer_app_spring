@@ -1,14 +1,14 @@
 package org.beer.app;
 
+import org.beer.app.converter.ConvertFile;
 import org.junit.Test;
 
 public class TestRbClient {
 
 	@Test
-	public void testGetRbId() {
-		RbClient client = new RbClient();
-		String beerName = "Olvi APA";
-		String rbId = client.getRbId(beerName);
-		System.out.println("RbId: " + rbId);
+	public void testAddRbIdIfMissing() {
+		String inputFile = "src/test/resources/testBeersSemicolonSeparated.txt";
+		String outputFile = "src/test/resources/testBeersSemicolonSeparated_converted.txt";
+		ConvertFile.addDataFromFromRb(inputFile, outputFile);
 	}
 }

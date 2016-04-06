@@ -35,7 +35,7 @@ public final class BeerRatingValidator {
 			validateTaste(ratingArray[10]);
 			validatePalate(ratingArray[11]);
 			validateOverall(ratingArray[12]);
-			validateDescription(ratingArray[13]);
+			validateComments(ratingArray[13]);
 			validateRbId(ratingArray[14]);
 
 		} catch (BeerValidationException e) {
@@ -48,18 +48,18 @@ public final class BeerRatingValidator {
 					"ArrayIndexOutOfBoundsException: " + e.getMessage());
 			String fixedLengthLineNumber = String.format("%04d", Integer.valueOf(lineNumber));
 			LOG.error(fixedLengthErrorMessage + " Line " + fixedLengthLineNumber + " : " + line);
-			return false;
+			throw e;
 		}
 		return true;
 	}
 
-	private static boolean hasComments(String[] ratingArray) {
-		return ratingArray.length == 14 ? true : false;
-	}
+	// private static boolean hasComments(String[] ratingArray) {
+	// return ratingArray.length == 14 ? true : false;
+	// }
 
 	private static void validateNumberOfSemicolons(String line) throws BeerValidationException {
 		int count = line.length() - line.replace(";", "").length();
-		if (count != 13) {
+		if (count != 14) {
 			throw new BeerValidationException("Wrong number of semicolons: " + count);
 		}
 	}
@@ -144,14 +144,14 @@ public final class BeerRatingValidator {
 		}
 	}
 
-	private static void validateDescription(String s) throws BeerValidationException {
-		if (!s.isEmpty() && s.length() < 15) {
+	private static void validateComments(String s) throws BeerValidationException {
+		if (s.length() < 15) {
 			throw new BeerValidationException("Incorrect description: " + s);
 		}
 	}
 
 	private static void validateRbId(String s) throws BeerValidationException {
-		if (!s.isEmpty() && !StringUtils.isNumeric(s)) {
+		if (!StringUtils.isNumeric(s)) {
 			throw new BeerValidationException("Incorrect RB id: " + s);
 		}
 	}

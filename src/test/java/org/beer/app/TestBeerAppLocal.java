@@ -52,21 +52,21 @@ public class TestBeerAppLocal {
 
 	@Test
 	public void testConvertFile2013() {
-		String inputFile = "src/main/resources/beers2013.txt";
+		String inputFile = "src/main/resources/beers2013_v2.txt";
 		String outputFile = "src/main/resources/beers2013_converted.txt";
 		ConvertFile.convert(inputFile, outputFile);
 	}
 
 	@Test
 	public void testConvertFile2016() {
-		String inputFile = "src/main/resources/beers2016.txt";
+		String inputFile = "src/main/resources/beers2016_v2.txt";
 		String outputFile = "src/main/resources/beers2016_converted.txt";
 		ConvertFile.convert(inputFile, outputFile);
 	}
 
 	@Test
 	public void testConvertFileTcbw2016() {
-		String inputFile = "src/main/resources/beersTcbw2016.txt";
+		String inputFile = "src/main/resources/beersTcbw2016_v2.txt";
 		String outputFile = "src/main/resources/beersTcbw2016_converted.txt";
 		ConvertFile.convert(inputFile, outputFile);
 	}

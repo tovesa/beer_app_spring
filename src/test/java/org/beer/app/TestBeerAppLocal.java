@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.beer.app.converter.ConvertFile;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import com.fasterxml.jackson.core.JsonParseException;
@@ -50,6 +51,7 @@ public class TestBeerAppLocal {
 		app.start();
 	}
 
+	@Ignore
 	@Test
 	public void testConvertFile2013() {
 		String inputFile = "src/main/resources/beers2013_v2.txt";
@@ -57,6 +59,7 @@ public class TestBeerAppLocal {
 		ConvertFile.convert(inputFile, outputFile);
 	}
 
+	@Ignore
 	@Test
 	public void testConvertFile2016() {
 		String inputFile = "src/main/resources/beers2016_v2.txt";
@@ -64,11 +67,25 @@ public class TestBeerAppLocal {
 		ConvertFile.convert(inputFile, outputFile);
 	}
 
+	@Ignore
 	@Test
 	public void testConvertFileTcbw2016() {
 		String inputFile = "src/main/resources/beersTcbw2016_v2.txt";
 		String outputFile = "src/main/resources/beersTcbw2016_converted.txt";
 		ConvertFile.convert(inputFile, outputFile);
+	}
+
+	@Test
+	public void testEnhanceFileTcbw2016() {
+		String inputFile = "src/main/resources/beersTcbw2016_converted.txt";
+		String outputFile = "src/main/resources/beersTcbw2016_enhanced.txt";
+		ConvertFile.enhance(inputFile, outputFile);
+	}
+
+	@Test
+	public void testValidateFileTcbw2016() {
+		String inputFile = "src/main/resources/beersTcbw2016_enhanced.txt";
+		ConvertFile.validate(inputFile);
 	}
 
 	@Test
@@ -80,6 +97,12 @@ public class TestBeerAppLocal {
 		String inputFileTcbw2016 = "src/main/resources/beersTcbw2016_converted.txt";
 		String outputFile = "src/main/resources/beers2008-2016.txt";
 		generateBackup(inputFile2013, inputFile2016, inputFileTcbw2016, outputFile);
+	}
+
+	@Test
+	public void testValidateBackupFile() {
+		String inputFile = "src/main/resources/beers2008-2016.txt";
+		ConvertFile.validate(inputFile);
 	}
 
 	@Test

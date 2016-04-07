@@ -1,6 +1,11 @@
 package org.beer.app;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class BeerRatingFileUtil {
+
+	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingFileUtil.class);
 
 	private BeerRatingFileUtil() {
 	}
@@ -10,6 +15,9 @@ public class BeerRatingFileUtil {
 		ratingArray = line.split(";");
 		stripLeadingWhitespace(ratingArray);
 		// printToConsole(ratingArray);
+		if (ratingArray.length != 15) {
+			throw new BeerValidationException("Invalid line: " + line);
+		}
 		return ratingArray;
 	}
 
@@ -21,7 +29,7 @@ public class BeerRatingFileUtil {
 
 	private static void printToConsole(String array[]) {
 		for (int i = 0; i < array.length; i++) {
-			System.out.println("array[" + i + "] : " + array[i]);
+			LOG.info("array[" + i + "] : " + array[i]);
 		}
 	}
 }

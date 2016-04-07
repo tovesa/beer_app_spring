@@ -9,6 +9,6 @@ public class TestRbClient {
 	public void testAddRbIdIfMissing() {
 		String inputFile = "src/test/resources/testBeersSemicolonSeparated.txt";
 		String outputFile = "src/test/resources/testBeersSemicolonSeparated_converted.txt";
-		ConvertFile.addDataFromFromRb(inputFile, outputFile);
+		ConvertFile.enhance(inputFile, outputFile);
 	}
 }

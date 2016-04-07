@@ -28,11 +28,17 @@ public class ConvertFile {
 		BeerRatingFileWriter.writeFile(outputFile, formattedLines);
 	}
 
-	public static void addDataFromFromRb(String inputFile, String outputFile) {
+	public static void enhance(String inputFile, String outputFile) {
 		List<String> lines = BeerRatingFileReader.readFile(inputFile);
 		removeEmptyLines(lines);
-		List<String> formattedLines = ConvertFile.enhanceBeerDataFromRb(lines);
+		List<String> formattedLines = ConvertFile.enhanceLines(lines);
 		BeerRatingFileWriter.writeFile(outputFile, formattedLines);
+	}
+
+	public static void validate(String inputFile) {
+		List<String> lines = BeerRatingFileReader.readFile(inputFile);
+		removeEmptyLines(lines);
+		ConvertFile.validateLines(lines);
 	}
 
 	private static String getSeparator(List<String> lines) {
@@ -77,7 +83,6 @@ public class ConvertFile {
 
 			if (!hasRbId(formattedLine)) {
 				formattedLine = addDummyRbId(formattedLine);
-				// formattedLine = enhanceBeerDataFromRb(formattedLine);
 			}
 
 			if (BeerRatingValidator.isValid(formattedLine, lineNumber)) {
@@ -88,7 +93,7 @@ public class ConvertFile {
 		return formattedLines;
 	}
 
-	private static List<String> enhanceBeerDataFromRb(List<String> lines) {
+	private static List<String> enhanceLines(List<String> lines) {
 		List<String> formattedLines = new ArrayList<>();
 		int lineNumber = 0;
 		for (String line : lines) {
@@ -107,7 +112,17 @@ public class ConvertFile {
 			}
 		}
 		return formattedLines;
+	}
 
+	private static void validateLines(List<String> lines) {
+		int lineNumber = 0;
+		for (String line : lines) {
+			lineNumber++;
+			if (line.startsWith("#")) {
+				continue;
+			}
+			BeerRatingValidator.isValid(line, lineNumber);
+		}
 	}
 
 	private static String addDummyComments(String line) {
@@ -133,7 +148,7 @@ public class ConvertFile {
 		try {
 			ratingArray = BeerRatingFileUtil.tokenizeLine(line);
 		} catch (BeerValidationException e) {
-			LOG.error("BeerValidationException: " + e.getMessage());
+			LOG.error("Exception: " + e);
 			return false;
 		}
 		return ratingArray.length < 14 || ratingArray[13].isEmpty() ? false : true;
@@ -144,7 +159,7 @@ public class ConvertFile {
 		try {
 			ratingArray = BeerRatingFileUtil.tokenizeLine(line);
 		} catch (BeerValidationException e) {
-			LOG.error("BeerValidationException: " + e.getMessage());
+			LOG.error("Exception: " + e);
 			return false;
 		}
 		return ratingArray.length < 15 || ratingArray[14].isEmpty() ? false : true;
@@ -155,7 +170,7 @@ public class ConvertFile {
 		try {
 			ratingArray = BeerRatingFileUtil.tokenizeLine(line);
 		} catch (BeerValidationException e) {
-			LOG.error("BeerValidationException: " + e.getMessage());
+			LOG.error("Exception: " + e);
 			return false;
 		}
 		return ratingArray[14].equals("0") ? false : true;

@@ -1,5 +1,9 @@
 package org.beer.app;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,26 +19,44 @@ public class RbClient {
 		try {
 			beerName = getNameFromLine(formattedLine);
 			rbId = getRbIdFromLine(formattedLine);
+			if (!DUMMY_RB_ID.equals(rbId)) {
+				return formattedLine;
+			}
 		} catch (BeerValidationException e) {
 			LOG.error("Exception: " + e);
 			return formattedLine;
 		}
 
-		String response = httpClient.get(getUrl(beerName));
+		String response = null;
+		try {
+			response = httpClient.post(getUrl(beerName));
+		} catch (UnsupportedEncodingException e) {
+			LOG.error("Encode URL failed: " + e);
+			return line;
+		}
+
+		try {
+			// LOG.debug("ISO-8859-1: " + URLDecoder.decode(response,
+			// "ISO-8859-1"));
+			LOG.debug("UTF-8: " + URLDecoder.decode(response, "UTF-8"));
+		} catch (UnsupportedEncodingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
 		int hits = getNumberOfHits(response);
-		LOG.info("Number of hits: " + hits + ", search term: " + beerName);
+		LOG.debug("Number of hits: " + hits + ", search term: " + beerName);
 
 		if (hits == 1) {
 			formattedLine = checkAndUpdateName(response, formattedLine, beerName);
 			formattedLine = checkAndUpdateRbId(response, formattedLine, rbId);
 		} else if (hits == 0) {
-			LOG.error("Beer not found: " + beerName + ". Name and Rb Id not updated");
+			LOG.error("Beer not found: " + beerName);
 		} else if (hits > 1) {
 			if (isExactMatch(response, beerName)) {
 				formattedLine = checkAndUpdateRbIdMultiHit(response, formattedLine, rbId, beerName);
 			} else {
-				LOG.error(hits + " hits found, but none matches: " + beerName + ". Rb Id not updated");
+				LOG.error(hits + " hits found, but no exact match: " + beerName);
 			}
 		}
 
@@ -51,8 +73,12 @@ public class RbClient {
 		return Integer.parseInt(response.substring(startIndex, endIndex));
 	}
 
-	private static String getUrl(String beerName) {
-		return "http://www.ratebeer.com/findbeer.asp?BeerName=" + beerName.replace(" ", "+");
+	protected static String getUrl(String beerName) throws UnsupportedEncodingException {
+		// return "http://www.ratebeer.com/findbeer.asp?BeerName=" +
+		// beerName.replace(" ", "+");
+		// return "http://www.ratebeer.com/findbeer.asp?BeerName=" +
+		// URLEncoder.encode(beerName, "UTF-8");
+		return "http://www.ratebeer.com/findbeer.asp?BeerName=" + URLEncoder.encode(beerName, "ISO-8859-1");
 	}
 
 	private static String checkAndUpdateName(String response, String line, String beerName) {
@@ -67,15 +93,17 @@ public class RbClient {
 
 	private static String checkAndUpdateRbId(String response, String line, String rbId) {
 		String rbIdInResponse = getRbIdFromResponse(response);
+		String beerName;
+		try {
+			beerName = getNameFromLine(line);
+		} catch (BeerValidationException e) {
+			LOG.error("Exception when reading beer name from line: " + e);
+			return line;
+		}
 		StringBuilder sb = new StringBuilder();
 		sb.append(line);
-		if (rbId.equals(DUMMY_RB_ID)) {
-			sb.replace(sb.lastIndexOf(DUMMY_RB_ID), sb.lastIndexOf(DUMMY_RB_ID) + 1, rbIdInResponse);
-			LOG.info("Rb Id updated: " + rbId + " --> " + rbIdInResponse);
-		} else if (!rbId.equals(rbIdInResponse)) {
-			LOG.info("Rb Id has been changed: " + rbId + " --> " + rbIdInResponse
-					+ " but not updated. This should never happen.");
-		}
+		sb.replace(sb.lastIndexOf(DUMMY_RB_ID), sb.lastIndexOf(DUMMY_RB_ID) + 1, rbIdInResponse);
+		LOG.info("RbId updated: " + rbId + " --> " + rbIdInResponse + ". Beer: " + beerName);
 		return sb.toString();
 	}
 
@@ -83,13 +111,8 @@ public class RbClient {
 		String rbIdInResponse = getRbIdFromMultiHitResponse(response, beerName);
 		StringBuilder sb = new StringBuilder();
 		sb.append(line);
-		if (rbId.equals(DUMMY_RB_ID)) {
-			sb.replace(sb.lastIndexOf(DUMMY_RB_ID), sb.lastIndexOf(DUMMY_RB_ID) + 1, rbIdInResponse);
-			LOG.info("Rb Id updated: " + rbId + " --> " + rbIdInResponse);
-		} else if (!rbId.equals(rbIdInResponse)) {
-			LOG.info("Rb Id has been changed: " + rbId + " --> " + rbIdInResponse
-					+ " but not updated. This should never happen.");
-		}
+		sb.replace(sb.lastIndexOf(DUMMY_RB_ID), sb.lastIndexOf(DUMMY_RB_ID) + 1, rbIdInResponse);
+		LOG.info("RbId updated: " + rbId + " --> " + rbIdInResponse + ". Beer: " + beerName);
 		return sb.toString();
 	}
 

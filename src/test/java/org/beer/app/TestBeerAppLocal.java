@@ -76,6 +76,20 @@ public class TestBeerAppLocal {
 	}
 
 	@Test
+	public void testEnhanceFile2013() {
+		String inputFile = "src/main/resources/beers2013_converted.txt";
+		String outputFile = "src/main/resources/beers2013_enhanced.txt";
+		ConvertFile.enhance(inputFile, outputFile);
+	}
+
+	@Test
+	public void testEnhanceFile2016() {
+		String inputFile = "src/main/resources/beers2016_converted.txt";
+		String outputFile = "src/main/resources/beers2016_enhanced.txt";
+		ConvertFile.enhance(inputFile, outputFile);
+	}
+
+	@Test
 	public void testEnhanceFileTcbw2016() {
 		String inputFile = "src/main/resources/beersTcbw2016_converted.txt";
 		String outputFile = "src/main/resources/beersTcbw2016_enhanced.txt";
@@ -83,9 +97,24 @@ public class TestBeerAppLocal {
 	}
 
 	@Test
-	public void testValidateFileTcbw2016() {
-		String inputFile = "src/main/resources/beersTcbw2016_enhanced.txt";
-		ConvertFile.validate(inputFile);
+	public void testValidateInputFiles() {
+		ConvertFile.validate("src/main/resources/beers2013_v2.txt");
+		ConvertFile.validate("src/main/resources/beers2016_v2.txt");
+		ConvertFile.validate("src/main/resources/beersTcbw2016_v2.txt");
+	}
+
+	@Test
+	public void testValidateConvertedFiles() {
+		ConvertFile.validate("src/main/resources/beers2013_converted.txt");
+		ConvertFile.validate("src/main/resources/beers2016_converted.txt");
+		ConvertFile.validate("src/main/resources/beersTcbw2016_converted.txt");
+	}
+
+	@Test
+	public void testValidateEnhancedFiles() {
+		ConvertFile.validate("src/main/resources/beers2013_enhanced.txt");
+		ConvertFile.validate("src/main/resources/beers2016_enhanced.txt");
+		ConvertFile.validate("src/main/resources/beersTcbw2016_enhanced.txt");
 	}
 
 	@Test

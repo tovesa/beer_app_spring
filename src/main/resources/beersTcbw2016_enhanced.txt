@@ -6,13 +6,13 @@
 2016-04-01;TCBW 2016;;;Beavertown Lupuloid IPA Series - Dr Enigmaticus;Draft;;;7;3;8;3;14;cloudy yellow white head trop fruits hops citrus tangy fruits med bc;0
 2016-04-01;TCBW 2016;;;Brew By Numbers 03/03 Porter - Traditional;Draft;;;7;4;7;3;14;dark brown beige head roasted malts med bc;0
 2016-04-01;TCBW 2016;;;Buxton / Lervig Trolltunga;Draft;;;6;3;7;3;14;hazy light yellow white head sour berries citrus med bc med bc much more sour ale than ipa;0
-2016-04-01;TCBW 2016;;;Cigar City Invasion Pale Ale;Draft;;;7;3;8;3;14;clear yellow tr fruits hops citrus med bc;0
+2016-04-01;TCBW 2016;;;Cigar City Invasion;Draft;;;7;3;8;3;14;clear yellow tr fruits hops citrus med bc;0
 2016-04-01;TCBW 2016;;;Cigar City / Nantahala Two Regular Joes;Draft;;;8;4;8;4;15;pitch black beige head brown sugar bready malts full b med c;0
 2016-04-01;TCBW 2016;;;De Molen Hel & Verdoemenis Port Charlotte BA (peated);Draft;;;8;4;8;4;15;dark brown beige head ba roasted malts licorice fb mc;0
 2016-04-01;TCBW 2016;;;Lehe Suur Paks Mastif;Draft;;;8;4;8;3;15;hazy b orange off w head caramel resin dried fruits med to f body med c;0
 2016-04-01;TCBW 2016;;;Lervig / Põhjala Walnut Porter;Draft;;;7;4;7;3;13;d brown beige head chocolate roasted malts med bc;0
 2016-04-01;TCBW 2016;;;Põhjala / Mallaskoski Black Koivunen;Draft;;;7;4;7;3;14;dark brown beige head roasted bready malts choco rabit harsh and watery watery med bc;0
-2016-04-01;TCBW 2016;;;Mikkeller 12" Winale;Draft;;;7;3;8;3;15;c light yellow white head sour notes citrus wheat yeast med bc;0
+2016-04-01;TCBW 2016;;;"Mikkeller 12"" Winale";Draft;;;7;3;8;3;15;c light yellow white head sour notes citrus wheat yeast med bc;0
 2016-04-01;TCBW 2016;;;Sori Delirious;Draft;;;8;3;8;3;15; clear golden off white head tr fruits crispy malts hops citrus med bc;0
 2016-04-01;TCBW 2016;;;Tanker/Van Moll Animal Instinct - brett IPA 6.2%;Draft;;;7;3;8;3;15;cloudy yellow white head sweetish fruits citrus grapefruit brett med bc;0
 2016-04-01;TCBW 2016;;;Tanker Hallucination;Draft;;;8;3;8;3;15;hazy light yellow white head hops crispy malts fruits citrus med bc;0

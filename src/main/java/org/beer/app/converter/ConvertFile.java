@@ -76,14 +76,8 @@ public class ConvertFile {
 			} else if (";".equals(inputFileSeparator)) {
 				formattedLine = ConvertAbbreviations.replaceAbbreviations(formattedLine, inputFileSeparator);
 			}
-
-			if (!hasComments(formattedLine)) {
-				formattedLine = addDummyComments(formattedLine);
-			}
-
-			if (!hasRbId(formattedLine)) {
-				formattedLine = addDummyRbId(formattedLine);
-			}
+			formattedLine = addDummyComments(formattedLine);
+			formattedLine = addDummyRbId(formattedLine);
 
 			if (BeerRatingValidator.isValid(formattedLine, lineNumber)) {
 				formattedLines.add(formattedLine);
@@ -102,11 +96,7 @@ public class ConvertFile {
 			if (formattedLine.startsWith("#")) {
 				continue;
 			}
-
-			if (!hasRealRbId(formattedLine)) {
-				formattedLine = rbClient.enhanceBeerData(formattedLine);
-			}
-
+			formattedLine = rbClient.enhanceBeerData(formattedLine);
 			if (BeerRatingValidator.isValid(formattedLine, lineNumber)) {
 				formattedLines.add(formattedLine);
 			}
@@ -126,6 +116,9 @@ public class ConvertFile {
 	}
 
 	private static String addDummyComments(String line) {
+		if (hasComments(line)) {
+			return line;
+		}
 		String formattedLine = line;
 		if (!formattedLine.endsWith(";")) {
 			formattedLine = formattedLine + ";";
@@ -135,6 +128,9 @@ public class ConvertFile {
 	}
 
 	private static String addDummyRbId(String line) {
+		if (hasRbId(line)) {
+			return line;
+		}
 		String formattedLine = line;
 		if (!formattedLine.endsWith(";")) {
 			formattedLine = formattedLine + ";";
@@ -164,25 +160,6 @@ public class ConvertFile {
 		}
 		return ratingArray.length < 15 || ratingArray[14].isEmpty() ? false : true;
 	}
-
-	private static boolean hasRealRbId(String line) {
-		String[] ratingArray;
-		try {
-			ratingArray = BeerRatingFileUtil.tokenizeLine(line);
-		} catch (BeerValidationException e) {
-			LOG.error("Exception: " + e);
-			return false;
-		}
-		return ratingArray[14].equals("0") ? false : true;
-	}
-
-	// private static String enhanceBeerDataFromRb(String line) {
-	// String formattedLine = line;
-	// if (!formattedLine.endsWith(";")) {
-	// formattedLine = formattedLine + ";";
-	// }
-	// return rbClient.enhanceBeerData(formattedLine);
-	// }
 
 	private static boolean correctNumberOfDots(String line, int lineNumber) {
 		int expectedNumberOfDots = line.charAt(line.length() - 1) == '.' ? 10 : 9;

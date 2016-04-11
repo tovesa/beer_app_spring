@@ -25,7 +25,7 @@ public class BeerRatingFileWriter {
 				writer.write(line + "\n");
 			}
 		} catch (IOException e) {
-			System.out.println("Exception: " + e);
+			LOG.error("Exception: " + e);
 		}
 	}
 }

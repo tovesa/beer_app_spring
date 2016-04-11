@@ -1,7 +1,6 @@
 package org.beer.app;
 
 import java.io.UnsupportedEncodingException;
-import java.net.URLDecoder;
 import java.net.URLEncoder;
 
 import org.slf4j.Logger;
@@ -35,15 +34,6 @@ public class RbClient {
 			return line;
 		}
 
-		try {
-			// LOG.debug("ISO-8859-1: " + URLDecoder.decode(response,
-			// "ISO-8859-1"));
-			LOG.debug("UTF-8: " + URLDecoder.decode(response, "UTF-8"));
-		} catch (UnsupportedEncodingException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-
 		int hits = getNumberOfHits(response);
 		LOG.debug("Number of hits: " + hits + ", search term: " + beerName);
 
@@ -74,11 +64,8 @@ public class RbClient {
 	}
 
 	protected static String getUrl(String beerName) throws UnsupportedEncodingException {
-		// return "http://www.ratebeer.com/findbeer.asp?BeerName=" +
-		// beerName.replace(" ", "+");
-		// return "http://www.ratebeer.com/findbeer.asp?BeerName=" +
-		// URLEncoder.encode(beerName, "UTF-8");
-		return "http://www.ratebeer.com/findbeer.asp?BeerName=" + URLEncoder.encode(beerName, "ISO-8859-1");
+		final String encoding = "Windows-1252";
+		return "http://www.ratebeer.com/findbeer.asp?BeerName=" + URLEncoder.encode(beerName, encoding);
 	}
 
 	private static String checkAndUpdateName(String response, String line, String beerName) {

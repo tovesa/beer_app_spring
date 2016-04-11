@@ -51,27 +51,13 @@ public class TestBeerAppLocal {
 		app.start();
 	}
 
+	// --- 2013 ---
+
 	@Ignore
 	@Test
 	public void testConvertFile2013() {
 		String inputFile = "src/main/resources/beers2013_v2.txt";
 		String outputFile = "src/main/resources/beers2013_converted.txt";
-		ConvertFile.convert(inputFile, outputFile);
-	}
-
-	@Ignore
-	@Test
-	public void testConvertFile2016() {
-		String inputFile = "src/main/resources/beers2016_v2.txt";
-		String outputFile = "src/main/resources/beers2016_converted.txt";
-		ConvertFile.convert(inputFile, outputFile);
-	}
-
-	@Ignore
-	@Test
-	public void testConvertFileTcbw2016() {
-		String inputFile = "src/main/resources/beersTcbw2016_v2.txt";
-		String outputFile = "src/main/resources/beersTcbw2016_converted.txt";
 		ConvertFile.convert(inputFile, outputFile);
 	}
 
@@ -82,11 +68,31 @@ public class TestBeerAppLocal {
 		ConvertFile.enhance(inputFile, outputFile);
 	}
 
+	// --- 2016 ---
+
+	@Ignore
+	@Test
+	public void testConvertFile2016() {
+		String inputFile = "src/main/resources/beers2016_v2.txt";
+		String outputFile = "src/main/resources/beers2016_converted.txt";
+		ConvertFile.convert(inputFile, outputFile);
+	}
+
 	@Test
 	public void testEnhanceFile2016() {
 		String inputFile = "src/main/resources/beers2016_converted.txt";
 		String outputFile = "src/main/resources/beers2016_enhanced.txt";
 		ConvertFile.enhance(inputFile, outputFile);
+	}
+
+	// --- 2016 TCBW ---
+
+	@Ignore
+	@Test
+	public void testConvertFileTcbw2016() {
+		String inputFile = "src/main/resources/beersTcbw2016_v2.txt";
+		String outputFile = "src/main/resources/beersTcbw2016_converted.txt";
+		ConvertFile.convert(inputFile, outputFile);
 	}
 
 	@Test

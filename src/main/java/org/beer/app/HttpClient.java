@@ -2,6 +2,8 @@ package org.beer.app;
 
 import java.io.IOException;
 
+import org.apache.commons.lang3.StringEscapeUtils;
+import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
@@ -33,7 +35,7 @@ public class HttpClient {
 				int status = response.getStatusLine().getStatusCode();
 				if (status >= 200 && status < 300) {
 					HttpEntity entity = response.getEntity();
-					return entity != null ? EntityUtils.toString(entity) : null;
+					return entity != null ? StringEscapeUtils.unescapeHtml4(EntityUtils.toString(entity)) : null;
 				}
 				throw new ClientProtocolException("Unexpected response status: " + status);
 			};
@@ -55,10 +57,12 @@ public class HttpClient {
 			LOG.debug("HTTP POST URI: " + httpPost.getURI());
 
 			ResponseHandler<String> responseHandler = (HttpResponse response) -> {
+				logHeaders(response);
 				int status = response.getStatusLine().getStatusCode();
 				if (status >= 200 && status < 300) {
 					HttpEntity entity = response.getEntity();
-					return entity != null ? EntityUtils.toString(entity) : null;
+					return entity != null
+							? StringEscapeUtils.unescapeHtml4(EntityUtils.toString(entity, "Windows-1252")) : null;
 				}
 				throw new ClientProtocolException("Unexpected response status: " + status);
 			};
@@ -69,5 +73,14 @@ public class HttpClient {
 			LOG.error("" + e);
 		}
 		return responseBody;
+	}
+
+	private static void logHeaders(HttpResponse response) {
+		if (LOG.isDebugEnabled()) {
+			for (Header h : response.getAllHeaders()) {
+				LOG.debug("Header: " + h);
+			}
+		}
+
 	}
 }

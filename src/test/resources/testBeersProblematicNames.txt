@@ -1,2 +1,5 @@
 2015-06-26;BrewDog Helsinki;;;Põhjala Öö (2014-);Draft;;;8;4;8;4;14;pitch black beige head roasted malts sugar caramel dark chocolate med bc;0
-#2016-04-01;TCBW 2016;;;Mikkeller 12" Winale;Draft;;;7;3;8;3;15;c light yellow white head sour notes citrus wheat yeast med bc;0
+2016-04-01;TCBW 2016;;;Mikkeller 12" Winale;Draft;;;7;3;8;3;15;c light yellow white head sour notes citrus wheat yeast med bc;0
+2016-04-02;TCBW 2016;;;Labietis Pokainu Mežs;Draft;;;5;4;6;3;10;deep amber off white head toffee malts wet socks full slick body med carbo red berry jam horrible beer have;0
+2016-04-01;TCBW 2016;;;LoverBeer Saison De L’ouvrier - Griotta;Draft;;;7;3;8;3;14;cloudy red thin white head cherries red berries sour and sweet dry finninsh;0
+2016-04-01;TCBW 2016;;;De Molen Hel & Verdoemenis Port Charlotte BA (peated);Draft;;;8;4;8;4;15;dark brown beige head ba roasted malts licorice fb mc;0

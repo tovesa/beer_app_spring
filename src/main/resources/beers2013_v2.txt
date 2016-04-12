@@ -1,5 +1,5 @@
 2008-10-07;Parc 55, San Francisco;2008-10-07;California Grocery, San Francisco;Samuel Adams Octoberfest;Bottle 355ml;;;6;3;6;3;12;No textual comments;0
-2008-10-08;Emporio Rulli, San Francisco;;;Sierra Nevada Anniversary Ale 2007;Bottle 355ml;;;7;3;7;3;14;No textual comments;0
+2008-10-08;Emporio Rulli, San Francisco;;;Sierra Nevada Anniversary Ale;Bottle 355ml;;2007 version;7;3;7;3;14;No textual comments;0
 2008-10-08;Some Irish Pub, San Francisco;;;New Belgium Fat Tire;Draft;;;3;3;5;3;9;No textual comments;0
 2008-10-09;Parc 55, San Francisco;2008-10-09;City Beer Store;Lindemans Framboise;Bottle 750ml;;;7;3;6;3;13;No textual comments;0
 2008-10-09;Parc 55, San Francisco;2008-10-09;City Beer Store;Russian River Blind Pig IPA;Bottle 510ml;;;8;3;8;3;15;No textual comments;0
@@ -8,7 +8,7 @@
 2008-10-10;Monterey Plaza Hotel, Monterey;;;English Ales Big Sur Jubilee Golden Ale;Draft;;;5;3;4;2;9;No textual comments;0
 2008-10-13;The Belamar Hotel Manhattan Beach;2008-10-13;Ralphs, Manhattan Beach;Samuel Adams Cherry Wheat;Bottle 355ml;;;6;3;5;3;10;No textual comments;0
 2008-10-13;The Belamar Hotel Manhattan Beach;2008-10-13;Ralphs, Manhattan Beach;Tecate;Can 355ml;;;2;1;2;1;5;No textual comments;0
-2008-10-14;The Belamar Hotel Manhattan Beach;2008-10-14;Whole Foods Market, El Segundu;Firestone Double Barrel Ale;Bottle 355ml;;;7;3;7;3;14;No textual comments;0
+2008-10-14;The Belamar Hotel Manhattan Beach;2008-10-14;Whole Foods Market, El Segundu;Firestone Walker Double Barrel Ale (DBA);Bottle 355ml;;;7;3;7;3;14;No textual comments;0
 2008-10-14;The Belamar Hotel Manhattan Beach;2008-10-09;City Beer Store;Hair of the Dog Blue Dot Double IPA;Bottle 650ml;;;8;4;8;4;15;No textual comments;0
 2008-10-14;The Belamar Hotel Manhattan Beach;2008-10-14;Whole Foods Market, El Segundu;Indian Wells Amnesia I.P.A;Bottle 355ml;;;7;3;6;3;12;No textual comments;0
 2008-10-14;The Belamar Hotel Manhattan Beach;2008-10-09;City Beer Store;Melbourn Brothers Cherry;Bottle 355ml;;;7;3;7;3;14;No textual comments;0
@@ -21,11 +21,11 @@
 2008-10-19;Hilton Grand Vacations Club on the Las Vegas Strip;2008-10-19;7 Eleven, Las vegas Blvd;Samuel Adams Honey Porter;Bottle 355ml;;;7;4;7;3;13;No textual comments;0
 2008-10-19;Hilton Grand Vacations Club on the Las Vegas Strip;2008-10-19;7 Eleven, Las vegas Blvd;Samuel Adams Irish Red Ale;Bottle 355ml;;;6;3;5;3;12;No textual comments;0
 2008-10-20;Hilton Grand Vacations Club on the Las Vegas Strip;2008-10-19;7 Eleven, Las vegas Blvd;Samuel Adams Summer Ale;Bottle 355ml;;;6;3;6;3;13;No textual comments;0
-2008-10-21;Hilton Grand Vacations Club on the Las Vegas Strip;2008-10-19;7 Eleven, Las vegas Blvd;Brooklyn Pennant Pale Ale;Bottle 355ml;;;6;3;6;3;11;No textual comments;0
+2008-10-21;Hilton Grand Vacations Club on the Las Vegas Strip;2008-10-19;7 Eleven, Las vegas Blvd;Brooklyn Ale;Bottle 355ml;;;6;3;6;3;11;As Brooklyn Pennant Pale Ale.No textual comments;0
 2008-10-22;Hilton Grand Vacations Club on the Las Vegas Strip;2008-10-22;Hilton Las Vegas Pool Bar;Wittekerke;Bottle 330ml;;;6;3;6;2;12;No textual comments;0
 2008-11-22;Ruovesi;;Gift from Hessu;Köstritzer Schwarzbier;Bottle 500ml;;;6;3;5;2;11;No textual comments;0
 2008-11-29;Pirkkala;2008-11-28;Alko Kaleva;La Trappe Tripel;Bottle 330ml;;;7;3;8;3;14;No textual comments;0
-2008-12-05;Niko;;;Haandbryggeriet Dark Force;Bottle 500ml;;;8;4;8;4;14;No textual comments;0
+2008-12-05;Niko;;;HaandBryggeriet Dark Force;Bottle 500ml;;;8;4;8;4;14;No textual comments;0
 2008-12-05;Pirkkala;;Gift from Hessu;Puls Tume Kirss;Bottle 500ml;;;5;3;4;3;9;No textual comments;0
 2008-12-06;Pirkkala;2008-12-04;Alko Kaleva;Jacobsen Golden Naked Christmas Ale;Bottle 750ml;;;6;3;7;3;13;No textual comments;0
 2008-12-07;Pirkkala;2008-12-04;Alko Kaleva;Saku Kuld;Bottle 500ml;;;4;2;4;2;9;No textual comments;0
@@ -41,37 +41,37 @@
 2008-12-20;Pirkkala;2008-12-19;Alko Kaleva;Nørrebro Bombay Pale Ale;Bottle 600ml;;;8;3;8;3;14;No textual comments;0
 2008-12-22;Antika;2008-12-21;Antika;Mythos;Bottle 330ml;;;3;2;3;1;7;No textual comments;0
 2009-01-09;Pirkkala;2009-01-09;Alko Kaleva;Flying Dog Old Scratch Amber Lager;Bottle 355ml;;;6;3;5;2;11;No textual comments;0
-2009-01-10;Pirkkala;2009-01-09;Alko Kaleva;Flying Dog Snake Dog IPA;Bottle 355ml;;;8;3;8;3;15;No textual comments;0
+2009-01-10;Pirkkala;2009-01-09;Alko Kaleva;Flying Dog Snake Dog IPA (2008 and later);Bottle 355ml;;;8;3;8;3;15;No textual comments;0
 2009-01-23;Pirkkala;2009-01-23;Alko Kaleva;Gayant La Goudale;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
 2009-01-23;Pirkkala;2009-01-23;Alko Kaleva;Saint Landelin La Divine  ;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
 2009-01-24;Pirkkala;2009-01-23;Alko Kaleva;Nørrebro Skärgaards Porter;Bottle 500ml;;;7;4;8;3;15;No textual comments;0
 2009-01-31;Pirkkala;2009-05-29;Alko Kaleva;Pardubick_ Porter (Boom) 19°;Bottle 500ml;;;7;3;7;3;14;No textual comments;0
-2009-02-05;Pirkkala;2009-02-02;Alko Kaleva;Broughton Champion Double Ale;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
-2009-02-07;Pirkkala;2009-02-05;K-citymarket Turtola;Beijing Yanjing Beer;Bottle 330ml;;;3;2;3;2;9;No textual comments;0
+2009-02-05;Pirkkala;2009-02-02;Alko Kaleva;Broughton Champion Double Ale (Bottle);Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2009-02-07;Pirkkala;2009-02-05;K-citymarket Turtola;Yanjing 11º Premium;Bottle 330ml;;;3;2;3;2;9;No textual comments;0
 2009-02-07;Pirkkala;2009-02-05;K-citymarket Turtola;Tsingtao;Bottle 330ml;;;3;1;2;2;5;No textual comments;0
 2009-02-07;Ruovesi;2009-02-05;K-citymarket Turtola;Sapporo Premium Lager;Bottle 330ml;;;4;2;3;2;7;No textual comments;0
 2009-02-13;Pirkkala;2009-02-13;Alko Kaleva;Ayinger Ur-Weisse;Bottle 500ml;;;8;3;8;3;14;No textual comments;0
 2009-02-13;Pirkkala;2009-02-13;Alko Kaleva;Herold _ern_ Le_ák (Bohemian Black Lager) 13°;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
-2009-02-13;Pirkkala;2009-01-23;Alko Kaleva;St. Sylvestre Gavroche;Bottle 330ml;;;7;3;8;3;14;No textual comments;0
-2009-02-14;Pirkkala;2009-02-13;Alko Kaleva;Karhu Korpisavu;Bottle 330ml;;;4;3;5;3;11;No textual comments;0
+2009-02-13;Pirkkala;2009-01-23;Alko Kaleva;Gavroche;Bottle 330ml;;;7;3;8;3;14;No textual comments;0
+2009-02-14;Pirkkala;2009-02-13;Alko Kaleva;Karhu Korpisavu IV;Bottle 330ml;;;4;3;5;3;11;No textual comments;0
 2009-02-14;Pirkkala;2009-02-13;Alko Kaleva;Kulmbacher Mönchshof Bockbier;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
-2009-02-19;Pirkkala;2009-02-19;K-citymarket Pirkkala;Okells IPA;Bottle 500ml;;;6;3;6;2;10;No textual comments;0
+2009-02-19;Pirkkala;2009-02-19;K-citymarket Pirkkala;Okells IPA (Bottled);Bottle 500ml;;;6;3;6;2;10;No textual comments;0
 2009-02-20;Pirkkala;2009-02-19;K-citymarket Pirkkala;Carlow Curim Gold;Bottle 500ml;;;7;3;6;3;12;No textual comments;0
 2009-02-20;Pirkkala;2009-02-19;K-citymarket Pirkkala;Okells Aile;Bottle 500ml;;;7;3;7;3;14;No textual comments;0
-2009-02-27;Ruovesi;2009-02-19;K-citymarket Pirkkala;Belhaven St.Andrews Ale;Bottle 500ml;;;6;3;5;2;10;No textual comments;0
+2009-02-27;Ruovesi;2009-02-19;K-citymarket Pirkkala;Belhaven St Andrews Ale (Bottle);Bottle 500ml;;;6;3;5;2;10;No textual comments;0
 2009-02-27;Ruovesi;2009-02-26;K-citymarket Pirkkala;Goose Island Summertime;Bottle 355ml;;;5;3;5;2;10;No textual comments;0
 2009-02-28;Ruovesi;2009-02-13;Alko Kaleva;Aldaris Porteris;Bottle 500ml;;;6;4;7;3;12;No textual comments;0
-2009-03-06;Ruovesi;2009-03-05;Alko Kaleva;Heather Ales Fraoch;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
-2009-03-07;Ruovesi;2009-03-05;Alko Kaleva;Paulaner Hefe-Weissbier;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
-2009-03-07;Ruovesi;2009-03-05;Alko Kaleva;Paulaner Hefe-Weissbier Dunkel;Bottle 500ml;;;7;3;6;3;12;No textual comments;0
-2009-03-13;Pirkkala;2009-03-11;K-extra Kaleva;Flying Dog Doggie Style Classic Pale Ale;Bottle 355ml;;;7;3;6;3;13;No textual comments;0
-2009-03-14;Pirkkala;2009-03-12;Alko Kaleva;Haandbryggeriet Påskegodt;Bottle 500ml;;;6;3;7;3;13;No textual comments;0
+2009-03-06;Ruovesi;2009-03-05;Alko Kaleva;Heather Ales Fraoch (Bottle);Bottle 500ml;;;6;3;6;3;12;No textual comments;0
+2009-03-07;Ruovesi;2009-03-05;Alko Kaleva;Paulaner Hefe-Weissbier (Hefe-Weizen) (5.5%);Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2009-03-07;Ruovesi;2009-03-05;Alko Kaleva;Paulaner Hefeweissbier Dunkel;Bottle 500ml;;;7;3;6;3;12;No textual comments;0
+2009-03-13;Pirkkala;2009-03-11;K-extra Kaleva;Flying Dog Pale Ale;Bottle 355ml;;;7;3;6;3;13;No textual comments;0
+2009-03-14;Pirkkala;2009-03-12;Alko Kaleva;HaandBryggeriet Påskegodt;Bottle 500ml;;;6;3;7;3;13;No textual comments;0
 2009-03-14;Pirkkala;2009-03-12;Alko Kaleva;Oppigårds Easter Ale;Bottle 500ml;2011-09-11;;8;3;6;3;11;No textual comments;0
 2009-03-20;Pirkkala;2009-03-19;Alko Kaleva;Stallhagen Påsk 2008 (Alko version);Bottle 500ml;;;7;3;7;3;13;No textual comments;0
-2009-03-28;Ruovesi;2009-03-24;K-citymarket Pirkkala;Haandbryggeriet Pale Ale;Bottle 500ml;;;6;3;7;3;13;No textual comments;0
+2009-03-28;Ruovesi;2009-03-24;K-citymarket Pirkkala;HaandBryggeriet Pale Ale;Bottle 500ml;;;6;3;7;3;13;No textual comments;0
 2009-03-28;Ruovesi;2009-03-24;K-citymarket Pirkkala;Isle of Skye Black Cuillin;Bottle 500ml;;;7;3;7;3;14;No textual comments;0
 2009-04-24;Ruovesi;2009-04-23;K-citymarket Pirkkala;Kaiserdom Hefe-Weissbier;Can 500ml;;;5;3;5;2;11;No textual comments;0
-2009-04-25;Ruovesi;2009-04-23;K-citymarket Pirkkala;Hook Norton Hooky Gold;Bottle 500ml;;;6;3;6;2;12;No textual comments;0
+2009-04-25;Ruovesi;2009-04-23;K-citymarket Pirkkala;Hook Norton Hooky Gold (Bottle);Bottle 500ml;;;6;3;6;2;12;No textual comments;0
 2009-04-25;Ruovesi;2009-04-23;K-citymarket Pirkkala;Williams Brothers 80/-;Bottle 500ml;;;6;3;7;3;13;No textual comments;0
 2009-05-07;Pirkkala;2009-05-07;K-citymarket Pirkkala;Beer Here Fat Cat;Bottle 500ml;;;7;4;8;3;15;No textual comments;0
 2009-05-08;Ruovesi;2009-05-07;K-citymarket Pirkkala;Beamish Irish Stout;Can 500ml;;;7;3;7;3;13;No textual comments;0
@@ -80,10 +80,10 @@
 2009-05-16;Helsinki Beer Festival;;;North Coast Old Rasputin Russian Imperial Stout;Bottle 355ml;;;8;4;8;4;15;No textual comments;0
 2009-05-16;Helsinki Beer Festival;;;O'Fallon 5-Day IPA;Bottle 355ml;;;6;3;6;3;12;No textual comments;0
 2009-05-16;Helsinki Beer Festival;;;Schlafly Dry Hopped APA;Draft;;;7;3;7;3;14;No textual comments;0
-2009-05-20;Ruovesi;2009-05-20;Teboil Aitolahti;Sinebrychoff Koff Indian;Can 500ml;;;3;2;3;1;5;No textual comments;0
+2009-05-20;Ruovesi;2009-05-20;Teboil Aitolahti;Koff Indian;Can 500ml;;;3;2;3;1;5;No textual comments;0
 2009-05-20;Ruovesi;2009-05-19;Prisma Kaleva;Staropramen _ern_;Bottle 500ml;;;5;3;5;3;10;No textual comments;0
 2009-05-21;Ruovesi;2009-05-19;Prisma Kaleva;Kozel Cerny (Dark) 10°;Bottle 500ml;;;5;3;5;3;10;No textual comments;0
-2009-05-21;Ruovesi;2009-05-19;Prisma Kaleva;Litovel Tmavé (Dark);Bottle 500ml;;;5;3;5;3;10;No textual comments;0
+2009-05-21;Ruovesi;2009-05-19;Prisma Kaleva;Litovel Tmavé;Bottle 500ml;;;5;3;5;3;10;No textual comments;0
 2009-05-22;Ruovesi;2009-05-19;Alko Kaleva;Hofbräu Münchner Weisse;Bottle 500ml;;;6;3;6;3;13;No textual comments;0
 2009-05-26;Pirkkala;2009-05-25;Alko Kaleva;Oppigårds Summer Ale;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
 2009-05-29;Olutravintola Konttori;;;Ballast Point Big Eye IPA;Bottle 650ml;;;8;3;8;3;15;No textual comments;0
@@ -97,7 +97,7 @@
 2009-06-10;Milan;;;Birra Moretti;Bottle 330ml;;;4;2;4;2;9;No textual comments;0
 2009-06-10;Terminal Hotel Milan;2009-06-12;A Tutta Birra;Westvleteren Blond;Bottle 330ml;;;8;3;8;3;15;No textual comments;0
 2009-06-10;Terminal Hotel Milan;2009-06-12;A Tutta Birra;Westvleteren Extra 8;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
-2009-06-11;Trattoria Il Porticciolo, Manarola;;;Peroni;Draft;;;4;2;4;2;9;No textual comments;0
+2009-06-11;Trattoria Il Porticciolo, Manarola;;;Peroni;Draft;;;4;2;4;2;9;No textual comments;2917
 2009-06-12;Birrificio Lambrate;;;Lambrate Domm;Draft;;;6;3;6;3;12;No textual comments;0
 2009-06-12;Birrificio Lambrate;;;Lambrate Lambrate;Draft;;;6;3;7;3;13;No textual comments;0
 2009-06-12;Birrificio Lambrate;;;Lambrate Ligèra;Draft;;;7;3;8;3;14;No textual comments;0
@@ -110,7 +110,7 @@
 2009-06-14;Javea, Spain;2009-06-13;Mercadona, Denia;San Miguel (Spain);Bottle 330ml;;;3;2;3;1;6;No textual comments;0
 2009-06-14;Javea, Spain;2009-06-13;Mercadona, Denia;San Miguel Especial;Bottle 330ml;;;3;2;3;1;8;No textual comments;0
 2009-06-15;Javea, Spain;2009-06-13;Mercadona, Denia;Murphys Irish Red Beer;Bottle 330ml;;;6;3;6;3;11;No textual comments;0
-2009-06-16;Javea, Spain;2009-06-13;Mercadona, Denia;A. K. Damm;Bottle 330ml;;;3;2;3;2;8;No textual comments;0
+2009-06-16;Javea, Spain;2009-06-13;Mercadona, Denia;A.K. Damm;Bottle 330ml;;;3;2;3;2;8;No textual comments;0
 2009-06-16;Javea, Spain;2009-06-13;Mercadona, Denia;Gayant La Biere du Demon;Bottle 330ml;;;4;3;3;1;8;No textual comments;0
 2009-06-16;Javea, Spain;2009-06-13;Mercadona, Denia;Legado de Yuste;Bottle 330ml;;;5;3;5;3;10;No textual comments;0
 2009-06-17;Javea, Spain;2009-06-13;Mercadona, Denia;Alhambra Premium / Export;Bottle 330ml;;;3;2;3;1;7;No textual comments;0
@@ -120,7 +120,7 @@
 2009-06-22;Le Club, Stockel Squere;;;John Martins Pale Ale;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
 2009-06-22;Le Roy D'Espagne, Brussels;;;Grimbergen Triple;Bottle 330ml;;;6;3;7;3;13;No textual comments;0
 2009-06-22;Le Roy D'Espagne, Brussels;;;Hoegaarden Grand Cru;Bottle 330ml;;;6;3;7;3;14;No textual comments;0
-2009-06-26;Pirkkala;2009-06-09;Alko Arkadia;BrewDog Hardcore IPA;Bottle 330ml;;;8;3;8;4;15;No textual comments;0
+2009-06-26;Pirkkala;2009-06-09;Alko Arkadia;BrewDog Hardcore IPA (9%);Bottle 330ml;;;8;3;8;4;15;No textual comments;0
 2009-06-26;Pirkkala;2009-06-09;Alko Arkadia;Oppigårds Stark Porter;Bottle 500ml;;;8;4;7;3;14;No textual comments;0
 2009-06-27;Pirkkala;2009-06-23;Brussels Airport;Leffe Radieuse;Bottle 330ml;;;7;3;8;3;14;No textual comments;0
 2009-06-27;Pirkkala;2009-06-23;Brussels Airport;Leffe Vieille Cuvée;Bottle 330ml;;;7;3;7;3;15;No textual comments;0
@@ -135,9 +135,9 @@
 2009-07-04;Pirkkala;2009-06-22;Supermarche Match, Stokkel Square;Mc Chouffe;Bottle 330ml;;;8;3;8;3;15;No textual comments;0
 2009-07-04;Ruovesi;2009-07-02;K-citymarket Pirkkala;Laitilan Kievari Retale;Bottle 500ml;;;6;3;6;2;12;No textual comments;0
 2009-07-04;Ruovesi;2009-06-23;Brussels Airport;Maredsous 6 Blond;Bottle 330ml;;;7;3;6;2;13;No textual comments;0
-2009-07-04;Ruovesi;2009-06-23;Brussels Airport;Maredsous 8 Brune/Bruin;Bottle 330ml;;;7;3;7;3;13;No textual comments;0
+2009-07-04;Ruovesi;2009-06-23;Brussels Airport;Maredsous 8 Brune/Bruin;Bottle 330ml;;;7;3;7;3;13;No textual comments;2526
 2009-07-11;Pirkkala;2009-06-23;Brussels Airport;Corsendonk Pater / Abbey Brown Ale;Bottle 750ml;;;8;3;8;3;15;No textual comments;0
-2009-07-11;Pirkkala;2009-07-10;K-citymarket Pirkkala;Mikkeller Drink’in the Sun;Bottle 330ml;;;8;3;7;3;14;No textual comments;0
+2009-07-11;Pirkkala;2009-07-10;K-citymarket Pirkkala;Mikkeller Drink’in the Sun (2009);Bottle 330ml;;;8;3;7;3;14;No textual comments;105133
 2009-07-12;Pirkkala;;Gift from Mikko & Virpi;Belle-Vue Kriek;Bottle 330ml;;;6;3;6;3;13;No textual comments;0
 2009-07-12;Pirkkala;2009-07-09;Alko Kaleva;Petrus Gouden Tripel;Bottle 330ml;;;6;3;7;3;14;No textual comments;0
 2009-07-17;Old Bank;;;Mikkeller Single Hop Simcoe IPA;Bottle 330ml;;;9;3;8;3;15;No textual comments;0
@@ -160,8 +160,8 @@
 2009-09-26;Silja Serenade;2009-09-26;System Bolaget Regeringsgatan;Jolly Pumpkin Bam Biere;Bottle 750ml;;;6;3;6;3;12;No textual comments;0
 2009-09-26;Silja Serenade;2009-09-26;System Bolaget Regeringsgatan;Jolly Pumpkin Calabaza Blanca;Bottle 750ml;;;6;3;7;3;13;No textual comments;0
 2009-09-26;Stockholm Beer and Whisky Festival;;;Araucana Rojiza Fuerte;Bottle 500ml;;;8;3;8;3;15;No textual comments;0
-2009-09-26;Stockholm Beer and Whisky Festival;;;Bear Republic Racer 5;Sample;;;8;3;8;3;16;No textual comments;0
-2009-09-26;Stockholm Beer and Whisky Festival;;;Dugges 1/2 Idjit!;Draft;;;8;4;8;4;15;No textual comments;0
+2009-09-26;Stockholm Beer and Whisky Festival;;;Bear Republic Racer 5 IPA;Sample;;;8;3;8;3;16;No textual comments;0
+2009-09-26;Stockholm Beer and Whisky Festival;;;Dugges 1/2 Idjit!;Draft;;;8;4;8;4;15;No textual comments;73188
 2009-09-26;Stockholm Beer and Whisky Festival;;;Dugges High Five!;Draft;;;7;3;8;3;15;No textual comments;0
 2009-09-26;Stockholm Beer and Whisky Festival;;;Dugges Never mind the Bollox!;Draft;;;8;3;8;4;15;No textual comments;0
 2009-09-26;Stockholm Beer and Whisky Festival;;;Great Divide Titan IPA;Sample;;;9;3;9;3;16;No textual comments;0
@@ -170,8 +170,8 @@
 2009-09-26;Stockholm Beer and Whisky Festival;;;Three Floyds Alpha King;Sample;;;9;3;9;4;16;No textual comments;0
 2009-09-26;Stockholm Beer and Whisky Festival;;;Victory HopDevil;Sample;;;8;4;8;3;16;No textual comments;0
 2009-10-09;Pirkkala;2009-06-22;Bier Temple, Brussels;Abbaye des Rocs Brune;Bottle 330ml;;;8;4;8;4;15;No textual comments;0
-2009-10-09;Pirkkala;2009-07-01;Alko Arkadia;Deus Brut des Flandres (2008);Bottle 750ml;;;8;4;8;4;15;No textual comments;0
-2009-11-06;Pirkkala;2009-11-06;Alko Kaleva;Flying Dog K-9 Cruiser;Bottle 355ml;;;7;3;6;3;12;No textual comments;0
+2009-10-09;Pirkkala;2009-07-01;Alko Arkadia;Deus Brut des Flandres;Bottle 750ml;;2008 version;8;4;8;4;15;No textual comments;0
+2009-11-06;Pirkkala;2009-11-06;Alko Kaleva;Flying Dog K-9 Cruiser;Bottle 355ml;;;7;3;6;3;12;No textual comments;688
 2009-11-07;Beer House, Tallinn;;;Beer House BH Premium;Draft;;;6;3;5;3;12;No textual comments;0
 2009-11-07;Cafe / Bar A-Terminal Tallinn;;;Heineken Buckler;Bottle 330ml;;;2;1;2;1;6;No textual comments;0
 2009-11-07;Eckerö Line Nordlandia;2009-11-07;Eckerö Line;Royal Classic;Can 330ml;;;4;2;4;2;8;No textual comments;0
@@ -181,16 +181,16 @@
 2009-11-12;St. Urho's Pub;;;Schlafly ESB;Bottle 355ml;;as Schlafly Winter ESB;7;3;7;3;14;No textual comments;0
 2009-11-13;Olutravintola Pikkulintu;;;Ballast Point Dorado Double IPA;Bottle 650ml;;;9;4;9;4;16;No textual comments;0
 2009-11-13;Olutravintola Pikkulintu;;;Beer Here Hopfix;Bottle 500ml;;;9;3;9;4;16;No textual comments;0
-2009-11-13;Olutravintola Pikkulintu;;;De Molen Hel & Verdoemenis;Draft;;;9;4;9;4;17;Black color With khaki head. Aroma is Chocolate, roast, vanilla. flavor is roasted malt, licorice, Chocolate, spices, Smoke. Medium Body, Soft carbonation. Silky palate. Draught version is one of the best beer experiences ever.;0
-2009-11-13;VR ravintolavaunu;;;Laitilan Kievari Tuomas (2209);Bottle 330ml;;;6;3;5;2;11;No textual comments;0
+2009-11-13;Olutravintola Pikkulintu;;;De Molen Hel & Verdoemenis (Hell & Damnation);Draft;;;9;4;9;4;17;Black color With khaki head. Aroma is Chocolate, roast, vanilla. flavor is roasted malt, licorice, Chocolate, spices, Smoke. Medium Body, Soft carbonation. Silky palate. Draught version is one of the best beer experiences ever.;0
+2009-11-13;VR ravintolavaunu;;;Laitilan Kievari Tuomas (2009);Bottle 330ml;;;6;3;5;2;11;No textual comments;0
 2009-11-21;Pancho Villa;;;Pacifico Clara;Bottle 355ml;;;3;2;4;2;8;No textual comments;0
 2009-12-31;Gastropub Tuulensuu;;;De Molen Jong & Onbedorven (Young & Unspoiled) 2009;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
 2009-12-31;Gastropub Tuulensuu;;;De Molen Lang & Kaal;Bottle 330ml;;;8;4;8;4;15;hyvä, todella paksu, makea, täyteläinen, mene pienenä annoksena;0
 2009-12-31;Gastropub Tuulensuu;;;Left Hand Haystack Wheat;Bottle 355ml;;;7;3;6;2;11;No textual comments;0
 2009-12-31;Gastropub Tuulensuu;;;Saison Dupont Vieille Provision;Bottle 375ml;;;7;3;8;3;15;No textual comments;0
 2009-12-31;O'Hara's Freehouse;;;Dieu du Ciel Aphrodisiaque;Bottle 341ml;;;7;4;7;3;13;No textual comments;0
-2009-12-31;O'Hara's Freehouse;;;Port Brewing Santa's Little Helper 2008;Bottle 650ml;;;9;4;9;4;16;No textual comments;0
-2009-12-31;O'Hara's Freehouse;;;AleSmith YuleSmith (Winter) Imperial Red Ale;Bottle 650ml;;;9;4;9;4;16;No textual comments;0
+2009-12-31;O'Hara's Freehouse;;;Port Brewing Santas Little Helper;Bottle 650ml;;2008 version;9;4;9;4;16;No textual comments;0
+2009-12-31;O'Hara's Freehouse;;;AleSmith Double Red IPA;Bottle 650ml;;;9;4;9;4;16;As AleSmith YuleSmith (Winter) Imperial Red Ale. No textual comments;0
 2009-12-04;Pirkkala;2009-12-03;K-citymarket Pirkkala;Diamond Roggen Ruisolut;Bottle 330ml;;;6;3;6;3;13;No textual comments;0
 2009-12-04;Pirkkala;2009-12-03;K-citymarket Pirkkala;Huvila Black Door H.O.D.A;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
 2009-12-12;Pirkkala;2009-12-03;Alko Arkadia (siirto);Beer Here Jule IPA;Bottle 500ml;;;8;3;8;3;15;No textual comments;0

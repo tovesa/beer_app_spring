@@ -1,0 +1,199 @@
+2015-11-01;Pirkkala;2015-10-30;Alko Goodman Hämeenlinna;Bryggeri Roggenfest;Bottle 330ml;2016-08-30;;7;3;6;3;13;hazy brown off white head bready malts Rye bread wood smoke med b soft carbo;0
+2015-11-02;Pirkkala;2015-10-24;Alko Arkadia;Hitachino Nest Nipponia;Bottle 550ml;2016-08-30;;7;3;8;3;15;clear golden white head nice white wine flavor wood banana wheat sweet fruits med body med to high carbo;0
+2015-11-03;Konttori;;;Öllenaut Suitsu Porter;Bottle 330ml;2015-12-03;#126;7;3;7;3;14;pours Black thick beige head smoke roasted malts chocolate brown sugar med to thin body high carbo;0
+2015-11-03;Konttori;;;Jopen Northsea IPA;Bottle 330ml;2017-06-02;;8;3;8;3;14;clear orange off white head tropical fruits hops sweet malts pine seems to be quite fresh med bc mild bitter Finnish;0
+2015-11-03;Gastropub Nordic;;;Tanker Masinaöli;Bottle 330ml;2016-02-19;;7;3;8;3;15;pours Black thick beige head licorice roasted malts hops grape med bc bitter Finnish;0
+2015-11-04;Pirkkala;2015-10-24;Alko Arkadia;Camba Imperial IPA;Bottle 330ml;2016-09-21;;7;3;8;3;14;clear golden color who ite head sweet malts floral hops citrus grape alcohol some soapy flavors med bc bitter Finnish;0
+2015-11-05;Pirkkala;2015-02-03;Alko Pirkkala Partola;Malmgård Barley Wine;Bottle 500ml;2017-01-10;;7;3;8;3;15;dark brown reddish off white head caramel dried fruits alcohol full body med carbonation;0
+2015-11-06;Konttori;;;Raduga Nosferatu;Draft;;;7;3;8;3;15;dark Brown beige head fruity hops roasted malts licorice heavy bitter flavor grape med bc;0
+2015-11-06;Konttori;;;Kraftwerk Rauch Alt;Bottle 500ml;2016-01-27;;7;3;7;3;14;dark copper no head smoke bacon sweet malts bread caramel hops med b flat carbo;0
+2015-11-06;Pirkkala;2012-10-10;Bierkompass;Hoppin’ Frog Barrel Aged BORIS The Crusher;Bottle 650ml;;#3 - Green cap;8;4;8;3;15;Pitch Black beige head chocolate roasted malts coffee licorice faint barrel flavor well balanced full oily body med carbonation;0
+2015-11-06;Pirkkala;;Bierkompass;Drakes Jolly Rodger;Bottle 650ml;;;8;3;9;4;15;Hazy brown tan head caramel dark fruits resin hops alcohol full body med carbo;0
+2015-11-06;Pirkkala;2012-04-09;Bierkompass;8 Wired iStout;Bottle 500ml;2014-08-31;#39;8;4;8;4;15;Pitch black beige head roasted malts chocolate caramel full body med c alcohol;0
+2015-11-06;Pirkkala;2014-02-03;Bierkompass;Mikkeller Forêt de Tronçais (Light Toasted);Bottle 375ml;;;9;3;8;4;15;Hazy orange off white head dried fruits tangy wineous notes warming alcohol sugar full body med c;0
+2015-11-07;Pirkkala;2015-11-07;Alko Kaleva;Nøgne Ø Gud Jul;Bottle 500ml;2019-07-23;Brewed 2015-07-23 #1483;8;4;8;3;15;dark brown beige head hops roasted malts licorice chocolate med bc bitter Finnish totally different than previous batch tasted reminds me a lot of black IPA;0
+2015-11-07;Pirkkala;2015-11-07;Alko Kaleva;Maredsous Triple;Bottle 330ml;2017-06-30;;7;3;7;3;14;clear golden off white head malts yeast wheat orange med bc;0
+2015-11-08;Pirkkala;2015-11-07;Alko Kaleva;Rodenbach Grand Cru;Bottle 330ml;2017-07-15;;7;3;8;3;14;dark brown reddish tan head sour acidic aroma flavor is sour berries cherries caramel wood med bc;0
+2015-11-08;Pirkkala;2015-11-07;Alko Kaleva;Stallhagen Brewdolf The Reinbeer;Bottle 330ml;2016-10-20;;6;3;7;3;13;clear copper off white head csramel malts berries hops med bc;0
+2015-11-09;Kahdet Kasvot;;;Maistila Kaira;Draft;;;7;3;8;3;15;Hazy orange thick off white head sweet hops wet grass malts pine grape sweet fruits med b med to high carbo, dry bitter finnish;0
+2015-11-09;Kahdet Kasvot;;;Pyynikin Feeniks;Draft;;;7;3;8;3;14;Pitch Black thin beige head aroma is smokey peat flavor is smoke sweet caramelish malts (just like porters) ham med mc;0
+2015-11-09;Ukkometso;;;Hopping Brewsters Viima;Draft;;;6;3;7;3;13;Cola Brown beige head caramel chocolate bready malts hops med bc;0
+2015-11-09;Pirkkala;2015-11-07;Prisma Kaleva;Malmgård Columbus Pale Ale;Bottle 500ml;2016-06-17;;7;3;7;2;13;Clear copper off white head sweet malts bread hops pine med bc moderate bitterness;0
+2015-11-10;Konttori;;;Topi Fuel Hoplite Phalanx;Bottle 330ml;2016-08-01;batch D1;7;3;8;3;14;Cloudy orange off white head malts tropical fruits faint hops tangy farmhouse flavors med bc;0
+2015-11-10;Konttori;;;Hopping Brewsters Pale Ryeder Aotearoa;Bottle 330ml;2015-12-31;#25;7;3;7;3;13;Hazy orange off white head sweet fruits caramel hops malty body med bc;0
+2015-11-10;Pirkkala;2015-11-07;Alko Kaleva;Zoller Hoffman Donator;Bottle 330ml;2017-10-14;;5;3;5;3;10;clear golden white head alcoholic aroma sweet malts grain alcohol hay med to full body soft palate med carbo;0
+2015-11-11;Gastropub Nordic;;;Hampelmann Armastuskiri Ladina-Eestist (ipa 5,6%);Draft;;;7;3;8;3;14;cloudy golden orange off white head tangy fruity aroma tropicsl fruits citrus faint hops malts med bc;0
+2015-11-11;Gastropub Nordic;;;Lehe Lõbus Njuufa;Draft;;;6;3;7;3;14;Black beer with beige head sweet fruits chocolate mild hops med body smooth palate bit flat and watery but good one though;0
+2015-11-11;Pirkkala;2015-11-07;Alko Kaleva;Robinson Old Tom;Bottle 330ml;;;5;3;6;3;12;deep ruby color thick and foamy off white head ginger caramel English kind oh hops cookies med bc too much ginger for me;0
+2015-11-12;Konttori;;;Top Fuel Label Genius Porter;Bottle 330ml;2018-05-01;batch B2;7;4;8;3;14;dark Brown beige head chocolate caramel mild roasted notes med body soft palate quite high carbonation;0
+2015-11-12;Konttori;;;BAV Strike IPA;Bottle 330ml;2016-09-30;#439;6;3;7;3;14;cloudy golden orange off thin white head sweet fruits malts caramel mild floral hops med annoying glue aroma bc;0
+2015-11-12;Pirkkala;2015-11-07;Alko Kaleva;Nøgne Ø Tiger Tripel;Bottle 500ml;2017-11-26;Brewed 2015-11-26 #1494/1503A;7;3;7;3;14;hazy yellow white head yeast orange wheat citrus caramel med b soft carbonation;0
+2015-11-13;Oluthuone Panimomestari;;;Plevna Olutneuvoksen Special Bitter;Draft;;;6;3;6;3;13;Clear golden orange off white head malts English hops white bread grass med bc bitter Finnish;0
+2015-11-13;Konttori;;;Garage Project VPA;Bottle 650ml;2016-03-12;#270;8;3;8;3;14;clear golden white head hops crispy malts 0fruits med bc bitter Finnish;0
+2015-11-13;Konttori;;;Garage Project Death from Above;Bottle 650ml;2016-02-29;#263;7;3;8;3;15;cloudy orange off white head caramel malts perfume tropical fruits grape full body med c;0
+2015-11-13;Konttori;;;Garage Project Pernicious Weed;Bottle 650ml;2016-03-09;#267;7;3;8;3;15;Hazy orange off white head tropical fruits nz hops grapefruit pineapple mild sweetish caramel med bc;0
+2015-11-13;Konttori;;;Lervig Mark Ramones;Bottle 330ml;;;6;3;6;3;13;hazy yellow white head malts citrus sugar med bc;0
+2015-11-13;Gastropub Tuulensuu;;;Kees East India Porter;Bottle 330ml;;;7;4;8;3;14;dark brown beige head roasted malts hops chocolate fruits straightforward bipa med bc;0
+2015-11-13;Gastropub Tuulensuu;;;Kompaan 39 Bloedbroeder;Bottle 330ml;2016-06-12;;8;4;7;3;14;dark brown beige head chocolate roasted malts dark bread choco med bc thin and watery is;0
+2015-11-13;Gastropub Tuulensuu;;;Het Uiltje Bla Bla Bla Aushroisk BA;Bottle 330ml;2016-04-01;;7;4;8;3;15;Black beer with beige head strong whisky barrel, dark fruits resin alcohol full body med c;0
+2015-11-13;Pirkkala;2015-11-07;Alko Kaleva;Kasteel Rouge;Bottle 330ml;2017-08-31;;6;3;7;3;13;dark Brown reddish white head cherries just like Dr pepper, karvas almond med bc;0
+2015-11-14;Pirkkala;2015-11-14;K-citymarket Pirkkala;Gotlands Frosty Bulldog Seasonal Ale;Bottle 330ml;2016-02-17;;5;3;6;2;11;Deep copper color thin off white head bready malts mild hops thin body med carbo;0
+2015-11-14;Pirkkala;2015-10-24;Alko Arkadia;Mikkeller Beer Geek Dessert;Bottle 330ml;2025-05-07;;9;4;8;4;15;Pitch Black thick beige head aroma is chocolate sweet cocoa vanilla flavor is coffee roasted malts cocoa full body med carbo;0
+2015-11-15;Pirkkala;2015-11-14;K-citymarket Pirkkala;Nøgne Ø Hvit jul;Bottle 500ml;2017-08-21;Brewed 2015-08-21 #1500;6;2;6;2;13;Cloudy light yellow white head yeast wheat pepper mild hops citrus thin watery body med carbo;0
+2015-11-16;Pirkkala;2015-11-07;Prisma Kaleva;Adams Southwold Dry Hopped Lager;Bottle 330ml;2016-07-31;;5;2;6;2;12;clear yellow white head malts grain mild aromatic hops wet grass med bc;0
+2015-11-18;Pirkkala;2015-11-18;Alko Linnainmaa;Founders Porter;Bottle 355ml;2016-07-03;;8;4;8;3;16;pitch Black beige head roasted malts chocolate coffee vanilla med bc, excellent porter bitter mildly roasted Finnish;0
+2015-11-18;Pirkkala;2015-11-18;Prisma Linnainmaa;Pyynikin Sessio Wheat;Bottle 330ml;2016-04-30;;6;2;6;2;13;hazy yellow thin white head wheat yeast pepper citrus thin watery body high carbonation;0
+2015-11-19;Pirkkala;2015-11-14;K-citymarket Pirkkala;Lervig Kringly Kris Brand Norwegian Juleporter;Bottle 330ml;2017-01-31;;7;3;7;3;13;Black beer with beige head chocolate coffee mild roasted flavor Christmas spices med to thin body med carbo;0
+2015-11-19;Pirkkala;2015-11-07;Alko Kaleva;Prykmestar Wahva Joulu bock;Bottle 500ml;2016-04-16;;5;3;6;3;13;clear copper color off white head malts caramel bread mild hops mild spices med to full body med carbo;0
+2015-11-20;Pirkkala;2015-11-07;Alko Kaleva;Malmgård Tammiportteri;Bottle 500ml;2017-09-30;;7;3;8;3;15;Dark Brown thin beige head roasted malts chocolate cocoa vanilla med b and carbo bitter roasted Finnish;0
+2015-11-20;Pirkkala;2015-11-07;Alko Kaleva;Sierra Nevada Hop Hunter IPA;Bottle 355ml;2016-06-10;;8;3;8;3;15;Clear yellow white head tropical fruits crispy malts hops med bc;0
+2015-11-20;Pirkkala;2015-11-07;Alko Kaleva;Rekolan Katajan Kuiske;Bottle 500ml;;;6;3;6;3;13;cloudy deep amber thin off white head malts rye berries yeast med b high carbo;0
+2015-11-21;Pirkkala;2015-11-20;Alko Kaleva;Fuller's Vintage Ale 2015;Bottle 500ml;2025-12-31;;6;3;7;3;14;Clear copper off white head sweet malts caramel alcohol oily sticky mouthfeel med carbo dry bitter Finnish;0
+2015-11-23;Pirkkala;2015-11-20;Alko Kaleva;Train Station Brewery Groundbreaking Unfiltered Lager;Bottle 330ml;2016-07-17;;6;2;6;2;12;clear golden white head grain mild citrus mild hops thin watery body high carbo;0
+2015-11-24;Konttori;;;Kraftwerk Dzin;Bottle 500ml;2016-03-27;;6;3;7;3;13;Hazy amber off white head floral hops sweet malty Ness caramel annoying glue in aroma med body soft carbonation;0
+2015-11-24;Konttori;;;Wasosz Salvador;Bottle 500ml;2016-03-25;;8;4;8;3;15;dark brown thin beige head chocolate smoked ham mild roasted malts wood bit watery palate med to thin body soft carbo;0
+2015-11-25;Pirkkala;2015-11-20;Prisma Kaleva;Pyynikin Sessio White IPA;Bottle 330ml;2016-04-30;;7;3;7;3;14;cloudy yellow thick white head wheat yeast hops malts bit harsh med bc;0
+2015-11-25;Pirkkala;2015-11-14;K-citymarket Pirkkala;To Øl Thirsty Frontier;Bottle 330ml;2017-07-15;;6;3;6;2;13;cloudy yellow white head fruity hops faint citrus faint orange light tropical fruits thin watery body med carbo;0
+2015-11-25;Pirkkala;2015-10-24;Alko Arkadia;BrewDog Electric India 5,2%;Bottle 330ml;2016-04-01;;7;3;7;2;14;Cloudy yellow white head yeast wheat mild hops citrus med to thin body high carbo;0
+2015-11-27;Pirkkala;2015-11-10;Firma Bier;Birra del Borgin ReAle Extra;Bottle 330ml;2017-02-28;;8;3;7;3;14;hazy golden orange white head fruity hops malts pine tropical fruits med bc;0
+2015-11-27;Pirkkala;2015-11-10;Firma Bier;Kaapse Bea Black Rye IPA;Bottle 330ml;2016-10-16;;8;4;8;3;14;dark brown thick beige head chocolate roasted malts mild hops licorice med b high carbo;0
+2015-11-27;Pirkkala;2015-11-10;Firma Bier;Bronckhorster Hoptimist;Bottle 330ml;2017-03-02;Hop-279;7;3;8;3;14;cloudy amber off white head sweet tropical fruits alcohol mild hops grape caramel full body med carbo;0
+2015-11-27;Pirkkala;2015-11-20;Alko Kaleva;Mufloni Talviporter;Bottle 330ml;2016-04-30;#203;8;4;8;3;15;dark Brown thin beige head roasted malts chocolate caramel med bc;0
+2015-11-28;Konttori;;;O’so Hop whoopin';Bottle 355ml;2016-10-31;;8;3;8;3;15;clear golden white head hops fruits grape pine classic us IPA med bc bitter Finnish;0
+2015-11-28;Konttori;;;Pollyanna Lexical Gap;Can 473ml;;;8;3;8;3;15;clear golden white head tropical fruits hops grape malts med bc bitter Finnish;0
+2015-11-28;Konttori;;;BrewDog bounty hunter;Bottle 330ml;2016-04-08;;8;3;7;3;14;Pitch Black thin beige head Roasted malts chocolate lactose caramel med bc;0
+2015-11-28;Konttori;;;BrewDog Black Eyed King Vietnamese Coffee Edition;Can 330ml;2020-10-08;;9;4;9;4;17;pitch Black thin beige head coffee licorice salt dark chocolate warming alcohol oak barrel full slick body med carbo;0
+2015-11-28;Konttori;;;O'So Lupulin Maximus;Bottle 355ml;2016-10-31;;8;3;9;3;15;clear golden orange white head hops tropical fruits caramel malts orange grape pine full body med carbo;0
+2015-11-28;Konttori;;;Sori Winter Gorilla;Draft;;;7;3;8;4;15;dark Brown beige head chocolate vanilla roasted malts med bc;0
+2015-11-28;Gastropub Nordic;;;Hiisi Herrasmies IPA;Draft;;;7;3;8;3;15;hazy yellow Hops citrus malts citrus med bc;0
+2015-11-29;Pirkkala;2015-11-28;Alko Kaleva;To Øl Goliat;Bottle 330ml;2019-11-05;;8;4;9;4;16;pitch Black beige head coffee brown sugar roasted malts caramel full oily body med carbo;0
+2015-12-02;Gastropub Soho;;;Hopping Brewsterss Plucky Penny;Draft;;;6;3;6;2;12;Hazy amber off white head malts fruits mild floral hops harsh and unbalanced med bc;0
+2015-12-02;Pirkkala;2015-12-02;K-citymarket Pirkkala;Pyynikin Sessio American IPA;Bottle 330ml;;;6;3;6;2;13;hazy yellow white head malts hops citrus light and watery thin body med carbo;0
+2015-12-03;Pirkkala;2015-12-02;K-citymarket Pirkkala;Pyynikin Sessio Red Ale;Bottle 330ml;2016-05-31;;6;3;6;3;12;hazy dark amber off white head malts berries harsh fruityness thin body med carbo;0
+2015-12-03;Pirkkala;2015-12-02;K-citymarket Pirkkala;Põhjala Uus Maailm;Bottle 330ml;2016-04-21;#135;8;3;7;3;14;cloudy yellow white head tropical fruits hops citrus refreshing bit light med bc;0
+2015-12-04;Pirkkala;2015-12-02;K-citymarket Pirkkala;Pyynikin Sessio Stout;Bottle 330ml;2016-06-30;;7;3;7;3;13;pitch Black thin beige head roasted malts chocolate ash caramel med bc;0
+2015-12-04;Pirkkala;2015-12-02;K-citymarket Pirkkala;Teerenpeli Ruis RIPA;Bottle 330ml;2016-03-30;;6;3;7;3;13;Brown reddish thin beige head caramel dark fruits resin sugar more like mild barley wine med bc;0
+2016-12-05;Konttori;;;Amager Julebryg;Bottle 500ml;2017-11-30;#1174;7;3;7;3;14;cloudy amber off white head malts mild English hops cookies caramel med bc soft carbo;0
+2016-12-05;Konttori;;;Thornbridge Cocoa Wonderland;Bottle 500ml;2016-03-25;;6;3;6;3;13;pitch Black beige head chocolate mild roastiness med bc;0
+2015-12-05;Aussie Bar;;;Little Creatures IPA;Bottle 330ml;;;7;3;6;3;13;cloudy golden orange malts hops pine caramelfruits mild citrus med bc;0
+2015-12-07;Gastropub Nordic;;;Sonnisaari Kulkuset;Draft;;;6;3;7;3;14;clear golden white head malts fruits orange citrus sweet caramel med bc;0
+2015-12-07;Ukkometso;;;Hiisi Licorice Suckers IPA?;Draft;;;8;3;8;3;15;clear amber off white head malts tropical fruits hops sweet caramel resin med bc;0
+2015-12-07;Ukkometso;;;Hiisi Vorna Taival;Bottle 330ml;;;7;3;7;3;14;pitch Black thin khaki head roasted malts chocolate smoke med bc dry bitter Finnish;0
+2015-12-07;Pirkkala;2015-12-02;K-citymarket Pirkkala;Rousal Chai Porter;Bottle 330ml;2016-05-12;;6;3;6;2;12;Cola Brown beige head spicy tea ginger chocolate mild hops med to thin body med carbo;0
+2015-12-08;Konttori;;;O'So Night Train Porter;Bottle 355ml;2016-10-31;;8;3;7;3;14;Cola Brown beige head chocolate roasted malts caramel vanilla med b soft carbo, bit too sweet;0
+2015-12-08;Konttori;;;Dieu du Ciel Blanche du Paradis;Bottle 341ml;;;8;2;8;3;14;clear yellow thin white head sweet fruits yeast spices wheat med body soft carbo;0
+2015-12-10;Ukko Nooa;;;Stallhagen Cérémonie;Draft;;;6;2;6;3;13;clear light yellow white head sweet fruits mats yeast wheat med bc;0
+2015-12-10;Bar Burrito;;;H West Claro;Bottle 330ml;2016-07-31;;4;2;4;2;9;clear yellow white head malts sugar corn med bc;0
+2015-12-10;Space Bowling & Billiards;;;Hartwall Classic Pale Ale;Draft;;;4;2;4;2;9;clear golden white head sweet malts grain med bc;0
+2015-12-10;Pirkkala;2015-11-07;Alko Kaleva;Oerbaek korstööl;Bottle 750ml;2016-08-03;;7;3;6;3;13;dark amber off white head yeast dark fruits brown sugar cyrup med bc;0
+2015-12-11;Kultainen Apina;;;Thornbridge Tonttu;Draft;;;7;3;8;3;14;clear golden orange off white head fresh fruityness hops citrus pine malts med bc;0
+2015-12-11;Kultainen Apina;;;Borg Brugghus Ulfur Nr 3;Draft;;;7;3;7;3;14;clear golden orange off white head floral hops citrus crispy malts grape med bc bitter Finnish;0
+2015-12-11;Kultainen Apina;;;Lagunitas Sucs Holaday Ale Brown Shugga Substitute;Bottle 355ml;;;7;3;8;3;15;cloudy golden white head sweet tropical fruits citrus hops med body med carbo bitter Finnish;0
+2015-12-11;Kultainen Apina;;;BrewDog #MashTag15;Bottle 330ml;2020-07-08;#360;8;4;8;4;15;Black beer beige head malts chocolate dark fruits roasted malts alcohol full body med carbo weird combination of Bsa be and is but still quite good;0
+2015-12-11;Kultainen Apina;;;Dieu du Ciel Moralite;Bottle 341ml;;;8;3;8;3;15;hazy yellow white head hops tropical fruits citrus crispy malts med bc somehow excellent us style IPA from canada;0
+2015-12-12;Pirkkala;2015-12-11;Alko Kaleva;Mikkeller Black Hole;Bottle 375ml;2019-11-12;;8;4;8;4;16;pitch Black beige head coffee roasted malts fruity hops licorice full body slick med carbo;0
+2015-12-12;Pirkkala;2015-12-11;Alko Kaleva;Train Station Brewery Shipfaced IPA;Bottle 330ml;2018-08-02;#503;7;4;8;3;14;cloudy orange off white head fruity hops crispy malts citrus alcohol med bc;0
+2015-12-13;Pirkkala;2015-12-02;K-citymarket Pirkkala;Pyynikin Sessio Bitter;Bottle 330ml;2016-06-30;;6;3;6;2;13;clear copper off white head malts grain hops grass thin b med c bitter Finnish;0
+2015-12-13;Pirkkala;2015-11-10;Firma Bier;Siren Broken Dream;Bottle 330ml;2016-02-06;g390;8;4;8;3;15;pitch Black beige head roasted malts vanilla coffee med bc;0
+2015-12-14;Pirkkala;2015-12-02;K-citymarket Pirkkala;Suomenlinnan Sparre Pale Ale;Bottle 500ml;;;7;3;7;3;14;clear yellow white head crispy malts fruity hops citrus med bc;0
+2015-12-14;Pirkkala;2015-12-02;K-citymarket Pirkkala;Stadin American IPA;Can 500ml;2016-05-22;;7;3;7;3;14;cloudy golden thick white head tropical fruits hops malts grape med bc;0
+2015-12-16;Pirkkala;2015-12-11;Alko Kaleva;Shepherd Neame Double Stout;Bottle 500ml;;;6;3;7;3;13;roasted mLts chocolate malts dry bitter finnish med bc;0
+2015-12-16;Pirkkala;2015-12-11;Alko Kaleva;BrewDog Hoppy Christmas;Bottle 330ml;2016-10-23;#580;8;3;8;3;15;clear golden orange off white heads hops tropical fruits crispy malts med bc;0
+2015-12-17;Pirkkala;2015-12-07;S-market Pirkkala;Stadin American Pale Ale;Can 500ml;2016-05-22;;7;3;7;3;14;clear yellow white head tropical fruits mild hops citrus malts med bc;0
+2015-12-17;Pirkkala;2015-11-10;Firma Bier;Het Uiltje Bosuil - Tawny Owl;Bottle 330ml;2016-08-17;;7;3;8;3;15;dark brown thick beige head fruits hops chocolate citrus med bc;0
+2015-12-18;Konttori;;;Ballast Point Habanero Sculpin;Bottle 355ml;;;8;3;6;3;13;clear golden thin off white head fruity aroma flavor is overwhelmed by habanero some malts hops fruits citrus quite nice but too hot Finnish;0
+2015-12-18;Konttori;;;Mikkeller Santas Little Helper 2015;Bottle 330ml;;;7;3;7;3;14;Cola Brown beige head yeast chocolate brown sugar malts caramel alcohol med bc, propably better with age;0
+2015-12-18;Pirkkala;2015-12-02;K-citymarket Pirkkala;Lehe 32 August;Bottle 330ml;2016-03-16;#7;7;3;6;2;12;hazy golden white head mild hops citrus malts thin body high carbo;0
+2015-12-18;Pirkkala;2015-11-10;Firma Bier;Brasserie Dunham La Patt Porter Robust;Bottle 341ml;;;8;4;8;3;15;dark Brown thick foamy beige head roasted malts chocolate coffee hops med bc dry bitter Finnish;0
+2015-12-18;Niko;;;Mikkeller From To via Mikkeller Brandy BA 2013;Bottle 375ml;2018-03-20;;8;4;8;3;15;Dark Brown thin beige head roasted malts chocolate oak barrel licorice orange med mc bitter Finnish;0
+2015-12-18;Niko;;;Mikkeller Santa's Little Helper 2009 Red Wine BA;Bottle 375ml;2016-03-22;;9;3;8;3;15;dark Brown beige head chocolate brown sugar yeast caramel mild barrel full body med carbo;0
+2015-12-18;Niko;;;To Øl Jule Maelk;Bottle 375ml;2023-10-03;;8;4;8;4;15;Brown sugar caramel chocolate alcohol aroma roasted malts full oily body med c;0
+2015-12-18;Niko;;;Avery Salvation;Bottle 650ml;;;8;3;8;3;15;clear orange off white head yeast fruits fruits malts caramel med bc;0
+2015-12-18;Niko;;;Left Coast Hop Juice;Bottle 355ml;2016-03-31;;7;3;8;3;15;clear golden orange off white head sweet fruits hops caramel malts alcohol citrus med bc;0
+2015-12-20;Pirkkala;2015-12-16;Alko Kaleva;Mikkeller Stateside IPA;Bottle 330ml;2017-10-27;;7;3;8;3;15;clear golden orange off white head fruits crispy malts mild hops citrus med bc;0
+2015-12-22;Pirkkala;2015-12-16;Alko Kaleva;N'ice chouffe;Bottle 750ml;2017-06-30;;7;3;7;3;13;clear brown tan head yeast dark fruits caramel cyrup alcohol med bc;0
+2015-12-22;Pirkkala;2015-12-22;Alko Pirkkala Partola;Põhjala Öö;Bottle 330ml;2016-11-22;;8;4;8;3;15;pitch Black beige head roasted malts coffee dark chocolate full body med carbo dry bitter Finnish;0
+2015-12-23;Pirkkala;2015-11-10;Firma Bier;Mikkeller Grass Roots Wheat is the new hops;Bottle 330ml;2017-08-26;;8;2;7;3;14;clear yellow white head citrus tropical fruityness hops wheat med bc;0
+2015-12-25;Pirkkala;2015-12-19;K-citymarket Pirkkala;Lehe Tujukas Tuukan;Bottle 330ml;2016-05-24;#9;7;3;7;3;13;Roasted malts vanilla chocolate med to thin body med carbo;0
+2015-12-26;Pirkkala;2015-11-10;Firma Bier;Oscar Blues Deviant Dales;Can 473ml;;Canned 2015-01-21;8;4;7;3;14;hazy Orange off white head caramel malts hops pine grape med to full body med carbo;0
+2015-12-26;Pirkkala;2012-05-22;Bierkompass;Beer Valley Back Flag;Bottle 650ml;;;9;4;8;3;15;pitch Black beige head roasted malts chocolate licorice ash warming alcohol licorice med bc dry bitter Finnish;0
+2015-12-26;Pirkkala;2014-11-17;Bierkompass;To Øl Fall of Man Barrel Aged;Bottle 375ml;2024-09-02;;9;4;8;3;16;pitch Black beige head roasted malts oak barrel salt peat licorice alcohol dark chocolate full body med carbo;0
+2015-12-26;Pirkkala;2012-09-23;Bierkompass;Evil Twin Auld Yin;Bottle 330ml;2015-12-31;;8;4;8;4;16;pitch Black thin beige head roasted malts licorice dark bread whisky barrel full body med carbo;0
+2015-12-26;Pirkkala;2013-12-15;Bierkompass;To Øl Black Maria;Bottle 375ml;2015-07-09;;9;4;8;3;15;pitch Black beige head fruits licorice chocolate grape hops white whine ba med bc, surprisingly fresh even if over Aged bottle found from closet;0
+2015-12-27;Pirkkala;2013-12-15;Bierkompass;Mikkeller Santa's Little Helper Cognac BA ;Bottle 375ml;2018-03-21;02012;9;4;8;3;16;dark brown thin beige head roasted malts cognac barrel candies brown sugar chocolate med to full body med carbo;0
+2015-12-27;Pirkkala;2015-12-19;K-citymarket Pirkkala;Birrificio del Ducato Victoria;Bottle 330ml;2016-06-30;lot 180 15;7;2;7;2;14;cloudy yellow white head citrus hops crispy malts tropicsl fruits thin body med carbonation;0
+2015-12-28;Kultainen Apina;;;Stadin Nelson IPA;Draft;;;7;3;7;3;14;hazy Orange white head hops grape fruits malts basically good IPA but Nelson is not my favorite med bc;0
+2015-12-28;Kultainen Apina;;;Sonnisaari Muuli;Draft;;;7;4;8;3;15;Black beer beige head roasted malts coffee dark chocolate burnt notes rye med bc;0
+2015-12-28;Kultainen Apina;;;Omnipollo / Buxton Yellow Belly Peanut Butter Biscuit Stout;Bottle 330ml;2019-09-01;bottled 2015-09-14;8;4;9;4;16;pitch Black no head Peanut Butter coffee licorice chocolate sugar roasted malts full oily body soft carbo;0
+2015-12-28;Kultainen Apina;;;Radbrew Congere'gation De I'atome;Draft;;;4;3;5;3;12;alcohol yeast glue fruits med bc, much more like east european strong Lager than Tripel;0
+2015-12-28;Kultainen Apina;;;Mikkeller Beer Geek Flat White;Bottle 330ml;;;8;4;8;4;16;pitch Black thin beige head roasted malts coffee chocolate full oily body med carbo;0
+2015-12-28;Konttori;;;Atom / Humalove From Finland with love;Draft;;;6;3;7;3;13;hazy brown orangeish off white head murky nz hops (nelson?) grape malts sweet fruits med bc;0
+2015-12-28;Konttori;;;Tupiniquim Monjolo Imperial Porter;Bottle 330ml;2016-11-30;;7;4;7;4;14;pitch Black thin beige head roasted malts burnt oil licorice ash too burnt for me;0
+2015-12-30;Pirkkala;2015-11-10;Firma Bier;de Eem Pampus Dark Hops 2014 edition;Bottle 330ml;2016-12-31;;8;4;8;3;15;dark Brown beige head licorice roasted malts hops fruits med b soft carbo;0
+2015-12-30;Pirkkala;2015-11-10;Firma Bier;Karl Strauss Mosaic session ale;Bottle 355ml;;;7;2;8;3;15;clear yellow white head fresh hops citrus tropical fruits crispy malts med bc;0
+2015-12-31;Pirkkala;2015-12-30;K-citymarket Pirkkala;Stadin American Lager;Can 500ml;2016-03-24;;5;3;6;3;13;cloudy yellow white malts mild hops fruits head med bc;0
+2016-01-01;Pirkkala;2015-11-10;Firma Bier;Prearis Grand Cru 2014 Jack Daniels BA;Bottle 376ml;2017-12-03;bottle no 02404;8;3;8;4;16;dark Brown off white head whisky barrel malts brown sugar caramel full body med carbo;0
+2016-01-04;Konttori;;;Saint Crusienne Red is Dead;Draft;;;6;3;8;3;14;cloudy orange off white head sweet fruits strawberries malts mild hops med bc;0
+2016-01-04;Konttori;;;Mikkeller Nuclear Hop Assault;Bottle 330ml;;;8;3;8;3;15;clear yellow white head sweet tropical fruits hops citrus crispy malts alcohol med bc;0
+2016-01-04;Gastropub Nordic;;;Hiisi Herraskainen olut;Draft;;;6;3;8;3;15;clear yellow white head crispy malts sweet fruits hops citrus med bc;0
+2016-01-05;Ukkometso;;;Maistila Jälkipeli;Draft;;;7;3;7;3;14;clear yellow white head sweet fruits wheat yeast citrus med b high carbo;0
+2016-01-05;Ukkometso;;;Top Fuel Blacktop Porter;Draft;;;7;4;8;3;14;Black beer with beige head roasted malts chocolate licorice vanilla quite sweet for a porter med bc;0
+2016-01-05;Ukkometso;;;Hopping Brewsterss Lady Lumberjack;Draft;;;6;4;6;4;12;dark brown beer with beige head sweet berries fruits caramel sugar mild roasted notes weird mix of sweet flavors soft smooth palate med carbo;0
+2016-01-08;Pirkkala;2015-11-10;Firma Bier;Biir Equinox Triple IPA;Bottle 330ml;2017-06-18;;8;4;8;3;16;cloydy Brown orangeish off white head wc style yeast malts grape pine caramel full body med carbo sweet bitter Finnish nice;0
+2016-01-08;Pirkkala;2015-11-10;Firma Bier;Harviestoun Old Engine Oil Engineer's Reserve;Bottle 330ml;;;8;4;8;3;15;pitch Black beige head roasted malts chocolate licorice dark fruits med bc oak barrel;0
+2016-01-09;Pirkkala;2016-01-08;Alko Koivistonkylä;Founders Dry Hopped Pale Ale;Bottle 355ml;;;7;3;7;3;14;cloudy golden orange off white head floral hops caramel malts pine med bc;0
+2016-01-12;Oluthuone Panimomestari;;;Plevna 67 minutes IPA;Draft;;;6;3;7;3;14;clear yellow white head floral hops sweet malts citrus grape med b high carbo bitter Finnish;0
+2015-01-12;Konttori;;;Lervig Check in IPA;Draft;;;7;3;7;3;14;cloudy orange off white head malts caramel pine grape mild hops fruits med bc;0
+2016-01-13;Pirkkala;;Bierkompass;To Øl Liquid Confidence BA Sherry;Bottle 375ml;2023-10-03;;9;4;9;4;17;pours Black beige head nice oak barrel roasted malts chili licorice burnt coffee faint vinous flavor warming alcohol full body soft carbonation strong bitter Finnish;0
+2016-01-15;Konttori;;;Mikkeller All Others Pales Pale;Bottle 330ml;;;7;3;8;3;14;clear golden orange off white head tropical fruits mild hops crispy malts med bc;0
+2016-01-15;Konttori;;;Lervig Double Black Tide;Bottle 330ml;;;7;3;7;3;14;pitch Black thin beige head roasted malts licorice hops coffee med bc;0
+2016-01-15;Konttori;;;Öllenaut Wahtula;Bottle 330ml;2020-01-20;;8;3;8;3;14;dark brown beige head roasted malts bready malts licorice coffee full oily body med c;0
+2016-01-15;Gastropub Nordic;;;Saimaan Brewer’s Special Winter Special;Draft;;;6;3;5;3;11;dark brown thin beige head spices malts med bc;0
+2016-01-15;Gastropub Nordic;;;Stallhagen Black IPA;Draft;;;6;3;7;3;14;dark Brown reddish beige head roasted malts licorice fruits hops med bc;0
+2016-01-15;Artturi;;;Põhjala Cellar Series - Valge Öö PX;Bottle 330ml;2018-12-21;#160;8;4;8;4;15;pitch Black thin beige head oak barrel roasted malts chocolate licorice full oily body med c;0
+2016-01-15;Artturi;;;Põhjala Rukki Rääk (2014-);Bottle 330ml;2016-03-15;#115;6;3;7;3;13;dark mahogny off white head malts English hops hops med bc;0
+2016-01-15;Gastropub Tuulensuu;;;Pampus Heavy White Zen;Draft;;;7;3;8;3;15;Hazy golgen white head Wheat yeast hops fruits wineous notes med bc;0
+2016-01-15;Gastropub Tuulensuu;;;Doctor Brew American IPA;Draft;;;8;3;8;3;15;clear orange off white head fruits hops grape med bc strong dry and bitter Finnish;0
+2016-01-15;Pirkkala;2016-01-14;Alko Stockmann;Sori Brewing Dark Humor Club;Bottle 330ml;2017-01-30;010;7;4;7;3;14;pitch Black beige head chocolate coffee cocoa spices roasted malts full body med c;0
+2015-01-16;Pirkkala;2015-11-10;Firma Bier;Hoppin Valley Citrus Mistress;Bottle 355ml;;;8;3;8;3;15;clear golden orange off white head orange citrus grape caramel malts pine med mc bitter sweet Finnish;0
+2016-01-16;Pirkkala;2015-11-10;Firma Bier;Stillwater Contemporary Works - Surround;Bottle 355ml;;;7;4;8;4;15;Pitch black thin beige head roasted malts dark chocolate coffee smoke ash full oily body med carbo dry bitter finnish;0
+2016-01-17;Pirkkala;2015-11-10;Firma Bier;Het Uiltje Schreeuwuil - Screech Owl;Bottle 330ml;;;8;3;8;3;15;Cloudy amber off white head malts sweet fruits hops grape pine alcohol full body med c;0
+2016-01-19;Pirkkala;2015-01-19;K-citymarket Pirkkala;Lehe Väike India;Bottle 330ml;2016-04-06;#21;7;3;7;2;13;clear golden white head sweet fruityness citrus crispy malts grass fresh but watery thin body high carbo;0
+2016-01-20;Konttori;;;Douglas & Beer national Django;Bottle 330ml;;Bottled 2015-03-04;7;3;7;3;15;deep brown reddish tan head bready malts hops grape chocolate med bc;0
+2016-01-20;Konttori;;;CRAK Guerrilla;Bottle 330ml;2016-11-02;Bottled 2015-11-02;7;3;7;3;15;clear yellow white head sweet tropical fruits hops citrus crispy malts med bc;0
+2016-01-21;Pirkkala;2015-11-10;Firma Bier;Mikkeller Centennial IIPA;Bottle 330ml;2016-12-24;;8;4;9;3;16;tropical fruits tangy citrus grape malts alcohol full body med carbo bitter Finnish;0
+2016-01-22;Pirkkala;2011-11-04;Alko Anttila;Mikkeller Santas Little Helper 2011;Bottle 375ml;2017-08-31;;8;4;9;4;16;Dark Brown beige head chocolate brown sugar caramel bottle aging full body med carbo;0
+2016-01-25;Konttori;;;Amager Cigar City Orange Crush;Draft;;;7;3;7;3;14;Cloudy Brown orangeish off white head fruits grape sweet malts cookies hops bit musty aroma med bc;0
+2016-01-25;Konttori;;;Totally Brewed Kiruji Black IPA;Draft;;;8;3;8;3;15;hazy brown thick off white head caramel grape licorice med b med c bitter harsh but somehow in a good way;0
+2016-01-25;Gastropub Nordic;;;Hiisi Joku Musta;Draft;;;6;3;7;3;14;dark drown beige head caramel cyrup mild roasted notes yeast alcohol some belgian wibe full body med carbo;0
+2016-01-26;Kahdet Kasvot;;;Stadin Celebration Ale;Draft;;;7;3;8;3;15;clear orange beer off white head fresh fruits hops grass crispy malts nice refreshing apa med bc;0
+2016-01-26;Kahdet Kasvot;;;Hopping Brewsterss Black Flight 2 Black Sheep;Draft;;;7;4;8;3;15;pours Black beige head chocolate caramel licorice mild roasted flavor malts med bc;0
+2016-01-26;Kahdet Kasvot;;;Bryggeri Sofia;Draft;;;7;4;8;4;16;pours Black beige head chocolate licorice some fruity and bitter flavors mild roasted malts full body soft palate;0
+2016-01-27;Pirkkala;2016-01-27;Alko Stockman;Robinson Brewery Trooper 666;Bottle 330ml;;;5;3;6;3;12;clear copper off white head sweet malts English hops caramel alcohol med bc;0
+2016-01-28;Pirkkala;2016-01-28;K-citymarket Pirkkala;Laitilan Pale Ale;Can 440ml;2016-22-11;;6;3;6;3;13;Hazy yellow white head malts grain fruits hops citrus surprisingly full full body med bc dry bitter Finnish;0
+2016-01-29;Kahdet Kasvot;;;Humalove Don't Add Lime;Bottle 330ml;2016-06-30;batch 5;7;3;8;3;15;cloudy brown orange off white head hops fruits sweet caramelish malts grape med to full body med carbo strong bitter Finnish;0
+2016-01-29;Kahdet Kasvot;;;Hiisi Donut Island Ich bin ein Berner;Draft;;;6;2;7;3;13;cloudy yellow thin white head malts salt mild sourness grapefruit med body high carbonation;0
+2016-01-29;Ukkometso;;;Hiisi Hop Hunters Double Double;Draft;;;6;3;7;3;14;cloudy yellow white head weird artificial caramel aroma hops sweet malts grass med to full body med carbo bitter Finnish;0
+2016-01-29;Ukkometso;;;Maistila Tilus;Draft;;;7;3;7;3;15;difficult to untap, foamed a lot Cola brown beige head faint bretta chocolate berries dark malts weird bretta dunkel combo but good though med bc;0
+2016-01-29;Ukkometso;;;Hopping Brewsters Grimr;Draft;;;6;3;7;3;14;hazy amber off white head malts wheat spices sugar pretty much like sahti med bc;0
+2016-01-29;Pirkkala;2016-01-27;Alko Stockmann;Sori Coffee Gorilla Baltic Porter;Bottle 330ml;2016-11-27;#023;7;4;8;3;15;pours Black tan head coffee chocolate roasted malts med bc;0
+2016-01-29;Pirkkala;2016-01-28;K-citymarket Pirkkala;Olutpaja Maltaan Haukka;Bottle 500ml;2016-04-15;;6;3;6;3;13;clear amber thick off white head sweet grainy malts bread rye med bc;0
+2016-01-30;Ruovesi;2016-01-27;Alko Stockman;Rodenbach 2012 Vintage;Bottle 750ml;;Barrel 170;8;4;8;3;16;ruby amber off white head yeast wineous barrel sour berries oak cherries caramel malts oily med to full body med carbo;0
+2016-02-02;Konttori;;;Amager La Santa Muerte;Draft;;;8;4;8;4;16;pitch Black beige head roasted malts vanilla honey chocolate brown sugar warming alcohol in the background full oily body med to soft carbonation bitter roasty Finnish;0
+2016-02-02;Konttori;;;Maistila Stereotype vol 1;Draft;;;6;3;8;3;15;clear golden orange thick off white head fruity hops grape citrus sweet tropical fruits crispy malts alcohol med bc something annoying in aroma alcohol and vegetables;0
+2016-02-03;Gastropub Nordic;;;Maistila Erämaan Tietäjä;Draft;;;7;3;8;3;15;clear orange amber thick off white head malts tropical fruits grape citrus hops med bc bitter Finnish;0
+2016-02-03;Pirkkala;2016-01-28;K-citymarket Pirkkala;Olutpaja Haastaja;Bottle 500ml;2016-08-20;;6;3;6;3;13;clear copper off white head sweet malts English style hops bread med mc;0
+2016-02-04;Pirkkala;2016-01-27;Alko Stockman;Põhjala Virmalised;Bottle 330ml;2016-06-16;batch 156;8;3;8;3;16;cloudy golden amber off white head hops citrus caramel malts pine med bc;0
+2016-02-04;Pirkkala;2016-01-28;K-citymarket Pirkkala;Maku Vehnä;Bottle 330ml;2016-07-12;;6;3;6;3;13;cloudy yellow white head wheat citrus yeast thin body high carbonation;0
+2016-02-05;Konttori;;;Evil Twin Hipster Ale;Can 355ml;;;6;3;7;3;14;cloudy golden off white head floral hops grape grassy malts med bc;0
+2016-02-05;Pirkkala;2016-02-05;Alko Ideapark;Iso-Kallan Salmiakki Porter;Bottle 500ml;2016-12-31;#355;6;3;5;2;11;pitch Black beige head licorice hops mild roasted malts med bc;0
+2015-02-06;Pirkkala;2016-01-28;K-citymarket Pirkkala;Ruosniemen Sihteeri;Bottle 330ml;2016-01-31;;6;3;6;2;13;hazy yellow thick white head citrus wheat spices pepper mild and watery thin body high carbo;0
+2016-02-06;Niko;;;AleSmith Hall of Fame: Imperial San Diego Pale Ale 394;Bottle 750ml;;;9;3;8;4;16;clear golden amber off white head caramel malts pine mild fruity hops warming alcohol full body med c;0
+2016-02-06;Niko;;;Knee Deep Simtra Triple IPA;Bottle 650ml;;;9;3;8;4;16;cloudy orange thin off white head caramel malts grape mild fruity hops pine warming alcohol full body med carbo bitter Finnish;0
+2016-02-06;Niko;2012-04-09;Bierkompass;8 Wired Batch 31;Bottle 500ml;2018-12-31;Brewed 2011-01-31, barreled 2011-03-31, bottled 2011-10-31;8;4;8;4;16;Pitch Black thin beige head roasted malts oak barrel licorice coffee full oily body med carbo;0
+2016-02-06;Niko;;;Avery The Reverend;Bottle 650ml;2012-03-31;;8;3;8;4;15;hazy brown off white head us style yeast brown sugar alcohol slick full body med c;0
+2016-02-07;Pirkkala;2016-02-03;Alko Koivistonkylä;Hiisi Loviatar;Bottle 330ml;2017-10-31;;6;3;7;4;14;Dark Brown reddish thick off white head caramel ripped fruits brown sugar mild hops alcohol full oily body med carbo;0
+2016-02-08;Pirkkala;2016-02-05;Alko Pirkkala Partola;Sheppys Organic cider;Bottle 500ml;;;7;2;6;2;13;clear yellow no head oak medium sweet thin b flat carbo;0
+2016-02-09;Konttori;;;Evil Twin I Love You with My Stout;Bottle 355ml;;;8;4;8;4;16;dark Brown thin beige head roasted malts licorice dark chocolate alcohol brown sugar full oily body med carbo slightly bitter Finnish;0
+2016-02-09;Konttori;;;Deer Bear Deer Beard;Bottle 500ml;2016-05-20;;7;3;7;3;14;clear golden orange off white head caramel malts fruity hops orange grape med med b soft carbonation bitter Finnish;0
+2016-02-09;Pirkkala;2016-02-03;Alko Koivistonkylä;Bryggeri Rose;Bottle 330ml;2016-12-31;;7;3;7;3;14;clear copper color off white head yeast red berries sugar malts med bc;0

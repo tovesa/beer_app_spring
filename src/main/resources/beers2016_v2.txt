@@ -1690,7 +1690,7 @@
 2015-12-11;Kultainen Apina;;;Borg Brugghus Ulfur Nr 3;Draft;;;7;3;7;3;14;clear golden orange off white head floral hops citrus crispy malts grape med bc bitter Finnish;0
 2015-12-11;Kultainen Apina;;;Lagunitas Sucs Holaday Ale Brown Shugga Substitute;Bottle 355ml;;;7;3;8;3;15;cloudy golden white head sweet tropical fruits citrus hops med body med carbo bitter Finnish;0
 2015-12-11;Kultainen Apina;;;BrewDog #MashTag15;Bottle 330ml;2020-07-08;#360;8;4;8;4;15;Black beer beige head malts chocolate dark fruits roasted malts alcohol full body med carbo weird combination of Bsa be and is but still quite good;0
-2015-12-11;Kultainen Apina;;;Dieu du Ciel Moralite;Bottle 341ml;;;8;3;8;3;15;hazy yellow white head hops tropical fruits citrus crispy malts med bc somehow excellent us style IPA from canada;0
+2015-12-11;Kultainen Apina;;;Dieu du Ciel / The Alchemist Moralité;Bottle 341ml;;;8;3;8;3;16;hazy yellow white head hops tropical fruits citrus crispy malts med bc somehow excellent us style IPA from canada;0
 2015-12-12;Pirkkala;2015-12-11;Alko Kaleva;Mikkeller Black Hole;Bottle 375ml;2019-11-12;;8;4;8;4;16;pitch Black beige head coffee roasted malts fruity hops licorice full body slick med carbo;0
 2015-12-12;Pirkkala;2015-12-11;Alko Kaleva;Train Station Brewery Shipfaced IPA;Bottle 330ml;2018-08-02;#503;7;4;8;3;14;cloudy orange off white head fruity hops crispy malts citrus alcohol med bc;0
 2015-12-13;Pirkkala;2015-12-02;K-citymarket Pirkkala;Pyynikin Sessio Bitter;Bottle 330ml;2016-06-30;;6;3;6;2;13;clear copper off white head malts grain hops grass thin b med c bitter Finnish;0

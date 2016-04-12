@@ -68,6 +68,32 @@ public class TestBeerAppLocal {
 		ConvertFile.enhance(inputFile, outputFile);
 	}
 
+	// --- 2013 split enhance merge ---
+
+	@Test
+	public void testSplitFile2013() {
+		String inputFile = "src/main/resources/beers2013_converted.txt";
+		String outputFilePrefix = "src/main/resources/beers2013_splitted_";
+		int numberOfFiles = ConvertFile.split(inputFile, outputFilePrefix);
+		System.out.println("Number of splitted files: " + numberOfFiles);
+	}
+
+	@Test
+	public void testEnhanceSplittedFile2013() {
+		final int fileNumber = 2; // 1-11
+		String inputFile = "src/main/resources/beers2013_splitted_" + fileNumber + ".txt";
+		String outputFile = "src/main/resources/beers2013_enhanced_" + fileNumber + ".txt";
+		ConvertFile.enhance(inputFile, outputFile);
+	}
+
+	@Test
+	public void testMergeFile2013() {
+		final int numberOfFiles = 11;
+		String inputFilePrefix = "src/main/resources/beers2013_splitted_";
+		String outputFile = "src/main/resources/beers2013_enhanced.txt";
+		ConvertFile.merge(inputFilePrefix, outputFile, numberOfFiles);
+	}
+
 	// --- 2016 ---
 
 	@Ignore
@@ -83,6 +109,32 @@ public class TestBeerAppLocal {
 		String inputFile = "src/main/resources/beers2016_converted.txt";
 		String outputFile = "src/main/resources/beers2016_enhanced.txt";
 		ConvertFile.enhance(inputFile, outputFile);
+	}
+
+	// --- 2016 split enhance merge ---
+
+	@Test
+	public void testSplitFile2016() {
+		String inputFile = "src/main/resources/beers2016_converted.txt";
+		String outputFilePrefix = "src/main/resources/beers2016_splitted_";
+		int numberOfFiles = ConvertFile.split(inputFile, outputFilePrefix);
+		System.out.println("Number of splitted files: " + numberOfFiles);
+	}
+
+	@Test
+	public void testEnhanceSplittedFile2016() {
+		final int fileNumber = 1; // 1-10
+		String inputFile = "src/main/resources/beers2016_splitted_" + fileNumber + ".txt";
+		String outputFile = "src/main/resources/beers2016_enhanced.txt";
+		ConvertFile.enhance(inputFile, outputFile);
+	}
+
+	@Test
+	public void testMergeFile2016() {
+		final int numberOfFiles = 10;
+		String inputFilePrefix = "src/main/resources/beers2016_splitted_";
+		String outputFile = "src/main/resources/beers2016_enhanced.txt";
+		ConvertFile.merge(inputFilePrefix, outputFile, numberOfFiles);
 	}
 
 	// --- 2016 TCBW ---

@@ -1,0 +1,199 @@
+2014-04-05;Pirkkala;2014-04-04;Alko Koivistonkylä;Örbaek poske bryg;Bottle 500ml;2015-06-04;;6;3;6;2;13;Cloudy Brown reddish, off white head Aroma is malt, cyrup, light licorice flavor is Brown Sugar, malt, Dark fruits, Bread med Body, med carbo;0
+2014-04-05;Pirkkala;2014-04-04;Alko Koivistonkylä;Chimay Wit;Bottle 330ml;2017-12-31;;8;3;8;3;15;hazy Yellow, white head, aroma is yeast, wheat, spices, Orange flavor is Fresh citrus, yeast, spices, wheat med dy, High carbo;0
+2014-04-06;Pirkkala;2014-04-04;Prisma Koivistonkylä;Pyynikin Pääsiäisolut;Bottle 330ml;2014-10-31;;7;3;7;3;13;Dark Brown, Almost Black, Thin beige head Aroma is roasted malt, Chocolate, ash flavor is mild roastiness, Chocolate, licorice, Thin To med Body, Soft carbonation;0
+2014-04-07;Pirkkala;2014-04-04;Prisma Koivistonkylä;To Øl Hop Love Pils;Bottle 330ml;2016-01-08;;8;3;7;3;14;Cloudy Golden Orange, off white head Aroma is hops, tropical fruits, citrus flavor is fruits, caramel, crispy hops, grape Thin body, med carbo;0
+2014-04-08;Pirkkala;2014-04-04;Alko Koivistonkylä;To Øl Primal Pils;Bottle 330ml;2014-02-26;;7;3;7;3;13;Cloudy Yellow, white head Aroma is Tropical fruits, grass, Smoke flavor is fruits, hops, Smoke, citrus Med Body and carbo;0
+2014-04-11;Konttori;;;Founders Backwoods Bastard;Bottle 355ml;;;8;3;9;4;16;Hazy Brown, off white head Aroma is Bourbon barrel, Dark fruits, flavor is caramel, Bourbon, Oak, Dark fruits, Brown Sugar, boozy, Full Body, med carbo;0
+2014-04-11;Konttori;;;Brewfist Green Petrol BIPA;Bottle 330ml;2014-07-30;;8;3;8;3;15;Aroma is hops, fruits, roasted malts, flavor is mild roastiness, Chocolate, citrus, hops, fruits Med Body and carbo;0
+2014-04-11;Gastropub Nordic;;;Mikkeller 20;Draft;;;8;3;8;3;14;No textual comments;0
+2014-04-12;Niko;;;Siren / Cigar City / Grassroots Neither;Bottle 330ml;2014-03-31;;8;3;7;3;13;cloudy Orange, Thin off off white head, aroma is malt, caramel, hops, fruits Flavor is Malt, caramel, fruits Med Body, med carbo;0
+2014-04-12;Niko;;;Turan sfumatura;Bottle 500ml;2011-12-31;2110;8;3;7;3;15;Dark Brown, off white head, aroma is Smoke, roasted malt, Chocolate, flavor is Chocolate, mild roasted malt, Smoke med Body med carbo;0
+2014-04-12;Niko;;;Smuttynose Rhye IPA;Bottle 355ml;;;9;3;8;3;15;cloudy Orange, off white head, aroma is hoppy, Tropical fruits, caramel, malts flavor is malt, caramel, fruits, mild hops Med Body and carbo;0
+2014-04-12;Niko;;;Name? Bottle?;Bottle 330ml;;;8;3;8;4;15;Hazy Brown, off white head, aroma is Sweet, resin, caramel malt, mild smokey Notes, flavor is caramel malt, Brown Sugar, smokey Notes, Dark fruits Med Body, med carbo;0
+2014-04-13;Konttori;;;BrewDog Clown King;Bottle 330ml;2018-10-15;;8;4;9;3;15;clear Copper color, Tan head Aroma is Sweet, malt, resin, hops, toffee flavor is Sweet, hops, fruits, alcohol Full Body, med carbo;0
+2014-04-13;Pirkkala;2009-10-03;Alko Kaleva;Nils Oscar Imperial Stout;Bottle 330ml;2015-09-30;89473-03;9;4;8;3;15;Pitch Black, no head Aroma is licorice, roasted malt, Chocolate, aging flavor is roasted malt, Chocolate, coffee Nicely aged, Full Body, oily texture, Soft carbo;0
+2014-04-14;Kahdet Kasvot;;;Epic Armageddon IPA;Bottle 330ml;;;8;3;8;3;15;Clear Golden color, white head Aroma is fruit, hops, pine, malts flavor is Sweet malt, Tropical fruits, citrus Rather malty caramelish med Body, med carbo;0
+2014-04-14;Kahdet Kasvot;;;Lagunitas IPA;Draft;;;6;3;7;3;13;Clear Golden color, white head Aroma is Dull, Some fruits, malt, floral hops flavor is malt, mild hops, Grass, caramel Med Body, flat carbo, Disappointment;0
+2014-04-14;Pirkkala;2014-04-12;K-citymarket Pirkkala;Bavaria Lander Bräu Weissbeer;Bottle 330ml;2015-10-21;Bottled 2013-10-21;6;3;5;2;11;Cloudy Orange, white head Aroma is yeast, wheat, Banana flavor is wheat, Banana, Pepper, Thin Body, med carbo;0
+2014-04-15;Pirkkala;2014-04-12;K-citymarket Pirkkala;Pyynikin Kauppa IPA;Bottle 330ml;2014-10-31;Cloudy Yellow, white head Aroma is fruits, Sweet malt, Flavor is malt, Hay, mild citrus Not bitter at All;6;3;5;2;12;Watery med Body Soft carbo;0
+2014-04-16;Pirkkala;2014-04-12;K-citymarket Pirkkala;Fuller's Frontier;Bottle 330ml;2014-11-13;;6;2;6;2;12;Clear Yellow, white head Aroma is malt, Grass, citrus flavor is crisp, malt, floral Notes, mild hops Med Body and carbo;0
+2014-04-17;Ruovesi;2014-04-16;Alko Koivistonkylä;Schneider Weisse Tap 4 Mein Grünes;Bottle 500ml;;;7;3;6;3;13;Hazy Golden Orange, off white head Aroma is wheat, yeast, Orange, herbs flavor is yeast, wheat, Banana med Body,med carbo;0
+2014-04-18;Ruovesi;2012-02-04;Bierkompass;De Molen Mooi & Meegenloos;Bottle 750ml;2016-06-22;bottled 2011-06-22;9;4;8;3;15;Dark Brown, khaki head Aroma is Chocolate, licorice, resin, plum flavor is Chocolate, caramel, mild roasted notes Full Body, Soft carbo;0
+2014-04-18;Ruovesi;2014-04-16;Prisma Koivistonkylä;Latilan Amerikan ale;Can 500ml;;;6;3;6;3;12;Cloudy Orange, white head Aroma is citrus, fruits, malts flavor is fruits, malt, mild hops Med Body med carbo;0
+2014-04-19;Ruovesi;2014-04-16;Prisma Koivistonkylä;Sandels vehnäolut;Can 500ml;2014-09-01;;6;3;6;3;12;Hazy golden/yellow color, white head Aroma is wheat, yeast, spices flavor is wheat, Banana, mild Pepper med Body, High carbo;0
+2014-04-19;Ruovesi;2014-04-16;Prisma Koivistonkylä;Keisari Luomu;Can 500ml;2014-09-30;;5;3;5;2;12;Cloudy Golden color, thick white head Aroma is malt, Grain flavor is sweetish malts, Bread, mild fruity hoppy Notes, Hay;0
+2014-04-20;Kultainen Apina;;;Stone Old Guardian - Oak Smoked;Bottle 650ml;;;8;3;8;3;14;Hazy Amber, off white head Lots of sediment aroma is toasted malt, alcohol, Oak flavor is alcohol, berries, dried fruits Full Body, slick mouthfeel, Soft carbo;0
+2014-04-20;Kultainen Apina;;;Hiisi Kyyttö;Bottle 330ml;2014-09-30;;7;3;7;2;12;Pitch Black, beige head Aroma is mild roasted, Chocolate, caramel, flavor is the same, Thin Body, mild carbo;0
+2014-04-20;Kultainen Apina;;;Two Roads Road 2 Ruin;Bottle 330ml;2014-01-27;;8;3;8;3;14;Golden Orange, Thin white head Aroma is Fresh, fruity hops, flavor is caramel malt, fruits, citrus, hops;0
+2014-04-20;Kultainen Apina;;;Eskiltuna Imperial Stout;Bottle 330ml;2017-01-10;;9;4;8;3;15;pitch Black, Thin beige head Aroma is Coffee, Chocolate, caramel, licorice flavor is Chocolate, mild roastiness, caramel Full Body, med carbo, Nice Basic is;0
+2014-04-20;Kultainen Apina;;;Buxton Special Reserve III Tsar Bomba;Bottle 330ml;;8cl sample;6;4;6;3;12;pitch Black, Thin beige head Aroma / flavor is sour Notes, bretta, mild roadtiness flavor is malt, chocolate, infected;0
+2014-04-20;Gastropub Nordic;;;Mikkeller Viking 25;Draft;;;8;3;7;3;14;clear Orange, off white head Aroma is fruity hops, peach, grape, malts flavor is caramel, malt, fruits, citrus Med Body med carbo;0
+2014-04-20;Gastropub Nordic;;;Hornbeer Stjernenat;Draft;;;8;3;8;3;14;cloudy Yellow, white head, yeast, wheat, Sweet fruits, Full Body;0
+2014-04-20;Konttori;;;To Øl Garden of Eden;Draft;;;8;3;7;3;13;Hazy Golden Orange, white head, aroma is fruits, hops, Grass Flavor is fruity, hops Juice, citrus, Weird tangy Notes;0
+2014-04-20;Konttori;;;Eskiltuna Single Hop Simcoe;Bottle 330ml;2014-09-20;;6;3;7;3;13;Cloudy Amber, white head Aroma is berries, caramel malt, berries flavor is malt, Wood, caramel, med Body med carbo;0
+2014-04-20;O'Hara's Freehouse;;;BrewDog Abstrakt 15;Bottle 375ml;;Bottled 2014-01-05 Bottle 5214;9;3;9;4;15;Aroma is resin, plum, Brown Sugar flavor is Sugar, caramel malt, Sweet berries;0
+2014-04-21;Pirkkala;2014-04-16;Alko Koivistonkylä;Beer Hunters Mufloni Muflonator;Bottle 330ml;2014-09-30;;7;3;7;3;14;dark Brown, beige head Aroma is roasted malt, caramel, Chocolate flavor is roasted malt, Coffee, Bread, caramel Med Body, med carbo;0
+2014-04-23;Konttori;;;Coronado Idiot IPA;Bottle 355ml;;;7;3;8;3;15;Clear Golden Orange, white head Aroma is fruity/floral hops, alcohol, citrus, caramel flavor is malt, caramel, floral Notes, citrus mild hoppiness, Meb Body, med carbo;0
+2014-04-23;Konttori;;;Lervig Voss Fandens IPA;Bottle 330ml;;;7;3;7;3;13;Dark Amber color, off white head Aroma is caramel, berries, hops, Pine flavor is caramel malt, fruits, mild hops Med Body and carbo;0
+2014-04-25;Konttori;;;Crew 7:45 escalation;Bottle 330ml;2014-10-22;;8;3;8;3;15;hazy Orange, off white head Aroma is fruity, caramel, Pine flavor is Tropical fruits, caramel, malt, alcohol Med Body & Soft carbo;0
+2014-04-25;Konttori;;;Thornbridge Beadeca's Well;Bottle 500ml;2015-02-03;;8;3;8;3;14;Dark Brown, beige head Roasted malt, caramel, Chocolate flavor is mild roastiness, caramel, smokey;0
+2014-04-25;Konttori;;;Lagunitas New Dog Town Pale Ale;Bottle 355ml;;;7;3;8;3;15;Cloudy Golden color, white head Aroma is Fresh, hops, fruits, citrus flavor is malt, caramel, fruits, hops, citrus;0
+2014-04-26;Ruovesi;2014-04-25;Alko Pirkkala Partola;Duche de longueville cider Brut;Bottle 750ml;;;6;2;7;3;12;Clear Golden Orange, no head Lots of wood, apple, medium to dry in sweetness;0
+2014-04-26;Ruovesi;2014-04-25;Alko Pirkkala Partola;Baltika 4;Bottle 500ml;2015-01-18;Bottled 2014-01-18;6;3;6;3;12;Clear Copper color, Tan head Aroma is Bread, malt, Hint of yeast, Flavor Sweet malt, caramel, cyrup, rye bread;0
+2014-04-26;Ruovesi;2013-02-02;Alko Kaleva;Brooklyn Black Ops;Bottle 750ml;;2012 version;9;4;8;4;16;Pitch Black, beige head Aroma is Bourbon barrel, caramel, Vanilla flavor is mild Bourbon, Chocolate, licorice, coffee, Dry roasted finnish med To full Body, med carbonation;0
+2014-04-26;Ruovesi;;Alko;Duvel;Bottle 330ml;2016-06-30;;7;3;8;3;15;Cloudy Yellow, white head Aroma is yeast, wheat, Sweet malts flavor is Fresh citrus, yeast, wheat, mild bitterness med Body, High carbo;0
+2014-04-28;Pirkkala;2014-04-04;Prisma Koivistonkylä;St:Eriks Pale Ale;Bottle 330ml;2014-10-30;;7;3;8;3;14;Clear Yellow, white head Aroma is malt, Grass, mild citrus flavor is Grass, malt, citrus Fresh, mild bitter finnish;0
+2014-04-28;Pirkkala;2011-12-09;Ølbutikken;Struise Black damnation 3 Black mes;Bottle 330ml;;;9;4;9;4;17;Dark Brown, beige head Aroma is chocolate, roasted malt, coffee, smoke flavor is malts, Chocolate, Salt, peat, Full Body, Soft carbo, Really Nice mild islay flavor;0
+2014-04-29;Pirkkala;;Alko Koivistonkylä;Coisbo Queens Desire;Bottle 330ml;;;6;3;6;2;12;Hazy Yellow, white head Aroma is wheat, yeast, Banana flavor is wheat, spices, bit watery;0
+2014-04-30;Inez;;;Elav Æresis;Bottle 330ml;;;8;3;8;3;14;Dark brown beige head roasted malts licorice fruits, bops med bc;0
+2014-04-30;Inez;;;Hibu VaiTrà;Bottle 330ml;;;7;3;7;3;13;Cloudy golden orange off white head fruits caramel floral notes thin body med carbonation;0
+2014-05-02;Ruovesi;2013-12-15;Bierkompass;De Dochter van de Korenaar Embrasse;Bottle 660ml;2013-08-31;no 27197;8;3;7;3;13;Murky Brown, Lots of sediment, Tan head Aroma is malt, syrup, peat, caramel flavor is malt, Brown Sugar, Smoke med Body and High carbonation;0
+2014-05-02;Ruovesi;;Alko Pirkkala Partola;Suomenlinnan Hoppe IPA;Bottle 500ml;;;7;3;7;3;13;cloudy Copper, off white head Aroma is malt, caramel, Brown, Sugar flavor is caramel, malt, Some Grape;0
+2014-05-02;Ruovesi;;Alko Pirkkala Partola;Teerenpeli Mokkamatti;Bottle 330ml;;;8;3;7;3;13;Bit too Straightforward coffee Beer;0
+2014-05-03;Pirkkala;2014-02-03;Bierkompass;Mikkeller 1000 IBU;Bottle 330ml;2015-12-04;;8;4;9;4;16;Cloudy Amber, Tan head Aroma is Exotic fruits, hops, malts, Pine flavor is fruits, Grape, caramel, malt med To full Body, med carbo, Strong bitter finnish;0
+2014-05-08;Pirkkala;2009-09-03;Alko Kaleva;Traquair Jacobite ale;Bottle 330ml;2019-06-30;;8;3;8;4;14;Dark brown, thin beige head Aroma is dark fruits, resin, brown sugar flavor is malt, chocolate, cyrup, resin med body to full body, soft carbonation, Bottle was aged 5 years;0
+2014-05-09;Pirkkala;;Alko Koivistonkylä;Cuvee van de keizer Blue;Bottle 750ml;2023-12-04;2013 version;7;3;7;3;14;Dark Brown beige head Aroma is cyrup, licorice, Brown Sugar flavor is caramel, Sugar, malt, cyrup;0
+2014-05-10;Pirkkala;;Bierkompass;Moylans Northern California IPA;Bottle 650ml;;;8;3;8;3;15;Hazy Orange thick white head Aroma is fruits, hops, citrus flavor is hops, Tropical fruits, grape Strong bitter finnish;0
+2014-05-10;Pirkkala;2013-12-15;Bierkompass;High water Hop Riot IPA;Bottle 650ml;;;8;3;8;3;15;Cloudy Orange white head Aroma is Grass, hops, herbs, biscuot flavor is malt, hops, caramel Med Body and carbo;0
+2014-05-10;Pirkkala;2013-12-15;Bierkompass;High Water Hop Logic;Bottle 650ml;;;8;3;8;3;15;Cloudy Orange, off white head Aroma is fruit, caramel, Pine flavor is malt, caramel, fruits, citrus Med Body and carbo;0
+2014-05-12;Pirkkala;2014-05-10;Verkkokauppa;F sergejeffin olut;Bottle 330ml;2014-08-13;;4;1;4;2;10;Clear Yellow, white head Malt, hay, hops, Grain med Body, High carbo;0
+2014-05-16;Ruovesi;2014-05-15;Alko turtola;St Feuillien Tripel;Bottle 330ml;2016-01-07;;7;3;8;3;13;Cloudy Yellow, white head Aroma is citrus, wheat, spices, alcohol Flavor is malt, ywheat, citrus, yeast, sugar med Body High carbo;0
+2014-05-17;Ruovesi;2014-05-15;Alko Turtola;Stadin American Black Lager;Bottle 330ml;2015-01-01;#576;7;3;7;3;14;Dark brown, Thin disappearing off white head Aroma is hops, fruits, citrus flavor is fruits, citrus, mild roadtiness;0
+2014-05-21;Pirkkala;2014-05-15;Alko Turtola;Primator Premium;Bottle 500ml;2015-04-11;;5;2;6;3;12;Clear Golden color, white head Aroma is malt, Grain butter flavor is sweet malt, Hay, saaz med Body, High carbonation;0
+2014-05-22;Konttori;;;Saimaan Django & Steven;Draft;;;6;3;7;3;13;Cloudy Yellow, white head Aroma is flavor is fresh, fruits, mild hops, malt, Grass med Body, Soft carbo, bitter finnish;0
+2014-05-22;Konttori;;;Rogue Farms 7 Hops IPA;Draft;;;7;3;8;4;15;Cloudy Amber, off white head Aroma is floral hops, Sweet fruits, flavor is hops, berries, fruits, malt, Pine, Smooth muothfeel, med To full Body, Soft carbo;0
+2014-05-22;SOPP Tampere;;;Bruuveri Treasure Island Ale;Draft;;;7;3;7;3;13;deed Amber, off white head Malt, Grass, hops, fruits, berries,;0
+2014-05-22;SOPP Tampere;;;Bruuveri Hudson Lake;Draft;;;7;3;7;3;14;Soft carbo med Body, bitter finnish Clear Golden color, white head Fresh, fruits, hops, malt, Grass;0
+2014-05-22;SOPP Tampere;;;Beer Hunters Mufloni Pilsner;Draft;;;6;3;6;3;13;cloudy Golden, white Head, malts, saaz, butter med Body, Soft carbo;0
+2014-05-22;SOPP Tampere;;;Beer Hunters Mufloni Simcoe Saison;Draft;;;7;3;7;3;13;clear Golden Orange, off white head Berries, fruits, Sweet Notes, no hops med Body and carbo;0
+2014-05-22;SOPP Tampere;;;Beer Hunters Mufloni Hyppy IPA;Draft;;;6;3;6;3;13;cloydy Orange, off white head, hops, malt, caramel Surprisingly strong Med Body, Soft carbo;0
+2014-05-22;SOPP Tampere;;;Pyynikin Sauvignon Pale Ale;Bottle 330ml;;;6;3;6;3;13;cludy Golden Orange, off white head malts, Weird hops, caramel, white Wine barrel, vinepus notes, med Body, Soft carbo;0
+2014-05-22;SOPP Tampere;;;Pyynikin Pirun Polkka;Bottle 330ml;;;6;3;6;3;12;Cloudy Amber,off white head Caramel malt, fruits, Med Body and carbo;0
+2014-05-22;SOPP Tampere;;;Malmgård XXV Dark saison;Draft;;;7;3;7;3;13;Clear Copper color, off white head, malt, Rough berries, juniper, Sweet Notes, med To full Body, Soft carbo;0
+2014-05-22;SOPP Tampere;;;Bruuveri Bix Beiderbecke;Draft;;;7;3;8;3;14;clear Golden Orange, white head Fruits, hops, Fresh, caramel mLt med Body, med carbo;0
+2014-05-22;SOPP Tampere;;;Hollolan Ylämaanhirvi;Draft;;;7;3;6;3;12;cludy Amber, off white head Sweet berries, malt, caramel, sahti, med Body med carbo;0
+2014-05-22;SOPP Tampere;;;Amerikan Eno Cascade Single Hop;Draft;;;7;3;7;3;13;Clear Copper, off white head Hops, biscuit, mlt, caramel, med Body, med carbo, Just Like Basic eno;0
+2014-05-22;SOPP Tampere;;;Hiisi Pohjoisen Jättiläinen;Bottle 330ml;;;7;3;7;3;14;Clear Copper, off white head, malt, alcohol, dried fruits, caramel;0
+2014-05-22;SOPP Tampere;;;Bryggeri Summer Ale;Draft;;;6;3;7;3;12;cloudy yellow, white head, fruity hops, caramel, Med body med cargo;0
+2014-05-22;SOPP Tampere;;;Hiisi Hukka;Draft;;;6;3;6;3;13;cloudy amber,off white head, vikaa, Virhe maku ja haju, alcohol Caramel malt, fruits;0
+2014-05-23;SOPP Tampere;;;Hiisi Metsänpeikko;Bottle 330ml;;;8;4;8;3;15;Pitch Black, beige head, berries, roasted malt, chocolate, full Body, Soft carbo;0
+2014-05-23;SOPP Tampere;;;Pyynikin Wanaka Stout;Draft;;;6;3;7;3;13;pitch Black, beige head Chocolate, caramel, roasted malt med Body, med carbo;0
+2014-05-23;SOPP Tampere;;;Pyynikin Elisabeth;Cask;;;6;3;6;2;12;Deep Amber, off white head, malts, fruits, mild hops, med Body, flat carbo;0
+2014-05-23;SOPP Tampere;;;Bryggeri maibock;Draft;;;6;3;6;3;13;clear Golden Orange, wheat, malt, Grass, hops,,med Body and carbo;0
+2014-05-23;SOPP Tampere;;;Vakka-Suomen Prykmestar APA;Draft;;;6;3;7;3;13;clear Copper, off White head Malt, caramel, hops, Grass med Body and carbo;0
+2014-05-24;Pirkkala;2014-05-23;Alko Koivistonkylä;Klosterbraueri Heller Bock;Bottle 330ml;2015-05-30;;6;3;7;3;13;Cloudy yellow, white head Aroma is Sweet malt, Grain, mild citrus flavor is Sweet malt, caramel, fruits Med Body med carbo, Nice Soft palate;0
+2014-05-25;Pirkkala;2013-12-15;Bierkompass;High water Camp Fire Stout;Bottle 650ml;;;8;4;8;3;14;Pitch Black, beige head Aroma is chocolate, caramel, mild roasted Notes flavor is chocolate, cocoa, caramel, Vanilla med Body and carbo;0
+2014-05-27;Oluthuone Pekko;;;Widmer Hopside Down;Bottle 355ml;2014-06-15;;7;3;7;3;13;Clear Golden, white head Aroma is hoppy, fruits, Flavor is fruit, malt, grass, Just not do Fresh IPA, med Body, med carbo, bitter finnish;0
+2014-05-28;Kitty's Public House;;;Beer Hunters Mufloni Mandarina IPA;Draft;;;7;3;6;3;13;Hazy Amber, off white head Aroma is malt, fruits, citrus, flavor is fruits, hops, malt med Body and carbo;0
+2014-05-28;Kitty's Public House;;;Nøgne Ø / Lervig We Love Wheat;Draft;;;8;3;8;3;14;Hazy Dark Amber, off white head Aroma is Tropical fruits, peach, pine, flavor is caramel malt, fruits, mild hops, med Body and carbo;0
+2014-05-28;Kitty's Public House;;;Stadin South Pacific IPA;Bottle 330ml;2014-10-01;#566;6;3;6;3;13;Dark Amber off white head, fruits, Grain, carsmel malts, Sugar, Grain, berries med Body and carbo;0
+2014-05-28;Kitty's Public House;;;Thwaites 13 Guns;Bottle 330ml;;;7;3;6;3;13;clear Copper, off white head, hops, caramel malts, Bread, med Body, med carbo;0
+2014-05-28;Ølhus Stockholm;;;Mikkeller Orh hved;Bottle 330ml;;;8;3;8;3;14;jazu Orange, white head, fruits, Bretta, caramel, mild hops, mild spurness med Body and carbo;0
+2014-05-28;Ølhus Stockholm;;;Mikkeller I Wish;Bottle 330ml;;;7;3;8;3;13;Cloudy Amber, white head Fruits, caramel malt, citrus, med Body, medcarbo;0
+2014-05-28;Ølhus Stockholm;;;Thornbridge Twin Peaks;Draft;;;8;3;8;3;14;clear Yellow, white head, fruits, hops, citrus, caramel malts med Body and carbo;0
+2014-05-28;Ølhus Stockholm;;;Ugly Duck Saison;Draft;;;6;3;7;3;13;cloudu Golden Orange, white head, Weird fruity Notes, yeast, berries, Sugar med Body and carbo;0
+2014-05-28;Black Door;;;Thornbridge Bayern;Draft;;;6;2;6;3;12;clear yellowwhite head, hops, Hay, malt, med Body and malts;0
+2014-05-28;Black Door;;;Stadin West Coast Imperial Stout;Draft;;;8;4;8;3;15;pitch Black, beige head Chocolate, caramel, roasted malt, med body, soft carbo;0
+2014-05-28;Villi Wäinö;;;Stadin savuviski stout;Draft;;;7;4;7;3;14;Dark Brown, beigehead, whisky barrel, smokey, chocolate, caramel Med Body med carbo;0
+2014-05-28;Villi Wäinö;;;Iso-Kallan Panimo Savo India Pale Ale;Draft;;;6;3;6;3;12;hazy Orange, off white head, Sweet berries, fruits, malt, caramel, hops, med Body med carbo;0
+2014-05-28;Villi Wäinö;;;Malmgård koho red ale 5%;Draft;;;6;3;6;3;12;Deep Amber, Tan head, Berries, malt, rye, Bread med Body and carbo;0
+2014-05-28;Ølhus Stockholm;;;Cap endless vacation pa;Draft;;;7;3;6;3;12;cloudy Amber, off whit head Caramel malt, fruits, hops, med Body and carbo;0
+2014-05-28;Ølhus Stockholm;;;Närke internationale;Draft;;;6;3;8;3;13;Dark Amber, Tan head Fruits, berries, mild hops, citrus Med Body, med carbo;0
+2014-05-28;Ølhus Stockholm;;;Mikkeller Amarillo;Draft;;;7;3;7;3;13;hazy Orange, off white head Fruits, malts, caramel, mild hops, Passion, tunkkainen, Pilalla;0
+2014-05-29;Bryggeri Helsinki;;;Bryggeri Helsinki Stout;Bottle 330ml;2014-12-31;;7;3;6;3;13;Pitch Black, beige head Caramel, Chocolate, roasted malt, oat, med body, med carbo;0
+2014-05-29;Bryggeri Helsinki;;;Bryggeri Helsinki IPA;Draft;;;7;3;8;3;15;cloudy Golden Orange, Tropical fruits, hops, citrus, med mody, med carbo, butter finnish;0
+2014-05-29;Rotterdam;;;Slottskällans Saison;Draft;;;7;3;7;3;14;cloudy Golden Orange, white head, wheat, yeast, citrus, mild caramelish Notes med Body and carbo;0
+2014-05-29;Rotterdam;;;To Øl Space Frontier;Draft;;;8;2;8;3;14;clear Yellow, white head, citrus, Tropical fruits,hops, malt, med Body and carbo;0
+2014-05-29;Hilpeä hauki;;;Maximus Brutus;Draft;;;6;3;6;3;12;cloudy Amber, off white head, malt, fruits, Grass, Sweet berries, caramel malt Bit full med body, med carbo;0
+2014-05-29;Hilpeä hauki;;;Thornbridge Tzara;Draft;;;4;2;5;2;12;clear Golden white head Sweet malts, Grain, mild hops Med body;0
+2014-05-29;William K Kurvi;;;Malmgård William K Kataja;Draft;;;6;3;7;3;13;Deep cloudy Amber, Tan head Malt, rye Bread, juniper, caramel Med Body and carbo, Slick mouthfeel;0
+2014-05-29;William K Kurvi;;;BrewDog IPA is Dead - Amarillo;Draft;;;7;3;7;3;14;Clear Golden Orange, white head Malts, yeast, citrus, Sweet Notes med Body, med carbo;0
+2014-05-29;William K Kurvi;;;Lervig Art Collection Funky Moi Rye Saison;Draft;;;7;3;7;3;15;Cloudy golden orange off white head yeast fruits apple sweet malts caramel med bc;0
+2014-05-29;William K Kurvi;;;Riedenburger Golden Sud;Bottle 330ml;2015-01-28;;7;3;7;3;13;Hazy Orange off white head, Fresh, fruits, mild hoppiness, caramel, malts Med Body and carbo;0
+2014-05-29;William K Kurvi;;;BrewDog IPA is Dead - Comet;Draft;;;8;3;8;3;15;cloudy Orange, hops,Tropical fruits, citrus Caramel malt, med Body and carbo;0
+2014-05-29;Pikkulintu;;;Lervig Art Collection Belgian Black Ale;Draft;;;7;4;6;3;13;dark Brown, beige head Roasted malt, Coffee, Dry, mild Chocolate;0
+2014-05-29;Pikkulintu;;;Brekeriet Funky starter;Draft;;;7;3;7;3;14;cloudy Yellow white head, yeast, citrus, malts, tangy;0
+2014-05-29;Pikkulintu;;;De Molen Juleøl & Kerstbier;Bottle 330ml;;batch 2014-01-01;8;4;8;3;14;Dark Brown, beige head, Chocolate, malts, Brown Sugar, bottle aging, Smoke, licorice;0
+2014-05-29;Pikkulintu;;;Ölfabrikken Winter Porter;Bottle 750ml;2017-12-01;Brewed 2007-12-11;8;4;8;4;16;Dark Brown, ruin beige head sour wineousnotes, mild roastiness, Chocolate, Coffee, nice complexbrew, medbody and carbo;0
+2014-05-29;Pikkulintu;;;De Hemel Nieuw Ligt Grand Cru;Bottle 375ml;;Vintage 2003;7;3;8;3;14;cloudy Amber, thin off white head, carMel, alcohol, Honey,Wood, dried fruits, resin,Sugar, Body med carbo;0
+2014-05-29;Konttori;;;Rogue Chocolate Stout;Bottle 650ml;2015-02-28;;8;3;8;3;14;aroma is Chocolate, roasted malt, , flavor is chocolate, vanilla, caramel, cocoa, coffee, med Body,med carbo, Nice velvety palate;0
+2014-05-29;Konttori;;;Kozel Kvasnicový Special 12°;Draft;;;7;3;7;3;13;cloudy Yellow, white head Aroma is butter, Sweet malt, hops, Hay, Grain med Body and carbo;0
+2014-05-30;Pirkkala;;Alko ideapark;Amager Sloth;Bottle 500ml;2015-05-31;#806;7;3;8;3;14;Cloudy Yellow, white head Citrus, Tropical fruits, hops;0
+2014-05-30;Pirkkala;;Vinmonopolet;HaandBryggeriet Fyr & Flamme;Bottle 500ml;2015-10-30;Bottled 2013-10-30 #677;8;3;8;3;15;Cloudy Golden Orange, off white head Aroma is fruity, hops, Orange, piney flavor is fruity, citrus,hops, caramel malt med Body and carbo;0
+2014-06-06;Pirkkala;2014-06-05;Alko Koivistonkylä;Schneider Weisse Tap 2 Mein Kristall;Bottle 500ml;2015-03-01;;6;2;6;3;13;Clear Yellow, white head, aroma is wheat, yeast, spices flavor is wheat, yeast, Pepper, malt med Body, High carbo;0
+2014-06-06;Pirkkala;2014-06-05;Alko Koivistonkylä;Erdinger Urweisse;Bottle 500ml;2015-04-30;;6;3;7;3;13;Hazy Orange, off white head Aroma is wheat, yeast, citrus flavor is wheat, spices, med Body and carbo;0
+2014-06-07;Ruovesi;2014-06-07;Alko Ruovesi;Greens IPA;Bottle 500ml;2016-04-17;;6;3;6;3;13;Hazy Brown, off white head Aroma is malts,Sweet fruits, mild hops Flavor is yeast malts fruits Some sika Kind med Body and carb;0
+2014-06-08;Pirkkala;2014-06-05;Alko Koivistonkylä;Mufloni Säppi Apa;Bottle 330ml;2014-11-30;;8;3;8;3;15;Hazy Amber, off white head Aroma is tropical fruits, hops, malts flavor is fruity, hops, Grape, Sweet malt, resin med Body, med carbo Bitter finnish;0
+2014-06-10;Gastropub Nordic;;;Malmgård proto #4;Draft;;;7;3;7;3;14;hazy Orange, off white head Malt, hops, mild Tropical fruits, grape med Body, medcarbo, strong bitter finnish;0
+2014-06-10;Konttori;;;Moor Hoppiness;Draft;;;8;3;7;3;15;hazy Golden color, white head Aroma is Fresh fruits, Sweet Tropical fruits, hops Flavor is malts, hops, fruits Med Body and carbo;0
+2014-06-10;Konttori;;;Brewfist Bionic IPA;Bottle 330ml;2015-03-30;L 4142;7;3;8;3;14;Clear Golden Orange, off white head or Cloudy Amber, off white head, malt, hops, Med Body, med carbo, bitter finnish;0
+2014-06-10;Konttori;;;Moor Radiance;Draft;;;7;3;7;3;14;hazy Yellow, white head, Fresh fruity hops, malt, Grass med Body and carbo;0
+2014-06-10;O'Hara's Freehouse / BrewDog tasting;;;BrewDog Hello My name is Päivi;Draft;;;8;3;8;3;15;clear Golden Orange, strong maltiness;0
+2014-06-10;O'Hara's Freehouse / BrewDog tasting;;;BrewDog Bourbon Baby;Bottle 330ml;;;8;3;8;3;15;deep brown reddish beige head roasted malts chocolate caramel bourbon barrel smooth medium palate med carbonation;0
+2014-06-10;O'Hara's Freehouse / BrewDog tasting;;;BrewDog Black Jacques;Bottle 330ml;2024-04-29;#123;8;3;8;3;14;Dark Brown, beige head, vineous sour berries, Chocolate, barrel;0
+2014-06-10;O'Hara's Freehouse / BrewDog tasting;;;BrewDog Abstrakt 16;Bottle 375ml;2014-03-11;Bottle 14589/16250;7;3;7;3;13;clear Copper, beige head, alcohol, bready, malt, caramel, spices, Coffee;0
+2014-06-10;O'Hara's Freehouse / BrewDog tasting;;;BrewDog Paradox Heaven Hill;Bottle 330ml;2024-03-21;#079;9;4;9;4;16;Dark Brown, beige head Dark Brown, beige head, strong whisky barrel Notes, Chocolate, roasted malt, mad body, med carbo;0
+2014-06-10;O'Hara's Freehouse / BrewDog tasting;;;Dog A;Bottle 330ml;;;9;4;9;4;16;Dark Brown, beige head, Chocolate, roasted malt, Coffee, Vanilla, mild hops;0
+2014-06-13;Niko;;;Lambrate Ghisa;Bottle 750ml;2012-12-02;L150R;7;4;7;3;14;Dark Brown beige head Chocolate, mild roasted notes, mild Smoke, Bacon med To To Thin Body, med carbo;0
+2014-06-13;Niko;;;Anderson Valley Bourbon Barrel Stout;Bottle 650ml;2015-11-16;;8;4;7;3;14;Black beige head Chocolate, caramel, mild Bourbon in aroma, Vanilla med Body, Soft carbo;0
+2014-06-13;Niko;;;Partizan Albatros;Bottle 330ml;2018-04-02;Bottled 2013-04-02;6;3;7;3;13;Hazy Amber, off white head Aroma is yeast, alcohol, Some disturbing dish water Notes, sour Orange, caramel malt, fruits Med Body and carbo;0
+2014-06-13;Niko;;;Borg Garún Icelandic Stout Nr 19;Bottle 330ml;;Lot 012027;8;4;8;4;15;Black, beige head Sweet, caramel, vienous Notes, Chocolate, mild roastiness, Full Body, Soft carbo;0
+2014-06-14;Plevna;;;Plevna Zeelanti;Draft;;;6;3;7;3;14;clear Golden color, ruin white head malts, fruits, Grain, Grass med Body, Soft carbo, butter finnish;0
+2014-06-14;Pirkkala;2014-06-13;Alko Koivistonkylä;BrewDog Hello My name is Päivi;Bottle 330ml;2015-05-23;#154;8;3;8;3;15;Hops, caramel malt, gooseberries, Tropical fruits, grape bitter and boozy finnish;0
+2014-06-15;Pirkkala;2014-06-15;K-citymarket Pirkkala;Pyynikin Wanaka stout;Bottle 330ml;2014-12-31;;7;3;7;3;13;Black, ruin beige head Chocolate, caramel, licorice, roasted malt med Body, Soft carbo;0
+2014-06-15;Pirkkala;2014-06-15;K-citymarket Pirkkala;Greene King St Edmunds Golden Beer (Bottle);Bottle 500ml;;;6;2;6;2;12;clear Golden, white head Floral Notes, malt, Hay, mild hops, butter med Body, Mad To High carbo;0
+2014-06-16;Pirkkala;2014-06-15;K-citymarket Pirkkala;Yardbird pale ale;Bottle 330ml;;;6;3;7;3;13;Clear Golden color, white head Floral hops, Sweet malt, fruits, Grass med Body and carbo;0
+2014-06-16;Pirkkala;2014-06-15;K-citymarket Pirkkala;Gypsy Inc Tipsy Gypsy;Bottle 330ml;2015-09-25;;7;3;7;3;14;clear Yellow, white head, hops, Grass, fruits, med to thin Body and carbo;0
+2014-06-18;Pirkkala;2014-06-15;K-citymarket Pirkkala;Gypsy Inc Soft Focus;Bottle 330ml;;;6;3;7;3;13;Hazy Yellow, white head Aroma is wheat, Orange, fruits, yeast flavor is Orange, Sweet fruits, mild spices, mild hops Med Body, med carbo;0
+2014-06-28;Ruovesi;2012-01-03;Bierkompass;De Molen Hamer & Sikkel;Bottle 750ml;2016-09-16;Bottled 2016-09-16;8;4;7;3;14;Dark Brown, beige head Aroma is Chocolate, roasted malt, caramel, Flavor is Chocolate, Vanilla, roasted malt, spicy Wood med Body and carbo;0
+2014-07-01;Pirkkala;2014-06-15;K-citymarket Pirkkala;Gypsy Inc Gyp Wit;Bottle 330ml;2015-09-25;;7;3;6;3;13;Cloudy Yellow, white head, Orange, Sweet malt, spices, wheat, med To Thin Body, med carbo;0
+2014-07-04;Pirkkala;2014-07-04;S-market Pirkkala;Thwaites indus IPA;Bottle 500ml;2015-05-31;;5;3;6;3;11;malt, cookies, floral Notes, perfume;0
+2014-07-04;Pirkkala;2014-06-15;K-citymarket Pirkkala;Little Walley Vanilla Porter;Bottle 500ml;2016-05-31;14072;6;3;7;3;13;Dark brown, Tan head, roasted malt, caramel, Vanilla;0
+2014-07-05;Pirkkala;2013-12-15;Bierkompass;8 Wired Super Conductor;Bottle 500ml;;;9;3;8;3;15;Cloudy Amber, Tan head Aroma is malt, caramel, Pine, Grape, mild fruity hops, Full Body, med carbo, bitter finnish West Coast Style dipa;0
+2014-07-05;Pirkkala;2014-02-03;Bierkompass;Moylans Hopsicle ale;Bottle 650ml;;;9;4;9;3;15;Cloudy Golden Orange, off white head Caramel malt, Tropical fruits, hops, Pine, Grape;0
+2014-07-05;Pirkkala;2011-12-06;Bierkompass;Southern Tier Imperial Oat;Bottle 650ml;;Blackwater Series;9;4;9;4;16;Black, thin beige head Roasted malt, Chocolate, mild barrel Kind of Notes, caramel, full Body, oily mouthfeel, Nice balanced is;0
+2014-07-05;Pirkkala;2013-10-15;Bierkompass;De Molen Spanning & Sensatie;Bottle 330ml;;;8;4;8;3;14;pitch Black, beige head, Salt, roasted malt, mild spicy Notes, Chocolate, Vanilla, Full Body, Soft carbo;0
+2014-07-06;Pirkkala;2014-07-05;Alko Koivistonkylä;Little Valley Python IPA;Bottle 500ml;2016-06-30;;6;3;6;3;12;Cloudy Golden color, fruits, glue, mild hops, med Body, med carbo;0
+2014-07-11;Gastropub Nordic;;;Hiisi / Game Brewery Rye IPA;Draft;;;6;3;6;3;12;cludy Golden Orange, off white head Malt, hops, grass, bit harsh and too straightforward, High carbo, med Body;0
+2014-07-11;Gastropub Nordic;;;Malmgård proto #5 Saison;Draft;;;7;3;7;3;13;cloudy yellow, white head, citrus, wheat, mild yeasty Notes, spices med Body and carbo;0
+2014-07-11;Gastropub Nordic;;;Nøgne Ø Vic Secret;Bottle 500ml;2016-04-03;Bottled 2014-04-03 #1156;8;3;7;3;14;Hazy Golden Orange, ruin white heat, Lots of sediment aroma is Fresh, sweet fruits, tropical Notes flavor is fruits, grape, caramel, med body, med carbo, refreshing, bitter finnish;0
+2014-07-11;Pirkkala;2014-07-06;K-citymarket Pirkkala;Moor Amoor;Bottle 660ml;2015-03-31;;8;4;7;3;14;Dark Brown, khaki head Roasted malt, caramel, burnt Notes, Vanilla Thin Body, med carbo;0
+2014-07-13;Pirkkala;2014-07-06;K-citymarket Pirkkala;Lervig Sommer Öl;Can 330ml;2015-01-11;;6;3;5;2;12;Cloudy Yellow, white head malts, citrus, mild hops, easy but bit boring Light Body, med carbo;0
+2014-07-13;Pirkkala;2014-07-06;K-citymarket Pirkkala;Gypsy Inc Pale Trail;Bottle 330ml;2015-09-25;;7;3;6;3;14;Cloudy Golden Orange, white head Tropical fruits, hops, citrus, bit dull;0
+2014-07-13;Pirkkala;2014-07-06;K-citymarket Pirkkala;Moor Dark Alliance;Bottle 660ml;2015-02-20;;7;4;7;3;13;Dark Brown, beige head Coffee, roasted malt, Ash, hops Med To Thin Body, med carbo;0
+2014-07-15;Kultainen Apina;;;Founders Rubaeus;Bottle 355ml;;;7;3;6;3;13;hazy red,white head, rasberry, malt, Like rasberry Juice, too juicy med Body and carbo;0
+2014-07-15;Kultainen Apina;;;Ballast point sculpin IPA;Bottle 355ml;;Sc 109 14 008;9;3;9;3;16;hops, fruits, caramel malt, quite strong malt base, Excellent;0
+2014-07-15;Gastropub Tuulensuu;;;Tavoli galaxis IPA;Bottle 330ml;2014-10-26;;7;3;7;3;13;Cloudy Golden Orange, off white head Hops,Grass, malts,fruits Med Body, med carbo,bitter finnish;0
+2014-07-16;Konttori;;;St Austel Big Job;Bottle 500ml;2015-01-24;;7;3;7;3;13;Cloudy golden Orange,ruin white head malts,hops, fruits, quite Dry, med Body, med carbo;0
+2014-07-16;Konttori;;;Nynäshamns Tjockhult Tjinook;Bottle 500ml;2014-10-31;;6;3;6;3;12;Cloudy Golden Orange, white head malts, Grass, mild hops Med Body and carbo;0
+2014-07-16;Konttori;;;Mission Shipwrecked dipa;Bottle 355ml;;;9;3;7;3;14;Clear Golden Orange, ruin white head;0
+2014-07-16;Pirkkala;2014-07-05;Alko Koivistonkylä;Stiegl Pils;Bottle 500ml;2015-02-19;;5;2;4;2;9;Light Yellow, white head Sweet malt, Hay, mild saaz, Watery med Body,;0
+2014-07-17;Oluthuone Panimomestari;;;Plevna Motueka Weizen;Draft;;;7;2;6;2;12;hazy Yellow, white head Citrus, wheat, yeast, Pepper, no hops Bit watery med To Thin Body, High carbo, Big disappointment;0
+2014-07-17;Pirkkala;2014-07-17;Alko Koivistonkylä;Chimay Doree;Bottle 330ml;2015-12-31;;8;3;7;3;13;hazy Yellow thick white head Yeast, mild citrus, wheat, med body, high carbo;0
+2014-07-18;Ruovesi;2014-07-17;Alko Koivistonkylä;Shepherd Neame India Pale Ale (Bottle);Bottle 500ml;2015-04-30;;6;3;6;3;12;Clear copper color, off white head Malt, cookies, English hops, med body andcarbo;0
+2014-07-24;Bruuveri;;;Les Ardennes IPA;Draft;;;7;3;8;3;14;hazy Golden Orange, off white head, hops, tropical fruits, Grape, quite Dry, med Body, med carbo, bitter finnish;0
+2014-07-24;Rotterdam;;;Mikkeller Peter, pale and Mary;Draft;;;8;3;7;3;13;Cloudy Golden Orange, white head Hops, Sweet fruits, floral Notes, malt, med Body and carbo;0
+2014-07-24;SOPP Helsinki;;;Beer Hunters Aprikoot Pale Ale;Draft;;;8;3;8;3;14;cloudy Orange, off white head, hops, Grape, fruits, caramelidh malt med b and c;0
+2014-07-24;SOPP Helsinki;;;Beer Hunters Mosaic Vehnä IPA;Draft;;;7;3;7;3;13;cloudy Yellow white head, wheat, hops, caramelish malt Fruits;0
+2014-07-24;SOPP Helsinki;;;Maku Golden Ale Hop Edition;Draft;;;7;3;7;3;13;cloudy Yellow white head, hops, Grass, Grape, Fresh;0
+2014-07-24;SOPP Helsinki;;;Maku IPA;Draft;;;7;3;8;3;14;Deep Amber Thin white head Fruits, hops, Grape, malts Well balanced Med b and c;0
+2014-07-24;SOPP Helsinki;;;Bruuveri Smoke house Porter;Draft;;;7;3;7;3;14;dark Brown,Thin white head, roasted malt, chocolate, caramel, hops med b and c Strong bitter finnish;0
+2014-07-24;SOPP Helsinki;;;Beer Hunters Mufloni Cascade Black Ale;Draft;;;7;3;8;3;14;dark Brown, beige head, roasted malt, Smoke, caramel, hops med Body, med carbo;0
+2014-07-24;SOPP Helsinki;;;Bruuveri Clarinet Marmelade IPA;Draft;;;8;3;8;3;14;hazy Golden Orange, no head, hops, Grape, malt, caramel, fruits Med b and c Bitter finnish;0
+2014-07-24;SOPP Helsinki;;;Bruuveri Spelt IPA;Draft;;;8;3;8;3;14;hazy Golden Orange, no head, Grape, malt, caramel, med b and carbo, Same Beer as clarinet marmelade;0
+2014-07-24;SOPP Helsinki;;;Stadin West Coast Double IPA;Draft;;;8;3;8;3;15;clear Golden color, white head, hops, citrus, Fresh tropical fruits, piney med b and c;0
+2014-07-24;SOPP Helsinki;;;Stadin American Imperial IPA;Draft;;;8;3;8;3;14;Deep Orange color,off white head Caramel malt, hops, piney, booz med To fullbody med carbo;0
+2014-07-24;SOPP Helsinki;;;Stadin Red Ale;Draft;;;7;3;8;3;14;clear Copper, off white head, hops, piney, malt, med b and c;0
+2014-07-24;SOPP Helsinki;;;Stadin Blue IPA;Draft;;;7;1;7;3;12;dark Blue, light Blue head, Pervert color play, Hops, fruits, malts, medb and c;0
+2014-07-24;SOPP Helsinki;;;Stadin Wild Yeast American Double IPA;Bottle 330ml;2015-01-31;;8;3;8;3;14;Hazy Orange,off white head, bretta, hops, caramel malt, Dry vineous Notes, med b and c;0
+2014-07-24;SOPP Helsinki;;;Stadin Polaris Porter;Bottle 330ml;2015-04-01;;8;4;8;3;15;Dark Brown beige head Roasted malts, caramel, chocolate, cocoa, Vanilla med Band c;0
+2014-07-24;SOPP Helsinki;;;Rekola / Hiisi Kaksi Kotia Choco-Cherry;Draft;;;7;3;6;3;12;dark Brown beige head, chocolate, caramel, dark malts Too dunkelish;0
+2014-07-24;SOPP Helsinki;;;Hiisi Tuff;Draft;;;6;3;5;3;13;clear Golden Orange Off white head British hops,malt, coocies, med b and c Some weirdfinnish off Taste;0
+2014-07-24;SOPP Helsinki;;;Ruosniemen Vahtimestari;Draft;;;7;3;8;3;14;dark Brown off white head, caramel, chocolate, mild roasted malts Vanilla Mad b and c Mild roadtinezz;0
+2014-07-24;SOPP Helsinki;;;Ruosniemen Islay Sahti X;Draft;;;6;3;6;2;12;too hot, juniper, malts,banana, mild whiskybarrel notes med Body no carbo;0
+2014-07-25;Pirkkala;2014-07-23;Fröökynän herkku;Iso-kallan Panimo Savo Wheat Beer;Bottle 500ml;2015-06-30;;7;3;7;3;13;Hazy Golden Orange, white head Yeast, Pepper, wheat, citrus Med Body, High carbo;0
+2014-07-25;Pirkkala;2014-07-23;Fröökynän herkku;Hiisi Kiira;Bottle 330ml;2014-09-30;#42;5;3;6;3;12;Dark Brown, beige head Chocolate, caramel, mild roastiness, licorice med Body High carbo;0
+2014-07-26;Pirkkala;2014-07-17;Alko Koivistonkylä;König Ludvig Weissbier Hell;Bottle 330ml;;;6;3;6;3;13;hazy Yellow, white head, wheat, Banana, yeast, med Body and carbo;0
+2014-07-26;Pirkkala;2014-07-24;Alko Arkadia;Fullers Past Masters 1966;Bottle 500ml;2016-12-31;;6;3;7;3;13;Deep mahogny color, off white head, Sweet malt, caramel, Bread, hint of dried fruits, alcohol Full Body, oily texture, Soft carbo;0
+2014-07-27;Ukkometso;;;Hopping Brewsters Warthog IPA;Draft;;;7;3;7;3;13;cloudy Copper, off white head,aroma is fruits, hops, floral, soapy notes flavor ishops, malt, grape Bitter finnish, med Body, Soft carbo;0
+2014-07-27;Ukkometso;;;Hopping Brewsters Black Tide;Draft;;;9;4;8;3;15;pitch Black, beige head Fruits, chocolate, roasted malt, hops Med Body and carbo, mild bitter finnish;0

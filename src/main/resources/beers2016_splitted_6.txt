@@ -1,0 +1,199 @@
+2015-03-03;Kahdet Kasvot;;;Hiisi / Maistila Two Bad India Stout;Draft;;;8;4;8;3;15;Dark Brown, thin beige head, licorice, roasted malts, caramel, fruity hops, dry bitter finnish;0
+2015-03-03;Ukkometso;;;Radbrew Sandstone;Draft;;;7;3;6;3;13;Cloudy golden, white head, malts, grape, apricot, orange, mild floral hops,med bc;0
+2015-03-03;Ukkometso;;;Hiisi / VBS Not My Cup of Tea;Draft;;;6;3;7;3;13;Cloudy golden, white head, smoke, malts, hops, fruits, med body, med carbo;0
+2015-03-04;Pirkkala;2015-02-28;K-citymarket Pirkkala;Birrificcio Artigianale Geco Marvin;Bottle 330ml;2015-07-31;L5614;6;3;6;3;13;Cloudy golden, white head, malts, fruity hops, grape, too thin body, like pale ale, thin body, med carbo;0
+2015-03-05;Pirkkala;2015-02-28;K-citymarket Pirkkala;Olutpaja Silkkitie;Bottle 500ml;2015-08-12;;5;2;5;3;11;Clear yellow, white head, strong spicy and floral aroma, flavor is tea, malts, floral/aromatic spices, citrus, med bc, not so moderately spices;0
+2015-03-05;Pirkkala;2015-03-04;K-citymarket Pirkkala;Bad Attitude Kurt;Can 330ml;;;7;3;6;2;13;Cloudy yellow, white head, citrus, tropical fruits, malts, faint hops, juicy, watery, thin body, medium carbonation;0
+2015-03-06;Pirkkala;2015-03-04;K-citymarket Pirkkala;Elav Celtic Matter;Bottle 330ml;2017-01-17;;7;3;7;3;13;Cloudy yellow, white head, malts, hops, caramel, citrus, fruits, med to thin body, med carbo;0
+2015-03-06;Pirkkala;2015-02-28;K-citymarket Pirkkala;Bad Attitude Hop Sincope;Bottle 330ml;2015-10-21;;7;3;6;2;13;Cloudy golden orange, white head, tropical fruits, malts, mild hops, caramel,thin body, med carbo;0
+2015-03-08;Pirkkala;2015-02-28;K-citymarket Pirkkala;Elav Punks do it Bitter;Bottle 330ml;2017-01-04;L 176 14;7;3;7;2;13;Cloudy golden orange,off white head, fruity hops, peach, apricot, malts, too thin and watery, thin body, med carbo;0
+2015-03-10;Gastropub Soho;;;Soho brewing society Amber Nectar;Draft;;;7;3;7;3;14;Cloudy amber, off white head, sweet fruityness, caramel, malts, mild bitter hoppiness, med bc;0
+2015-03-13;Kahdet Kasvot;;;Hiisi Humulus Lupus;Draft;;;7;3;8;3;14;Cloudy amber, thin off white head, malts, hops, pine, grape, caramel, full body, med carbo, bitter finnish;0
+2015-03-13;Gastropub Tuulensuu;;;Malmgård Proto #7;Draft;;;6;3;7;3;14;Clear golden, Thick white head, peach, grape, hops, orange, med body, soft carbo, bitter finnish;0
+2015-03-13;Gastropub Tuulensuu;;;Mallaskosken Savu Dubbel;Draft;;;7;3;7;3;14;Deep amber, off white head, smoke, bacon, sweet malts, Wood, med bc;0
+2015-03-13;Pirkkala;2015-03-13;Alko Pirkkala Partola;Hofbräu München Dunkel;Bottle 500ml;;;7;3;8;4;14;Deep Brown reddish, tan head, smoke, Wood, bacon, leather, sweet bready malts, light bitter notes, med bc;0
+2015-03-15;O'Hara's Freehouse;;;Smuttynose Shoals pale ale;Draft;;;7;3;8;3;15;Cloudy amber, off white head, fruits, pine, caramel, hops, grape, med body, oily texture, med carbo, bitter finnish;0
+2015-03-15;O'Hara's Freehouse;;;Weird Beard Hive Mind;Draft;;;7;3;7;2;13;Cloudy amber, off white head, malts, mild hops, wet grass, fruits, med body, watery palate, med carbo;0
+2015-03-15;Gastropub Tuulensuu;;;Birra Amiata Bastardo Nera;Draft;;;6;4;8;3;15;Dark Brown beige head, coffee, licorice, malts, sour flavor, med bc;0
+2015-03-15;Ukkometso;;;Hiisi / Donut Island Broken Island;Draft;;;6;3;7;3;14;Clear golden, off white head, malts, caramel, fresh fruityness, hops, med bc;0
+2015-03-16;Konttori;;;Omnipollo Magic #42;Draft;;;7;2;6;2;13;Cloudy light yellow, white head, sweet fruityness, yeast, sour flavor, citrus, thin body, watery palate, med carbo;0
+2015-03-16;Konttori;;;Weird Beard Something Something Darkside;Draft;;;7;4;8;4;15;Dark Brown, beige head, hops, licorice, roasted malts, chocolate, grape, med body, creamy palate, soft carbonation, bitter finnish;0
+2015-03-17;Pirkkala;2015-03-13;Alko Pirkkala ;De Ranke Guldenberg;Bottle 330ml;2020-02-12;;7;3;7;3;15;Cloudy yellow, white head, yeast, citrus, hops, fresh fruityness, alcohol, med body, high carbonation;0
+2015-03-20;Konttori;;;Geco Inoki American IPA;Bottle 330ml;2015-10-31;L1784;7;3;8;3;15;Cloudy amber, off white head, Malts, caramel, grape, hops, fruits, orange, med bc, bitter finnish;0
+2015-03-20;Konttori;;;Birra Amiata Contessa;Bottle 330ml;2016-07-16;Lotto 659;8;3;8;3;15;Cloudy golden orange, Citrus, hops, grape, fresh tropical fruits, malts, caramel, med bc, strong bitter finnish;0
+2015-03-20;Konttori;;;Stallhagen Beebock;Draft;;;7;3;7;3;13;Deep Ruby, color, off white head, sweet malts, bread, Sugar, honey, alcohol, med bc;0
+2015-03-20;Gastropub Nordic;;;Lervig #grapefuloatipa;Draft;;;7;3;8;3;16;Cloudy golden, white head Fresh fruits, hops, typical Nelson sauvon flavor, grape, med bc, bitter finnish;0
+2015-03-20;Oluthuone Pekko;;;Elixir / Atom Devilís Bilge Water;Draft;;;6;3;7;3;14;Dark Brown beige head, chili, roasted malts, chocolate, med bc, dry bitter and spicy finnish;0
+2015-03-20;Pirkkala;2012-05-22;Bierkompass;Mikkeller Black Hole;Bottle 375ml;2016-12-07;;9;4;9;4;16;Pitch black, beige head, roasted malts, caramel, Brown Sugar, hops, licorice, dark chocolate, full body, med body;0
+2015-03-20;Pirkkala;2012-04-09;Bierkompass;De Molen Haver & Gort BA;Bottle 330ml;2037-02-28;Bottled 2012-02-28;9;4;8;4;16;Pitch black, beige head, beige head, roasted malts, licorice, salty flavor, chocolate, peat, whisky barrel, full b, med c;0
+2015-03-21;Pirkkala;2012-09-23;Bierkompass;Rooie Dop Double Oatmeal Stout;Bottle 330ml;2037-03-13;Bottled 2012-03-13;8;4;9;3;16;Pitch black, thick beige head, roasted malts, dark chocolate, licorice, caramel, full body, oily palate, high carbonation;0
+2015-03-21;Pirkkala;2015-03-21;K-citymarket Pirkkala;Stroud Brewery Big Cat;Bottle 500ml;2016-04-30;;6;4;7;3;14;Pitch black, roasted malts, vanilla, oat, licorice, med bc;0
+2015-03-23;Pirkkala;2015-03-21;K-citymarket Pirkkala;Badger Firkin Fox;Bottle 500ml;;;6;3;6;3;12;Clear golden, white head, citrus, mild english kind of hoppiness, malts, caramel, med bc;0
+2015-03-25;Pirkkala;2015-03-21;K-citymarket Pirkkala;Birrificio Geco Pecora Nera;Bottle 330ml;2015-06-30;L5114;7;4;7;3;14;Dark Brown, beige head, roasted malts, caramel, Sugar, chocolate, mild burnt flavor, surprisingly full body to be such Low abv, med bc;0
+2015-03-26;Pirkkala;2015-03-26;S-market Pirkkala;Garage Hard Brew Orange Peel;Bottle 330ml;2015-09-01;;4;2;3;2;7;Clear golden white head, artificial orange, mild grainy flavor, med body, med carbo, horrible "beer";0
+2015-03-26;Pirkkala;2015-03-26;S-market Pirkkala;Saimaa vaalea lager;Can 500ml;2015-06-21;;6;2;6;2;12;Sweet malts, white bread, citrus, fruits, med bc;0
+2015-03-27;Kahdet Kasvot;;;Ruosniemen Betaversio Single Hop Columbus IPA;Draft;;;7;3;8;3;15;Cloudy orange, off white head, fruits, Grape, lots of hops, harsh maltiness, med bc, bitter finnish;0
+2015-03-27;Kahdet Kasvot;;;Radbrew Red Planet;Draft;;;6;3;7;3;13;Deep mahogny color, off white head, sweet malts, chocolate, bread, red berries, med bc, mild bitter finnish;0
+2015-03-27;Ukkometso;;;Radbrew Alone in the Dark;Draft;;;7;4;6;3;13;Pitch black beige head, coffee, roasted malts, fruits, licorice, med bc, dry bitter finnish;0
+2015-03-27;Ukkometso;;;Bryggeri Supernova;Bottle 330ml;2015-11-30;;8;3;8;3;15;Hazy orange, off white head, tropical fruits, boozy, hops, grape, med body, soft carbonation, one of the top Finnish dipas so far;0
+2015-03-27;Pirkkala;2015-03-26;Alko Pirkkala Partola;Vakka-suomen Prykmestar Pääsiäsporter;Bottle 500ml;2015-09-12;;5;3;4;3;10;Dark brown reddish, no head, Overwhelming Artificial chocolate aroma and flavor, some fruits, cocoa, mild hops, med body and carbo;0
+2015-03-27;Pirkkala;2015-03-26;Alko Pirkkala Partola;Stadin Panimo Grand Cru Brune Paques;Bottle 330ml;2016-06-01;#645/647;6;3;6;3;13;Deep Brown reddish, thin tan head, dark fruits, malts, bread, alcohol, light chocolate, Brown sugar, cyrup, faint hops, med bc;0
+2015-03-28;Konttori;;;BrewDog Restorative Beverage for Invalids & Convascents;Bottle 330ml;2016-02-25;Batch 084 BDBB;8;3;9;4;15;Cloudy golden, white head, tropical fruits, alcohol, caramel, hops, citrus, full body, med cargo;0
+2015-03-28;Konttori;;;Buxton Stronge Extra Stout;Draft;;;8;4;8;4;15;Dark brown, beige head, roasted malts, caramel, chocolate, licorice, med body, soft palate, med cargo, dry bitter Finnish;0
+2015-03-28;Konttori;;;Belhaven Twisted Thistle IPA;Draft;;;6;3;7;3;13;Clear golden orange, white head, citrus, mild hops, mild acidic flavor, sweet malts,med bc;0
+2015-03-28;Gastropub Nordic;;;Radbrew Ranger;Draft;;;7;3;7;3;15;Cloudy golden orange, off white head, malts, fruits, caramel, med bc;0
+2015-03-28;Pirkkala;2015-03-25;S-market Pirkkala;Nokian Keisari 2nd Avenue;Can 500ml;2015-09-30;;4;2;5;2;11;Clear golden, white head,sweet malts, grain, mild hops, grass, med bc;0
+2015-03-29;Pirkkala;2015-03-27;Alko Pirkkala Partola;Stadin American Imperial Porter;Bottle 330ml;2016-05-01;#642-3;8;4;8;3;15;Pitch black, beige head, fruity hops, licorice, roasted malts, chocolate, med to full body, soft carbonation;0
+2015-03-30;Pirkkala;2015-03-25;S-market Pirkkala;Olvi Iisalmi Pale Ale;Can 500ml;2015-10-29;;7;2;6;2;13;Clear golden white head, fresh fruits, grass, malts, citrus, mild hops, thin body, watery palate, med carbo;0
+2015-04-01;Pirkkala;2015-03-27;Alko Pirkkala Partola;Ale Coq Imperial Ale;Bottle 500ml;2015-09-10;;5;2;5;3;10;Clear golden, white head, malts, grain, mild hops, med bc;0
+2015-04-02;Pirkkala;2013-06-06;Bierkompass;De Molen Baar & Boos;Bottle 330ml;2038-01-28;Bottled 2013-01-28;8;3;9;4;16;Pours Brown without head, malts, caramel, bourbon, resin, prunes, Brown sugar, chocolate, alcohol, soft carbonation, full body;0
+2015-04-03;Pirkkala;2015-04-02;Alko Pirkkala Partola;Schneider Weisse Tap 4 Mein Grünes;Bottle 500ml;2015-12-02;;7;4;7;3;13;Hazy golden, thick white head, wheat, yeast, pepper, orange, med body, high carbonation;0
+2015-04-03;Pirkkala;2013-10-15;Bierkompass;Evil Twin Imperial Biscotti Break;Bottle 650ml;;;8;4;8;3;15;Pitch black beige head, chocolate, coffee, mild roasted malts, med body, warming alcohol, oily texture, med carbo, dry bitter finnish;0
+2015-04-03;Pirkkala;2013-07-27;Alko Arkadia;Aegir Lynchburg Natt;Bottle 500ml;2022-11-16;;8;4;8;4;16;Pitch black, thin beige head, bourbon barrel, roasted malts, caramel, chocolate, full body, med carbo;0
+2015-04-03;Pirkkala;2010-10-19;Total Wine, Fort Lauderdale;Rogue XS Russian Imperial Stout;Bottle 207ml;;Bottled 2009;8;4;8;4;15;Pitch black, No head, roasted malts, licorice, salt, ash, full body, med carbo, dry bitter finnish;0
+2015-04-03;Pirkkala;2014-06-30;Bierkompass;Hill Farmstead/Mikkeller Daybreak BA;Bottle 375ml;;Bottled 2014-01;8;4;9;4;16;Pitch black beige head, roasted malts, orange, juice, chocolate, caramel, full body, oily texture, med carbo;0
+2015-04-04;Konttori;;;Amager Modern IPA;Draft;;;8;3;8;3;16;Clear golden, off white head, tropical fruits, hops, grape, malts, med body, med carbo, long lasting bitter finnish;0
+2015-04-04;Kahdet Kasvot;;;Beer Hunters Pääsisäine;Draft;;;7;3;7;3;14;Brown reddish, off white head, malts, hops, red berries, fruits, med bc, mild bitter finnish;0
+2015-04-04;Kahdet Kasvot;;;Top Fuel Hippie Juice IPA;Bottle 330ml;2016-01-01;Batch C1;8;3;8;3;15;Cloydy Brown orangeish, off white head, fruits, citrus, hops, caramel, med body, soft carbonation, bitter finnish;0
+2015-04-04;Ukkometso;;;Modernist Szechuan Pepper Wit;Bottle 330ml;2015-13-01;;7;3;6;3;13;Yeast, spices, wheat, citrus, med b, high carbo, easy and refreshing;0
+2015-04-04;Ukkometso;;;Hopping Brewsterss / Hiisi Egill;Draft;;;6;3;7;3;13;Brown reddish, off white head, acidic sour flavor, Juice, berries, malts, med bc;0
+2015-04-04;Ilkka;;;Mikkeller American Dream Gluten Free;Bottle 330ml;;;7;3;6;2;13;Hazy golden, white head, hops, citrus, thin body, med carbo;0
+2015-04-04;Pirkkala;2012-04-09;Bierkompass;8 Wired The Big Smoke;Bottle 500ml;2013-12-31;;7;4;8;3;14;Pitch black, beige head, roasted malts, smoke, ash, chocolate, caramel, med bc;0
+2015-04-04;Pirkkala;2011-12-20;Bierkompass;Southern Tier Jah-va Imperial Coffee Stout;Bottle 650ml;;Blackwater Series;8;4;8;4;15;Pitch Black, beige head, coffee, roasted malts, Sugar, full body, oily texture, soft carbonation;0
+2015-04-06;Pirkkala;2012-10-27;Bierkompass;Kuhnhenn Dark Heathen;Bottle 355ml;;2011 version;8;3;8;4;14;Hazy Brown, no head, sweet malts, dried fruits, resin, Brown Sugar, alcohol, full body, oily palate, soft carbonation;0
+2015-04-07;Pirkkala;2015-04-07;K-citymarket Pirkkala;Saimaa Blonde Ale;Can 500ml;;;5;2;5;2;12;Clear golden, white head, malts, mild hops, grass, citrus, Med body and carbo, boring;0
+2015-04-10;Pirkkala;2014-09-10;Bier Deluxe;Freigeist / Nøgne Ø The Best Brewjob Ever;Bottle 500ml;2015-12-31;;7;3;8;3;14;Deep Brown reddish, tan head, sweet malts, smoke, caramel, dried fruits, Brown Sugar, full body, med carbo;0
+2015-04-11;Ruovesi;2014-06-30;Bierkompass;High Water Aphotic Imperial Porter;Bottle 650ml;;;8;4;9;4;15;Dark Brown, beige head, roasted malts, chocolate, fruits, med body, oily texture, med carbonation;0
+2015-04-12;Pirkkala;2012-10-10;Bierkompass;Southern Tier Blackwater Series: Mokah;Bottle 650ml;;;8;4;8;4;15;Pitch black beige head, chocolate, coffee, roasted malts, full body, oily texture, soft carbonation;0
+2015-04-12;Pirkkala;2012-02-08;Bierkompass;Alesmith Horny Devil;Bottle 750ml;;;7;3;7;4;14;Hazy golden orange, off white head, yeast, citrus, honey, candi sugar, med body and carbo;0
+2015-04-15;Pirkkala;2015-04-07;K-citymarket Pirkkala;Freigeist Köpennickiade;Bottle 500ml;;;6;2;7;3;13;Light yellow, white head, sweet malts, mild sourness, citrus, thin body, med carbo, sour finnish;0
+2015-04-17;Konttori;;;Weird Beard Double Perle;Draft;;;8;4;9;4;16;Dark Brown, beige head, coffee, chocolate, caramel, hops, Brown Sugar, full body, soft palate,med carbo;0
+2015-04-17;Gastropub Soho;;;Thornbridge American Sister;Draft;;;6;2;7;3;14;Clear yellow, white head, hops, malts, sweet fruits, citrus, med bc;0
+2015-04-17;O'Connell's;;;Slottkällans Rökporter;Draft;;;7;4;7;3;14;Pitch black, beige head, smoke, roasted malts, caramel, salt, licorice, med bc, bitter finnish;0
+2015-04-17;Pirkkala;2010-11-05;Alko Kaleva;Nøgne Ø / Jolly Pumpkin / Stone Special Holiday Ale;Bottle 500ml;2015-08-03;Bottled 2010-08-03 #526;7;3;8;3;14;Dark Brown, beige head, spices, chocolate, malts, full body, med carbo;0
+2015-04-18;Niko;;;Middle Finger Space Station;Bottle 650ml;;;7;3;8;3;15;Cloudy orange, white head, mild hops, tropical fruits, malts, orange, med bc;0
+2015-04-18;Niko;;;Great Divide Yeti Chocolate Oak Aged;Bottle 650ml;2011-10-01;;8;4;9;4;15;Dark Brown beige head, roasted malts, chocolate, cocoa, licorice full body, oily texture, soft carbonation, dry bitter finnish;0
+2015-04-18;Niko;;;Stone Old Guardian;Bottle 650ml;;Limited Early 2010 release;8;4;9;4;16;Amber beer, off white head, dried fruits, resin, alcohol, hops, Wood, full body med carbo;0
+2015-04-18;Niko;;;Bouleward Dark Truth;Bottle 355ml;2014-12-26;;8;4;8;4;16;Dark brown, Beige head, roasted malts, salt, licorice, full body, oily texture med carbo;0
+2015-04-20;Konttori;;;Lagunitas Galatea Fusion 25;Bottle 355ml;;;7;3;7;3;14;Clear golden orange, off white head, fruits, hops,malts, pine, med body, high carbonation, bitter finnish, bit too straightforward;0
+2015-04-20;Konttori;;;The Wild Beer Evolver IPA;Bottle 330ml;;;7;3;7;3;14;Clear golden orange, white head, mars, sweet fruits, hops, faint bretta, citrus, med body, med carbo, Not so interesting;0
+2015-04-20;Konttori;;;Sambrooks Imperial Stout;Draft;;;7;4;7;4;14;Dark Brown beige head, chocolate, roasted malts, dark fruits, Sugar, bread, full body soft carbonation;0
+2015-04-20;Ukkometso;;;Hopping Brewsters Avenger DIPA;Draft;;;7;3;8;3;15;Cloudy amber, off white head, malts, fruits, hops, med bc;0
+2015-04-20;Ukkometso;;;Hopping Brewsters Master Gunner;Draft;;;7;2;7;3;14;Hazy yellow, white head, yeast, spices, wheat, med bc, some faint off flavor and maybe aroma too but basically nici refreshing beer;0
+2015-04-24;Konttori;;;Ballast Point Fathom IPL;Bottle 650ml;;;7;3;8;3;14;Cloudy golden orange, white head, Tropical Fruits, caramel malts, hops, med body, med carbo, bitter finnish;0
+2015-04-24;Konttori;;;Widmer Brothers Reserve Raspberry Russian Imperial Stout 12';Bottle 650ml;;Bottled 2012-04-12;8;4;8;3;14;Pitch black, beige head, roasted malts, chocolate, rasberries, licorice, full body, med carbo;0
+2015-04-24;Konttori;;;Founders KBS;Bottle 355ml;;Bottled 2015-02-12;9;4;9;4;16;Pitch black, beige head, coffee, chocolate, bourbon, mild roasted notes, full body, soft carbonation;0
+2015-04-24;Konttori;;;Widmer Brothers Reserve Barrel Aged Brrrbon '13;Bottle 650ml;;Bottled 2013-08-01;8;3;7;3;14;Deep amber, off white head, sweet malts, bourbon, dried fruits, alcohol, full body, med carbo;0
+2015-04-24;Konttori;;;Widmer Brothers Old Embalmer '12;Bottle 650ml;;Bottled 2012-12-18;8;3;8;3;15;Deep amber off white head, malts, caramel, full body, med carbo;0
+2015-04-24;Konttori;;;Thornbridge Jaipur X;Bottle 500ml;2016-03-16;;8;3;8;4;15;Clear Golden, white head, hops, tropical fruits, citrus, caramel, tangy fruits malts, med bc;0
+2015-04-24;Gastropub Nordic;;;Nøgne Ø / La Chingoneria / Central Cervecera MOLE;Bottle 500ml;2019-02-04;Brewed 2015-02-04 #1362;8;4;8;4;15;Pitch black beige head, malts, licorice, chocolTr, coffee, moles, full body, med carbo;0
+2015-04-24;Gastropub Nordic;;;Nøgne Ø Vic Abstract;Bottle 330ml;2015-08-30;Brewed 2015-01-30 #1358;7;3;8;3;15;Tropical fruits, malts Caramel, orange Juice, hops, med bc;0
+2015-04-25;Pirkkala;2015-04-20;Alko Pirkkala Partola;Samuel Smith Taddy Porter;Bottle 330ml;2016-05-31;;7;4;7;3;13;Dark Brown, beige head, chocolate, oat, mild roastiness, med body, med carbo;0
+2015-04-26;Pirkkala;2015-04-20;S-market Pirkkala;Green’s Enterprise Dry-Hopped Lager;Bottle 330ml;2016-11-26;;6;2;6;3;13;Hazy light yellow, white head, citrus, yeast, mild fruity hops, med bc, Refreshing;0
+2015-04-29;Oak Barrel;;;Gotlands bryggeri Black IPA;Bottle 330ml;2015-05-04;;6;3;6;3;12;Pitch black, Beige head, roasted malts, licorice, mild hops, med bc;0
+2015-04-29;Taphouse;;;Amager / Surly Todd the Axe Man;Draft;;;8;3;8;3;15;Clear orange off white head citrus hops tropical fruits med bc bitter finnish;0
+2015-04-29;Taphouse;;;Amager / Grassroots Shadow Pictures;Draft;;;9;3;9;4;15;Clear orange off white head, malts caramel pine hops fb mc;0
+2015-04-29;Taphouse;;;Amager lubricated ewok;Draft;;;9;3;9;4;16;Clear orange off white head, hops caramel pine grape alcohol, Med bc;0
+2015-04-29;Taphouse;;;Mikkeller Beer Geek Brunch Weasel (Brandy Edition);Draft;;;9;4;9;4;17;Pitch black thin beige head, chocolate, hienostunut barrel aging, roasted notes coffee caramel fb oily texture;0
+2015-04-29;Mikkeller Bar Copenhagen;;;Cellermaker imperial coffee and cigarettes;Draft;;;8;4;7;4;15;Pitch black no head coffee ash tobacco chocolate roasted malts Med bc;0
+2015-04-29;Mikkeller Bar Copenhagen;;;Cellarmaker hopslanging;Draft;;;8;3;8;3;15;Cloudy golden, white head, hops, citrus, fruits, ome tangy notes bc;0
+2015-04-29;Mikkeller Bar Copenhagen;;;Cellarmaker blammo!;Draft;;;8;4;8;4;15;Pitch black beige head coffee sugar roasted malts alcohol full body soft carbo;0
+2015-04-29;Mikkeller Bar Copenhagen;;;Cellarmaker dank Williams;Draft;;;8;3;8;3;16;Clear golden white head hops tropical fruits citrus fresh hops;0
+2015-04-29;Mikkeller Bar Copenhagen;;;Cellarmaker red wine jezebel;Draft;;;8;3;8;3;15;Clear orange white head, sour aroma red wine Wood fruits citrus med bc nice weirdly tangy;0
+2015-04-29;Ørsted Ølbar;;;Amager #1000;Draft;;;8;3;8;3;15;Cloudy orange white head, tropical fruits hops grape pine Med bc, Dry bitter finnish;0
+2015-04-29;Ørsted Ølbar;;;All in rlgk 10517;Draft;;;9;4;9;4;16;Pitch black beige head coffee chocolate roasted malts mto full body, soft c;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Edge Brewing Gift to Gaspar;Draft;;;8;4;8;3;15;Pours black beige head roasted malts, licorice, dark chocolate roasted malts full body med carbo;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Three Floyds Cimmerian Sabertooth Bekzerker;Draft;;;8;4;9;4;16;cloudy orange white head caramel malts hops pine grape, full b med c;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Edge Brewing Brass Knuckles;Draft;;;7;4;8;3;14;Deep amber off white head bretta fruits malts caramel med bc;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Edge Brewing Due South Taronja Horeyzon;Draft;;;7;3;8;3;14;Cloudy orange off white head Fruity hops carsmel malts citrus fruits med bc;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Edge Brewing / Lervig Pure Decadence;Draft;;;7;4;8;3;15;Pitch blck beige head rpasted malts licorice chocolate full BrewDog med c;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Edge Brewing Hoptimista;Draft;;;8;3;8;3;15;Cloudy amber off white head, malts hops pine caramel med bc;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Ölsnedkeren Nålestak IPA;Draft;;;8;3;8;4;15;Cloudy orange off white head, fruity hops caramel malts pine fruits grape alcohol medbc;0
+2015-04-29;Mikkeller & Friends Copenhagen;;;Naparbier Avant garde bier;Draft;;;8;4;8;4;15;Deep amber off white head sweet malts strong barrel aroma;0
+2015-04-29;Mikropolis;;;To Øl Liquorice Confidence;Draft;;;8;3;8;3;16;Pitch black beige head licorice p pine chocolate coffee Full b med c;0
+2015-04-29;Mikropolis;;;To Øl Friends with Benefits;Draft;;;8;3;8;3;14;Cloudy orange off white head sweet fruityness malts, Pine fruits hops grape med bc;0
+2015-04-30;Bella Sky;2015-05-29;Mikkeller shop;To Øl Insane In The Grain;Bottle 330ml;;;7;3;8;3;15;Cloudy golden orange, off white head malts caramel hops pine alcohol med bc;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Boneyard Notorious iipa;Draft;;;8;3;9;4;16;Cloudy amber off white head Caramel malts hops fruits grape full body med c warming alcohol;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Boneyard Hop Venom iipa;Draft;;;8;3;8;4;16;Cloudy golden orange off white head hops tropical fruits malts pine grape full body med carbo bitter finnish;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Gigantic Gigantic IPA;Draft;;;7;3;8;3;14;Clear orange off white head hops fruits caramel malts slightly bitter finnish med bc;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Boneyard Skunkape;Draft;;;7;3;8;3;15;Deep amber, off white head, malts fruity hops, caramel tropical fruits grape pine med bc;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Gigantic Saboteur;Draft;;;7;3;8;3;14;Pitch black beige head roasted malts licorice chocolate coffee cocoa med bc slick texture;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Boneyard rpm;Draft;;;8;3;8;3;14;Clear golden orange off white head tropical fruits hops citrus malts med bc slightly bitter finnish;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Gigantic Most Most Premium ris;Draft;;;9;4;9;4;16;Pitch black no head, roasted malts, bourbon chocolate warming alcohol licorice dark fruits full body oily texture, med carbo;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Boneyard Suge Knite;Draft;;;8;4;7;3;14;Pitch black beige head, chocolate coffee caramel dark fruits warming alcohol roasted malts full body oily texture Med c;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Tired Hands Berliner Weisse;Draft;;;6;2;7;3;13;Light yellow white head sour flavor and aroma wheat citrus sweet malts banana med bc;0
+2015-04-30;Warpigs;;;Warpigs Big Drunk Baby;Draft;;;8;3;9;3;15;Cloudy golden white head fruity hops tropical fruits caramel malts full body soft carbo;0
+2015-04-30;Warpigs;;;Warpigs Lazurite IPA;Draft;;;7;3;8;3;15;Clear golden white head citrus tropical fruits malts med bc;0
+2015-04-30;Warpigs;;;Warpigs Imperial Stout;Draft;;;8;4;8;4;15;Pitch black no head Roasted malts dark fruits Brown Sugar licorice full body med carbo oily texture Perus veto;0
+2015-04-30;Warpigs;;;Warpigs Big Black Bicycle;Draft;;;8;3;8;3;15;Dark Brown beige head Fruits roasted malts licorice hops grape med bc;0
+2015-04-30;Fermentoren;;;Dry & Bitter Affluence Sherry;Draft;;;8;4;8;4;15;Pitch black beige head, roasted malts dark fruits caramel brrwdodbre full body thick palate too harsh;0
+2015-04-30;Fermentoren;;;Fermentoren Yippee IPA;Draft;;;7;3;8;3;15;Cloudy yellow, white head, fresh nz hops, citrus malts, nice fruity fresh IPA med bc;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Mikkeller Stateside IPA;Draft;;;7;3;8;3;14;BdCloudy amber off white head hops fruits malts caramel malts;0
+2015-04-30;Mikkeller Bar Copenhagen;;;Gigantic One Step Beyond;Draft;;;7;3;9;4;15;Pitch black no head brown sugar dark fruits barrel Wood full body o oily texture med ct;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Lumber Jack;Draft;;;8;4;9;4;15;Pitch black no head licorice roasted malts chocolate barrel full b med c Oily p;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Riptide Bowmore;Draft;;;8;4;9;4;16;Pitch black beige head Whisky barrel roasted malts licorice full body med c oily p;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Bourbon BA Quad;Draft;;;8;4;8;4;15;Roasted malts licorice whisky barrel full b ody med c;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Black Imperial Saison;Draft;;;8;4;8;3;15;Pitch black beige head chocolate barrel dark fruits licorice b full b med c oily palate;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Pilot Brew 005 6%;Draft;;;7;3;8;3;14;cloudy amber white head hops malts pine malts med bc bitter finnish;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Pilot Brew 003;Draft;;;8;3;8;3;15;Cloudy orange off white head, tropical fruits hops, grape pine med bc;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Abstract 18;Draft;;;8;4;8;4;15;Dark Brown beige head licorice barrel roasted malts chocolate, n Wood Full b med c;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Rip Tide caol ila;Draft;;;8;4;8;3;15;Pitch black beige jesd r roasted malts barrel oak full b med c;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Paradox islay 13,8%;Draft;;;9;4;9;4;16;pitch black no head peat wood swwet caramel roasted malts cocoa licorice full bdy med carbo bitter finnish;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Paradox Rum;Draft;;;9;4;9;4;16;dark brown beige head alcohol rum caramel roasted malts sweet full oily body soft carbo;0
+2015-04-30;Mikkeller & Friends Copenhagen;;;BrewDog Hardcore Strawberry Port Dundas Cask;Draft;;;7;3;6;3;13;cloudy amber off white head fruits caramel whisky barrel berries alcohol weird combo;0
+2015-05-01;CBC Yellow session;;;Bells Black Note Stout;Draft;;;9;4;8;4;16;barrel roast Sugar alc lic fb mc whisky;0
+2015-05-01;CBC Yellow session;;;AleSmith Speedway Stout - Vanilla & Coconut;Draft;;;9;4;9;4;16;Roast coffee ash fb mc alc;0
+2015-05-01;CBC Yellow session;;;AleSmith Speedway Stout - Vietnamese Coffee;Draft;;;9;4;9;4;16;choc coffee roast ash caramel;0
+2015-05-01;CBC Yellow session;;;Three Floyds Dark Lord;Draft;;;9;4;9;4;17;Sweet choc cocoa coffee caramel alc roast;0
+2015-05-01;CBC Yellow session;;;Three Floyds Permanent Funeral;Draft;;;8;3;9;3;15;orange off white fruitd hops pine gtape;0
+2015-05-01;CBC Yellow session;;;Firestone Walker XVIII;Draft;;;9;4;9;4;16;Brown dark fruits caramel roast b suga;0
+2015-05-01;CBC Yellow session;;;Firestone Walker Lil Opal;Draft;;;7;3;7;3;14;hazy yellow thin white head yest sour fruityness spices camel faint hops med bc;0
+2015-05-01;CBC Yellow session;;;Bells Quince Third Coast Old Ale;Draft;;;8;4;9;4;16;dark fruis b sugawhisky barrel malts;0
+2015-05-01;CBC Yellow session;;;Cycle Batch 500 - Rye Whiskey (Wednesday);Draft;;;9;4;9;4;17;whisky barrel dark choc coffee roast Oily fb;0
+2015-05-01;CBC Yellow session;;;Tired hands Guillemot Nebula;Draft;;;7;3;7;3;14;sour choc yeas caramel mb hc;0
+2015-05-01;CBC Yellow session;;;Surly Darkness BA;Draft;;;9;4;9;4;16;Suga choc caramel roast fb mc;0
+2015-05-01;CBC Yellow session;;;18 street Hunter BA;Draft;;;9;4;9;4;16;choc caram roast;0
+2015-05-01;CBC Yellow session;;;Surly Misanthrope;Draft;;;7;3;7;3;14;sour citrus fruits;0
+2015-05-01;CBC Yellow session;;;Stillwater Stereo;Draft;;;8;3;8;3;15;cloudy yellow hops fruits citus grape malts tropic fruits Med bc;0
+2015-05-01;CBC Yellow session;;;Stillwater Mono;Draft;;;7;3;7;3;14;fresh hops citrus malts med bc;0
+2015-05-01;CBC Yellow session;;;Green Flash Silva Stout;Draft;;;8;4;9;4;16;Roast suga choc tangy fruity notes fb sc oily texture;0
+2015-05-01;CBC Yellow session;;;Arizona wilderness American Presidential Stout 2015;Draft;;;8;4;9;4;16;Roasted malts coffee caramel choc fb medc;0
+2015-05-01;CBC Yellow session;;;Alpha State Vanilla Mocha State;Draft;;;9;4;9;4;16;Roast choc caramel full b med c;0
+2015-05-01;CBC Yellow session;;;Siren Maiden 2014;Draft;;;8;3;8;3;15;Barrel Wood sour notes dark fruits mild hops hops Fb mc;0
+2015-05-01;CBC Yellow session;;;Lervig Barley Wine 2014;Draft;;;8;3;8;4;15;Strong Whisky barrel Dark fruits Brown Sugar malts fb mc;0
+2015-05-01;CBC Yellow session;;;Buxton / Omnipollo Yellow Belly Sundae;Draft;;;8;4;8;4;14;Peanut choc caramel b suga too much choc and peanut;0
+2015-05-01;CBC Yellow session;;;Gigantic Ginormous IIPA;Draft;;;8;3;8;3;15;Fruits hops malts caramel;0
+2015-05-01;CBC Yellow session;;;Buxton / Arizona Wilderness BA Dragon Tips;Draft;;;9;4;8;4;16;whisky roast choc licorice fb mc oily;0
+2015-05-01;CBC Yellow session;;;Buxton Two Ton IIPA;Draft;;;8;3;9;3;15;caramel malts hops grape alc mbc;0
+2015-05-01;CBC Yellow session;;;Gigantic 2013 Massive!;Draft;;;8;4;9;4;16;Dark fruitd malts b suga;0
+2015-05-01;CBC Yellow session;;;Cellermaker Dobis;Draft;;;7;3;8;3;14;citrus fruits hops;0
+2015-05-01;CBC Yellow session;;;Warpigs Canadian Tuxedo;Draft;;;8;3;8;3;14;cloudy yellow wgite head citrus hops fruits grape med body light carbonation;0
+2015-05-01;CBC Yellow session;;;Magic Rock Bourbon Barrel Bearded Lady Dessert Edition;Draft;;;8;4;9;4;16;caramel choc coffee b cinnamon suga med c fb;0
+2015-05-01;CBC Yellow session;;;Boxing Cat Sugar Daddy;Draft;;;8;3;8;3;14;sogsalts dried fruits sugar barrel fb mc;0
+2015-05-01;CBC Yellow session;;;Boneyard Armored Fist;Draft;;;7;3;8;3;15;berries fruits mild hops malts fb mc;0
+2015-05-01;CBC Yellow session;;;Westbrook Anfernee;Draft;;;8;4;8;4;15;malts d fruits sour notes malts suga;0
+2015-05-01;CBC Yellow session;;;Bagby Dork Squad;Draft;;;7;3;7;3;14;hops fruits citrus mbc;0
+2015-05-01;CBC Yellow session;;;Beavertown BA Bone King;Draft;;;8;3;8;3;15;hops fruits malts caramel;0
+2015-05-01;CBC Yellow session;;;Green Flash Mango Inferno;Draft;;;8;3;8;3;15;chili hops fruits malts Mbc;0
+2015-05-01;CBC Yellow session;;;Amager / 18th Street Lawrence of Arabica;Draft;;;7;3;8;3;14;caramel choc mbc;0
+2015-05-01;CBC Yellow session;;;Tired Hands Portcullis;Draft;;;7;3;7;3;14;sour citrus yeast;0
+2015-05-01;CBC Yellow session;;;Amager / Dugges Aronia My Love;Draft;;;7;3;7;3;14;malts hops Fryits citrus mbc;0
+2015-05-01;Fermentoren;;;Amager Los Valentinos;Draft;;;8;3;8;3;15;fruits hops malts med bc;0
+2015-05-01;Fermentoren;;;Flying Couch Green Velvet;Draft;;;7;3;7;3;14;Clear golden white head hops malts med bc;0
+2015-05-01;Fermentoren;;;Ghost Dawn to Dusk;Draft;;;8;3;8;3;15;cloudy orange off white tropical fruits caramel hops med bc;0
+2015-05-01;Fermentoren;;;Against the Grain / Carton SS Kentucky;Draft;;;7;3;7;3;14;citrus hops sweet fruits smoke med b soft c;0
+2015-05-01;Mikkeller Bar Copenhagen;;;Three Floyds Bourbon Behemoth;Draft;;;8;4;8;4;15;Brown off white head dark fruits caramel b suga whisky barrel fb plum resin mc oily alcohol;0
+2015-05-01;Mikkeller Bar Copenhagen;;;Three Floyds Backmasking;Draft;;;8;3;8;3;14;Black beige head Dark Brown beige head dried fruits malts grain;0
+2015-05-01;Mikkeller Bar Copenhagen;;;Mikkeller Big Worster Barrel Aged Barley Wine Malaga Edition;Draft;;;8;4;8;4;15;Too sweet malts hops warmimng alc sugar orange caramel sweet b suga orange bartel fruits fb sc;0
+2015-05-01;Mikkeller Bar Copenhagen;;;Three Floyds Big Tiddy Assassin;Draft;;;7;3;7;3;15;a Sour flavor citrus hold mbc;0
+2015-05-01;Taphouse;;;Flying Couch Brewing Taphouse First Anniversary IPA;Draft;;;7;3;7;3;14;hops fruits cloudy orange off white head malts tropical fruits taphouses;0
+2015-05-01;Taphouse;;;Ølsnedkeren Tvilling IPA Columbus Fruits hops;Draft;;;7;4;7;3;14;hops citrus fruits mbc;0
+2015-05-01;Taphouse;;;Amager The Great White hope;Draft;;;7;3;7;3;14;Cloudy golden white head sweet malts hops grape mbc;0
+2015-05-01;Taphouse;;;Mikkeller Big Worster Barrel Aged Barley Wine Bourbon Edition;Draft;;;8;4;8;4;15;Cloudy amber off white head sweet caramel woody flavor bourbon brown sugar full oily body med carbo;0
+2015-05-02;Mikkeller & Friends Copenhagen;;;Mikkeller vilde dag;Draft;;;8;3;8;4;15;Cloudy amber off white Yeast tart resin b suga malts toffee full body soft carbo;0
+2015-05-02;Mikkeller & Friends Copenhagen;;;To Øl fuck art this is advertising ba st emillion;Draft;;;8;4;8;4;16;hazy Brown off white head b suga resin dark fruits caramel;0
+2015-05-02;Mikkeller & Friends Copenhagen;;;Mikkeller orange yuzu ba grand marnier;Draft;;;7;3;8;3;15;Pitch black beige head, chocolate mild orange med bc slick texture;0
+2015-05-02;Mikkeller & Friends Copenhagen;;;Mikkeller Three Floyds blo spogelse bluberry bluebic;Draft;;;4;3;6;3;13;Dark red beer no head berry sour berries yeast cheese med bc;0
+2015-05-02;Mikkeller Bar Copenhagen;;;Mikkeller Majsgoop hoppy bw;Draft;;;8;4;8;4;15;Cloudy orange off white head Tropical fruits malts warming alcohol hops b suga fb sc;0
+2015-05-02;Mikkeller Bar Copenhagen;;;Praierie praierie ale;Draft;;;7;3;8;3;15;Hazy yellow white head yeast wheat sweet fruits malts orange medbc;0
+2015-05-02;Mikkeller Bar Copenhagen;;;Mikkeller spontancherry;Draft;;;7;3;7;3;14;deep Ruby beer thin red white head mild sour notes red berries cherry Juice med bc;0

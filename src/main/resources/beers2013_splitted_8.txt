@@ -1,0 +1,199 @@
+2012-07-28;O'Hara's Freehouse;;;BrewDog IPA Is Dead - Challenger;Bottle 330ml;;75;7;2;7;3;10;No textual comments;0
+2012-07-28;O'Hara's Freehouse;;;BrewDog IPA Is Dead - Galaxy;Bottle 330ml;;71;8;3;7;3;12;No textual comments;0
+2012-07-29;Pirkkala;2012-07-26;Alko Arkadia;Black Wolf 1488;Bottle 330ml;2013-03-31;as Tullibardine 1488 Majestic Whisky Ale;7;3;7;3;10;No textual comments;0
+2012-08-01;Ruovesi;2012-07-30;Alko Kaleva;Estrella Damm Inedit;Bottle 750ml;;;7;3;7;3;13;No textual comments;0
+2012-08-01;Ruovesi;2011-04-09;Alko Arkadia;Haandbryggeriet Hesjeøl;Bottle 500ml;2012-06-08;#293, 2010-06-08;9;3;8;3;12;No textual comments;0
+2012-08-01;Ruovesi;2012-08-01;Alko Ylöjärvi;Nokian Keisari EloWehnä IV;Can 500ml;2013-02-28;;7;2;6;2;11;Hazy golden with white quickly disappearing head. Aroma is wheat and banana. Taste is similar. Medium body and light carbonation. Bit watery mouth feel.;0
+2012-08-02;Ruovesi;2012-08-02;Alko Ruovesi;Nokian Keisari Året Runt (5,7%);Bottle 330ml;2012-12-31;;6;3;6;2;10;No textual comments;0
+2012-08-04;Gastropub Nordic;;;Haandbryggeriet Røyk Uten Ild (Smoke Without Fire);Bottle 500ml;;brygg 2010-05-12;8;3;8;3;14;No textual comments;0
+2012-08-04;Gastropub Nordic;;;Wisby Sleepy Bulldog Pale Ale;Bottle 330ml;2013-11-04;;6;3;7;3;11;No textual comments;0
+2012-08-04;Olutravintola Konttori;;;To Øl Raid Beer;Draft;;;8;3;8;3;13;No textual comments;0
+2012-08-04;Plevna;2012-08-04;Plevna;Plevnan Bock;Draft;;;6;3;7;3;11;No textual comments;0
+2012-08-04;Plevna;2012-08-04;Plevna;Plevnan Mount Whitney;Draft;;;7;3;7;3;12;No textual comments;0
+2012-08-04;Plevna;2012-08-04;Plevna;Plevnan Tumma;Draft;;;6;3;5;3;12;No textual comments;0
+2012-08-06;Pirkkala;2012-08-04;Alko Anttila;Stadin ESB;Bottle 330ml;2013-02-01;;7;3;7;3;11;No textual comments;0
+2012-08-10;Olutravintola Konttori;;;Mikkeller Sort Gul;Bottle 330ml;;;8;4;8;3;16;Dark brown reddish, thick beige head. Aroma is malt, chocolate, grape, hops. Flavor is chocolate, licorice, hops, roasted malt, mild fruity notes. Med body and carbo.;0
+2012-08-10;Olutravintola Konttori;;;Southern Tier IPA;Bottle 355ml;;dob 04/09/12;8;3;8;3;14;No textual comments;0
+2012-08-10;Pirkkala;2012-08-10;Alko Koivistonkylä;Bacchus Frambozenbier;Bottle 375ml;2014-02-14;;7;3;8;3;10;No textual comments;0
+2012-08-11;Pirkkala;2012-08-10;Lidl Pirkkala;Riedenburger Pilsner;Bottle 330ml;2013-03-03;;6;2;5;2;7;No textual comments;0
+2012-08-11;Pirkkala;2012-05-22;Bierkompass;Uerige Doppel Sticke;Bottle 330ml;2013-02-28;bottled 2012-02;8;4;8;3;14;No textual comments;0
+2012-08-11;Pub Kultainen Apina;;;BrewDog Dog A;Bottle 330ml;;#037 2012-04-01;9;4;9;4;14;No textual comments;0
+2012-08-11;Pub Kultainen Apina;;;BrewDog Flying Dog International Arms Race;Bottle 330ml;2013-05-23;#164;7;2;5;2;8;No textual comments;0
+2012-08-11;Pub Kultainen Apina;;;Haandbryggeriet Costa Rica;Bottle 500ml;;bottled 2012-02-17, brewed 2012-02-03;8;3;9;3;13;No textual comments;0
+2012-08-11;Pub Kultainen Apina;;;Haandbryggeriet Sundland Kreosot;Bottle 500ml;2014-05-21;brygged 21.5.2012;8;3;8;3;13;No textual comments;0
+2012-08-11;Pub Kultainen Apina;;;Victory Golden Monkey;Draft;;;7;3;8;3;13;No textual comments;0
+2012-08-12;Pirkkala;2012-08-11;K-citymarket Pirkkala;Rohozec Skalák Sv_tl_ Le_ák 11°;Bottle 500ml;2013-02-28;;7;2;5;2;9;No textual comments;0
+2012-08-13;Pirkkala;2012-08-11;K-citymarket Pirkkala;Mikkeller Drink’in the Sun 12;Bottle 330ml;2013-12-07;;8;3;7;2;13;No textual comments;0
+2012-08-14;Pirkkala;2012-08-09;Alko Kaleva;Chimay Rouge;Bottle 330ml;2013-12-31;;8;3;8;3;13;No textual comments;0
+2012-08-16;Pirkkala;2012-08-14;K-citymarket Pirkkala;Buxton Moor Top;Bottle 500ml;2013-08-31;;8;3;7;2;12;No textual comments;0
+2012-08-17;Gastropub Praha;;;Buxton Imperial Black IPA;Bottle 500ml;2013-05-31;;7;3;8;3;13;No textual comments;0
+2012-08-17;Oluthuone Pekko;;;Maeght van Gottem;Bottle 330ml;2013-09-30;;6;3;7;2;10;No textual comments;0
+2012-08-17;Oluthuone Pekko;;;Theakston Old Peculier;Bottle 500ml;2012-08-31;;7;3;7;3;12;No textual comments;0
+2012-08-17;Olutravintola Konttori;;;Anderson Valley Barney Flats Oatmeal Stout;Bottle 355ml;;;8;3;7;3;12;No textual comments;0
+2012-08-17;Olutravintola Konttori;;;Anderson Valley Boont Amber Ale;Bottle 355ml;;;7;3;8;3;12;No textual comments;0
+2012-08-17;Olutravintola Konttori;;;Slottskällans Zeven;Draft;;;7;3;8;3;13;No textual comments;0
+2012-08-17;Pirkkala;2012-08-14;K-citymarket Pirkkala;Haandbryggeriet Blondie;Bottle 500ml;2013-05-25;Brygged 25.5.2012;7;3;7;3;10;No textual comments;0
+2012-08-18;Gastropub Nordic;;;Slottskällans Freedom IPA;Draft;;;8;3;8;3;13;No textual comments;0
+2012-08-18;Gastropub Nordic;;;Suomenlinnan Helsinki Portteri;Draft;;;6;4;7;2;11;No textual comments;0
+2012-08-18;Niko;;;Amager Double Black IPA;Bottle 500ml;2014-02-28;#331;9;3;8;3;14;No textual comments;0
+2012-08-18;Pirkkala;2012-05-22;Bierkompass;8 Wired Saison Sauvin;Bottle 500ml;;;8;3;8;3;13;No textual comments;0
+2012-08-18;Pirkkala;2012-04-09;Bierkompass;Evil Twin/Omnipollo Russian Roulette;Bottle 500ml;2014-12-31;;8;4;8;3;13;No textual comments;0
+2012-08-18;Pirkkala;2012-05-22;Bierkompass;Sly Fox Phoenix Pale Ale;Can 355ml;2012-06-23;;6;3;6;3;11;No textual comments;0
+2012-08-18;Pirkkala;2012-05-22;Bierkompass;Sly Fox Rte. 113 India Pale Ale;Can 355ml;2012-10-06;;7;3;7;3;11;No textual comments;0
+2012-08-19;Pirkkala;2012-08-19;Prisma Koivistonkylä;Adnams Southwold Bitter;Bottle 330ml;2012-12-31;;7;3;6;3;11;No textual comments;0
+2012-08-22;Pirkkala;2012-08-22;Alko Kaleva;Laitilan Kievari Barley Wine;Bottle 330ml;2015-08-22;;7;3;6;3;11;No textual comments;0
+2012-08-23;Pirkkala;2012-08-23;K-citymarket Pirkkala;North Coast Scrimshaw;Bottle 355ml;;;7;3;7;2;11;No textual comments;0
+2012-08-24;Gastropub Nordic;;;Rekolan Metsän Henki;Draft;;;6;3;7;2;11;No textual comments;0
+2012-08-24;Gastropub Nordic;;;Vakka-Suomen Oktoberfestbier;Draft;;;6;3;6;2;10;No textual comments;0
+2012-08-24;O'Connell's Irish Bar;;;8 Wired ReWired Brown Ale;Bottle 500ml;;;7;3;8;3;13;No textual comments;0
+2012-08-24;O'Connell's Irish Bar;;;Moles Double MM;Cask;;;6;2;7;2;10;No textual comments;0
+2012-08-26;Gastropub Nordic;;;Stadin Savuruisstout;Draft;;;6;3;7;3;11;No textual comments;0
+2012-08-26;Olutravintola Konttori;;;Beer Here Ammestout;Bottle 500ml;2013-04-12;;8;4;9;4;13;No textual comments;0
+2012-08-26;Pirkkala;2012-08-14;K-citymarket Pirkkala;A. Le Coq Pils;Bottle 500ml;2012-11-11;;5;2;6;2;10;No textual comments;0
+2012-08-28;Oluthuone Pekko;;;CREW IPA;Bottle 330ml;2013-04-24;;8;3;6;3;12;No textual comments;0
+2012-08-28;Oluthuone Pekko;;;CREW Republic Foundation 11 Pale Ale;Bottle 330ml;2013-03-14;;7;3;7;3;12;No textual comments;0
+2012-08-30;Pirkkala;2012-08-30;K-citymarket Pirkkala;Vakka-Suomen Prykmestar Schwarz;Bottle 500ml;2013-01-18;;6;3;7;2;11;No textual comments;0
+2012-09-01;Olutravintola Konttori;;;Närke Örebro Bitter;Draft;;;7;3;8;3;12;No textual comments;0
+2012-09-01;Olutravintola Konttori;;;Slottskällans Kloster (2005-);Bottle 330ml;2013-01-27;;8;3;8;3;12;No textual comments;0
+2012-09-01;Pirkkala;2012-04-09;Bierkompass;Evil Twin Høkerens Jubilæums Øl;Bottle 330ml;2013-11-30;;8;3;8;3;13;No textual comments;0
+2012-09-01;Pirkkala;2010-07-18;Vinmonopolet (order);Nøgne Ø Imperial Brown Ale;Bottle 500ml;2012-10-16;#461;9;4;9;4;14;No textual comments;0
+2012-09-02;Pirkkala;2012-08-22;Alko Kaleva;St Feuillien Grand Cru;Bottle 330ml;2014-03-18;L4168 12:06;8;3;8;3;13;No textual comments;0
+2012-09-07;Ruovesi;2012-09-07;S-market Ylöjärvi;Laitilan Kukko Ale;Can 500ml;2013-07-16;;7;3;6;2;9;No textual comments;0
+2012-09-07;Ruovesi;2011-09-28;Gift from Hessu;_om_a Mocne  ;Bottle 500ml;2012-05-10;;6;2;6;3;10;No textual comments;0
+2012-09-08;Ruovesi;2012-09-08;Alko Ruovesi;Belhaven Scottish Stout;Bottle 500ml;2013-03-31;;7;4;8;3;14;Black color With beige head. Arroma is caramel, Chocolate roast. Flavor is roasted malt, Chocolate, Brown Sugar. Medium Body, Soft carbonation.;0
+2012-09-08;Ruovesi;2012-09-07;Alko Ylöjärvi;Erdinger Oktoberfest;Bottle 500ml;2013-04-30;;6;3;7;3;11;No textual comments;0
+2012-09-08;Ruovesi;2012-09-07;Alko Ylöjärvi;Löwenbräu Oktoberfestbier;Bottle 500ml;2013-07-31;;6;2;6;3;10;No textual comments;0
+2012-09-08;Ruovesi;2012-09-07;Alko Ylöjärvi;Oppigårds Oktoberfestbier;Bottle 500ml;2013-02-28;;7;3;8;3;12;No textual comments;0
+2012-09-09;Gastropub Nordic;;;Stallhagen Helles Märzen;Draft;;;6;3;7;3;11;No textual comments;0
+2012-09-09;Olutravintola Konttori;;;Hornbeer Eskil;Draft;;;8;3;8;4;14;No textual comments;0
+2012-09-12;Pirkkala;2012-09-10;Alko Koivistonkylä;Ayinger Kirtabier;Bottle 500ml;2013-05-31;;7;3;7;3;13;No textual comments;0
+2012-09-14;Ruovesi;2012-09-10;Alko Koivistonkylä;Cantillon Gueuze;Bottle 375ml;2032-03-15;;7;3;7;3;11;No textual comments;0
+2012-09-15;Ruovesi;2012-09-14;Sale Kuru;Nokian Keisari Münchener;Can 500ml;2013-04-30;;5;3;6;2;9;Copper With off white head. Aroma is malts. Flavor is same. No good.;0
+2012-09-16;Gastropub Nordic;;;Stadin Belgian Amber Ale;Draft;;;7;3;7;3;11;No textual comments;0
+2012-09-16;Gastropub Nordic;;;Suomenlinnan Coyet Ale;Draft;;;8;3;8;3;12;No textual comments;0
+2012-09-17;Olutravintola Konttori;;;De Dochter van de Korenaar Finesse;Bottle 330ml;2013-01-31;;6;3;7;3;11;No textual comments;0
+2012-09-17;Olutravintola Konttori;;;Shipyard Imperial Porter (Pugsley Signature Series);Bottle 355ml;2012-12-31;;7;3;8;3;13;No textual comments;0
+2012-09-17;Olutravintola Konttori;;;Shipyard XXXX IPA (Pugsley’s Signature Series);Bottle 355ml;;;8;3;8;3;13;No textual comments;0
+2012-09-21;Plevna;2012-09-21;Plevna;Plevnan Barley Wine 2012 (sherry aged);Bottle 330ml;2015-01-01;;8;3;8;3;14;No textual comments;0
+2012-09-21;Plevna;2012-09-21;Plevna;Plevnan Oktoberfest;Draft;;;7;3;8;3;13;No textual comments;0
+2012-09-22;Oluthuone Pekko;;;Durham Redemption;Bottle 500ml;2017-07-31;2294;7;3;8;3;12;No textual comments;0
+2012-09-22;Oluthuone Pekko;;;Durham Temptation;Bottle 500ml;2018-06-30;2318;8;3;9;4;14;No textual comments;0
+2012-09-22;Olutravintola Konttori;;;Nynäshamns Pickla Pils;Bottle 500ml;2012-10-31;;7;3;7;3;12;No textual comments;0
+2012-09-22;Salhojankadun Pub;;;Ayinger Oktober Fest-Märzen;Bottle 500ml;;;7;3;7;3;11;No textual comments;0
+2012-09-22;Salhojankadun Pub;;;Thornbridge Kipling;Bottle 500ml;2013-02-11;;8;3;8;3;13;No textual comments;0
+2012-09-23;Pirkkala;2012-09-22;Alko Tammela;Fuller's Golden Pride;Bottle 500ml;2013-12-21;;7;4;7;3;13;clear Copper, Tan head, Grain, malt, caramel, bit toi Much alcohol in Taste.;0
+2012-09-28;Gastropub Nordic;;;Pinta Atak Chmielu;Bottle 500ml;;;7;3;7;3;12;No textual comments;0
+2012-09-28;Ilkka;;;Harboe Beer Guldøl (Gold);Can 330ml;;;5;2;3;2;6;No textual comments;0
+2012-09-28;Ilkka;;;Maribo Slots Guld;Can 330ml;;;4;2;4;2;5;No textual comments;0
+2012-09-28;Pirkkala;2012-05-22;Bierkompass;Fritz Ale Imperial IPA Doppelt Hopfengestopft;Bottle 330ml;2012-12-31;;8;3;8;3;13;No textual comments;0
+2012-09-28;Pirkkala;2012-04-09;Bierkompass;Omnipollo/Evil Twin Russian Roulette;Bottle 500ml;2014-12-31;;7;3;8;3;13;No textual comments;0
+2012-09-28;Pirkkala;2012-09-28;Alko Stockmann;Teerenpeli Sauhusanttu;Bottle 330ml;2013-05-11;N777 255;7;3;7;3;11;No textual comments;0
+2012-09-28;Vinoteca del Piemonte;;;Brewfist Spaceman;Bottle 330ml;2013-08-30;2321;7;3;8;3;13;No textual comments;0
+2012-09-29;Ruovesi;2012-05-22;Bierkompass;Clown Shoes Hoppy Feet 1.5 Double Black IPA;Bottle 650ml;;;7;4;9;4;15;No textual comments;0
+2012-09-29;Ruovesi;2012-05-22;Bierkompass;De Molen Heen & Weer (Back & Forth);Bottle 330ml;2017-02-01;bottled 2012-02-02;7;3;7;3;13;No textual comments;0
+2012-09-29;Ruovesi;2012-05-22;Bierkompass;Mikkeller 10;Bottle 330ml;2014-03-13;;8;3;8;3;13;No textual comments;0
+2012-09-29;Ruovesi;2011-04-16;System Bolaget Haparanda;Mohawk Blizzard Imperial Porter (2010);Bottle 330ml;2012-12-24;;7;4;7;3;14;No textual comments;0
+2012-09-29;Ruovesi;2012-05-22;Bierkompass;Sly Fox Odyssey;Bottle 650ml;2012-02-12;;7;3;7;3;13;No textual comments;0
+2012-09-30;Gastropub Nordic;;;Stadin Katariina Imperial Stout;Draft;;;8;4;8;4;15;No textual comments;0
+2012-09-30;Pirkkala;2012-09-22;Alko Arkadia;Rogue Mocha Porter;Bottle 355ml;2014-06-30;;8;4;8;3;13;No textual comments;0
+2012-10-03;Oluthuone Kaisla;;;Hoppin Frog Hop Heathen Imperial Black Ale;Bottle 650ml;;;8;4;8;3;14;No textual comments;0
+2012-10-03;Oluthuone Kaisla;;;Sea Dog (Old East) India Pale Ale;Bottle 355ml;2013-03-31;;7;3;7;2;11;No textual comments;0
+2012-10-03;Viking Line Gabriella;;;Harviestoun Old Engine Oil;Bottle 330ml;;;8;3;8;3;13;No textual comments;0
+2012-10-03;Viking Line Gabriella;;;Nynäshamns Brännskär Brown Ale;Bottle 500ml;2013-03-31;;7;3;7;3;11;No textual comments;0
+2012-10-03;Viking Line Gabriella;;;Nynäshamns Sotholmen Stout;Bottle 500ml;;;6;3;6;2;10;No textual comments;0
+2012-10-03;Viking Line Gabriella;;;Rise Ærø Hertug Hans No. 5 Valnød;Bottle 500ml;2012-12-04;;6;2;5;2;9;No textual comments;0
+2012-10-03;Viking Line Gabriella;;;Samuel Adams Black Lager;Bottle 355ml;;;7;3;7;3;11;No textual comments;0
+2012-10-03;Viking Line Gabriella;;;Traquair House Ale;Bottle 330ml;;;8;3;8;3;12;No textual comments;0
+2012-10-04;Akkuratt;;;Gänstaller-Bräu Green Gold IPA (104 Germany Meets USA);Draft;;;9;4;9;4;15;No textual comments;0
+2012-10-04;Akkuratt;;;Magic Rock Curious;Draft;;;8;3;8;3;14;No textual comments;0
+2012-10-04;Akkuratt;;;Magic Rock Rapture (real);Cask;;;7;3;7;3;9;No textual comments;0
+2012-10-04;Akkuratt;;;Närke 3x20;Draft;;;6;3;6;2;8;No textual comments;0
+2012-10-04;Akkuratt;;;Närke Konjaks! Stormaktsporter;Bottle 250ml;;;10;4;9;5;18;No textual comments;0
+2012-10-04;Bishop Arms Vasagatan, Stockholm;;;Moor Old Freddy Walker;Draft;;;7;4;7;3;12;No textual comments;0
+2012-10-04;Bishop Arms Vasagatan, Stockholm;;;Närke Pannknektarnas Porter;Draft;;;8;4;8;3;13;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Dark Horse Double Crooked Tree IPA;Sample;;;9;3;9;4;14;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Dark Horse Smells Like Weed IPA;Draft;;;9;3;9;3;14;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Jester King / Mikkeller Weasel Rodeo;Sample;;;9;4;9;4;15;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Jester King Black Metal Imperial Stout;Sample;;;9;4;9;4;16;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Lost Abbey Deliverance;Sample;;;10;4;9;4;17;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Lost Abbey Serpents Stout;Sample;;;8;4;9;4;15;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Lost Abbey The Angels Share - Bourbon Barrel;Sample;;2009 version;10;4;9;4;17;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Monks Café 10 10 10 Barley;Draft;;;9;4;9;4;16;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Monks Café 585 IPA;Draft;;;8;4;8;3;13;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Nøgne Ø Imperial Stout Cognac Barrel;Sample;;;9;4;9;4;15;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Nøgne Ø Imperial Stout Highland Edition;Sample;;;10;4;9;4;15;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Odell Myrcenary Double India Pale Ale;Sample;;;9;4;9;3;14;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Omnipollo Nebuchadnezzar;Draft;;;9;3;9;3;14;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Oskar Blues Deviant Dale’s India Pale Ale;Sample;;;8;3;8;3;13;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Sierra Nevada 30th Anniversary Our Brewers Reserve - Grand Cru;Sample;;;8;3;8;3;13;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Sierra Nevada Ruthless Rye IPA;Sample;;;8;3;8;3;14;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Stone Sublimely Self Righteous Black IPA;Sample;;;8;3;8;4;15;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Struise / Hair of the Dog Lion Claws;Draft;;;7;3;8;3;11;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Struise Black Berry Albert;Draft;;;8;4;9;4;16;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Struise Black Damnation V - Double Black;Draft;;;9;4;9;4;17;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Uinta Crooked Line Cockeyed Cooper;Sample;;;8;3;8;3;13;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Uinta Dubhe Imperial Black IPA;Sample;;;8;4;8;3;13;No textual comments;0
+2012-10-04;Stockholm Beer and Whisky Festival;;;Ölvisholt Lava;Sample;;;8;4;8;3;14;No textual comments;0
+2012-10-05;Oliver Twist;;;Magic Rock Cannonball;Draft;;;8;3;8;3;14;No textual comments;0
+2012-10-05;Oliver Twist;;;Magic Rock Human Cannonball;Draft;;;8;3;8;4;14;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Amager The Sinner Series Gluttony;Draft;;;8;4;8;3;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Boulevard Smokestack Series - Reverb Imperial Pilsner;Sample;;;7;3;6;3;11;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Caldera IPA;Sample;;;8;3;8;3;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Caldera Mogli;Sample;;;8;4;8;3;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Dark Horse Plead the 5th Imperial Stout;Sample;;;8;4;8;4;14;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;De Molen Steen & Been (Stone & Bone);Bottle 330ml;;;9;4;9;4;16;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;De Molen Storm & Averij (Storm & Damage);Bottle 330ml;;;8;4;8;4;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Deschutes Black Butte Porter;Sample;;;8;4;9;4;15;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Det Lille Bryggeri 200;Bottle 330ml;;;9;4;9;4;16;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Flying Dog Wild Dog Barrel-Aged Gonzo;Bottle 355ml;;;9;4;9;4;15;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Hopworks IPA;Sample;;;9;4;8;3;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Lervig Brewers Reserve Rye IPA;Draft;;;8;3;8;3;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Mikkeller Beer Geek Breakfast (Speyside Edition);Sample;;;9;4;9;4;15;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Mikkeller Beer Geek Brunch Weasel (Highland Edition);Sample;;;9;4;9;4;16;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Mikkeller Black Hole Barrel Aged Edition Cognac;Bottle 375ml;;;9;4;9;4;16;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Mikkeller Black Tie;Sample;;;9;4;9;4;14;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Mikkeller KØS - You’ve Never Been Køssed Like This Before;Draft;;;8;4;8;3;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Mikkeller _ / Black (Whisky Edition 2010);Bottle 375ml;;;9;4;9;4;15;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Mikkeller/Grassroots Wheat is the New Hops IPA;Draft;;;8;3;8;3;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Rogue Farms Dirtoir Black Lager;Sample;;as Chatoe Rogue Dirtoir Black Lager;7;4;8;4;13;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Uinta Crooked Line Labyrinth Black Ale;Sample;;;9;4;9;4;16;No textual comments;0
+2012-10-05;Stockholm Beer and Whisky Festival;;;Xbeeriment Hoppenheimer Imperial IPA;Draft;;;7;3;8;3;12;No textual comments;0
+2012-10-06;O'Connell's Irish Bar;;;Evil Twin All Occasions IPA;Bottle 330ml;;;8;3;8;3;14;No textual comments;0
+2012-10-06;O'Connell's Irish Bar;;;Evil Twin P3;Bottle 330ml;;;8;4;8;3;14;No textual comments;0
+2012-10-06;O'Connell's Irish Bar;;;Mikkeller / Lervig Double Eye PA;Bottle 330ml;;;8;3;8;3;13;No textual comments;0
+2012-10-06;O'Connell's Irish Bar;;;Stronzo 1000 EBC;Bottle 375ml;;;9;4;9;4;17;No textual comments;0
+2012-10-06;Panimoravintola Bruuveri;;;Bruuveri Compass IPA;Draft;;;7;3;8;3;12;No textual comments;0
+2012-10-09;Pirkkala;2012-10-02;K-citymarket Pirkkala;BrewDog Dead Pony Club;Bottle 330ml;2013-08-08;256;8;3;7;3;13;No textual comments;0
+2012-10-10;Pirkkala;2012-10-09;K-citymarket Pirkkala;Nils Oscar Bordsöl;Bottle 330ml;2013-01-31;;6;2;7;3;10;No textual comments;0
+2012-10-12;O'Hara's Freehouse;;;BrewDog Lost Abbey Lost Dog;Bottle 330ml;;Bottled #176 05-12-11;9;3;8;3;15;No textual comments;0
+2012-10-12;Olutravintola Kahdet Kasvot;;;Brewfist/Beer Here Caterpillar Pale Ale;Draft;;;8;3;7;3;12;ärsyttävä saippuainen jälkimaku;0
+2012-10-12;Pirkkala;2012-10-04;System Bolaget Passagen;Dugges Gustafs Finger;Bottle 330ml;2013-04-09;;7;3;7;3;13;No textual comments;0
+2012-10-12;Pirkkala;2012-10-09;K-citymarket Pirkkala;Shipyard Brown Ale;Bottle 355ml;2012-12-31;;7;3;8;3;12;No textual comments;0
+2012-10-12;Pirkkala;2012-10-04;System Bolaget Passagen;Sigtuna Equilibrium Scottish Strong Ale;Bottle 330ml;;;8;3;8;4;14;No textual comments;0
+2012-10-13;Olutravintola Konttori;;;Hornbeer Dryhop;Draft;;;8;3;7;3;12;No textual comments;0
+2012-10-13;Pirkkala;2012-10-04;System Bolaget Passagen;Lagunitas Maximus;Bottle 355ml;2013-08-07;;9;3;9;3;14;Stop & Shop Ponce/Food Stores, Coral Gables, Florida USA 2010-10-14;0
+2012-10-13;Plevna;2012-10-13;Plevna;Plevnan Unto Sahti;Draft;;;7;3;8;3;13;No textual comments;0
+2012-10-14;Pirkkala;2012-10-04;System Bolaget Passagen;Nils Oscar FrEQuency No sleep in October;Bottle 330ml;2013-02-28;;6;3;7;3;11;No textual comments;0
+2012-10-15;Pirkkala;2012-10-09;K-citymarket Pirkkala;Stadin Lager;Bottle 330ml;2013-03-01;#446;7;3;6;2;12;No textual comments;0
+2012-10-16;Pirkkala;2012-10-09;K-citymarket Pirkkala;Shipyard Blue Fin Stout;Bottle 355ml;2013-03-31;;8;3;8;3;13;No textual comments;0
+2012-10-17;Pirkkala;2012-10-09;K-citymarket Pirkkala;Stadin New Zealand Pacific Pale Ale;Bottle 330ml;2013-02-01;#451;7;3;7;3;12;No textual comments;0
+2012-10-18;Pirkkala;2012-10-11;Bierkompass;De Molen Lentehop (2012-);Bottle 330ml;2014-02-02;bottled 2012-02-02;7;3;7;3;12;No textual comments;0
+2012-10-19;Gastropub Nordic;;;Hornbeer Imperial IPA;Draft;;;8;4;8;3;14;alkoholi puskee läpi;0
+2012-10-19;Ruovesi;2012-10-02;K-citymarket Pirkkala;Beer Here Wicked Wheat;Bottle 500ml;2014-05-23;;7;2;7;3;12;No textual comments;0
+2012-10-19;Ruovesi;2012-10-11;Bierkompass;De Molen Rye IPA Cascade-Amarillo;Bottle 330ml;;;7;3;7;3;12;No textual comments;0
+2012-10-19;Ruovesi;2012-10-04;System Bolaget Passagen;Djævlebryg Schopenhauers Vilje;Bottle 500ml;2013-05-28;;6;3;7;3;12;No textual comments;0
+2012-10-20;Ruovesi;2012-10-11;Bierkompass;Green Flash Le Freak;Bottle 355ml;;;8;3;8;3;13;No textual comments;0
+2012-10-20;Ruovesi;2012-09-22;Alko Arkadia;Hornbeer Dryhop;Bottle 500ml;2015-06-18;;8;3;8;3;13;No textual comments;0
+2012-10-20;Ruovesi;2012-10-20;Alko Ruovesi;Left Hand Polestar Pilsner;Bottle 355ml;2014-07-31;;6;2;6;2;11;No textual comments;0
+2012-10-20;Ruovesi;2012-10-18;K-citymarket Pirkkala;Suomenlinnan Seth Lager;Bottle 500ml;2013-09-28;;6;2;6;2;10;No textual comments;0
+2012-10-21;Pirkkala;2010-11-03;Alko Hervanta;Gulden Draak Vintage;Bottle 330ml;2012-09-09;;8;4;8;3;14;No textual comments;0
+2012-10-21;Pirkkala;2012-10-02;K-citymarket Pirkkala;Nils Oscar Ctrl Alt Delete;Bottle 330ml;2012-11-30;;7;3;6;3;12;No textual comments;0
+2012-10-22;Pirkkala;2012-10-04;System Bolaget Passagen;Oppigårds SMÖF Lager 2012;Bottle 330ml;;;7;3;7;3;11;No textual comments;0
+2012-10-23;Pirkkala;2012-10-09;K-citymarket Pirkkala;Stadin Dunkelbier;Bottle 330ml;2013-02-01;#447;6;3;5;3;11;No textual comments;0
+2012-10-24;Pirkkala;2012-10-18;K-citymarket Pirkkala;Nøgne Ø Havrestout;Bottle 500ml;2013-12-15;#738 brygg 2011-12-15;7;4;7;3;13;hieman keskivertoa parempi stout;0
+2012-10-25;Pirkkala;2012-10-25;Alko Koivistonkylä;Kulmbacher Mönchshof Schwarzbier;Bottle 500ml;2013-05-14;;8;4;7;3;13;No textual comments;0
+2012-10-25;Pirkkala;2012-10-25;Alko Koivistonkylä;Stadin American Barley Wine;Bottle 330ml;2013-10-01;#452-3;7;3;7;3;14;BClear copper color with off white head. Aroma is fruits, raisin and malt. Flavor is malt and some floral notes. Medium body, soft carbonation.;0
+2012-10-26;Gastropub Nordic;;;Malmgård Summit Ale;Draft;;;7;3;7;3;12;No textual comments;0
+2012-10-26;Olutravintola Konttori;;;Hornbeer Grisk;Bottle 500ml;;;9;3;8;3;15;No textual comments;0
+2012-10-26;Olutravintola Konttori;;;Nynäshamns Smörpundet Porter;Draft;;;8;4;8;3;14;No textual comments;0
+2012-10-26;Pirkkala;2012-10-11;Bierkompass;Mikkeller P1;Bottle 330ml;;;8;3;7;3;13;No textual comments;0

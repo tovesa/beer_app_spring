@@ -1,0 +1,199 @@
+2013-03-20;BeerTemple;2013-03-20;BeerTemple;Drakes Expedition Ale;Bottle 355ml;;;8;4;8;3;13;No textual comments;0
+2013-03-20;BeerTemple;2013-03-20;BeerTemple;Great Divide Belgian Style Yeti Imperial Stout (2011);Draft;;;9;4;9;4;15;No textual comments;0
+2013-03-20;BeerTemple;2013-03-20;BeerTemple;Jopen Doe Maar(ten) Ton;Draft;;;6;3;6;3;10;No textual comments;0
+2013-03-20;BeerTemple;2013-03-20;BeerTemple;Mikkeller Kihoskh Cream Ale;Draft;;;7;2;6;2;10;No textual comments;0
+2013-03-20;BeerTemple;2013-03-20;BeerTemple;Southern Tier Creme Brulee Stout;Draft;;;7;4;7;3;12;No textual comments;0
+2013-03-20;BeerTemple;2013-03-20;BeerTemple;The Kernel Export India Porter;Draft;;;9;4;9;3;14;No textual comments;0
+2013-03-20;BeerTemple;2013-03-20;BeerTemple;To Øl/Mikkeller Ov-ral Wild Yeast IIPA;Draft;;;8;3;9;3;14;No textual comments;0
+2013-03-20;Bierproeflokaal in de Wildeman;;;Emelisse Red IPA;Bottle 330ml;2013-12-31;;6;3;7;3;12;No textual comments;0
+2013-03-20;Bierproeflokaal in de Wildeman;;;Ramses Bier Shire Stout;Draft;;;8;4;8;4;13;No textual comments;0
+2013-03-20;Bierproeflokaal in de Wildeman;;;Tasty Lady;Draft;;;7;3;6;3;11;No textual comments;0
+2013-03-20;Bierproeflokaal in de Wildeman;;;Troubadour Magma Special Edition 2012 Sorachi Ace;Draft;;;8;3;7;3;11;No textual comments;0
+2013-03-20;Café Brecht;;;Aecht Schlenkerla Fastenbier;Draft;;;7;3;8;3;13;No textual comments;0
+2013-03-20;Eetcafé De Compaenen Amsterdam;;;Jopen Lentebier;Draft;;;6;3;6;3;11;No textual comments;0
+2013-03-20;Oak Barrel Helsinki Airport;;;Stallhagen Irish Cream Stout;Draft;;;6;4;7;3;12;No textual comments;0
+2013-03-21;Bierproeflokaal in de Wildeman;;;Fuller’s Bengal Lancer;Draft;;;6;3;6;2;10;No textual comments;0
+2013-03-21;Bierproeflokaal in de Wildeman;;;Hertog Jan Grand Prestige;Bottle 330ml;;;7;3;8;2;12;No textual comments;0
+2013-03-21;Brouwerij de Molen;;;De Molen Hel & Verdoemenis (Wild Turkey Barrel);Bottle 330ml;2028-01-28;2013-01-28;9;4;9;4;16;No textual comments;0
+2013-03-21;Brouwerij de Molen;;;De Molen Hemel & Aarde (Bourbon BA);Bottle 330ml;2028-01-30;2013-01-30;9;4;9;4;16;No textual comments;0
+2013-03-21;Brouwerij de Molen;;;De Molen Hip & Hop;Draft;;;7;3;7;3;13;No textual comments;0
+2013-03-21;Brouwerij de Molen;;;De Molen Pijl & Boog;Draft;;;6;3;7;3;11;No textual comments;0
+2013-03-21;Brouwerij de Molen;;;De Molen Pilz;Draft;;;6;3;7;3;12;No textual comments;0
+2013-03-21;Brouwerij de Molen;;;De Molen Rhythm & Blues;Bottle 330ml;2022-12-16;2012-12-16;8;3;8;3;14;hazy Amber, off white head. Aroma is barrel, Sweety, fruits, caramel. Flavor is strong bourbon Notes, fruits, spices.;0
+2013-03-21;Brouwerij de Molen;;;De Molen Spanning & Sensatie;Bottle 330ml;2022-12-11;2012-12-11;8;4;8;3;14;No textual comments;0
+2013-03-21;Brouwerij de Molen;;;De Molen Tsarina Esra Imperial Porter;Bottle 330ml;2027-04-05;2012-04-05;9;4;9;4;16;Black, thick khaki head. Roasted malt, dark chocolate, licorice, peat. Soft carbo. Oily texture.;0
+2013-03-21;De Prael Proeflokaal;;;De Prael Hepie en Hepie;Bottle 330ml;;;6;3;6;3;11;No textual comments;0
+2013-03-21;De Prael Proeflokaal;;;De Prael Mary;Draft;;;7;3;8;3;13;No textual comments;0
+2013-03-21;De Prael Proeflokaal;;;De Prael Willy (11.5%);Draft;;;7;3;7;3;12;No textual comments;0
+2013-03-21;De Prael Proeflokaal;;;De Prael Zwarte Riek (2011 -);Draft;;;7;3;7;3;11;No textual comments;0
+2013-03-21;Hotel NH Museum Quarter;2013-03-20;De Bierkoning;De Molen Rye IPA Chinook;Bottle 330ml;2014-01-23;bottled 2013-01-23;8;3;8;3;13;No textual comments;0
+2013-03-21;Hotel NH Museum Quarter;2013-03-20;De Bierkoning;Left Hand Black Jack Porter;Bottle 355ml;;;8;3;7;3;12;No textual comments;0
+2013-03-21;Proeflokaal Arendsnest;;;De Hemel Eiken Bok;Draft;;;8;3;8;3;12;No textual comments;0
+2013-03-21;Proeflokaal Arendsnest;;;De Molen Rasputin Laphroaig Barrel Aged;Bottle 330ml;2013-08-28;;9;4;9;4;16;No textual comments;0
+2013-03-21;Proeflokaal Arendsnest;;;Eem Xtreem Chinook;Draft;;;8;3;8;3;13;No textual comments;0
+2013-03-21;Proeflokaal Arendsnest;;;Jopen Barrevoet Barley-Wine Barrel Aged;Draft;;;6;4;7;4;14;No textual comments;0
+2013-03-21;Proeflokaal Arendsnest;;;Klavervier Barrel Aged Poorter;Draft;;;8;3;8;3;14;No textual comments;0
+2013-03-21;Proeflokaal Arendsnest;;;Rodenburg Bronckhorster Terra Incognita BA;Draft;;;7;3;8;3;13;No textual comments;0
+2013-03-21;Proeflokaal Arendsnest;;;Volendam Ootje;Draft;;;8;3;7;3;13;No textual comments;0
+2013-03-22;BeerTemple;;;Amager/Hoppin’ Frog Frog Hops To Amager;Bottle 500ml;2015-06-30;#454;9;4;9;3;14;No textual comments;0
+2013-03-22;BeerTemple;;;Emelisse Mikkie = Stout;Bottle 330ml;;;8;4;8;3;13;No textual comments;0
+2013-03-22;BeerTemple;;;Evil Twin Freudian Slip;Bottle 330ml;;;9;4;9;4;16;No textual comments;0
+2013-03-22;BeerTemple;;;The Kernel Export Stout London 1890;Bottle 330ml;2014-07-12;2012-07-12;8;4;8;3;13;No textual comments;0
+2013-03-22;BeerTemple;;;The Kernel Imperial Brown Stout;Bottle 330ml;2016-05-29;2012-05-29;8;4;9;4;14;No textual comments;0
+2013-03-22;BeerTemple;;;The Kernel Porter;Bottle 330ml;2013-04-03;2012-07-03;8;4;7;3;13;No textual comments;0
+2013-03-22;BeerTemple;;;Weyerbacher Last Chance IPA;Bottle 355ml;;;7;3;7;3;11;No textual comments;0
+2013-03-22;Brouwerij ’t IJ;;;’t IJ Ciel Bleu IPA;Bottle 330ml;;;6;3;7;3;12;No textual comments;0
+2013-03-22;Brouwerij ’t IJ;;;’t IJ Columbus;Draft;;;6;3;7;3;11;No textual comments;0
+2013-03-22;Brouwerij ’t IJ;;;’t IJ IPA;Draft;;;7;3;7;3;12;No textual comments;0
+2013-03-22;Brouwerij ’t IJ;;;’t IJ No. 1;Draft;;;7;3;7;3;11;No textual comments;0
+2013-03-22;Brouwerij ’t IJ;;;’t IJ Zatte;Draft;;;7;3;7;3;11;No textual comments;0
+2013-03-22;Café Gollem;;;Brugse Zot;Draft;;;7;3;7;3;12;No textual comments;0
+2013-03-22;Café Gollem;;;The Musketeers Gollem Blond;Draft;;;7;3;7;3;12;No textual comments;0
+2013-03-22;De Prael Proeflokaal;;;De Prael Johnny;Bottle 330ml;;;6;3;6;3;11;No textual comments;0
+2013-03-22;De Prael Proeflokaal;;;De Prael Tante Leen;Bottle 330ml;;;6;3;6;2;11;No textual comments;0
+2013-03-22;Hotel NH Museum Quarter;2013-03-21;Brouwerij de Molen;Anderson Valley 20th Anniversary Imperial IPA;Bottle 355ml;;;7;3;8;3;14;No textual comments;0
+2013-03-22;Hotel NH Museum Quarter;2013-03-21;Brouwerij de Molen;De Molen Nat & Droog Cascade;Bottle 330ml;2014-10-03;2012-10-03;7;3;7;3;13;No textual comments;0
+2013-03-22;Hotel NH Museum Quarter;2013-03-20;De Bierkoning;Port Brewing Hot Rocks Lager;Bottle 650ml;;;8;4;7;3;13;No textual comments;0
+2013-03-22;Hotel NH Museum Quarter;2013-03-20;De Bierkoning;Port Brewing Midnight Expression Lager;Bottle 650ml;;2012-11-20;8;4;7;3;13;No textual comments;0
+2013-03-23;Sport Cafe, Schipol;;;Brand Dubbelbock;Draft;;;6;3;5;2;10;No textual comments;0
+2013-03-24;Pirkkala;2013-03-12;K-citymarket Pirkkala;Mikkeller The American Dream;Bottle 330ml;2014-02-16;;7;3;7;3;12;No textual comments;0
+2013-03-26;Gastropub Nordic;;;Malmgård Proto #1;Draft;;;8;3;7;3;13;No textual comments;0
+2013-03-27;O'Hara's Freehouse;;;St. Austell Proper Black;Draft;;;8;4;8;3;13;No textual comments;0
+2013-03-27;Olutravintola Kahdet Kasvot;;;Beer Hunters Mufloni Portteri (2012-);Draft;;;7;4;9;3;15;No textual comments;0
+2013-03-27;Pirkkala;2013-03-27;Alko Anttila;Innis & Gunn Oak Aged Beer;Bottle 330ml;2013-11-30;;7;3;7;3;12;No textual comments;0
+2013-03-27;Pirkkala;2013-03-27;Alko Anttila;Ridgeway IPA;Bottle 500ml;2013-12-20;;8;3;7;2;12;No textual comments;0
+2013-03-28;Ruovesi;2013-03-27;Alko Anttila;Batemans Victory Ale;Bottle 500ml;2013-12-31;;6;3;6;2;12;Dark clear Copper, Thin off white head, aroma is malt, toffee , flavor is malt, caramel, nuts.;0
+2013-03-28;Ruovesi;2012-11-28;Bierkompass;Mikkeller/Amager Grand Theft Orange;Bottle 500ml;;;7;3;8;3;14;"Copper, low white head. Aroma is orange (grand meriner).Sweet, vinegar, orange. Like no other beer.Quite alcoholic. First impression was ""what kind of s… but finally I kind of liked this beer"" bottle 50cl.";0
+2013-03-29;Ruovesi;2013-03-28;K-citymarket Lielahti;Alvinne Naked Ladies;Bottle 330ml;2014-05-31;;7;3;7;3;13;No textual comments;0
+2013-03-29;Ruovesi;2013-03-28;K-citymarket Lielahti;Belfast Bay Lobster Ale;Bottle 355ml;2013-05-31;;6;3;6;3;11;No textual comments;0
+2013-03-29;Ruovesi;2013-03-28;K-citymarket Lielahti;Belfast Bay McGoverns Oatmeal Stout (4.7%);Bottle 355ml;2013-05-31;;7;4;7;3;13;Dark brown, beige small head, aroma is roasted malt, hint of chocolate, flavor is roasted, chocolate. A bit watery.;0
+2013-03-29;Ruovesi;2013-03-28;K-citymarket Lielahti;Coniston Special Oatmeal Stout;Bottle 500ml;2014-04-28;;6;4;7;3;12;No textual comments;0
+2013-03-29;Ruovesi;2013-03-27;Alko Anttila;Franziskaner Hefe-Weissbier Dunkel;Bottle 500ml;2013-12-31;;6;3;6;3;12;No textual comments;0
+2013-03-29;Ruovesi;2012-10-27;Bierkompass;The Perfect Crime Hollow Point;Bottle 355ml;;;7;3;8;3;13;dark amber, small off white head, aroma is sweet caramel, raisins, caramel and alcohol bitterness in flavor. Medium bodied.;0
+2013-03-29;Ruovesi;2013-03-28;K-citymarket Lielahti;Vakka-Suomen Pääsiäisolut;Bottle 500ml;2013-07-29;;5;3;5;3;9;Dark copper with off white head. Aroma is choklat. Flavor is choklat. Some choklad in finnish.;0
+2013-03-30;Ruovesa;2013-03-28;K-citymarket Lielahti;Williams Black;Bottle 500ml;2013-05-31;;7;3;7;3;13;dark brown, small beige head, aroma of chocolate roasted malt flavor is light coffee, fruits, chocolate. Smooth thin boby.;0
+2013-03-30;Ruovesi;2013-03-30;S-market Ruovesi;Kozel Premium Lager 12°  ;Bottle 500ml;2013-07-24;;5;3;5;2;9;clear light golden, white short head, aroma is grass, malt, flavor is butter, malt, bit watery.;0
+2013-03-30;Ruovesi;2013-03-28;K-citymarket Lielahti;Saimaan Marsalkka Luomukarpalo;Bottle 330ml;2013-11-30;;4;2;3;2;5;Golden cranberry juice.;0
+2013-03-31;Pirkkala;2013-03-28;K-citymarket Lielahti;Karhu Tuplahumala;Bottle 330ml;2014-11-30;;5;2;5;2;7;Clear golden color with thick white head. Aroma is bread and malt. Flavor is malty with hint of hops. Can 56,8cl.;0
+2013-04-03;Plevna;2013-04-03;Plevna;Plevnan Amarillo Weizen;Draft;;;7;3;7;3;13;"Hazy golden color with thick white head. Aroma is banana, wheat and hops. Like ""basic hefe"" with some hoppy bitterness. Very low carbonation. Disappointment. Like ""Vehnäolut"" with hint of hoppiness.";0
+2013-04-03;Plevna;2013-04-03;Plevna;Plevnan Vehnäolut;Draft;;;7;3;6;3;12;Hazy and dark golden color with thin white head. Aroma is fruity, banana, wheat. Flavor is banana and wheat. Medium palate.;0
+2013-04-04;Pirkkala;2013-04-04;K-citymarket Pirkkala;Nokian Keisari 66;Can 500ml;;;8;3;7;3;13;light copper colour with white head. Floral aroma, citrus. Flavor is fruits, hops, citrus. Medium palate.;0
+2013-04-04;Ruovesi;2013-04-05;K-citymarket Pirkkala;Nokian Keisari Luomu tumma lager;Can 500ml;2013-12-02;;6;3;6;2;10;Dark copper with off white head. Aroma is very light. Some malt maybe. Watery mouth feel.;0
+2013-04-05;Ruovesi;2013-04-04;K-citymarket Pirkkala;Carlow O’Hara’s Irish Stout;Bottle 500ml;;as Celtic Stout;8;4;7;3;13;Black with khaki head. Dark chocolate, espresso in aroma. Flavor of roasted malt, hint of coffee. Medium body. Bit watery mouthfeel.;0
+2013-04-06;Ruovesi;2013-04-06;Alko Ruovesi;Franziskaner Weissbier Kristallklar;Bottle 500ml;2014-01-31;;7;3;6;3;11;Light golden color with white head. Aroma is fruity wheat. Flavor is wheat, citrus notes, malt. Medium body with medium carbonation.;0
+2013-04-07;Pirkkala;2013-04-04;K-citymarket Pirkkala;Malmgård Dinkel;Bottle 500ml;2013-08-11;;6;3;6;3;12;Light copper with off white head.Aroma is sweet malt, fruits. Flavor is malt, caramel. Like english bitters. Medium body;0
+2013-04-08;Pirkkala;2013-04-04;K-citymarket Pirkkala;Malmgård Blond Ale;Bottle 500ml;2013-09-15;;8;2;6;2;13;Clear golden with thin white head. Aroma is mostly yeast also citrus and hops. Flavor is fruity, some yeast. Refreshing.;0
+2013-04-09;Gastropub Nordic;;;Sinebrychoff Olutmestarin 777 IPA;Draft;;;7;3;6;3;13;Amber with very thin white head. Aroma is disturbing. Garbage? Flavor is floral, fruits. A bit watery. Bitter finnish.Medium body with medium carbonation. Not my kind of IPA. Draft.;0
+2013-04-09;Olutravintola Konttori;;;Fanø Beer Geek Slumber Party;Bottle 500ml;;;7;3;8;4;14;Hazy brown with thin beige thin head. Aroma is fruits, spices, caramel. Flavor is sweet, fruits, caramel malts. Medium body and carbonation. Nice warming alcohol in after taste.;0
+2013-04-09;Olutravintola Konttori;;;Malmgård Emmer Porter;Draft;;;6;3;7;3;14;Black with khaki head. Aroma is licorice and chocolate. Flaworis sweet, dark chocolate, hops. Bitter finnish. Medium body, medium to high carbonation. Surprisingly hoppy.;0
+2013-04-11;Pirkkala;2013-04-11;S-market Pirkkala;Flying Dog UnderDog Atlantic Lager;Bottle 355ml;2013-09-12;;6;2;6;3;12;Golden color with white head. Aroma is grass and hops. Flavor is grass, citrus and hops. Medium body. Easy to drink.;0
+2013-04-11;Pirkkala;2013-04-09;K-citymarket Pirkkala;Rekolan Kesäkolli;Bottle 500ml;2013-07-14;;5;3;5;2;8;Hazy golden color with thin white head. Aroma is ginger and taste is ginger. A mess.;0
+2013-04-12;Radisson Blue Oulu;;;Hartwall 1836 Classic Gourmet Vaalea Ruokaolut;Bottle 500ml;2013-07-08;;5;2;5;2;8;Light golden color with white head. Aroma is malt a nd grain. Flavor is malt. Thin body with medium carbonation.;0
+2013-04-12;Radisson Blue Oulu;;;Kru_ovice _erne;Bottle 500ml;2013-09-03;;6;3;6;2;10;Black with khaki head. Aroma is malt and caramel. Flavor is same with hint of smoke. Medium body with little carbonation. Mouth feel is bit too watery.;0
+2013-04-13;Saariselkä;2013-04-13;System Bolaget Haparanda;Three Towns TT Original Lager 4.5%;Can 330ml;2013-12-16;;4;1;4;2;8;Light golden color. Aroma and flavor is malty. No good.;0
+2013-04-14;Saariselkä;2013-04-12;System Bolaget Haparanda;Innis & Gunn Rum Cask;Bottle 330ml;;;7;3;7;3;13;Deed red and brown. Off white head. Aroma is rum, oak and some floral notes. Flavor is sweet with some wood notes. Medim body.;0
+2013-04-14;Saariselkä;2013-04-12;System Bolaget Haparanda;Sierra Nevada Torpedo Extra IPA;Bottle 355ml;2013-10-10;;8;4;8;3;14;Clear amber color with thin off white head. Aroma is sweet fruits, grape, hops. Flavor is malt, caramel, grass, hops . Medium body and carbonation, bitter finnish.;0
+2013-04-14;Saariselkä;2013-04-13;System Bolaget Haparanda;Sigtuna East River Lager;Can 330ml;2013-10-31;;7;3;7;3;12;Golden color with white head. Aroma is floral and hops. Flavor isbread and hops. Bitter finnish. Nice for a lager.;0
+2013-04-14;Saariselkä;2013-04-13;System Bolaget Haparanda;Åbro Småland;Can 330ml;2014-02-27;;4;2;4;2;9;Dark golden color with thin white head. Aroma and flavor is malt and bread. Some bitterness as well. Medium body and carbonation.;0
+2013-04-15;Saariselkä;2013-04-12;System Bolaget Haparanda;Oppigårds Golden Ale;Bottle 330ml;2013-06-30;;7;3;7;3;12;Golden color with white disappearing head. Aroma is fruits and hops. Flavor is malt and hops. Slightly bitter finnish. Medium body and carbonation.;0
+2013-04-15;Saariselkä;2013-04-12;System Bolaget Haparanda;Weihenstephaner Hefe Weissbier;Bottle 500ml;2014-02-27;;7;3;7;3;13;Hazy golden color with white head. Aroma is wheat and and fruits. Flavor is wheat and banana. Bit watery palate.;0
+2013-04-15;Saariselkä;2013-04-13;System Bolaget Haparanda;Åbro Lejon;Can 330ml;2014-03-31;;4;2;5;2;9;Not worth rating.;0
+2013-04-16;Saariselkä;2013-04-13;System Bolaget Haparanda;Arboga Mörk Lager;Can 330ml;2014-01-30;;6;3;6;3;11;Dark brown color with beige head. Aroma is malt and brown sugar. Flawor is malt, bread and sugar. Medium body and carbonation.;0
+2013-04-16;Saariselkä;2013-04-13;System Bolaget Haparanda;Oppigårds Amarillo;Bottle 330ml;2013-09-30;;8;3;7;3;12;Color is amber with short white head. Aroma is hops and citrus. Flavor is malt, grain and bread. Medium body and carbonation;0
+2013-04-16;Saariselkä;2013-04-12;System Bolaget Haparanda;Samuel Adams Boston Ale;Bottle 355ml;2014-02-28;;7;3;6;3;11;Deep copper color with off white. Aroma is malt and caramel. Flavor is malt with slightly bitter finnish. Medium body and carbonation.;0
+2013-04-16;Saariselän Panimo;;;Saariselän Panimo Tumma;Draft;;;5;2;4;2;8;Hazy brown with no head. Aroma is garbage. Flavor is yeast, juice and dishing water. Two years ago This was much better (6+3+6+3+11).;0
+2013-04-16;Saariselän Panimo;;;Saariselän Panimo Vaalea;Draft;;;6;3;7;3;12;Hazy golden color with thin white head. Aroma is malt and yeast. Some floral Notes. Flavor is malt. Medium body and light carbonation.;0
+2013-04-17;Saariselkä;2013-04-13;System Bolaget Haparanda;Nils Oscar God Lager;Bottle 330ml;2013-09-30;;5;2;5;2;11;Copper color with thin white head. Aroma is malt. Flavor is malt and some sweet notes. Medium body and soft carbonation.;0
+2013-04-17;Saariselkä;2013-04-13;System Bolaget Haparanda;Störtebeker Schwarzbier;Bottle 330ml;2014-01-03;;7;3;7;3;13;Black with beige head. Aroma is dark chocolate, malt. Flavor is chocolate, malt and sugar Medium body and carbonation.;0
+2013-04-18;Saariselkä;2013-04-13;Coop Extra Haparanda;Celt Experience Celt Iron Age;Bottle 500ml;2014-03-29;;7;3;6;3;11;Dark copper color with white head. Aroma is hop, spices and fruits. Flavor is hops and bread. Watery palate. Quite nice at 3.5%.;0
+2013-04-18;Saariselkä;2013-04-13;System Bolaget Haparanda;Starobrno Baron Trenck;Bottle 500ml;2013-10-19;;5;2;5;3;10;Clear golden color with white head. Sweet malty aroma. Flavor is malt, bread and grain. Light bitter finnish.;0
+2013-04-20;Pirkkala;2013-04-13;System Bolaget Haparanda;S:t Eriks & Mathias Dahlgren Påsköl;Bottle 330ml;2013-11-25;;6;3;6;3;11;Deep mahogny color with off white head. Aroma is chocolate and spices. Flavor is mainly Chocolate. Hint of spices.;0
+2013-04-22;Pirkkala;2013-04-09;K-citymarket Pirkkala;Mallaskosken Kuohu Valioluokka Pils;Can 330ml;2013-09-20;;5;2;5;2;9;No textual comments;0
+2013-04-23;Gastropub Nordic;;;Beer Hunters Mufloni Onward ZPA;Draft;;;6;3;7;3;14;Draught. Hazy copper color with off white head. Aroma is pine. Fresh hoppy flawor. Nice nitter finnish. Medium body and carbonation.;0
+2013-04-23;Gastropub Nordic;;;Lervig Brewers Reserve Konrads Stout;Draft;;;8;4;8;3;14;Draught. Black color with beige head. Aroma is smoke, roast, coffee and licorice. Aroma is licorice and spices. Dry bitter finnish. Medium body.;0
+2013-04-23;Gastropub Nordic;;;Rekolan Amerikan Eno;Draft;;;6;3;6;3;12;Draught. Hazy copper color with off white head. Aroma is fruit, caramel and resin. Flavor is bitter, woodish notes. Some disturbing sour off flavor. Unbalanced.;0
+2013-04-26;Alko Anttila;2013-05-04;Ruovesi;Ambar Negra;Bottle 330ml;2014-08-25;;6;4;6;3;10;Dark brown with khaki head. Aroma is sweet malts. Flavor is malts, chocolate and ash. Medium boy and carbonation.;0
+2013-04-26;Ruovesi;2013-04-13;System Bolaget Haparanda;Guinness Extra Stout (Continental Europe);Bottle 330ml;2014-01-28;;7;4;7;3;13;Dark brown with thick and creamy beige head. Aroma is peat, roasted malt. Flavor is sweet roasted malt. Slightly bitter finnish. Medium body, soft carbonation.;0
+2013-04-26;Ruovesi;2013-04-13;System Bolaget Haparanda;Wisby Klosteröl;Bottle 330ml;2014-02-28;;7;3;6;3;13;Hazy golden color with white head. Aroma is fresh and fruity. Flavor is fresh, malt and yeast. Bit watery palate.;0
+2013-04-27;Ruovesi;2013-04-26;Alko Anttila;Old Worthy Pale Ale;Bottle 330ml;2014-08-31;;6;2;6;2;10;Clear amber with disappearing white head. Aroma is sweet malt and honey. Taste is malt, grass and floral notes. Sligth bitterness. Medium boby and carbonation.;0
+2013-04-27;Ruovesi;2013-04-26;Alko Anttila;Paulaner Weissbier Kristallklar;Bottle 500ml;2013-12-31;;6;2;6;2;12;Clear golden color with white head. Aroma is Flavor is wheat, banana and sweet malts. Too much carbonation.;0
+2013-04-29;Pirkkala;2013-04-29;Prisma Koivistonkylä;Mallaskosken Kuohu Valioluokka Stout;Can 330ml;2013-10-16;;8;4;7;3;13;Dark brown with khaki head. Aroma is roasted malt, chocolate. Flavor is roasted malt and coffee. Medium body, soft carbonation. Bit watery.;0
+2013-04-30;Gastropub Nordic;;;Fanø Batch 500 Imperial Vadehav;Draft;;;7;4;7;3;13;Sdark brown with khaki head. Aroma is roasted malt and caramel. Flavor isQuite a weird stout-brown ale combination. roasted malt, coffee, licorice nad alcohol. Flavor is;0
+2013-04-30;Olutravintola Konttori;;;Brewfist 2Late DIPA;Bottle 330ml;2014-02-28;;8;3;8;3;15;Clear amber color with white disappearing head. Aroma is fruits and hops. Flavor is sweet malt, fruits, peach and citrus. Some alcohol but not too much.Medium body and carbonation.;0
+2013-04-30;Olutravintola Konttori;;;Buxton Axe Edge;Bottle 500ml;2013-11-30;;8;3;8;3;15;Hazy orange color with disappearing white head. Aroma is hops, pine and fruits. Flavor is pine, hops, malt. Medium bitterness.Medium body and carbonation. Lots of sediment.;0
+2013-05-07;Olutravintola Konttori;;;ABC Brewing Henrik Imperial Amber;Draft;;;8;3;8;3;14;Sligthly hazy amber color with off white head. Aroma is fruits, hops and malt. Flavor is fruity hops, grape and malts. Medium body and carbonation.;0
+2013-05-08;Ruovesi;2009-09-08;Alko Arkadia;BrewDog Paradox Isle of Arran;Bottle 330ml;2015-04-16;#016;9;3;9;4;16;Black color With quickly disappearing off white head. Aroma is Chocolate, Oak barrel flavor is Chocolate, sea Salt and spices. Oily texture. Fresh bottle Much Better.;0
+2013-05-09;Ruovesi;2013-03-29;Prisma Koivistonkylä;Stadin American Pale Ale 4,5;Bottle 330ml;2013-10-01;#493-4;7;3;6;2;12;Clear Golden color With white head. Aroma is floral hops and malt Flavor is the same. Hint of saopiness. Thin Body, Medium carbonation. Too watery.;0
+2013-05-15;Plevna;2013-05-15;Plevna;Plevnan Poika;Draft;;;6;3;6;3;13;clear Golden color With white head. Aroma is malt, Grain, Some hops. Flavor is Sweet malts and fruity hops. Medium palate and carbonation.;0
+2013-05-17;Ruovesi;2013-05-17;Alko Ylöjärvi;Chimay Triple / Blanche;Bottle 330ml;2016-12-31;;8;3;8;3;15;hazy Orange Color With white head. Aroma is yeast, fruits. Aroma is Sweet fruits, yeast. Flavor is yeast, qaqa;0
+2013-05-17;Ruovesi;2013-05-17;Alko Ylöjärvi;Grimbergen Cuvée Blanche;Bottle 330ml;2013-02-28;;8;3;7;3;13;Hazy yellow color With white head. Aroma is yeast, citrus. Flavor is yeast, fruits, wheat. Medium Body and carbonation.;0
+2013-05-20;Pirkkala;2013-05-17;Alko Ylöjärvi;Ayinger Bräu-Weisse;Bottle 500ml;;;7;3;7;3;14;Hazy yellow with white head. Aroma is wheat, Banana. Flawor is wheat, Banana, fruits. Medium Body, soft carbonation. One of the best hefes so far.;0
+2013-05-22;Pirkkala;2013-05-22;Alko Kaleva;Stadin Savuruis Portteri;Bottle 330ml;2013-11-01;#497-8;8;4;8;3;14;Black color, Tan head. Aroma is Smoked malt, roast, fritsu. Flavor is Smoke, rye, strong roasted Notes, Some sweetness.;0
+2013-05-24;Pirkkala;2012-10-27;Bierkompass;Hoppin Frog Hopped-Up Goose Juice Rye IPA;Bottle 650ml;;;9;4;8;3;14;Hazy Copper, off white head. Aroma is hops, fruits. Flavor is hoppy and pine. Basic us ipa. Medium Body and carbonation.;0
+2013-05-24;Pirkkala;2012-05-22;Bierkompass;Mikkeller Hop Burn High;Bottle 330ml;2018-03-29;;9;4;8;3;14;Hazy copper, off white head aroma is citrus, tropical fruits, flavor is citrus, warming alcohol, grass. Us Style. Nice palate.;0
+2013-05-24;Pirkkala;2012-11-28;Bierkompass;Pretty Things Meadowlark IPA;Bottle 650ml;;Bottled Aug 2012;9;4;9;3;15;Almost clear Amber color with white head. Aroma is sweet fruits and hops. Flavor is grape fruits and hops. Really bitter finish. Good one, West Coast Style. Medium boby and carbonation.;0
+2013-05-26;Pirkkala;2013-04-13;System Bolaget Haparanda;BrewDog Nanny State (0.5%);Bottle 330ml;;;7;3;5;2;11;Clear copper color, off white head, aroma is hoppy. Flavor malt, wood, bitter hoppy finnish, watery palate. Thin Body.;0
+2013-05-26;Pirkkala;2013-05-25;K-citymarket Lielahti;Rousals Pils;Bottle 330ml;2013-08-04;;7;3;7;3;12;Almost clear Orange color. Thick white head. Aroma is floral, honey, malt. Flavor is malt, mild bitterness. High carbonation.;0
+2013-05-29;Gastropub Nordic;;;Beer Here SoD;Bottle 500ml;;;8;3;8;4;14;Black with tan head. Aroma is roast, licorice, coffee. Flavor is roasted, coffee, chocolate,some sweet Notes. Medium palate and carbonation.;0
+2013-05-29;O'Hara's Freehouse;;;BrewDog IPA is Dead - El Dorado;Draft;;;5;3;4;3;7;Clear golden off white head. Horrible beer, aroma pilaantunut pesuaine. Flavor is evenmore horrible.;0
+2013-05-29;O'Hara's Freehouse;;;Lost Abbey Inferno Ale;Bottle 375ml;;;7;3;7;3;13;hazy yellow white head.aroma is fresh citrus, yeast. Flavor is the same. Medium body and carbo. Nothing special rivi belgi.;0
+2013-05-29;O'Hara's Freehouse;;;Odell 5 Barrel Pale Ale;Bottle 355ml;;;6;3;6;2;10;Clear Golden color, white head. Aroma is floral hops, Grass. Flavor is mild citrus and mild hoppiness. Blah.;0
+2013-05-29;O'Hara's Freehouse;;;Westbrook India Pale Ale;Draft;;;8;3;8;3;13;Almost clear golden color, off white head. Aroma is fresh hops, citrus, berries. Flavor is hops, citrus, grass, root vegetable. Full body soft carbonation.;0
+2013-05-29;Olutravintola Konttori;;;Buxton Black Rocks;Bottle 500ml;2013-11-30;;7;3;7;3;13;Hazy brown, tan head aroma is hops, sweet malts. Flavor is hops, bitter finnish. Medium palate, soft carbonation.;0
+2013-05-29;Olutravintola Konttori;;;Nøgne Ø Dark Horizon Fourth Edition;Bottle 250ml;2022-08-22;;8;4;8;4;15;Black with whin tan head. Aroma is roasted malt, coffee. Flavor is sweet, coffee, mild roastiness. Full Body, Soft carbonation.;0
+2013-06-01;Ruovesi;2013-05-31;Alko Koivistonkylä;Pietra Colomba Blanche;Bottle 330ml;2015-12-31;;4;3;5;3;10;Hazy yellow white head, aroma is grain, Something really disturbing in aroma. Flavor is wheat, citrus.;0
+2013-06-02;Pirkkala;2013-05-31;Alko Koivistonkylä;Wisby Sleepy Bulldog Summer Pale Ale 2011-;Bottle 330ml;2014-05-24;;7;3;6;3;12;Clear golden color with off white head, aroma is floral hops, grain, fruits.Flavor is malt, sweet fruits. Something reminds me of british pale ales. Medium body and carbonation.;0
+2013-06-04;Gastropub Praha;;;Buxton Wild Boar;Bottle 500ml;;Bottled FEB-2013;8;3;8;3;14;No textual comments;0
+2013-06-04;Gastropub Praha;;;Williams Brothers Impale I.P.A.;Bottle 330ml;2014-10-31;;6;2;6;2;10;No textual comments;0
+2013-06-04;Salhojankadun Pub;;;Morland Old Speckled Hen (Filtered);Draft;;;6;3;5;2;11;No textual comments;0
+2013-06-05;Pirkkala;2013-06-05;K-citymarket Pirkkala;Meantime London Stout;Bottle 500ml;;;7;4;7;3;13;Black with beige head. Aroma is malt, coffee, caramel. Flavor is the same. Bit too Straightforward.;0
+2013-06-06;Oluthuone Pekko;;;Beer Here Pale Hops;Bottle 500ml;;;8;3;8;3;14;Hazy amber, off white head. Hops, citrus, pine. More like IPA.;0
+2013-06-06;Oluthuone Pekko;;;Summer Wine Cohort;Bottle 330ml;2013-12-31;;6;3;8;3;13;Black no head. Sweet, mild bitterness.;0
+2013-06-06;Oluthuone Pekko;;;Summer Wine Diablo;Bottle 330ml;2013-12-31;;7;3;8;3;14;Clear golden, white head. Malt, hops, fruits.;0
+2013-06-06;Oluthuone Pekko;;;Ugly Duck Amarillo & Citra IPA;Bottle 330ml;2014-03-25;;7;3;6;3;12;Typical nordic root vegetable IPA.;0
+2013-06-06;Oluthuone Pekko;;;Ugly Duck Hopfest;Bottle 330ml;2014-02-19;;7;3;8;3;14;Hazy Yellow, white head. Nice fresh IPA.;0
+2013-06-06;Pirkkala;2013-06-05;K-citymarket Pirkkala;Primator Stout;Bottle 500ml;2013-12-04;;7;4;7;3;12;Black with tan head. Aroma is pretty much Like czech dark Lager. Sweet malt, roasted notes. Flavor is roasted malt, coffee, licorice. Body is bit watery and carbonation is flat.;0
+2013-06-07;Ruovesi;2013-06-07;Alko Linnainmaa;Herold Bohemian Wheat Lager;Bottle 330ml;2014-04-17;;7;3;7;3;13;Hazy orange color, white head. Aroma is Banana, wheat, yeast. Flavor is Banana, yeast, pepper. I am not big fan of hefes but This is quite good.;0
+2013-06-08;Ruovesi;2012-11-28;Bierkompass;Cambridge Red God IPA;Bottle 650ml;;Bottled June 2012 #1;8;4;8;3;14;Hazy amber with off white head. Aroma is resin, sweet fruits, hops. Flavor is resin, grape, hops, medium bitterness. Medium body and carbonation.;0
+2013-06-08;Ruovesi;2012-10-11;Bierkompass;Epic Hopulent IPA;Bottle 650ml;;Release Batch #45;8;4;9;4;15;"Hazy orange, off white head. Aroma is fresh hops, Tropical fruits, resin. Flavor is resin, fruits, hops, Sweet caramel. Nice palate.;0
+2013-06-08;Ruovesi;2012-10-11;Bierkompass;Epic Imperial Red Ale;Bottle 650ml;;Release batch #18;9;4;8;4;15;Dark mahogny, tan head. Aroma is sweet, resin, fruits, hops. Flavor is dark fruits, resin, caramel, Nice bitterness. A beer to have.;0
+2013-06-08;Ruovesi;2012-10-04;System Bolaget Passagen;Samuel Adams Tasman Red Red IPA;Bottle 650ml;2013-08-31;;7;4;7;3;13;Hazy mahogny, tan head. Aroma is pine, hops, dark fruits. Flavor is like ASA or BW. Malt, resin, hops. Mild bitter finnish.;0
+2013-06-08;Ruovesi;2012-10-30;Bierzwerg;Williams Brothers Profanity Stout;Bottle 330ml;2013-03-31;;7;3;7;3;13;Black no head. Aroma is Chocolate, hops, mild roastiness flavor is mldly roasyed, hops. Medium body. Bit watery.;0
+2013-06-12;Oluthuone Pekko;;;Beer Here/Ugly Duck Helmuth Kellerbier;Bottle 500ml;2014-01-10;;6;3;6;3;11;Clear golden with white head. Bread, malt, grass. Uber-hoppy. What?;0
+2013-06-12;Oluthuone Pekko;;;Indslev Hvede I.P.A.;Bottle 500ml;2014-03-13;;7;3;7;3;13;Hazy Yellow, white head. Aroma is wheat, banana. Flavor is sweet , wheat, yeast, mild bitterness. Medium body, high carbonation.;0
+2013-06-12;Oluthuone Pekko;;;Nøgne Ø Global Pale Ale (GPA);Bottle 500ml;2014-03-25;bottled 25.3.2013;7;3;7;3;13;Hazy orange white head. Aroma is fruits, hops. Flavor is pine, fruits, hops. Bit dull. Medium body and carbonation.;0
+2013-06-12;Oluthuone Pekko;;;Summer Wine Maelstrom;Bottle 330ml;2014-12-31;;7;3;7;3;12;Orange, no head, aroma is kind of pine. Flavor is fruits and pine. Medium body and carbonation.;0
+2013-06-12;Oluthuone Pekko;;;Ugly Duck Simcoe & Chinook IPA;Bottle 330ml;2014-02-18;;7;3;6;3;11;Clear Orange color, off white head. Aroma is fruits, soil. Flavor is soap, mild bitterness, fruits. Blah. Medium Body and carbonation.;0
+2013-06-13;Pirkkala;2013-06-05;K-citymarket Pirkkala;Meantime Yakima Red;Bottle 330ml;;;7;3;6;3;12;Dark mahogny, tan head. Aroma is tropical fruits, citrus. Flavor is grape, fruity notes, mild bitterness.;0
+2013-06-13;Pirkkala;2013-06-05;K-citymarket Pirkkala;Teerenpeli Rentoreino;Bottle 330ml;2013-11-06;;5;3;5;2;10;Dark clear copper, tan head. Aroma is bread, malt. Flavor is sweet malt, bread. Fusty.;0
+2013-06-14;Gastropub Nordic;;;Flying Couch Reggae Dude;Draft;;;7;3;8;3;14;Clear yellow white head. Aroma is orange, hops, sweet fruits. Flavor is citrus, mild bitter hops, sweet fruits. Medium body and carbonation.;0
+2013-06-14;Gastropub Nordic;;;Malmgård Proto #2;Draft;;;6;3;6;3;12;Hazy orange off white head, aroma is wheat, yeast. Flavor is like flat hefe. wheat mostly. Medium body, soft carbonation.;0
+2013-06-14;Olutravintola Konttori;;;Nynäshamns Indianviken Pale Ale;Draft;;;7;3;7;3;13;Clear golden color, white head. Aroma is floral, hops, malt. Flavor is sweet malt, bitter hops, sweet fruity notes. Medium body and carbonation.;0
+2013-06-14;Pirkkala;2012-05-22;Bierkompass;Mikkeller Texas Ranger;Bottle 330ml;2016-03-28;;9;4;9;4;15;Pours Black, thick khaki head.aroma is caramel, chocolate, spices .flavor is roasted malt, coffee, chili. Spicy finnish. Full body , soft carbo.;0
+2013-06-15;O'Hara's Freehouse;;;BrewDog Lichtenstein Pale Ale;Bottle 330ml;2014-02-11;;8;3;8;3;14;hazy Orange off white head. Aroma is fruity and floral. flavor is floral hops, caramel, Medium Body and carbo.;0
+2013-06-15;O'Hara's Freehouse;;;Evil Twin / Stillwater / Stone The Perfect Crime Black Smoked Saison;Bottle 355ml;;;6;3;7;3;13;Black, Thin khaki head. Aroma is lite, floral, chocolate. Flavor is roasted malt, citrus.;0
+2013-06-15;O'Hara's Freehouse;;;Odell Red Ale;Bottle 355ml;2013-06-20;;7;4;8;3;14;Clear Amber Tan head. Aroma is fruits, caramel malt. flavor is berries, caramel, mild hops.;0
+2013-06-15;Oluthuone Pekko;;;Anderson Valley Brother Davids Triple;Bottle 355ml;;;7;3;7;3;13;clear Golden color,white head. Aroma is yeast ,seet malts. Flavor is the same. Full Body, med carbo;0
+2013-06-15;Oluthuone Pekko;;;Oude Gueuze Tilquin à l’Ancienne;Bottle 375ml;;;7;3;7;3;13;hazy Orange no head. Aroma is bretta, citrus, flavor is sour, bretta, acid Notes.medium Body Soft carbo.;0
+2013-06-15;Olutravintola Kahdet Kasvot;;;Weihenstephaner White Hoplosion;Draft;;;7;3;7;3;13;Hazy Orange white head, fruity, wheat, flavor is yeast, Banana, fruity hops. Medium Body, Soft carbo.;0
+2013-06-16;Pirkkala;2013-06-06;Bierkompass;Rooie Dop Utrecht Strong Ale;Bottle 330ml;2017-10-30;2012-10-30;8;4;8;4;14;Dark Amber, thick beige head. Aroma is fruity hops, Pepper, berries, flavor is Sweet caramel, berries, vinious mildly bitter Finish.;0
+2013-06-18;Pirkkala;2013-06-06;Bierkompass;Jopen Jacobus Rye Pale Ale;Bottle 330ml;2014-03-05;;7;4;7;3;12;Dark Copper color Tan head, aroma is malt, Wood, fruity Notes. Flavor is rye Bread, malt, caramel, mild bitterness.;0
+2013-06-18;Pirkkala;2013-06-06;Bierkompass;Mikkeller Boogaloo On Brown Ale Avenue;Bottle 330ml;2017-12-18;;6;3;7;3;12;dark Brown, Tan head, aroma is spicy, herbs, flavor is malt, spices, mild hops, hint of Chocolate.;0
+2013-06-20;Ruovesi;2013-06-19;K-citymarket Pirkkala;Robinsons Iron Maiden Trooper;Bottle 500ml;2014-06-30;;6;2;6;3;12;Clear Copper colr off white head, aroma is malt, nuts, caramel, flavor is malt, mild bitterness.;0
+2013-06-20;Ruovesi;2013-06-19;Alko Ruovesi;Saku Tume;Bottle 500ml;;;5;3;5;3;9;Dark Brown, khaki head. Aroma is malt, caramel. Flavor is malt, Sweet caramal.;0
+2013-06-21;Ruovesi;2013-06-06;Bierkompass;Amager The Sinner Series Sloth;Bottle 500ml;2013-10-31;#516;8;3;8;3;15;Hazy Yellow color, white head, aroma is Fresh and fruity. hops, citrus, grape Flavor is Grape, hops, malt. Dry Bitter finnish.;0
+2013-06-21;Ruovesi;2013-06-18;Alko Kaleva;Hook Norton Haymaker;Bottle 500ml;2014-01-17;;5;3;6;2;10;Clear Orange, Thin white head, aroma is Grain, Grass, Sweet msltyness. Flavor is Grass, toffee, mild bitter finnish.;0
+2013-06-23;Pirkkala;2013-06-23;K-citymarket Pirkkala;Cairngorm Black Gold;Bottle 500ml;2014-05-28;;8;3;8;3;14;pours Black, khaki head, aroma is roasted malt, caramel, , flavor is roasted malt, Chocolate, smoke. Medium Body and carbo.;0
+2013-06-25;Pirkkala;2013-06-23;K-citymarket Pirkkala;Sunny Republic Beach Blonde;Bottle 330ml;2014-04-30;;6;2;6;2;12;Clear Yellow, Thin white head, aroma is malt, hint of citrus. flavor is malt, distant Notes of floral hops.;0
+2013-06-26;Gastropub Nordic;;;All In / Lervig Pale Ale;Draft;;;7;3;8;3;14;hazy Yellow, white head, citrus, fruits, hops.;0
+2013-06-26;Gastropub Nordic;;;Coisbo Astoria Black (2012-);Bottle 330ml;;;8;4;8;3;13;Black color, khaki head, roasted malt, Coffee;0
+2013-06-26;Gastropub Nordic;;;Coisbo Manhattan Dawn;Bottle 330ml;;;7;3;6;3;12;hazy Orange, off white head , floral hops, soap,;0
+2013-06-26;Gastropub Nordic;;;Coisbo Single Batch Four (4);Bottle 330ml;;;8;4;8;4;14;Black, khaki head, roasted malt, fruits, bit rough, full body;0
+2013-06-26;Gastropub Nordic;;;Coisbo Single Batch Three (3);Bottle 330ml;;;7;3;7;3;12;hazy Orange, off white head, floral notes, alcohol;0
+2013-06-26;Gastropub Nordic;;;Nynäshamns Stenstrand Sommar Ale;Draft;;;6;3;7;3;13;No textual comments;0
+2013-06-26;Oluthuone Pekko;;;Rousal Ale;Bottle 330ml;2013-11-04;;6;3;6;3;12;hazy orange white head, fruits, hops, refreshing;0
+2013-06-26;Oluthuone Pekko;;;Ugly Duck Putin;Bottle 330ml;2015-04-15;;8;4;8;4;15;Black, khaki head, roasted malt, Chocolate, black berries, roasted malt, cocos;0
+2013-06-29;Pirkkala;2012-10-25;Alko Arkadia;Schneider Weisse Tap X Mein Nelson Sauvin;Bottle 750ml;2014-08-01;;8;3;8;3;14;hazy Orange, white head, yeast, wheat, hops, citrus;0
+2013-07-02;Pirkkala;2013-06-23;K-citymarket Pirkkala;Mikkeller Drink’in the Sun 13;Bottle 330ml;2013-11-08;;8;3;6;2;13;hazy Yellow white head, Fresh citrus, hops, bit watery.;0
+2013-07-05;Pirkkala;2012-11-28;Bierkompass;AleSmith Nut Brown Ale;Bottle 650ml;;;9;3;9;3;14;Thin khaki head. Coffee, Coffee, roasted malt, caramel, the Second best Brown ale So Far.;0
+2013-07-05;Pirkkala;2012-04-09;Bierkompass;Green Flash Imperial IPA;Bottle 650ml;;;8;4;9;4;15;Almost clear Amber, off white head, fruits, hops, warming alcohol;0

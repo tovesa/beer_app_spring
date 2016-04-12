@@ -1,0 +1,199 @@
+2010-10-19;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables, Florida;Great Divide Hercules Double IPA;Bottle 355ml;;;8;3;9;4;16;Almost Clear amber color off white head. Aroma is fruits, hops, Sweet Notes. Flavor is caramel, fruity hops. Nice warming alcohol. full body and carbo. oily texture.;0
+2010-10-16;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Lagunitas Brown Shugga;Bottle 355ml;;;8;4;8;4;15;No textual comments;0
+2010-10-18;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Lagunitas Lucky #13;Bottle 355ml;;;9;4;8;4;15;No textual comments;0
+2010-10-21;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Lost Coast 8 Ball Stout;Bottle 355ml;;;7;4;8;3;14;No textual comments;0
+2010-10-21;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Lost Coast Indica India Pale Ale;Bottle 355ml;;;8;3;8;3;15;No textual comments;0
+2010-10-18;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Ommegang Hennepin;Bottle 355ml;;;7;3;8;3;14;No textual comments;0
+2010-10-19;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Saranac Imperial IPA;Bottle 355ml;;;7;3;6;3;12;No textual comments;0
+2010-10-19;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Sierra Nevada 30th Anniversary Fritz & Ken's Ale;Bottle 750ml;;;8;4;8;4;15;No textual comments;0
+2010-10-21;Grand Beach Hotel Miami;2010-10-16;Whole Foods Market, Pinecrest;Sierra Nevada Tumbler;Bottle 355ml;;;6;3;8;3;14;No textual comments;0
+2010-10-18;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Stone Cali-Belgique IPA (Cali-België);Bottle 355ml;;;8;3;8;3;15;No textual comments;0
+2010-10-18;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Terrapin Hopsecutioner India Pale Ale;Bottle 355ml;;;8;3;8;3;14;No textual comments;0
+2010-10-21;Grand Beach Hotel Miami;2010-10-16;Whole Foods Market, Pinecrest;Terrapin Rye Pale Ale;Bottle 355ml;;;7;3;7;3;13;No textual comments;0
+2010-10-16;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores;Victory Old Horizontal;Bottle 355ml;;;7;4;8;4;15;No textual comments;0
+2010-10-20;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores;Weyerbacher Fourteen;Bottle 355ml;;;7;3;7;4;14;No textual comments;0
+2010-10-19;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Weyerbacher Old Heathen;Bottle 355ml;;;8;3;8;3;15;No textual comments;0
+2010-10-20;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Lagunitas Hop Stoopid;Bottle 650ml;;;8;3;8;4;15;No textual comments;0
+2010-10-20;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Southern Tier 2XIPA;Bottle 355ml;;;8;3;8;3;14;No textual comments;0
+2010-10-20;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Victory Hop Wallop;Bottle 355ml;;;9;3;8;3;15;No textual comments;0
+2010-10-01;Olutravintola Konttori;;;Mikkeller Drikkeriget GIPA;Bottle 330ml;;;8;3;8;3;15;No textual comments;0
+2010-10-01;Olutravintola Konttori;;;Nøgne Ø Red Horizon;Bottle 250ml;;;8;4;8;3;14;No textual comments;0
+2010-10-02;Ruovesi;;;Lobkowicz Premium;Bottle 500ml;;;5;3;5;2;11;No textual comments;0
+2010-10-03;Pirkkala;2010-10-03;K-citymarket Pirkkala;Haandbryggeriet London Porter;Bottle 500ml;;;8;4;7;3;15;kahvinen, erinomainen maitokauppaolut;0
+2010-10-05;Pirkkala;2010-10-03;K-citymarket Pirkkala;Emelisse IPA;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
+2010-10-09;Rattle & Hum, New York;;;Bear Republic Hop Rod Rye;Draft;;;9;4;9;4;16;No textual comments;0
+2010-10-09;Rattle & Hum, New York;;;Stone 12th Anniversary Bitter Chocolate Oatmeal Stout - Bourbon Barrel;Draft;;;9;4;8;4;15;No textual comments;0
+2010-10-09;Rattle & Hum, New York;;;Stone 14th Anniversary Emperial IPA;Draft;;;8;3;8;4;15;No textual comments;0
+2010-10-09;Rattle & Hum, New York;;;Stone 14th Anniversary Emperial IPA Double Dry Hopped;Draft;;8,9%, missing from RB;8;3;8;3;15;No textual comments;0
+2010-10-09;Rattle & Hum, New York;;;Stone Double Bastard;Draft;;;8;3;8;3;14;No textual comments;0
+2010-10-09;Rattle & Hum, New York;;;Stone Old Guardian (Vintages 2004 and later);Draft;;Vintage 2004;8;4;9;4;16;No textual comments;0
+2010-10-09;Rattle & Hum, New York;;;Stone Smoked Porter;Draft;;;8;4;8;3;15;No textual comments;0
+2010-10-10;Brooklyn Brewery, Brooklyn;;;Brooklyn Blast;Draft;;;8;4;8;3;15;No textual comments;0
+2010-10-10;Brooklyn Brewery, Brooklyn;;;Brooklyn Detonation Ale;Draft;;;8;4;8;4;15;No textual comments;0
+2010-10-10;DBA, New York;;;Greenport Harbor Leaf Pile Pumpkin Ale;Draft;;;6;3;5;2;10;kirpeä, kanelinen, neilikkainen, as Greenport Harbor Autumm Leaf Pale Ale;0
+2010-10-10;Hop Devil Grill, New York;;;Captain Lawrence Captain’s Reserve Imperial IPA;Draft;;;8;3;8;3;15;No textual comments;0
+2010-10-10;Hop Devil Grill, New York;;;Tröegs Java Head Stout;Draft;;;8;4;7;3;14;No textual comments;0
+2010-10-10;Hop Devil Grill, New York;;;Tröegs Pale Ale;Draft;;;7;3;8;3;14;No textual comments;0
+2010-10-10;Spuyten Duevil, Brooklyn;;;Arcadia Imperial Stout;Draft;;;8;4;8;3;14;No textual comments;0
+2010-10-11;Radisson Martinique on Broadway;2010-10-11;Eataly, New York;Dogfish Head 60 IPA;Bottle 355ml;;;8;3;8;3;14;No textual comments;0
+2010-10-11;Prudential Center, New Jersey (devils-penguins);;;LandShark Lager;Draft;;;4;2;3;2;8;No textual comments;0
+2010-10-11;Radisson Martinique on Broadway;2010-10-10;Whole Foods Bowery, New York;AleSmith YuleSmith (Summer) India Pale Ale;Bottle 650ml;;;8;3;8;3;15;samea, NIPA/darwinian ipa tyylinen, ei pärjää winter versiolle, propably not in the best shape;0
+2010-10-11;Radisson Martinique on Broadway;2010-10-10;Whole Foods Bowery, New York;Weyerbacher Double Simcoe IPA;Bottle 355ml;;;8;3;8;4;15;No textual comments;0
+2010-10-11;The Ginger Man, New York;;;Tröegs Hop Back;Draft;;;8;3;7;3;14;No textual comments;0
+2010-10-11;The Ginger Man, New York,;;;Smuttynose Big Beer Series: Imperial Stout;Draft;;;8;4;8;4;15;No textual comments;0
+2010-10-12;Blind Tiger Ale House, New York;;;Boulder Beer Mojo IPA;Draft;;;8;3;8;3;15;No textual comments;0
+2010-10-12;Blind Tiger Ale House, New York;;;Lagunitas Fusion III;Draft;;;7;4;8;4;15;No textual comments;0
+2010-10-12;Radisson Martinique on Broadway;2010-10-10;Whole Foods Bowery, New York;Smuttynose IPA;Bottle 355ml;;as Smuttynose Finestkind IPA;8;3;8;3;14;No textual comments;0
+2010-10-12;Rattle & Hum, New York;;;Arrogant Bastard Ale - Oaked;Draft;;;8;3;8;3;14;No textual comments;0
+2010-10-12;Rattle & Hum, New York;;;Smuttynose Big A IPA;Draft;;;8;3;8;3;15;No textual comments;0
+2010-10-12;Rattle & Hum, New York;;;Stone 06.06.06 Vertical Epic;Draft;;;6;3;7;3;13;No textual comments;0
+2010-10-12;Rattle & Hum, New York;;;Stone Old Guardian 2010 Belgo Barley Wine;Draft;;;8;4;8;4;15;raikas barleywineksi;0
+2010-10-12;Steak House ?, New York;;;Blue Point Toasted Lager;Draft;;;6;3;6;3;12;No textual comments;0
+2010-10-13;Radisson Martinique on Broadway;2010-10-10;Whole Foods Bowery, New York,;Weyerbacher Hops Infusion;Bottle 355ml;;;8;3;8;3;14;No textual comments;0
+2010-10-15;Lounge at Crowne Plaza La Concha, Key West;;;Key West Sunset Ale;Bottle 355ml;;;6;3;5;2;10;No textual comments;0
+2010-10-14;Crowne Plaza La Concha, Key West;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Lagunitas Maximus;Bottle 355ml;;;9;3;8;3;14;No textual comments;0
+2010-10-15;Crowne Plaza La Concha, Key West;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Ommegang Three Philosophers;Bottle 355ml;;;8;3;8;4;15;No textual comments;0
+2010-10-15;Crowne Plaza La Concha, Key West;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Stone Levitation Ale;Bottle 355ml;;;7;3;6;3;13;No textual comments;0
+2010-10-14;Titanic Brewing Company, Coral Gables;;;Titanic Brewing 2XIPA;Draft;;;6;3;7;3;12;No textual comments;0
+2010-10-14;Titanic Brewing Company, Coral Gables;;;Titanic Brewing White Star India Pale Ale;Draft;;;6;3;6;3;12;No textual comments;0
+2010-10-15;Finnegan's Wake, Key West;;;Blue Point Hoptical Illusion;Draft;;;7;3;6;3;13;No textual comments;0
+2010-10-15;Finnegan's Wake, Key West;;;Shipyard Fuggles IPA;Draft;;;5;3;6;3;11;No textual comments;0
+2010-10-15;Kelly's, Key West;;;Kellys Key West Golden Ale;Draft;;;6;3;6;2;10;No textual comments;0
+2010-10-15;Kelly's, Key West;;;Kellys Southern Clipper Wheat;Draft;;;6;3;6;2;12;No textual comments;0
+2010-10-15;Sunset Pier, Key West;;;Magic Hat #9;Draft;;;6;3;5;3;11;No textual comments;0
+2010-10-15;The Rum Barrel, Key West;;;Dogfish Head 90 Minute Imperial IPA;Draft;;;8;3;8;3;14;hieman vetinen, lievä pettymys;0
+2010-10-19;The DRB (Democratic Republic of Beer), Miami;;;Bells Two Hearted Ale;Bottle 355ml;;;8;4;8;3;15;No textual comments;0
+2010-10-19;The DRB (Democratic Republic of Beer), Miami;;;Oskar Blues Gubna Imperial IPA;Can 355ml;;;8;3;8;4;14;No textual comments;0
+2010-10-20;Abraxas;2010-10-20;Abraxas;Delirium Nocturnum;Draft;;;7;3;7;3;13;No textual comments;0
+2010-10-20;Abraxas;2010-10-20;Abraxas;La Caracole Saxo;Draft;;;7;3;8;3;15;No textual comments;0
+2010-10-20;Abraxas;2010-10-20;Abraxas;Paulaner Octoberfest;Bottle 500ml;;;5;2;5;2;11;Sweet malts, light herbs, grain, mild hops.;0
+2010-10-20;Abraxas, Miami;2010-10-20;Abraxas, Miami;Black Sheep Ale (Bottle);Sample;;;6;3;6;3;12;No textual comments;0
+2010-10-20;Abraxas, Miami;;;Great Divide Hercules Double IPA;Draft;;;8;4;9;4;16;No textual comments;0
+2010-10-20;Abraxas, Miami;;;Orange Blossom Pilsner (OBP);Draft;;;6;3;5;3;10;No textual comments;0
+2010-10-20;Abraxas, Miami;;;Sierra Nevada Estate Homegrown Ale;Draft;;;8;4;8;3;15;No textual comments;0
+2010-10-20;Abraxas, Miami;;;Spaten Münchner Hell / München / Premium;Sample;;;5;3;4;2;12;No textual comments;0
+2010-10-20;Abraxas, Miami;;;Cigar City Puppy’s Breath Robust Porter;Draft;;;8;4;8;3;14;No textual comments;0
+2010-10-20;Abraxas, Miami;;;Flying Dog Dogtoberfest;Draft;;;6;3;6;3;12;No textual comments;0
+2010-10-20;Abraxas, Miami;;;Rogue Dead Guy Ale;Draft;;;8;3;8;3;15;No textual comments;0
+2010-10-19;Burger & Beer Joint, Miami Beach;;;Abita Turbodog;Bottle 355ml;;;7;3;6;3;12;No textual comments;0
+2010-10-29;Pirkkala;2010-10-28;Alko Kaleva;Mallaskosken Kuohu Vahva Amber;Can 330ml;;;5;3;6;3;11;No textual comments;0
+2010-10-29;Pirkkala;2010-10-25;Alko Pirkkala Partola;Sinebrychoff Panimomestarin Nikolai Vuosiolut 2011 5,0 %;Bottle 330ml;;;5;2;5;2;10;No textual comments;0
+2010-11-03;Pirkkala;2010-11-01;K-citymarket Pirkkala;Laitilan Kievari Tuomas (2010);Bottle 330ml;;;6;3;7;3;12;2010 versio oli positiivinen yllätys. Vois juoda toisenkin.;0
+2010-11-05;Pirkkala;2010-11-01;K-citymarket Pirkkala;Mallaskosken Joulu Kuohu;Can 500ml;;;5;3;5;2;10;No textual comments;0
+2010-11-05;Pirkkala;2010-11-05;Alko Kaleva;Nokian Keisari Talvi IV;Bottle 330ml;;;2;3;5;2;10;No textual comments;0
+2010-11-12;Pirkkala;2010-11-05;Alko Kaleva;Ayinger Winter-Bock;Bottle 500ml;2011-06-30;;6;3;7;3;11;Tunkkainen, huono;0
+2010-11-12;Pirkkala;2010-11-05;Alko Kaleva;Huvila Arctic Circle Ale;Bottle 500ml;;;7;3;7;3;13;todellinen pettymys erinomaisen hana version jälkeen;0
+2010-11-12;Ruovesi;2010-07-18;Vinmonopolet (order);Haandbryggeriet Nissefar 2010;Bottle 500ml;;;7;4;7;4;15;No textual comments;0
+2010-11-13;Gastropub Nordic;;;Hornbeer IPA;Draft;;;7;3;7;3;15;perus pohjoismaalainen juures ipa;0
+2010-11-13;Gastropub Nordic;;;Xbeeriment Black Force One;Bottle 500ml;;;8;4;8;3;15;No textual comments;0
+2010-11-13;Gastropub Tuulensuu;;;EleganT Winterprinses;Bottle 330ml;;;7;3;6;3;13;No textual comments;0
+2010-11-13;Gastropub Tuulensuu;;;Malheur 12;Bottle 330ml;;;7;3;8;3;15;No textual comments;0
+2010-11-13;Gastropub Tuulensuu;;;Volendam Zeebonck;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
+2010-11-13;Niko;;;Det Lille Bryggeri Nelson Sauvin Pale Ale;Bottle 500ml;;;7;3;7;3;14;No textual comments;0
+2010-11-13;Ruovesi;2010-05-10;Alko Arkadia;Innis & Gunn Triple Matured Oak Aged Beer;Bottle 330ml;;;7;3;7;2;13;aikalailla saman makuinen kuin run cask;0
+2010-11-13;Ruovesi;2010-07-18;Vinmonopolet (order);Nøgne Ø Pale Ale;Bottle 500ml;;;8;3;8;3;14;No textual comments;0
+2010-11-16;Pirkkala;2010-11-15;S-market Pirkkala;Sinebrychoff Suklainen Tumma Lager;Bottle 330ml;;;4;3;4;2;10;No textual comments;0
+2010-11-18;Pirkkala;2010-11-17;Alko Kaleva;Zhujiang Beer (12°);Bottle 330ml;;;2;1;2;1;4;No textual comments;0
+2010-11-21;Pirkkala;2010-11-21;K-citymarket Pirkkala;Huvila Hyvä Tuomas Jouluolut;Bottle 500ml;;;5;3;5;2;8;No textual comments;0
+2010-11-23;Pirkkala;2009-11-21;K-citymarket Pirkkala;Weltenburger Kloster Barock Dunkel;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
+2010-11-24;Pirkkala;2010-11-21;K-citymarket Pirkkala;Ægir Rallar Amber Ale;Bottle 500ml;;;7;3;5;3;12;No textual comments;0
+2010-11-25;Pirkkala;2010-11-21;K-citymarket Pirkkala;Nils Oscar God Ale;Bottle 330ml;;;7;3;6;2;10;No textual comments;0
+2010-12-01;Pirkkala;2010-11-21;K-citymarket Pirkkala;Vakka-Suomen Jouluolut 2010;Bottle 500ml;2011-05-16;;2;3;3;2;6;No textual comments;0
+2010-12-02;Gastropub Tuulensuu;;;Abbaye des Rocs La Montagnarde (Ambree);Bottle 330ml;;;8;4;7;3;15;No textual comments;0
+2010-12-02;Gastropub Tuulensuu;;;Abbaye des Rocs Speciale Noel;Bottle 330ml;;;7;4;8;4;15;No textual comments;0
+2010-12-02;Gastropub Tuulensuu;;;Bush de Noël;Draft;;;7;3;7;3;14;No textual comments;0
+2010-12-02;Gastropub Tuulensuu;;;Corsendonk Christmas Ale;Bottle 330ml;;;7;3;7;3;13;No textual comments;0
+2010-12-02;Olutravintola Konttori;;;Founders Reds Rye P.A.;Bottle 355ml;;;7;3;7;3;13;No textual comments;0
+2010-12-02;Olutravintola Konttori;;;Shorts Huma-Lupa-Licious;Bottle 355ml;;;8;3;7;3;14;No textual comments;0
+2010-12-04;Ruovesi;2009-09-08;Alko Arkadia;Flying Dog Horn Dog Barley Wine;Bottle 355ml;2012-04-29;;9;3;8;3;14;No textual comments;0
+2010-12-04;Ruovesi;2010-11-25;Alko Koivistonkylä;Ridgeway Insanely Bad Elf;Bottle 330ml;2020-11-04;;7;3;8;3;13;No textual comments;0
+2010-12-06;Pirkkala;2010-11-05;Alko Kaleva;Samuel Smiths Winter Welcome Ale;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
+2010-12-06;Pirkkala;2010-11-21;K-citymarket Pirkkala;Ægir Julebrygg;Bottle 500ml;;;5;3;6;2;11;No textual comments;0
+2010-12-10;Ruovesi;2010-11-03;Alko Hervanta;Kapuziner Winter Weissbier;Bottle 500ml;;;7;4;6;2;10;No textual comments;0
+2010-12-10;Ruovesi;2010-12-10;Alko Ylöjärvi;Meantime Winter Time;Bottle 330ml;;;6;3;6;3;10;No textual comments;0
+2010-12-11;Ruovesi;2010-04-17;System Bolaget Haparanda;Anderson Valley Hop Ottin IPA;Bottle 355ml;2011-01-31;;8;4;8;3;16;ok+, katkera mutta vetinen ja mauton, petti odotukset;0
+2010-12-11;Ruovesi;2010-12-10;Alko Kaleva;Brooklyn Lager;Bottle 355ml;;;7;3;7;3;13;Clear Golden color, white head. Aroma is fruits, hops, Sweet Notes. Taste is Sweet malt, fruits, mild bitterness.;0
+2010-12-11;Ruovesi;2010-04-17;System Bolaget Haparanda;Carnegie Stark Porter;Bottle 330ml;2011-09-03;;7;3;7;3;13;, hyvä hillitty porter;0
+2010-12-12;Pirkkala;2010-11-03;Alko Hervanta;Fuller's Old Winter Ale;Bottle 500ml;;;7;3;6;3;12;No textual comments;0
+2010-12-13;Ruovesi;2010-11-21;K-citymarket Pirkkala;Beer Hunters Mufloni Ruska Syys-Ale;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
+2010-12-13;Ruovesi;2010-11-26;Alko Kaleva;Fuller's Vintage Ale 2010;Bottle 500ml;2013-12-31;;6;3;6;3;13;No textual comments;0
+2010-12-14;Pirkkala;2010-11-05;Alko Kaleva;Anchor Our Special Ale (2010);Bottle 355ml;2012-09-30;;8;3;7;3;12;No textual comments;0
+2010-12-15;Pirkkala;2010-11-21;K-citymarket Pirkkala;Nils Oscar Brown Ale;Bottle 330ml;;;8;3;8;3;12;No textual comments;0
+2010-12-16;Pirkkala;2010-12-03;Alko Kaleva;Weihenstephaner Pilsner;Bottle 500ml;;;5;2;6;2;12;Clear yellow, thick white head, aroma is light, malts. flavor is frasm, malt, mild hoppiness. refreshing.;0
+2010-12-17;Pirkkala;2010-12-16;Stockmann Tampere;Lapin Kulta Tuisku;Bottle 500ml;;;5;3;6;2;9;No textual comments;0
+2010-12-21;Pirkkala;2008-12-19;Alko Kaleva;Schneider Aventinus;Bottle 500ml;;;8;2;8;3;15;omintakeine, tumma ruskea harmaa, vehnäinen;0
+2010-12-21;Pirkkala;2010-11-21;K-citymarket Pirkkala;Ægir Sumbel Porter;Bottle 500ml;;;8;4;6;2;11;No textual comments;0
+2010-12-23;Ruovesi;2012-12-20;Alko Kaleva;Chouffe Houblon Dobbelen IPA Tripel;Bottle 750ml;;;8;3;8;3;14;Hazy yellow, white head. Citrus, yeast, sweetness, mild bitterness.;0
+2010-12-24;Ruovesi;2010-04-29;Alko Kaleva;Djævlebryg OriginAle;Bottle 500ml;;;9;4;8;3;14;ei koven ipamainen, katkera ja kuiva;0
+2010-12-25;Ruovesi;2009-10-15;Alko Anttila;Nøgne Ø #100 (Batch 100);Bottle 500ml;2014-08-09;;9;4;8;3;15;Dark brown, tan head. Aroma is malt, dark chocolate hops. Flavor is sweet, chocolate, hops, some coffee, alcohol. Like no nother beer, in agood way.;0
+2010-12-25;Ruovesi;2010-11-03;Alko Hervanta;Nøgne Ø/Jolly Pumpkin/Stone Special Holiday Ale;Bottle 500ml;2015-08-03;#526;8;3;7;3;14;No textual comments;0
+2010-12-25;Ruovesi;2010-12-03;Alko Kaleva;St Feuillien Cuvée de Noël;Bottle 330ml;;;8;3;8;3;14;2010 ja 2009 vertailu: 2010: 7-3-8-3-13, 2009: 9-2-8-3-15;0
+2010-12-26;Pirkkala;2010-12-26;Alko Kaleva;Liefmans Cuvée Brut;Bottle 330ml;;;7;3;6;3;11;No textual comments;0
+2010-12-27;Pirkkala;2009-09-26;System Bolaget Regeringsgatan;Hoppin Frog Mean Manalishi;Bottle 650ml;;;9;3;9;3;17;No textual comments;0
+2010-12-27;Pirkkala;2010-07-18;Vinmonopolet (order);Nøgne Ø Porter;Bottle 500ml;;;6;3;6;3;11;No textual comments;0
+2010-12-28;Konttori;2010-12-28;Konttori;Huvila X-Porter;Bottle 500ml;;;7;4;8;3;14;Dark Brown With khaki head. Aroma is roasted malt, Sweet chocolate . Flavor is roasted malt, smoky Notes, Sweet Chocolate, Bitter finnish. Medium to Full Body, Soft carbonation.;0
+2010-12-28;Konttori;2010-12-28;Konttori;Midtfyns Imperial Stout;Bottle 500ml;;;7;3;8;3;15;No textual comments;0
+2010-12-28;Konttori;2010-12-28;Konttori;Midtfyns India Pale Ale;Bottle 500ml;;;8;4;8;3;12;No textual comments;0
+2010-12-28;Pirkkala;2013-11-07;Alko Koivistonkylä;Beer Hunters Mufloni Huurupukki;Bottle 330ml;2014-04-30;;8;3;7;3;10;No textual comments;0
+2010-12-31;Esplanadi;;;Mikkeller Single Hop Amarillo IPA;Bottle 330ml;;;9;3;8;3;17;No textual comments;0
+2010-12-31;Gastropub Tuulensuu;;;Caulier Bon Secours Blonde de Noël;Bottle 330ml;;;8;3;7;3;13;No textual comments;0
+2010-12-31;Gastropub Tuulensuu;;;St. Bernardus Pater 6;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
+2010-12-31;O'Hara's Freehouse;;;Southern Tier Iniquity;Bottle 650ml;;;8;3;7;3;14;No textual comments;0
+2010-12-31;O'Hara's Freehouse;;;Hair of the Dog Fred from the Wood;Bottle 355ml;;2008 version;9;3;8;3;16;No textual comments;0
+2010-12-31;Ohranjyvä;;;Malmgård Belge;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2010-12-31;Oluthuone Esplanadi;;;Dieu du Ciel Rigor Mortis Abt;Bottle 341ml;;;9;3;7;3;14;No textual comments;0
+2011-01-01;Pirkkala;2010-07-21;System Bolaget Eurostop;Youngs Double Chocolate Stout;Bottle 500ml;;;7;3;7;3;11;No textual comments;0
+2011-01-06;Pirkkala;2011-01-05;Alko Pirkkala Partola;Hoegaarden;Bottle 330ml;;;8;3;9;3;15;No textual comments;0
+2011-01-06;Pirkkala;2011-01-05;Alko Pirkkala Partola;Kasteel Bier;Bottle 330ml;;;7;3;7;3;13;Pours dark brown with tan head. Aroma is caramel, yeast, coca cola. Taste is very sweet, raisins, sugar. Nice mouthfeel. Too sweet for me.;0
+2011-01-07;Pirkkala;2009-11-05;Alko Kaleva;Nørrebro Julebryg;Bottle 600ml;;Brygg. 2009-10-06;8;3;8;3;13;No textual comments;0
+2011-01-11;Pirkkala;2010-07-21;System Bolaget Eurostop;Mohawk Summer India Pale Ale;Bottle 500ml;2011-11-20;;9;3;8;3;15;No textual comments;0
+2011-01-14;Ruovesi;2010-04-17;System Bolaget Haparanda;Mohawk Rye IPA;Bottle 500ml;2011-01-30;;8;3;7;2;12;No textual comments;0
+2011-01-15;Ruovesi;2011-01-14;K-citymarket Pirkkala;Pilsner Urquell;Can 500ml;;;8;3;7;3;11;No textual comments;0
+2011-01-15;Ruovesi;2010-10-08;Alko Koivistonkylä;Stallhagen Celebration;Bottle 330ml;;;4;3;5;2;8;No textual comments;0
+2011-01-16;Pirkkala;2009-12-22;Alko Kaleva;Nøgne Ø God Jul;Bottle 500ml;;#309, ollut vuoden jääkaapissa;9;3;8;4;14;No textual comments;0
+2011-01-21;Ruovesi;2011-01-20;Alko Kaleva;Laitilan Kievari Portteri;Bottle 330ml;;;6;3;5;2;11;Almost Black, disappearing Tan head. Aroma is roasted malt and Dark Bread, licorice. flavor is the same. Quite Simple. Medium Body and carbonation;0
+2011-01-22;Pirkkala;2010-07-21;System Bolaget Eurostop;Nynäshamns Bedarö Bitter;Bottle 500ml;2011-01-31;;9;4;7;3;12;No textual comments;0
+2011-01-22;Ruovesi;2011-01-21;Alko Ylöjärvi;La Gauloise Brune;Bottle 750ml;;;8;3;6;3;12;No textual comments;0
+2011-01-22;Ruovesi;2011-01-24;K-citymarket Pirkkala;Slottskällans Midvinter Mörk;Bottle 500ml;2010-07-11;;5;3;6;3;12;No textual comments;0
+2011-01-27;Pirkkala;2011-01-20;Alko Kaleva;Ayinger Altbairisch Dunkel;Bottle 500ml;;;5;3;6;2;10;No textual comments;0
+2011-01-27;Pirkkala;2011-01-24;K-citymarket Pirkkala;La Trappe Puur;Bottle 330ml;;;9;2;8;3;12;No textual comments;0
+2011-01-27;Pirkkala;2011-01-27;Alko Pirkkala;St Feuillien Triple;Bottle 330ml;;;8;4;7;3;14;No textual comments;0
+2011-02-05;Pirkkala;2011-02-04;Alko Turtola;Weihenstephaner Vitus;Bottle 500ml;;;7;3;8;3;14;Hazy yellow thick white head, aroma is yeast, Banana, flavor is Banana, citrus, yeast. One of My favorite wheat beers.;0
+2011-02-08;Pirkkala;2011-02-04;K-citymarket Turtola;BrewDog Alpha Dog;Bottle 330ml;;;7;3;6;2;11;No textual comments;0
+2011-02-08;Pirkkala;2011-02-04;Alko Turtola;Williams Brothers Midnight Sun (Bottle);Bottle 500ml;;;8;4;8;3;13;No textual comments;0
+2011-02-09;Pirkkala;2011-02-07;K-citymarket Pirkkala;Huvila Pale Ale;Bottle 500ml;;;8;3;7;2;12;No textual comments;0
+2011-02-11;Ruovesi;2010-04-17;System Bolaget Haparanda;BrewDog Trashy Blonde;Bottle 330ml;2011-02-17;;8;3;7;2;11;No textual comments;0
+2011-02-12;Ruovesi;2009-02-02;Alko Kaleva;Nils Oscar India Ale;Bottle 330ml;2011-01-31;;8;3;7;3;12;No textual comments;0
+2011-02-12;Ruovesi;2011-02-12;S-market Ruovesi;Nokian Keisari Luomu;Can 500ml;;;4;3;3;1;6;No textual comments;0
+2011-02-12;Ruovesi;2011-02-12;Alko Ruovesi;Samuel Adams Winter Lager;Bottle 355ml;;;7;3;6;3;12;No textual comments;0
+2011-02-14;Pirkkala;2010-06-24;Aldi Bremen-Mitte;Einbecker Ur-Bock Dunkel;Bottle 330ml;2011-02-07;;6;3;6;2;11;No textual comments;0
+2011-02-15;Pirkkala;2010-07-21;System Bolaget Nacka;Sierra Nevada Bigfoot;Bottle 355ml;2011-01-11;2010 version;9;3;9;4;17;No textual comments;0
+2011-02-16;Pirkkala;2011-02-15;K-citymarket Pirkkala;Ægir Bøyla Blonde Ale;Bottle 500ml;;;7;3;7;3;12;No textual comments;0
+2011-02-17;Pirkkala;2011-02-07;K-citymarket Pirkkala;Meantime London Lager;Bottle 330ml;;;6;2;6;2;9;No textual comments;0
+2011-02-17;Pirkkala;2011-02-17;Alko Kaleva;North Coast Red Seal Ale;Bottle 355ml;2011-01-31;;9;3;8;3;13;No textual comments;0
+2011-02-18;Ruovesi;2011-02-18;Alko Kaleva;Aecht Schlenkerla Rauchbier Weizen;Bottle 500ml;;;8;3;7;3;13;No textual comments;0
+2011-02-19;Ruovesi;2011-02-18;Alko Kaleva;Emelisse Barley Wine;Bottle 330ml;;;8;3;7;3;13;No textual comments;0
+2011-02-19;Ruovesi;2011-02-18;Alko Kaleva;Haandbryggeriet Norwegian Wood;Bottle 500ml;;;9;3;9;3;15;No textual comments;0
+2011-02-19;Ruovesi;2011-02-18;Alko Kaleva;Krombacher Pils;Bottle 500ml;;;6;3;5;2;10;No textual comments;0
+2011-02-19;Ruovesi;2009-11-12;Alko Arkadia;Mikkeller Single Hop Nugget IPA;Bottle 330ml;2011-04-09;;9;3;8;3;14;No textual comments;0
+2011-02-20;Ruovesi;2010-02-18;Alko Kaleva;Weihenstephaner Korbinian;Bottle 500ml;2011-02-11;;8;3;7;2;13;No textual comments;0
+2011-02-21;Pirkkala;2010-07-21;System Bolaget Nacka;North Coast Brother Thelonious;Bottle 355ml;2011-02-28;;9;3;8;3;13;No textual comments;0
+2011-02-21;Pirkkala;2011-07-17;K-citymarket Ylöjärvi;Williams Brothers Red;Bottle 500ml;2012-08-31;;6;3;6;2;12;Clear mahogny, tan head. Aroma is malt and grass. Flavor is the same.;0
+2011-02-26;Pirkkala;2011-02-26;Alko Stockmann;Ayinger Frühlingsbier;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
+2011-02-26;Pirkkala;2011-02-26;Alko Stockman;Schneider & Brooklyner Hopfen-Weisse;Bottle 500ml;2012-02-07;;9;3;8;3;15;Oluhuone Amsterdam 05/2009, rated bottle purchased from Alko Stockman 2011-02-26, best before 2012-02-07;0
+2011-02-26;Pirkkala;2011-02-26;Alko Stockman;Ørbæk Påskebryg;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2011-02-27;Pirkkala;2009-02-19;K-citymarket Pirkkala;Nøgne Ø Brown Ale;Bottle 500ml;2011-01-08;#404 Pari vuotta hyllyssä;8;3;8;3;12;No textual comments;0
+2011-02-28;Pirkkala;2009-08-18;Alko Arkadia;Rogue Brutal Bitter;Bottle 355ml;;;9;3;8;4;15;No textual comments;0
+2011-03-01;Pirkkala;2010-04-17;System Bolaget Haparanda;Fuller's India Pale Ale;Bottle 500ml;;;7;3;6;2;11;No textual comments;0
+2011-03-02;Gastropub Tuulensuu;;;BrewDog 5a.m Saint;Bottle 330ml;;;8;3;7;3;14;Deep mahogny color with off white head. Aroma is hops , fruits and pine. Flavor is light. Pine, fruits and light hoppiness. Light Carbonation.;0
+2011-03-02;Gastropub Tuulensuu;;;Kasparus Rode Engel;Bottle 330ml;;;8;2;7;3;12;No textual comments;0
+2011-03-02;O'Hara's Freehouse;;;Oskar Blues Ten FIDY;Can 355ml;;;7;3;8;3;13;No textual comments;0
+2011-03-02;O'Hara's Freehouse;;;Port Brewing Older Viscosity;Bottle 375ml;;;9;4;8;4;15;No textual comments;0
+2011-03-02;O´Hara´s Freehouse;;;BrewDog Hardcore IPA (9.2%);Bottle 330ml;;;9;4;9;4;15;No textual comments;0
+2011-03-02;Olutravintola Konttori;;;Struise Black Damnation II - Mocha Bomb;Bottle 330ml;;;9;3;8;4;15;No textual comments;0
+2011-03-05;Ruovesi;2011-03-05;Alko Ruovesi;Litovel Premium 12°;Bottle 500ml;;;5;3;5;2;9;No textual comments;0
+2011-03-05;Ruovesi;2009-08-18;Alko Arkadia;Rogue Dry Hopped St. Rogue Red Ale;Bottle 355ml;;;9;3;8;3;13;No textual comments;0
+2011-03-09;Pirkkala;2011-02-25;Alko Kaleva;Neuzeller Kirsch-Bier;Bottle 500ml;;;6;3;6;3;11;No textual comments;0
+2011-03-13;Pirkkala;2011-03-05;Alko Ruovesi;Holba Premium 12°;Bottle 500ml;;;6;3;5;2;8;No textual comments;0
+2011-03-17;Pirkkala;2011-03-17;Alko Pirkkala Partola;Theresianer Strong Ale;Bottle 330ml;;;7;3;7;2;12;No textual comments;0
+2011-03-18;Pirkkala;2009-07-01;Alko Arkadia;Mikkeller Beer Geek Breakfast;Bottle 500ml;2011-03-17;rated bbe 2012-05-04 (#471);9;4;9;3;16;No textual comments;0

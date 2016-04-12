@@ -1,0 +1,199 @@
+2012-04-28;O'Hara's Freehouse;;;Dark Star American Pale Ale;Draft;;;7;3;8;3;13;No textual comments;0
+2012-04-28;O'Hara's Freehouse;;;Thornbridge Jaipur;Bottle 500ml;2012-08-08;;7;3;8;3;14;Light cgolden color with white head. Aroma is citrus and hops. Flavor is the same. Medium bitterness. Medium to thin body. Soft carbonation.;0
+2012-04-28;O'Hara's Freehouse;;;Thornbridge Saint Petersburg;Bottle 500ml;2014-12-06;;7;4;8;3;14;No textual comments;0
+2012-04-28;Olutravintola Kahdet Kasvot;;;Mikkeller K:rlek Forår/Sommer 2012;Bottle 330ml;;;8;3;8;3;12;No textual comments;0
+2012-04-28;Olutravintola Kahdet Kasvot;;;SKA Modus Hoperandi IPA;Can 355ml;;;8;3;7;3;12;No textual comments;0
+2012-04-28;Olutravintola Konttori;;;Beer Here Hoptilicus;Bottle 500ml;2012-12-05;;7;3;8;3;12;No textual comments;0
+2012-04-28;Olutravintola Konttori;;;Hornbeer Caribbean Rumstout;Bottle 500ml;2012-02-04;;9;4;9;4;15;No textual comments;0
+2012-04-29;Ruovesi;2012-04-27;Alko Kaleva;Riedenburger Hefe-Weizen Hell;Bottle 500ml;2013-04-03;;7;3;7;3;11;No textual comments;0
+2012-04-29;Ruovesi;2012-04-13;Alko Ylöjärvi;_ywiec Jasne Pe_ne / Beer;Bottle 500ml;2013-03-22;;5;2;5;3;9;No textual comments;0
+2012-05-02;Pirkkala;2012-04-27;Alko Kaleva;Black Isle Goldeneye Pale Ale;Bottle 330ml;2013-05-31;LOT142;7;3;7;3;10;No textual comments;0
+2012-05-05;Pirkkala;2012-01-03;Bierkompass;De Molen Rasputin;Bottle 330ml;2036-11-01;2011-11-01;8;4;9;3;15;Black color and tan head. Aroma is chocolate, caramel malts, coffee, dark berries and tobacco. Flavor is chocolate, berries and peat. Medium body, soft carbonation.;0
+2012-05-05;Ruovesi;2012-05-05;S-market Ruovesi;Saimaan Marsalkka Luomuvehnä;Bottle 330ml;2013-01-18;;7;3;6;3;10;No textual comments;0
+2012-05-05;Ruovesi;2012-05-21;K-citymarket Pirkkala;Stadin American Pale Ale III;Bottle 330ml;2012-11-01;#428;7;3;7;3;13;No textual comments;0
+2012-05-12;Ruovesi;2012-05-11;Alko Anttila;Hartwall Urho IV A;Bottle 330ml;;;5;2;5;2;7;No textual comments;0
+2012-05-12;Ruovesi;2009-05-16;Alko Arkadia;Mikkeller Draft Bear;Bottle 330ml;2015-09-15;;8;3;8;3;14;No textual comments;0
+2012-05-13;Pirkkala;2012-05-11;Alko Anttila;Nørrebro Forårs Bock (Økologisk);Bottle 400ml;2014-02-18;;7;3;7;3;11;No textual comments;0
+2012-05-14;O'Connell's Irish Bar;;;AleSmith Speedway Stout;Bottle 750ml;;;9;4;9;3;15;No textual comments;0
+2012-05-14;O'Connell's Irish Bar;;;AleSmith X;Bottle 650ml;;;7;3;8;3;12;No textual comments;0
+2012-05-14;PIrkkala;2012-05-11;Alko Anttila;Svaneke Mørk Guld;Bottle 500ml;2013-03-21;;7;3;7;3;11;No textual comments;0
+2012-05-16;Gastropub Nordic;;;Stadin ESB;Bottle 330ml;;;7;3;7;3;11;No textual comments;0
+2012-05-16;O'Connell's Irish Bar;;;AleSmith Anvil ESB;Bottle 650ml;;;8;3;8;3;13;No textual comments;0
+2012-05-16;O'Connell's Irish Bar;;;Dark Horse Fore Smoked Stout;Bottle 355ml;;;9;4;8;3;13;No textual comments;0
+2012-05-16;O'Connell's Irish Bar;;;Hoppin Frog Silk Porter;Bottle 650ml;;;8;3;8;3;12;No textual comments;0
+2012-05-16;Olutravintola Konttori;;;Nøgne Ø Tiger Tripel;Bottle 500ml;2014-09-20;#699a;8;3;8;3;12;No textual comments;0
+2012-05-17;Pirkkala;2012-05-16;Alko Koivistonkylä;Mongozo Premium Pilsener;Bottle 330ml;2014-03-31;;6;2;5;2;8;No textual comments;0
+2012-05-19;Ruovesi;2010-11-25;Alko Koivistonkylä;La Rulles Triple;Bottle 750ml;2012-02-28;;8;3;8;3;13;No textual comments;0
+2012-05-19;Ruovesi;2012-05-15;S-market Pirkkala;Teerenpeli Onnenpekka;Bottle 330ml;2012-08-14;;5;2;5;2;10;No textual comments;0
+2012-05-19;Ruovesi;2012-05-15;S-market Pirkkala;_atec Celia;Bottle 500ml;;;4;2;6;2;9;No textual comments;0
+2012-05-21;Pirkkala;2012-05-21;K-citymarket Pirkkala;Stadin American Dark Ale;Bottle 330ml;2012-10-01;#424;8;3;7;2;11;No textual comments;0
+2012-05-22;Gastropub Nordic;;;Fanø Edison Ale;Bottle 500ml;2013-02-20;;8;3;8;3;13;No textual comments;0
+2012-05-22;Gastropub Nordic;;;Fanø Viola Sofia 2011 (Kunstner Øl No. 2);Bottle 330ml;2015-12-31;;8;4;8;3;14;No textual comments;0
+2012-05-22;Gastropub Tuulensuu;;;Bayerischer Bahnhof Berliner Style Weisse;Draft;;;7;2;7;2;10;No textual comments;0
+2012-05-22;Gastropub Tuulensuu;;;Bayerischer Bahnhof Heizer Schwarzbier;Draft;;;7;3;7;3;12;No textual comments;0
+2012-05-23;Pirkkala;2012-05-21;K-citymarket Pirkkala;Stadin Helsch;Bottle 330ml;2012-11-01;#429;7;3;7;3;11;No textual comments;0
+2012-05-25;Olutravintola Konttori;;;Fanø Pikkulintu Triple IPA;Bottle 330ml;2013-03-20;;8;3;8;3;13;No textual comments;0
+2012-05-25;Olutravintola Konttori;;;Fanø Vestkyst;Bottle 330ml;2013-02-27;;9;3;8;3;12;No textual comments;0
+2012-05-25;Olutravintola Konttori;;;Nøgne Ø / Bridge Road India Saison;Bottle 500ml;2017-02-13;#762;8;3;8;3;12;Hazy orange with white head. Aroma is citrus, yeast, floral notes. Flavor is grass, grape, hops, spices (pepper), mild bitterness. Medium body and carbo.;0
+2012-05-25;Olutravintola Konttori;;;Nøgne Ø Two Captains Double IPA;Bottle 500ml;2017-01-19;#753;7;4;9;3;14;Hazy amber color, off white head. Aroma is pine, grape . Flavor is fruity, sweet malts, nice bitter hops. Ful body with medium carbo. Nice but not perfect. There is disturbing vegetables in aroma.;0
+2012-05-26;Ruovesi;2012-05-26;K-citymarket Pirkkala;Beer Hunters Mufloni Single Hop Cascade;Bottle 330ml;2012-06-14;;7;3;7;2;11;No textual comments;0
+2012-05-26;Ruovesi;2012-01-31;Bierkompass;De Molen Vuur & Vlam (Fire & Flames);Bottle 330ml;2013-11-29;2011-11-29;7;3;8;3;12;No textual comments;0
+2012-05-26;Ruovesi;2012-04-09;Bierkompass;Evil Twin El Raval Hipster Ale;Bottle 330ml;2014-01-01;;6;3;7;3;10;Propably infected bottle;0
+2012-05-26;Ruovesi;2012-01-31;Bierkompass;Fritz Ale American IPA;Bottle 750ml;2012-09-30;;7;4;8;3;13;No textual comments;0
+2012-05-26;Ruovesi;2012-04-09;Bierkompass;Hoppin Frog Hoppin to Heaven IPA;Bottle 650ml;;;7;4;8;3;13;No textual comments;0
+2012-05-26;Ruovesi;2012-05-26;K-citymarket Pirkkala;Nokian Keisari Kellari;Can 500ml;2012-11-30;;6;3;6;3;10;No textual comments;0
+2012-05-27;Ruovesi;2012-05-26;K-citymarket Pirkkala;Thornbridge Wild Swan;Bottle 500ml;;;8;3;7;2;11;No textual comments;0
+2012-06-01;Gastropub Tuulensuu;;;Bayerischer Bahnhof / Freigeist No Hops Today!;Draft;;;7;3;7;3;10;No textual comments;0
+2012-06-01;Niko;;;Jandrain-Jandrenouille IV Saison;Bottle 750ml;;;7;3;7;3;11;No textual comments;0
+2012-06-01;Olutravintola Kahdet Kasvot;;;BrewDog Dogma;Bottle 330ml;2013-01-07;;7;3;8;3;11;No textual comments;0
+2012-06-01;Olutravintola Kahdet Kasvot;;;Kuhnhenn DRIPA;Draft;;;8;3;8;3;13;No textual comments;0
+2012-06-02;Ruovesi;2012-06-02;Alko Linnainmaa;Kingfisher Lager;Bottle 330ml;2014-01-01;;5;1;4;1;7;No textual comments;0
+2012-06-02;Ruovesi;2012-06-02;Alko Linnainmaa;La Trappe Witte Trappist;Bottle 330ml;2013-10-31;;7;3;7;3;12;No textual comments;0
+2012-06-02;Ruovesi;2012-06-02;Alko Linnainmaa;St Feuillien Saison;Bottle 330ml;2014-09-30;;8;3;8;3;12;No textual comments;0
+2012-06-03;Pirkkala;2012-06-02;Prisma Linnainmaa;Fuller’s Black Cab Stout;Bottle 500ml;2013-03-17;;8;4;7;3;12;Pours black, big beige head. Roasted malt, chocolate, caralel, lactose.;0
+2012-06-05;Pirkkala;2012-06-02;Alko Linnainmaa;Höss Allgäuer Hüttenbier;Bottle 500ml;2013-04-16;;5;3;5;2;7;No textual comments;0
+2012-06-05;Plevna;2012-06-05;Plevna;Plevnan Maibock;Draft;;;6;3;7;3;10;No textual comments;0
+2012-06-06;Olutravintola Kahdet Kasvot;;;BrewDog Chaos Theory;Bottle 330ml;2012-12-15;;7;3;8;3;13;No textual comments;0
+2012-06-06;Plevna;2012-06-06;Plevna;Plevnan Golden Ale;Draft;;;6;2;6;2;10;No textual comments;0
+2012-06-07;Pirkkala;2011-04-09;Alko Arkadia;Emelisse Double IPA 9%;Bottle 330ml;2012-12-31;;8;3;8;3;13;No textual comments;0
+2012-06-08;Ruovesi;2012-11-28;Bierkompass;8 Wired Tall Poppy India Red Ale;Bottle 500ml;;;8;4;8;3;14;Mahogny color with tan head. Aroma is caramel, fruits,hops, boozy notes. Flavor is grape, berries, sour notes. Medium body and carbo.;0
+2012-06-10;Gastropub Tuulensuu;;;Augustiner Edelstoff;Bottle 500ml;;;7;3;6;3;10;No textual comments;0
+2012-06-10;Gastropub Tuulensuu;;;Tuulensuu SorSis (Sorbus-Cassis);Draft;;;6;2;6;2;9;No textual comments;0
+2012-06-10;Pirkkala;2012-06-02;Alko Linnainmaa;Nørrebro Pacific Summer Ale (Økologisk);Bottle 400ml;2013-02-12;TAP 2012-03-14;8;3;7;3;10;No textual comments;0
+2012-06-11;Pirkkala;2012-06-11;K-citymarket Pirkkala;Ugly Duck Nelson;Bottle 330ml;2013-03-23;;7;3;7;3;11;No textual comments;0
+2012-06-12;Gastropub Nordic;;;Nøgne Ø / Terrapin Imperial Rye Porter;Draft;;;8;4;9;4;14;No textual comments;0
+2012-06-12;Pirkkala;2012-06-11;K-citymarket Pirkkala;Stone Levitation Ale;Bottle 355ml;;;8;3;7;3;13;No textual comments;0
+2012-06-12;Pirkkala;2012-06-11;K-citymarket Pirkkala;Ugly Duck Sorachi Aced;Bottle 330ml;2013-03-26;;7;3;7;3;10;No textual comments;0
+2012-06-13;Pizza Man, Florence;;;Bayreuther Aktien Original 1857;Bottle 500ml;2012-09-29;;6;2;5;2;8;No textual comments;0
+2012-06-14;Cosmopolitan Hotel, Florence;2012-06-14;La Divina Enoteca, Florence;Birrificio del Ducato Bitter Ale;Bottle 330ml;2014-04-30;;6;3;6;2;8;No textual comments;0
+2012-06-14;Cosmopolitan Hotel, Florence;2012-06-14;La Divina Enoteca, Florence;Birrificio del Ducato IPA;Bottle 330ml;2013-04-30;;7;3;6;3;10;No textual comments;0
+2012-06-14;Cosmopolitan Hotel, Florence;2012-06-14;La Divina Enoteca, Florence;Birrificio del Ducato Oatmeal Stout;Bottle 330ml;2012-08-31;;8;3;7;2;10;No textual comments;0
+2012-06-14;Hard Rock Cafe, Florence;;;Tourtel Puro Malto (Blonde);Draft;2013-03-31;;4;1;3;1;7;No textual comments;0
+2012-06-14;Isabelle, Florence;;;Baladin Isaac;Bottle 330ml;2013-04-30;;8;3;8;3;11;No textual comments;0
+2012-06-14;Isabelle, Florence;;;Baladin Super Baladin;Bottle 330ml;2013-03-31;;8;3;8;3;12;No textual comments;0
+2012-06-14;Mostodolce, Florence;;;Mostodolce Elio’s Fifty;Draft;;;7;3;7;3;11;No textual comments;0
+2012-06-14;Mostodolce, Florence;;;Mostodolce Martellina;Draft;;;7;3;6;3;9;No textual comments;0
+2012-06-14;Mostodolce, Florence;;;Mostodolce Pepita;Draft;;;7;3;8;3;11;No textual comments;0
+2012-06-14;Mostodolce, Florence;;;Mostodolce Saison;Draft;;;7;3;7;3;10;No textual comments;0
+2012-06-14;Mostodolce, Florence;;;Mostodolce Volpe Rossa;Draft;;;7;3;7;3;10;No textual comments;0
+2012-06-15;Beer House Club - BHC, Florence;;;Bad Attitude Dude;Can 330ml;;;7;3;8;3;12;No textual comments;0
+2012-06-15;Beer House Club - BHC, Florence;;;Bad Attitude Kurt;Can 330ml;;;7;3;6;2;10;No textual comments;0
+2012-06-15;Beer House Club - BHC, Florence;;;Hibu VaiTrà;Bottle 330ml;;;8;3;7;3;11;No textual comments;0
+2012-06-15;Beer House Club - BHC, Florence;;;Real Beer Oca Giuliva;Bottle 500ml;2012-08-31;5,6%, not in RB;6;3;7;3;11;No textual comments;0
+2012-06-15;Beer House Club - BHC, Florence;;;Real Beer Turbata;Draft;;8,2%, not in RB;7;3;8;3;12;No textual comments;0
+2012-06-15;Cosmopolitan Hotel, Florence;2012-06-14;La Divina Enoteca, Florence;Birrificio del Ducato Machete Double IPA;Bottle 330ml;2013-09-20;;8;3;8;3;13;No textual comments;0
+2012-06-15;Cosmopolitan Hotel, Florence;2012-06-15;Supermercato Sma;Hell Bier (Auchan);Can 330ml;2012-06-15;;5;2;5;2;8;No textual comments;0
+2012-06-15;Isabelle, Florence;;;Brùton Lilith;Bottle 330ml;2013-02-19;;8;3;7;3;11;No textual comments;0
+2012-06-15;Isabelle, Florence;;;Brùton Stoner;Bottle 330ml;2013-08-22;;7;3;8;3;11;No textual comments;0
+2012-06-16;Nice;2012-06-13;Toccalmatto;Extraomnes / Toccalmatto Tainted Love;Bottle 750ml;2013-02-27;;8;3;7;3;13;No textual comments;0
+2012-06-16;Nice;2012-06-13;Toccalmatto;Toccalmatto Fumé du Sanglier;Bottle 750ml;;;8;3;8;3;13;No textual comments;0
+2012-06-17;Le Mori's Bar, Nice;;;Delirium Tremens;Bottle 330ml;2015-04-30;;8;3;8;3;11;No textual comments;0
+2012-06-17;Les Distilliers Ideales, Nice;;;Pelforth Brune;Bottle 330ml;2013-02-28;;6;2;6;3;9;No textual comments;0
+2012-06-17;Nice;2012-06-13;Toccalmatto;Toccalmatto Grooving Hop;Bottle 750ml;2013-05-14;;8;3;8;3;13;No textual comments;0
+2012-06-17;Nice;2012-06-13;Toccalmatto;Toccalmatto Rude Boy IPA;Bottle 750ml;2013-05-29;;7;3;6;3;11;No textual comments;0
+2012-06-17;Royal Kebab, Nice;;;Efes Pilsen;Bottle 330ml;2013-02-11;;4;2;4;1;7;No textual comments;0
+2012-06-18;Le Nord Sud, Nice;;;Saint-Omer 1866;Draft;;;6;2;5;2;8;No textual comments;0
+2012-06-18;Nice;2012-06-13;Toccalmatto;Toccalmatto Dudes;Bottle 750ml;2026-04-30;;8;3;8;3;14;No textual comments;0
+2012-06-18;Nice;2012-06-13;Toccalmatto;Toccalmatto Stray Dog No Rules Bitter;Bottle 750ml;2012-11-07;;7;3;7;3;13;No textual comments;0
+2012-06-19;Brasserie De Monaco;;;Brasserie De Monaco Ambrée;Draft;;;7;3;8;3;12;No textual comments;0
+2012-06-19;Brasserie De Monaco;;;Brasserie De Monaco Blanche;Draft;;;7;3;7;2;10;No textual comments;0
+2012-06-19;Brasserie De Monaco;;;Brasserie De Monaco Blonde;Draft;;;7;3;7;3;12;No textual comments;0
+2012-06-19;Nice;2012-06-19;Carrefour, Nice Village;Bush Triple Ambrée;Bottle 330ml;2013-12-21;;7;3;8;3;11;No textual comments;0
+2012-06-19;Nice;2012-06-13;Toccalmatto;Toccalmatto Salty Dog;Bottle 750ml;2026-08-31;;8;3;8;3;13;No textual comments;0
+2012-06-19;Nice;2012-06-13;Toccalmatto;Toccalmatto Skizoid;Bottle 750ml;2013-05-02;;7;3;7;3;12;No textual comments;0
+2012-06-20;Nice;2012-06-19;Brune Rousse Houblon, Nice;Moulins d’Ascq Ambrée;Bottle 330ml;;;6;3;7;3;10;No textual comments;0
+2012-06-20;Nice;2012-06-19;Brune Rousse Houblon, Nice;Queue de Charrue Triple;Bottle 330ml;2014-01-03;;6;2;6;2;9;No textual comments;0
+2012-06-20;Nice;2012-06-13;Toccalmatto;Toccalmatto Re Hop;Bottle 750ml;2013-04-23;;8;3;7;3;13;No textual comments;0
+2012-06-21;Bistrot Du Port , Saint Tropez;;;Karlsbräu;Draft;;;6;2;5;2;7;No textual comments;0
+2012-06-21;Nice;2012-06-19;Brune Rousse Houblon;Abbaye des Rocs Blanche des Honnelles;Bottle 330ml;2013-11-29;;7;3;7;2;10;No textual comments;0
+2012-06-21;Nice;2012-06-19;Brune Rousse Houblon, Nice;Britt Rousse;Bottle 330ml;;;6;3;7;2;10;No textual comments;0
+2012-06-21;Nice;2012-06-19;Brune Rousse Houblon, Nice;Flamine Ambrée;Bottle 330ml;;;7;3;7;3;10;No textual comments;0
+2012-06-21;Nice;2012-06-19;Brune Rousse Houblon, Nice;Océane La Goule Black Prince  ;Bottle 330ml;;;8;3;7;3;11;No textual comments;0
+2012-06-21;Nice;2012-06-13;Toccalmatto;Toccalmatto B Space Invader;Bottle 750ml;;;8;3;8;3;13;No textual comments;0
+2012-06-22;Port de Nice;2012-06-22;Vival by Casino;Desperados;Bottle 330ml;2013-04-30;;4;2;3;1;3;No textual comments;0
+2012-06-22;Grand Cafe De Lyon, Nice;;;Leffe Tripel 8;Bottle 330ml;2013-08-10;;7;3;7;3;13;No textual comments;0
+2012-06-22;Le Mori's Bar, Nice;;;Bush Ambrée (Scaldis);Bottle 330ml;2013-01-27;;8;3;8;3;11;No textual comments;0
+2012-06-22;Nice;2012-06-19;Brune Rousse Houblon, Nice;Gwiniz Du;Bottle 330ml;;;6;3;7;3;10;No textual comments;0
+2012-06-22;Nice;2012-06-19;Brune Rousse Houblon, Nice;Océane La Goule Kick;Bottle 330ml;;;6;2;6;2;9;No textual comments;0
+2012-06-22;Nice;2012-06-22;Inter Marche, Nice;St. Sylvestre 3 Monts;Bottle 750ml;;;7;2;7;2;11;No textual comments;0
+2012-06-23;BQ - Birra artigianale di Qualità, Milan;;;Birra Turan Neos;Draft;;;8;3;8;3;12;No textual comments;0
+2012-06-23;BQ - Birra artigianale di Qualità, Milan;;;Birrificio Italiano B.I. Weizen;Draft;;;7;3;7;3;10;No textual comments;0
+2012-06-23;BQ - Birra artigianale di Qualità, Milan;;;Birrificio Italiano Tipopils;Draft;;;6;3;8;3;12;No textual comments;0
+2012-06-23;BQ - Birra artigianale di Qualità, Milan;;;Brewfist Burocracy;Draft;;;8;3;7;3;11;No textual comments;0
+2012-06-23;BQ - Birra artigianale di Qualità, Milan;;;Extraomnes Bruin;Draft;;;7;3;7;3;11;No textual comments;0
+2012-06-23;BQ - Birra artigianale di Qualità, Milan;;;Extraomnes Donker;Draft;;;9;3;8;3;13;No textual comments;0
+2012-06-23;BQ - Birra artigianale di Qualità, Milan;;;Retorto Daughter of Autumn;Draft;;;8;3;8;3;12;No textual comments;0
+2012-06-23;Gucci Cafe, Milan;;;Birrificio Lodigiano Vecchia Lodi;Draft;;;7;3;6;2;9;No textual comments;0
+2012-06-24;Kastrup Airport;;;Tuborg Classic;Draft;2013-02-10;;5;2;6;2;8;No textual comments;0
+2012-06-25;Ruovesi;;Gift from Hessu;Dithmarscher Dunkel;Bottle 330ml;2012-10-03;;6;3;4;2;8;No textual comments;0
+2012-06-25;Ruovesi;;Gift from Hessu;Flensburger Kellerbier;Bottle 330ml;2012-09-02;;5;3;6;2;9;No textual comments;0
+2012-06-25;Ruovesi;;Gift from Hessu;Radeberger Pilsner;Bottle 500ml;2012-12-31;;4;2;4;2;8;No textual comments;0
+2012-06-26;Ruovesi;2012-03-24;Alko Arkadia;Fuller's Past Masters Double Stout;Bottle 500ml;2014-04-19;;8;3;8;3;13;No textual comments;0
+2012-06-29;Ruovesi;;Gift from Hessu;Astra Rotlicht;Bottle 500ml;2013-05-31;;5;2;6;2;8;No textual comments;0
+2012-06-29;Ruovesi;;Gift from Hessu;Einbecker Mai-Ur-Bock;Bottle 330ml;2012-10-10;;5;2;5;2;7;No textual comments;0
+2012-06-29;Ruovesi;2012-06-25;Alko Kaleva;La Trappe Dubbel;Bottle 330ml;2014-09-30;;7;3;7;3;11;No textual comments;0
+2012-07-01;Pirkkala;2012-06-02;Alko Linnainmaa;Herbsthäuser Hefe-Weizen Hell;Bottle 500ml;2012-10-14;;7;3;7;3;11;No textual comments;0
+2012-07-02;Olutravintola Kahdet Kasvot;;;Evil Twin An Uncommon IPA;Draft;;;8;3;9;3;13;No textual comments;0
+2012-07-03;Gastropub Nordic;;;Fanø Havgus (Kunstner Øl No. 3);Draft;;;8;3;8;3;13;No textual comments;0
+2012-07-03;Olutravintola Konttori;;;Acme California IPA;Bottle 355ml;;;7;3;7;3;12;No textual comments;0
+2012-07-05;Gastropub Tuulensuu;;;De Dochter van de Korenaar Belle-Fleur IPA;Bottle 330ml;2014-04-30;;8;3;8;3;13;No textual comments;0
+2012-07-05;Gastropub Tuulensuu;;;eXcalibur IPA;Bottle 330ml;2014-03-27;;8;3;7;3;14;No textual comments;0
+2012-07-05;Gastropub Tuulensuu;;;Struise Ignis et Flamma;Bottle 330ml;2013-09-30;;8;3;8;3;12;No textual comments;0
+2012-07-05;Gastropub Tuulensuu;;;Struise Pannepot Reserva 2009;Bottle 330ml;;;8;3;8;3;13;No textual comments;0
+2012-07-05;Gastropub Tuulensuu;;;Struise Tsjeeses Reserva;Bottle 330ml;2016-11-16;;8;3;8;3;12;No textual comments;0
+2012-07-05;Olutravintola Kahdet Kasvot;;;Green Flash Palate Wrecker;Bottle 355ml;;;9;3;9;3;16;No textual comments;0
+2012-07-05;Olutravintola Kahdet Kasvot;;;Mikkeller Bedow Pale Spring Ale;Bottle 330ml;;;8;3;7;3;12;No textual comments;0
+2012-07-06;Ruovesi;2012-06-11;K-citymarket Pirkkala;Beer Hunters Mufloni Saison De Randonneur (4.5 % version);Bottle 330ml;2012-10-27;;8;3;7;3;12;No textual comments;0
+2012-07-06;Ruovesi;2012-07-06;Alko Koivistonkylä;Youngs Bitter;Bottle 500ml;2013-02-28;;7;3;6;2;9;No textual comments;0
+2012-07-07;Ruovesi;2012-07-06;Alko Koivistonkylä;Kulmbacher Edelherb Premium Pils;Bottle 500ml;2013-02-28;;6;3;6;2;8;No textual comments;0
+2012-07-07;Ruovesi;2012-07-06;Alko Koivistonkylä;Plankstetten Dunkles;Bottle 330ml;;;6;3;6;2;9;No textual comments;0
+2012-07-08;Pirkkala;2012-06-02;Alko Linnainmaa;Boon Framboise;Bottle 330ml;2015-06-21;L1172;6;3;7;3;13;No textual comments;0
+2012-07-08;Pirkkala;2011-07-28;Alko Arkadia;Haandbryggeriet Dobbel Dose;Bottle 500ml;2012-06-03;#292;9;3;8;3;13;No textual comments;0
+2012-07-09;Pirkkala;2011-04-09;Alko Arkadia;Emelisse Rauchbier;Bottle 330ml;2012-12-31;;8;3;8;3;13;No textual comments;0
+2012-07-12;Gastropub Nordic;;;Hornbeer Winterporter;Bottle 500ml;2014-10-08;;8;3;8;3;12;No textual comments;0
+2012-07-12;Gastropub Nordic;;;Raasted Summer Wheat;Draft;;;7;3;6;2;9;No textual comments;0
+2012-07-12;Olutravintola Konttori;;;Nynäshamns Ålö Ale;Bottle 500ml;2012-07-31;;7;3;7;2;10;No textual comments;0
+2012-07-12;Plevna;2012-07-12;Plevna;Plevnan Severin Extra IPA;Draft;;;8;3;7;3;12;No textual comments;0
+2012-07-12;Plevna;2012-07-12;Plevna;Plevnan Stout;Draft;;;8;3;8;3;14;No textual comments;0
+2012-07-13;Ruovesi;2012-07-13;Alko Ruovesi;Konrad Sv_tl_ Le_ák (Vratislav) 12°;Bottle 500ml;2012-12-21;;6;2;6;2;10;No textual comments;0
+2012-07-13;Ruovesi;2012-07-06;Alko Koivistonkylä;Peroni Nastro Azzurro;Bottle 330ml;2013-05-31;;5;2;4;2;6;No textual comments;0
+2012-07-17;Gastropub Tuulensuu;;;Cantillon Iris;Draft;;;7;3;7;2;10;No textual comments;0
+2012-07-17;Gastropub Tuulensuu;;;Gaverhopke/Tired Hands Bittersweet Symphony;Bottle 330ml;2015-04-30;;8;3;8;3;14;No textual comments;0
+2012-07-17;Olutravintola Kahdet Kasvot;;;BrewDog IPA Is Dead - HBC;Bottle 330ml;2013-03-13;71;8;3;8;3;14;No textual comments;0
+2012-07-17;Olutravintola Kahdet Kasvot;;;BrewDog IPA Is Dead - Motueka;Bottle 330ml;2013-03-10;68;8;3;8;3;14;No textual comments;0
+2012-07-17;Olutravintola Konttori;;;Nøgne Ø Aku Aku Lemongrass Ale;Bottle 500ml;;;7;3;8;3;12;No textual comments;0
+2012-07-17;Pirkkala;2011-09-28;Gift from Hessu;Tatra Mocne 15.1°;Can 500ml;2012-01-08;;2;4;5;2;8;No textual comments;0
+2012-07-18;Cosmic Comic Cafe;;;Green Flash Double Stout;Bottle 355ml;;;8;4;8;4;14;No textual comments;0
+2012-07-18;Cosmic Comic Cafe;;;Mikkeller Tiger Baby: Open Windows Open Hills;Bottle 330ml;;;8;3;8;3;13;No textual comments;0
+2012-07-18;Old Bank;;;Delirium Nocturnum;Bottle 330ml;2014-01-31;;8;3;8;2;12;No textual comments;0
+2012-07-18;Uusi Apteekki;;;Evil Twin Disco Beer;Bottle 330ml;2015-12-31;;9;3;8;3;13;No textual comments;0
+2012-07-18;Uusi Apteekki;;;To Øl Reparationsbajer;Bottle 330ml;;;8;3;8;3;13;No textual comments;0
+2012-07-19;Panimoravintola Koulu;;;Koulu Kesäolut;Draft;;;6;3;5;3;9;No textual comments;0
+2012-07-19;Panimoravintola Koulu;;;Koulu Vehnä;Draft;;;7;3;7;3;12;No textual comments;0
+2012-07-20;Gastropub Nordic;;;Suomenlinnan Hoppe IPA;Bottle 500ml;;;7;3;7;3;11;No textual comments;0
+2012-07-20;Gastropub Nordic;;;Wisby Brutal Bulldog Double IPA;Bottle 330ml;2012-12-05;;8;3;8;3;12;No textual comments;0
+2012-07-20;Gastropub Nordic;;;Wisby Sitting Bulldog IPA;Bottle 330ml;2013-06-17;;7;3;7;3;10;No textual comments;0
+2012-07-20;Gastropub Tuulensuu;;;Alvinne Mano Negra;Bottle 330ml;;;6;3;7;3;10;No textual comments;0
+2012-07-20;Gastropub Tuulensuu;;;Viven Porter (by De Proefbrouwerij);Bottle 330ml;2013-11-07;;8;3;7;2;11;No textual comments;0
+2012-07-20;Pirkkala;2011-02-26;Alko Arkadia;Haandbryggeriet Haandbakk;Bottle 500ml;2013-12-20;#200;8;3;8;3;13;kirpeä, marjainen, yksi parhaista sour aleista;0
+2012-07-21;Ruovesi;2012-07-21;K-citymarket Lielahti;Vakka-Suomen Hereford Pils;Bottle 500ml;2012-10-10;;5;2;6;2;9;No textual comments;0
+2012-07-23;Pirkkala;2012-07-13;Alko Ylöjärvi;Primátor Tmavé Lezák;Bottle 500ml;2013-05-10;;7;3;7;3;10;No textual comments;0
+2012-07-24;Pirkkala;2012-07-24;K-citymarket Pirkkala;Vakka-Suomen Skärgårdssmak - Saaristonmaku Saariston Olut;Bottle 500ml;2012-11-22;;6;3;6;2;10;No textual comments;0
+2012-07-25;Pirkkala;2012-07-24;K-citymarket Pirkkala;Teerenpeli Hippaheikki;Bottle 330ml;2013-01-14;N708 135;6;2;6;2;10;No textual comments;0
+2012-07-26;Gastropub Stone's;;;Stadin Reaktor Hello World Single Hop Ale;Draft;;;8;3;7;3;12;No textual comments;0
+2012-07-26;Oluthuone Kaisla;;;Maui Brewing CoCoNut PorTeR;Bottle 355ml;;;7;3;8;3;14;No textual comments;0
+2012-07-26;Oluthuone Rotterdam;;;Evil Twin El Raval Hipster Ale;Draft;;;7;3;7;3;12;No textual comments;0
+2012-07-26;Panimoravintola Bruuveri;;;Bruuveri Kailua Bay Silver Moon;Draft;;;6;3;7;3;11;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Beer Hunters Mufloni Aamupala Kaurastout;Draft;;;6;3;7;2;10;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Beer Hunters Mufloni Cornes à Pois;Draft;;;7;3;8;3;13;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Bruuveri Arde’s Legbuster;Draft;;;9;3;9;3;14;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Bruuveri Coral Reef Pretty Baby;Draft;;;8;3;7;3;11;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Bruuveri Starboard IPA;Draft;;;7;3;8;3;12;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Kuninkaankartanon Torppari;Draft;;;7;3;8;3;12;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Rekolan Amerikan serkku;Draft;;;7;3;7;2;10;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Stadin American Double IPA;Draft;;;7;3;7;3;12;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Stadin Cascadian Dark Ale;Draft;;;7;3;9;3;13;No textual comments;0
+2012-07-26;SOPP Helsinki;;;Suomenlinnan Fabian Stout;Draft;;;6;4;7;3;10;No textual comments;0
+2012-07-26;Villi Wäinö;;;Huvila Villi Wäinö Onni;Draft;;;6;3;6;2;9;No textual comments;0
+2012-07-27;Pirkkala;2012-07-02;Alko Arkadia;Malmgård Häijy Markku;Bottle 500ml;2012-08-14;;9;4;8;4;14;ei kovin barley winemäinen, ei kovin makea, hapokas;0
+2012-07-28;Gastropub Nordic;;;Grassroots Pikkulintu Triple IPA;Draft;;;8;3;9;4;14;No textual comments;0

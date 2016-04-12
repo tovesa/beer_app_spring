@@ -37,6 +37,11 @@ public class RbClient {
 		int hits = getNumberOfHits(response);
 		LOG.debug("Number of hits: " + hits + ", search term: " + beerName);
 
+		if (isAlias(response)) {
+			LOG.warn("Alias beer: " + beerName + ". Fix name!");
+			return line;
+		}
+
 		if (hits == 1) {
 			formattedLine = checkAndUpdateName(response, formattedLine, beerName);
 			formattedLine = checkAndUpdateRbId(response, formattedLine, rbId);
@@ -51,6 +56,10 @@ public class RbClient {
 		}
 
 		return formattedLine;
+	}
+
+	private static boolean isAlias(String response) {
+		return response.contains("<span class=rip> A </span>");
 	}
 
 	private static int getNumberOfHits(String response) {

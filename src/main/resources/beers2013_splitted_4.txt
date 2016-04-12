@@ -1,0 +1,199 @@
+2011-03-19;Niko;;;Dugges Kals Stout;Bottle 500ml;;;6;3;8;3;14;No textual comments;0
+2011-03-19;Niko;;;Great Divide Hibernation Ale;Bottle 355ml;;;9;3;8;4;15;No textual comments;0
+2011-03-19;Niko;;;St. Bernardus Abt 12;Bottle 750ml;;;8;3;8;3;15;No textual comments;0
+2011-03-19;Olutravintola Konttori;;;Struise Black Albert;Bottle 330ml;;;8;3;8;3;15;No textual comments;0
+2011-03-19;Pirkkala;2010-06-02;Alko Kaleva;Saison Dupont Biologique;Bottle 250ml;2012-04-30;;8;3;7;3;14;No textual comments;0
+2011-03-20;Pirkkala;2011-03-20;K-citymarket Pirkkala;Lancaster Black;Bottle 500ml;2012-03-31;;6;3;6;2;13;No textual comments;0
+2011-03-20;Pirkkala;2011-03-20;K-citymarket Pirkkala;Lefebvre Blanche de Bruxelles;Bottle 330ml;2012-04-28;;6;3;7;3;12;No textual comments;0
+2011-03-20;Pirkkala;2011-03-20;K-citymarket Pirkkala;Platan Protivínsk_ Granát Polotmav_ Le_ák 11°;Bottle 500ml;2011-03-12;;5;3;5;2;10;No textual comments;0
+2011-03-21;Pirkkala;2011-03-20;K-citymarket Pirkkala;Dark Star Espresso Stout;Bottle 500ml;2012-12-31;;7;3;6;3;13;No textual comments;0
+2011-03-21;Pirkkala;2011-03-21;Alko Anttila;Inveralmond Blackfriar Scottish Ale;Bottle 500ml;2013-03-31;;6;3;7;3;13;No textual comments;0
+2011-03-22;Pirkkala;2011-03-21;Alko Anttila;Marstons Old Empire;Bottle 500ml;2012-03-21;;5;2;5;2;8;No textual comments;0
+2011-03-22;Pirkkala;2011-03-20;K-citymarket Pirkkala;Ridgeway Querkus (4.5%);Bottle 500ml;2012-05-17;;7;3;7;3;13;No textual comments;0
+2011-03-23;Pirkkala;2011-03-20;K-citymarket Pirkkala;Timothy Taylor Landlord;Bottle 500ml;2011-06-30;;6;3;7;3;13;No textual comments;0
+2011-03-24;Pirkkala;2011-03-21;Alko Anttila;Huvila ESB;Bottle 500ml;2011-09-09;;8;3;7;3;13;No textual comments;0
+2011-03-25;Ruovesi;2011-03-24;K-citymarket Pirkkala;Saimaan Woima;Bottle 330ml;2011-05-31;;5;3;5;2;10;No textual comments;0
+2011-03-26;Ruovesi;2011-03-25;Alko Lielahti;Franziskaner Hefe-Weissbier;Bottle 500ml;2011-12-31;;6;3;6;3;13;No textual comments;0
+2011-03-26;Ruovesi;2011-03-26;Alko Ruovesi;Karhu IV A;Bottle 330ml;2011-08-14;;3;2;4;1;8;No textual comments;0
+2011-03-26;Ruovesi;2011-03-26;Alko Ruovesi;Karjala IV A;Bottle 330ml;2011-09-30;;1;2;3;1;4;No textual comments;0
+2011-03-26;Ruovesi;2011-03-26;Alko Ruovesi;Lapin Kulta IV A;Bottle 330ml;2011-08-28;;2;2;3;1;4;No textual comments;0
+2011-03-26;Ruovesi;2011-03-26;Alko Ruovesi;Sinebrychoff Koff Extra Brew IV;Bottle 330ml;2011-06-16;;3;2;3;2;10;No textual comments;0
+2011-03-26;Ruovesi;2011-03-25;Alko Lielahti;Stallhagen Dunkles IV;Bottle 330ml;2011-08-17;;7;3;5;2;12;No textual comments;0
+2011-03-27;Pirkkala;2011-03-25;Alko Lielahti;Sinebrychoff Suklainen Tumma Lager 8 %;Bottle 330ml;2011-06-16;;4;3;5;2;12;No textual comments;0
+2011-03-28;Pirkkala;2011-03-28;K-citymarket Pirkkala;Beer Hunters Mufloni Single Hop Amarillo;Bottle 330ml;2011-08-11;;8;3;7;2;12;No textual comments;0
+2011-03-28;Pirkkala;2011-03-25;Alko Lielahti;Duvel;Bottle 330ml;;;8;3;8;3;14;No textual comments;0
+2011-03-29;Pirkkala;2011-03-28;K-citymarket Pirkkala;Oakham Inferno;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2011-03-30;Pirkkala;2011-03-21;Alko Anttila;Greene King Strong Suffolk;Bottle 500ml;2012-04-30;;7;3;8;3;13;No textual comments;0
+2011-03-30;Pirkkala;2011-03-28;K-citymarket Pirkkala;Nøgne Ø Wit;Bottle 500ml;2012-07-30;;8;3;7;2;14;No textual comments;0
+2011-03-31;Pirkkala;2011-03-31;Alko Kaleva;New Castle Brown Ale;Bottle 330ml;2012-01-31;;5;3;6;2;12;No textual comments;0
+2011-04-01;Ruovesi;2010-07-21;System Bolaget Örebro;AleSmith IPA;Bottle 650ml;2011-03-31;;9;3;9;3;14;No textual comments;0
+2011-04-01;Ruovesi;2010-10-10;Whole Foods Bowery, New York, New York USA;Cigar City Humidor Series Jai Alai India Pale Ale;Bottle 750ml;;;9;3;9;3;16;No textual comments;0
+2011-04-01;Ruovesi;2009-07-01;Alko Arkadia;Left Hand Imperial Stout;Bottle 355ml;2011-06-15;;8;3;8;3;15;No textual comments;0
+2011-04-02;Ruovesi;2011-03-28;K-citymarket Pirkkala;Oakham Citra;Bottle 500ml;;;8;2;7;2;12;No textual comments;0
+2011-04-03;Pirkkala;2011-03-30;Alko Kaleva;Anchor Liberty Ale;Bottle 355ml;2012-12-31;;7;3;7;3;13;No textual comments;0
+2011-04-03;Pirkkala;2011-03-20;Alko Kaleva;Stella Artois;Bottle 330ml;;;3;2;4;1;8;No textual comments;0
+2011-04-04;Pirkkala;2010-07-18;Vinmonopolet Rjukan;Aass Bock;Bottle 330ml;2011-04-01;;7;3;6;2;11;No textual comments;0
+2011-04-05;Pirkkala;2011-03-28;K-citymarket Pirkkala;Beer Hunters Mufloni Single Hop Simcoe;Bottle 330ml;2011-08-16;;8;3;6;2;12;No textual comments;0
+2011-04-06;Pirkkala;2011-03-31;Alko Kaleva;Nøgne Ø # 500 Imperial India Pale Ale (Batch 500);Bottle 500ml;;#586;9;4;9;4;16;No textual comments;0
+2011-04-08;Pirkkala;2011-03-20;K-citymarket Pirkkala;Kaltenberg Organic;Bottle 330ml;2011-03-24;;4;2;4;2;8;No textual comments;0
+2011-04-09;Angleterre;;;Stadin Ruisstoutti;Draft;;;8;3;7;3;11;No textual comments;0
+2011-04-09;Gastropub Stone's;;;BrewDog IPA Is Dead - Citra;Draft;;;8;3;8;3;14;No textual comments;0
+2011-04-09;HBF 2011;;;Beer Hunters Mufloni CCCCC;Draft;;;7;3;8;3;13;No textual comments;0
+2011-04-09;HBF 2011;;;Beer Hunters Mufloni Kuvee de Yyteri;Draft;;;6;3;7;3;11;No textual comments;0
+2011-04-09;HBF 2011;;;Beer Hunters Mufloni Ruisnalle Barley Wine;Draft;;;8;3;8;3;13;No textual comments;0
+2011-04-09;HBF 2011;;;Beer Hunters Äkäpukki Imperial Stout;Bottle 330ml;;;8;3;7;3;12;No textual comments;0
+2011-04-09;HBF 2011;;;BrewDog Mikkeller I Hardcore You;Bottle 330ml;;;9;3;9;3;15;No textual comments;0
+2011-04-09;HBF 2011;;;BrewDog IPA Is Dead - Nelson Sauvin;Bottle 330ml;;;8;3;8;3;14;No textual comments;0
+2011-04-09;HBF 2011;;;Keuda Vaalea Sarvi;Draft;;;8;3;7;3;12;No textual comments;0
+2011-04-09;HBF 2011;;;Malmgård Alpo's IPA;Draft;;;6;3;7;3;11;No textual comments;0
+2011-04-09;HBF 2011;;;RCH Huish IPA Ale;Cask;;;5;3;5;2;9;No textual comments;0
+2011-04-09;HBF 2011;;;RCH Old Slug Porter;Cask;;;7;3;7;3;10;No textual comments;0
+2011-04-09;HBF 2011;;;Van Den Bossche Buffalo Belgian Stout;Bottle 330ml;;;7;3;7;3;10;No textual comments;0
+2011-04-09;Pirkkala;2011-04-09;Alko Arkadia;Fuller's Past Masters XX;Bottle 500ml;2013-12-31;;6;3;6;3;10;No textual comments;0
+2011-04-09;Pirkkala;2009-09-26;System Bolaget Passagen;Southern Tier Un*Earthly;Draft;;;9;4;9;4;16;No textual comments;0
+2011-04-10;Pirkkala;2011-12-06;Bierkompass;Baird Rising Sun Pale Ale;Bottle 330ml;2012-11-30;;8;3;7;3;11;No textual comments;0
+2011-04-11;Pirkkala;2011-12-06;Bierkompass;Westoek XX (8% ABV);Bottle 330ml;2016-01-31;;8;3;7;3;11;No textual comments;0
+2011-04-12;Pirkkala;2011-04-12;K-citymarket Pirkkala;Det Lille Bryggeri Humlemord High and Low;Bottle 330ml;2011-10-09;;8;3;7;2;12;No textual comments;0
+2011-04-13;Pirkkala;2011-04-13;Alko Pirkkala;Svyturys Baltijos;Bottle 500ml;2011-08-13;;6;3;6;2;11;No textual comments;0
+2011-04-13;Pirkkala;2011-04-12;K-citymarket Pirkkala;Ægir Brime Red Lager;Bottle 500ml;2012-04-26;;7;3;6;3;12;No textual comments;0
+2011-04-13;Ruovesi;2012-03-24;Alko Arkadia;Nymburk Post_i_inské Bogan Svetl_ Special 13°;Bottle 500ml;2012-10-10;;6;2;8;3;11;No textual comments;0
+2011-04-15;Sokos Hotel Arina;;;Vakka-Suomen Prykmestar Savu;Bottle 500ml;;;7;2;7;3;12;No textual comments;0
+2011-04-18;Saariselkä;2011-04-16;System Bolaget Haparanda;Zlatopramen Anno 1642;Bottle 500ml;2011-12-03;;5;3;5;2;8;No textual comments;0
+2011-04-20;Saariselkä;2011-04-16;System Bolaget Haparanda;Duyck Jenlain Blonde;Bottle 750ml;;;5;2;6;3;10;No textual comments;0
+2011-04-20;Saariselkä;2011-04-16;System Bolaget Haparanda;Oppigårds Single Hop Ale;Bottle 330ml;2011-07-31;;8;3;7;3;12;Light golden color and white head. Aroma is grain and grass. Flavor is malt, light hoppiness. Medium body and carbonation.;0
+2011-04-23;Ruovesi;2011-04-09;Alko Arkadia;Innis & Gunn Limited Edition Oak Aged IPA;Bottle 330ml;2011-07-31;;7;3;6;2;11;No textual comments;0
+2011-04-23;Ruovesi;2011-04-23;K-Market Ruovesi;Miller Genuine Draft (MGD);Bottle 355ml;2011-11-15;;3;2;3;2;8;No textual comments;0
+2011-04-23;Ruovesi;2011-04-23;S-market Ruovesi;Saku Kuld Export;Can 500ml;2011-10-05;;3;2;4;2;9;No textual comments;0
+2011-04-23;Ruovesi;2011-04-23;S-market Ruovesi;Saku Originaal;Bottle 500ml;;;3;2;3;2;7;No textual comments;0
+2011-04-23;Ruovesi;2011-04-23;S-market Ruovesi;Salitos Cerveza Especial;Bottle 330ml;2012-03-08;;3;1;2;1;6;No textual comments;0
+2011-04-23;Ruovesi;2011-04-23;S-market Ruovesi;Sol;Bottle 330ml;2011-12-21;;2;2;4;2;8;No textual comments;0
+2011-04-23;Ruovesi;2011-04-16;System Bolaget Haparanda;Williams Brothers Seven Giraffes;Bottle 500ml;2012-07-31;;6;3;6;3;12;No textual comments;0
+2011-04-24;Ruovesi;2011-04-16;System Bolaget Haparanda;Erdinger Weissbier (Hefe-Weizen);Bottle 500ml;2012-02-28;;7;3;5;2;10;No textual comments;0
+2011-04-24;Ruovesi;2011-04-14;Alko Koivistonkylä;Hacker-Pschorr (Hefe) Weisse  ;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2011-04-24;Ruovesi;2011-04-16;System Bolaget Haparanda;Kilkenny;Bottle 330ml;2011-08-18;;5;3;6;2;11;No textual comments;0
+2011-04-26;Pirkkala;2011-04-16;System Bolaget Haparanda;Great Divide Yeti Imperial Stout;Bottle 355ml;2012-01-01;;9;4;9;4;17;No textual comments;0
+2011-04-27;Pirkkala;2011-04-14;Alko Koivistonkylä;Svaneke Catch 22;Bottle 500ml;2012-03-16;;6;3;6;2;10;No textual comments;0
+2011-04-29;Pirkkala;2011-04-16;System Bolaget Haparanda;S:t Eriks Pale Ale;Bottle 330ml;2011-11-28;;8;3;8;3;13;No textual comments;0
+2011-04-30;Pirkkala;2011-04-09;Alko Arkadia;Sierra Nevada Celebration Ale 2010;Bottle 355ml;2011-10-15;;8;3;7;3;13;No textual comments;0
+2011-05-01;Pirkkala;;Gift From Matti;Carlsberg Elephant;Bottle 330ml;2011-09-07;;4;3;2;2;5;No textual comments;0
+2011-05-07;Niko;;;Beer Here Black Cat;Bottle 500ml;;;8;3;8;3;13;No textual comments;0
+2011-05-07;O´Hara´s Freehouse;;;BrewDog IPA Is Dead - Bramling X;Draft;;;8;3;7;3;13;No textual comments;0
+2011-05-07;O´Hara´s Freehouse;;;BrewDog IPA Is Dead - Nelson Sauvin;Draft;;;8;3;7;3;14;No textual comments;0
+2011-05-07;O´Hara´s Freehouse;;;BrewDog IPA Is Dead - Sorachi Ace;Draft;;;7;3;7;3;12;No textual comments;0
+2011-05-07;O´Hara´s Freehouse;;;BrewDog Riptide 4.1%;Cask;;;8;3;7;2;13;No textual comments;0
+2011-05-07;O´Hara´s Freehouse;;;BrewDog Sink the Bismarck;Sample;;;8;3;8;4;15;No textual comments;0
+2011-05-08;Pirkkala;2011-04-30;Alko Stockmann;Sierra Nevada Pale Ale;Bottle 355ml;2011-10-13;;7;3;7;3;13;clear Golden color With Thin white head. Aroma is hops, Sweet malts. flavor is malt, hops, pepper,Grape. Medium Body, Lots of carbonation. Refreshing.;0
+2011-05-11;Pirkkala;2011-04-09;Alko Arkadia;Anchor Old Foghorn Ale;Bottle 355ml;2012-11-30;;9;3;7;3;13;No textual comments;0
+2011-05-12;Pirkkala;2011-04-16;System Bolaget Haparanda;Eriksberg Påsköl;Bottle 500ml;2011-10-04;;6;3;6;3;12;No textual comments;0
+2011-05-13;Ruovesi;2011-05-12;Alko Koivistonkylä;Herold Czech Premium Lager / Světlý Březnický Ležák 12°;Bottle 500ml;2012-04-04;;4;2;5;2;10;No textual comments;0
+2011-05-14;Ruovesi;2011-05-12;Alko Koivistonkylä;Forst Premium;Bottle 330ml;2012-03-24;;3;2;3;1;8;No textual comments;0
+2011-05-14;Ruovesi;2011-04-16;System Bolaget Haparanda;Gösser Beer;Bottle 330ml;2012-02-28;;3;2;4;2;9;No textual comments;0
+2011-05-16;Pirkkala;2011-05-12;Prisma Koivistonkylä;Estrella Galicia;Bottle 330ml;;;4;2;4;2;7;No textual comments;0
+2011-05-17;Pirkkala;2011-05-17;Alko Pirkkala Partola;Beck's;Bottle 500ml;2012-03-31;;4;2;4;2;8;No textual comments;0
+2011-05-20;Ruovesi;2011-05-17;Lidl Partola;Grafenwalder Premium Pils;Can 500ml;2012-03-02;;4;2;4;2;10;No textual comments;0
+2011-05-21;Ruovesi;2011-05-21;S-market Ruovesi;Laitilan Kukko Vahva Pils;Can 330ml;;;4;3;4;2;10;No textual comments;0
+2011-05-21;Ruovesi;2011-05-17;Lidl Partola;Perlenbacher Premium Pils;Bottle 500ml;;;3;2;2;1;6;No textual comments;0
+2011-05-21;Ruovesi;2011-05-21;Alko Ruovesi;Spaten München;Bottle 500ml;2012-02-28;;4;2;5;2;10;No textual comments;0
+2011-05-21;Ruovesi;2011-05-21;Alko Ruovesi;St Feuillien Cuvée de Pâques;Bottle 330ml;2013-02-09;;8;3;7;3;12;Copper reddish color with off white head. Aroma is herbs, flowers and yeast. Flavor is sweet caramel, fruits, slightly yeasty. Ligth bitter finnish.;0
+2011-05-22;Pirkkala;2011-05-22;K-citymarket Pirkkala;Cuvée des Trolls;Bottle 330ml;2012-01-06;;7;3;6;2;11;ei kehity vuoden kypsytyksessä, 2012-02-06;0
+2011-05-23;Pirkkala;2011-05-21;Alko Ruovesi;Saku Rock;Bottle 500ml;2011-07-31;;4;3;4;2;8;No textual comments;0
+2011-05-24;Pirkkala;2011-05-24;Alko Pirkkala Partola;Kalnapilis 7.30;Bottle 500ml;2011-10-23;;4;2;4;2;10;No textual comments;0
+2011-05-26;Pirkkala;2011-05-26;Alko Koivistonkylä;Palm Speciale;Bottle 330ml;2011-11-18;;6;3;6;2;10;No textual comments;0
+2011-05-27;Ruovesi;2011-05-26;Alko Koivistonkylä;Orval;Bottle 330ml;2015-04-02;Brewed 2010-04-22;8;3;7;3;13;No textual comments;0
+2011-05-28;Ruovesi;2011-05-26;Alko Koivistonkylä;Budels Mei Bock;Bottle 300ml;2012-01-31;;4;3;3;2;5;No textual comments;0
+2011-06-02;Ruovesi;2011-05-31;Alko Kaleva;Chimay Bleue;Bottle 330ml;2017-12-31;;7;3;7;3;13;No textual comments;0
+2011-06-03;Ruovesi;2011-06-03;S-market Ruovesi;Brutal Brewing Pistonhead Low Ridin´ Lager 4.6%;Can 500ml;2012-01-31;;6;2;6;2;10;No textual comments;0
+2011-06-03;Ruovesi;2011-06-03;S-market Ruovesi;Fuller's London Pride;Bottle 500ml;2012-03-30;;7;3;6;2;11;No textual comments;0
+2011-06-05;Pirkkala;2009-06-22;Bier Temple, Brussels;Bush de Nuits (2008);Bottle 750ml;2011-12-31;;8;3;8;3;14;No textual comments;0
+2011-06-05;Pirkkala;2011-04-16;System Bolaget Haparanda;Jämtlands Hell;Bottle 500ml;2011-06-31;;6;3;6;3;11;No textual comments;0
+2011-06-07;Pirkkala;2011-05-24;Alko Arkadia;Sierra Nevada Bigfoot 2011;Bottle 355ml;2012-01-07;;8;3;8;3;13;No textual comments;0
+2011-06-09;Pirkkala;2011-06-08;Alko Kaleva;Schneider Weisse Kristall;Bottle 500ml;2012-03-11;;8;3;6;3;11;No textual comments;0
+2011-06-09;Pirkkala;2011-06-08;Alko Kaleva;Svaneke Session Pilsner;Bottle 500ml;2012-04-14;;6;3;7;3;12;No textual comments;0
+2011-06-10;Ruovesi;2011-06-08;Alko Kaleva;De Ranke Saison De Dottignies;Bottle 330ml;;;7;3;7;3;11;No textual comments;0
+2011-06-11;Ruovesi;2011-06-10;Sale Kuru;Hartwall Karjala Terva (4.6% version);Bottle 330ml;2012-04-09;;4;3;5;3;8;No textual comments;0
+2011-06-11;Ruovesi;2011-06-08;Alko Kaleva;Oppigårds Golden Summer Ale;Bottle 330ml;2011-11-30;;7;3;7;3;10;No textual comments;0
+2011-06-11;Ruovesi;2011-06-10;Sale Kuru;Tuborg Lime Cut;Bottle 330ml;2011-07-20;;5;2;3;2;7;No textual comments;0
+2011-06-11;Ruovesi;2011-06-11;Alko Ruovesi;Vakka-Suomen Prykmestar LuomuPils;Bottle 500ml;2011-03-01;;5;3;5;3;9;No textual comments;0
+2011-06-13;Gastropub Nordic;;;Amager 3. Akt;Bottle 500ml;2012-07-31;#286;7;3;8;3;13;No textual comments;0
+2011-06-13;Gastropub Nordic;;;Kuninkaankartanon Joku Ale;Draft;;;7;3;7;3;11;No textual comments;0
+2011-06-14;Pirkkala;2011-06-10;Sale Kuru;Mallaskosken Kuohu Punertava Amber;Can 500ml;2011-09-02;;5;3;4;2;10;No textual comments;0
+2011-06-16;Pirkkala;2011-06-14;K-citymarket Pirkkala;Meantime London Pale Ale;Bottle 330ml;;;6;3;6;3;10;No textual comments;0
+2011-06-18;Niko;;;Avery Anniversary Seventeen;Bottle 650ml;;;7;3;8;3;14;No textual comments;0
+2011-06-18;Niko;;;Sierra Nevada Harvest Fresh Hop IPA - Southern Hemisphere;Bottle 710ml;;;8;3;8;3;13;No textual comments;0
+2011-06-19;Olutravintola Konttori;;;Sigtuna South Pacific Pale Ale;Bottle 500ml;2011-03-20;;8;3;7;3;12;No textual comments;0
+2011-06-19;Olutravintola Konttori;;;Struise St. Amatus - Oostvleteren 12;Bottle 330ml;;;7;3;7;3;13;No textual comments;0
+2011-06-22;Pirkkala;2011-06-18;Alko Koivistonkylä;Forest L’Avesnoise Bière Blanche;Bottle 330ml;2012-12-31;;8;3;7;3;11;No textual comments;0
+2011-06-23;Pirkkala;2011-04-16;System Bolaget Haparanda;Beer Here Vårwit;Bottle 500ml;2012-01-12;;7;3;7;3;11;No textual comments;0
+2011-06-23;Pirkkala;2011-04-16;System Bolaget Haparanda;Nils Oscar Hop Yard IPA;Bottle 330ml;2011-09-30;;8;3;7;3;11;No textual comments;0
+2011-06-23;Pirkkala;2011-04-16;System Bolaget Haparanda;Oppigårds Spring Ale 2011;Bottle 330ml;;;7;3;6;3;12;No textual comments;0
+2011-06-23;Pirkkala;2011-04-16;System Bolaget Haparanda;S:t Eriks IPA;Bottle 330ml;2011-09-11;;6;3;6;2;9;No textual comments;0
+2011-06-24;Cask Pub & Kitchen, London;;;Gadds / Revelation Cat Back to Basic West Coast IIPA  ;Draft;;;7;3;8;3;14;No textual comments;0
+2011-06-24;Cask Pub & Kitchen, London;;;Gadds / Revelation Cat Back to Basic West Coast IPA  ;Draft;;;8;3;8;3;14;No textual comments;0
+2011-06-24;Cask Pub & Kitchen, London;;;Grassroots Deva Double IPA;Draft;;;7;3;7;3;13;No textual comments;0
+2011-06-24;Cask Pub & Kitchen, London;;;Mikkeller Hop Series Cluster;Bottle 330ml;;;6;3;7;3;12;No textual comments;0
+2011-06-24;Pirkkala;2011-06-08;Alko Kaleva;Nøgne Ø Saison;Bottle 500ml;2014-04-19;#619;7;4;8;3;12;No textual comments;0
+2011-06-24;Pirkkalan Lentoasema;;;Kru_ovice Imperial 12°;Bottle 500ml;;;6;3;6;3;10;No textual comments;0
+2011-06-24;Terravision bus;2011-06-24;Spar Stanstead Airport;Worthington Ale/Draught/Creamflow;Can 500ml;2011-06-24;;6;3;6;3;9;No textual comments;0
+2011-06-25;Southwark Tavern, London;;;White Horse Saracen IPA;Cask;;;6;3;6;2;9;No textual comments;0
+2011-06-25;The Kernel;;;The Kernel India Pale Ale Black;Draft;;;6;3;7;3;11;rating number 1000;0
+2011-06-25;The Kernel;;;The Kernel India Pale Ale Columbus;Draft;;;7;3;8;3;12;No textual comments;0
+2011-06-25;The Kernel;;;The Kernel India Pale Ale Simcoe;Draft;;;8;3;8;3;13;No textual comments;0
+2011-06-25;The Mint Hotel Roof Top Bar, London;;;Brooklyn Black Chocolate Stout;Bottle 355ml;;;9;3;8;3;14;No textual comments;0
+2011-06-25;The Mint Hotel Roof Top Bar, London;;;Harviestoun Schiehallion;Bottle 500ml;;;6;3;7;3;10;No textual comments;0
+2011-06-25;The Mint Hotel, London;2011-06-24;Cask Pub & Kitchen, London;Smuttynose Big A IPA;Bottle 355ml;;;8;3;8;3;14;No textual comments;0
+2011-06-25;The Phoenix, London;;;BrewDog Alice Porter;Cask;;;7;3;7;3;10;No textual comments;0
+2011-06-25;The Rake, London;;;Great Divide Hades;Bottle 355ml;;;8;3;8;3;12;No textual comments;0
+2011-06-25;The Rake, London;;;Saranac India Pale Ale;Bottle 355ml;;;7;3;6;3;10;No textual comments;0
+2011-06-25;The Rake, London;;;The Kernel India Pale Ale Amarillo;Bottle 330ml;;;7;3;8;3;12;No textual comments;0
+2011-06-26;Bodean's BBQ, London;;;Goose Island India Pale Ale;Bottle 355ml;;;9;3;8;3;14;JFK 2010 2010-10-14 draft.;0
+2011-06-26;Cask Pub & Kitchen, London;;;Beer Here Kama Citra;Bottle 500ml;;;8;3;8;3;12;No textual comments;0
+2011-06-26;Cask Pub & Kitchen, London;;;Port Brewing Shark Attack Double Red Ale;Bottle 650ml;;;9;4;8;3;14;No textual comments;0
+2011-06-26;Tattersalls Tavern, London;;;St. Austell Tribute;Cask;;;6;2;6;2;9;No textual comments;0
+2011-06-26;The Mint Hotel, London;2011-06-25;Utobeer Market Stall, London;Saranac Imperial Stout;Bottle 355ml;;;8;3;8;3;13;No textual comments;0
+2011-06-28;Pirkkala;2011-06-16;K-citymarket Pirkkala;Goose Island 312 Urban Wheat Ale;Bottle 355ml;2012-03-01;;7;3;6;3;10;No textual comments;0
+2011-06-29;Pirkkala;2011-06-08;Alko Kaleva;Mikkeller Burger & Bun L.A. Lager;Bottle 330ml;2013-05-02;;8;3;8;3;12;No textual comments;0
+2011-07-02;Gastropub Nordic;;;Hornbeer Hophorn;Draft;;;9;3;9;3;14;No textual comments;0
+2011-07-02;Gastropub Tuulensuu;;;Goedecke Döllnitzer Ritterguts Gose;Draft;;;7;3;7;3;11;No textual comments;0
+2011-07-02;Gastropub Tuulensuu;;;Mahrs Bräu Der Weisse Bock;Bottle 500ml;;;8;3;8;3;13;No textual comments;0
+2011-07-02;Gastropub Tuulensuu;;;Mahrs Bräu Kellerbier Ungespundet Hefetrüb;Bottle 500ml;;;7;3;7;3;10;No textual comments;0
+2011-07-02;Gastropub Tuulensuu;;;St. Bernardus Prior 8;Bottle 330ml;;;8;3;8;3;13;No textual comments;0
+2011-07-02;O´Hara´s Freehouse;;;BrewDog Three Floyds Bitch Please;Bottle 330ml;;;8;3;8;3;14;todella erikoinen, viskitynnyriä maistuu reilusti;0
+2011-07-02;O´Hara´s Freehouse;;;St. Ambroise Oatmeal Stout;Bottle 341ml;;;8;3;7;3;11;No textual comments;0
+2011-07-03;Pirkkala;2011-07-02;K-citymarket Pirkkala;Slottskällans London;Bottle 500ml;2011-11-26;;7;3;8;3;12;No textual comments;0
+2011-07-04;Pirkkala;2011-07-02;Alko Kaleva;Fuller's London Porter;Bottle 500ml;2012-03-08;;8;4;7;3;13;No textual comments;0
+2011-07-05;Pirkkala;2011-07-02;Alko Kaleva;Gusswerk Weizenguss;Bottle 330ml;2012-02-27;;7;3;6;3;10;No textual comments;0
+2011-07-06;Pirkkala;2011-07-02;Alko Kaleva;Gulden Draak;Bottle 330ml;2013-04-26;;7;3;8;3;12;No textual comments;0
+2011-07-07;Pirkkala;2011-07-07;Alko Kaleva;Samuel Smiths Oatmeal Stout;Bottle 500ml;2012-03-31;;6;3;6;3;11;No textual comments;0
+2011-07-08;Ruovesi;2011-07-07;Alko Kaleva;Anchor Steam Beer;Bottle 355ml;2013-04-30;;6;3;7;3;11;No textual comments;0
+2011-07-08;Ruovesi;2011-07-07;Prisma Kaleva;Postrizinske Svetl_ Lezák 11°;Bottle 500ml;2012-02-06;;7;3;6;3;11;No textual comments;0
+2011-07-08;Ruovesi;2011-07-07;Alko Kaleva;Vakka-Suomen Prykmestar Wehnäbock;Bottle 500ml;2012-05-23;;7;3;7;3;14;Hazy Copper With off white head. Aroma yeast, wheat, flavor is Sweet fruits, yeast, Medium Body and carbonation. Well balanced. Really good.;0
+2011-07-09;Ruovesi;2011-07-07;Prisma Kaleva;Anchor Summer Beer;Bottle 355ml;2013-03-31;;7;3;6;2;9;No textual comments;0
+2011-07-09;Ruovesi;2011-07-07;Alko Kaleva;Mikkeller Not Just Another Wit;Bottle 750ml;2014-04-27;#201115;8;3;8;3;14;Cluody yellow, white head. Aroma is wheat , yeast, sweet exotic fruits. Flavor is sweet, yeast, hops, spices. Bitter finnish. Soft carbonation;0
+2011-07-09;Ruovesi;2011-07-09;Alko Ruovesi;Sinebrychoff Panimomestarin Nikolai Premium Pils;Bottle 330ml;2012-12-24;;5;3;5;2;8;No textual comments;0
+2011-07-10;Pirkkala;2011-07-02;K-citymarket Pirkkala;Slottskällans Nordic;Bottle 500ml;2011-11-25;;8;3;7;2;12;No textual comments;0
+2011-07-12;Pirkkala;2011-04-16;System Bolaget Haparanda;S:t Eriks Vårlager;Bottle 330ml;2011-09-25;;6;3;6;3;11;No textual comments;0
+2011-07-15;Gastropub Nordic;;;Det Lille Bryggeri Barrel Aged Barley Wine;Bottle 250ml;;;9;3;8;3;12;No textual comments;0
+2011-07-15;Gastropub Tuulensuu;;;De Dochter van de Korenaar Embrasse Oak Aged Single Cask;Bottle 375ml;;;8;3;8;3;14;No textual comments;0
+2011-07-15;Gastropub Tuulensuu;;;De Dolle Boskeun;Bottle 330ml;2012-02-29;;9;3;8;3;14;No textual comments;0
+2011-07-15;Gastropub Tuulensuu;;;Koutsk_ 12° Sv_tl_ Le_ák;Draft;;;7;3;7;3;11;No textual comments;0
+2011-07-15;Gastropub Tuulensuu;;;Troubadour Magma;Bottle 330ml;;;8;3;7;3;11;No textual comments;0
+2011-07-15;Konttori;;;Founders Pale Ale;Bottle 355ml;;;7;3;7;3;12;No textual comments;0
+2011-07-15;Konttori;;;Ægir India Pale Ale;Bottle 500ml;2013-02-07;;8;3;8;3;13;No textual comments;0
+2011-07-16;Plevna;;;Plevnan James Savuolut;Draft;;;8;3;7;3;12;No textual comments;0
+2011-07-16;Plevna;;;Plevnan Siperia;Draft;;;7;4;8;3;14;No textual comments;0
+2011-07-16;Plevna;;;Plevnan Smörre IPA;Draft;;;7;3;7;3;12;No textual comments;0
+2011-07-17;Ruovesi;2011-07-17;K-citymarket Ylöjärvi;Atlas Latitude Highland Pilsner;Bottle 500ml;2011-10-31;;8;3;8;3;12;No textual comments;0
+2011-07-17;Ruovesi;2010-07-21;System Bolaget Örebro;Founders Centennial IPA;Bottle 355ml;2011-06-30;;9;3;8;3;12;No textual comments;0
+2011-07-18;Ruovesi;2011-04-16;System Bolaget Haparanda;Dugges Rudolf 2008-2012;Bottle 500ml;2011-06-30;;9;3;9;4;16;No textual comments;0
+2011-07-18;Ruovesi;2011-07-18;Alko Ruovesi;Saimaan Luostari Dubbel;Bottle 330ml;;;7;3;6;3;11;No textual comments;0
+2011-07-19;Ruovesi;2011-07-18;Alko Ruovesi;Baltika 6 Porter;Bottle 500ml;2011-12-09;;6;3;8;3;12;No textual comments;0
+2011-07-20;Ruovesi;2011-07-20;Alko Ruovesi;Leffe Brune;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
+2011-07-20;Ruovesi;2011-07-20;K-Market Ruovesi;Olvi Halko III;Can 568ml;2012-01-21;;4;2;4;2;6;No textual comments;0
+2011-07-21;Pirkkala;2011-07-21;Alko Turtola;Paulaner Salvator;Bottle 330ml;2012-06-30;;6;3;7;3;11;No textual comments;0
+2011-07-22;Pirkkala;2011-07-22;Lidl Pirkkala;Fink Bräu Pils 2.8%;Can 330ml;;;4;2;3;1;7;No textual comments;0
+2011-07-22;Pirkkala;2011-07-22;Lidl Pirkkala;Nobelaner Premium Pils;Can 330ml;;;3;2;4;2;9;No textual comments;0
+2011-07-22;Pirkkala;2011-07-17;K-citymarket Ylöjärvi;Oakham JHB;Bottle 500ml;2012-01-27;;7;3;7;3;12;No textual comments;0
+2011-07-23;Gastropub Nordic;;;Mikkeller Å Pale Ale;Draft;;;8;3;8;3;13;No textual comments;0
+2011-07-23;Gastropub Tuulensuu;;;De Hemel Nieuw Ligt Grand Cru;Bottle 330ml;;;8;3;8;3;13;No textual comments;0
+2011-07-23;Gastropub Tuulensuu;;;Dormaal Wit Goud;Bottle 330ml;;;7;3;7;3;12;No textual comments;0
+2011-07-23;Pirkkala;2011-04-16;System Bolaget Haparanda;BrewDog Punk IPA (6%);Bottle 330ml;2012-07-03;;7;3;8;3;12;No textual comments;0

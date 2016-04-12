@@ -170,4 +170,44 @@ public class ConvertFile {
 		}
 		return true;
 	}
+
+	public static int split(String inputFile, String outputFilePrefix) {
+
+		List<String> lines = BeerRatingFileReader.readFile(inputFile);
+		removeEmptyLines(lines);
+
+		final int maxNumberOfLines = 199;
+		final int indexOfLastLine = lines.size();
+		int fromIndex = 0;
+		int outputFileNumber = 0;
+		boolean linesToHandle = true;
+		while (linesToHandle) {
+			outputFileNumber++;
+			int toIndex = getToIndex(fromIndex, indexOfLastLine, maxNumberOfLines);
+			System.out.println("from: " + fromIndex + " to: " + toIndex + " file number: " + outputFileNumber);
+			BeerRatingFileWriter.writeFile(getFileName(outputFilePrefix, outputFileNumber),
+					lines.subList(fromIndex, toIndex));
+			fromIndex = toIndex + 1;
+			linesToHandle = toIndex < indexOfLastLine ? true : false;
+		}
+		return outputFileNumber;
+	}
+
+	public static void merge(String inputFilePrefix, String outputFile, int numberOfFiles) {
+		List<String> lines = new ArrayList<>();
+		for (int i = 1; i <= numberOfFiles; i++) {
+			List<String> subLines = BeerRatingFileReader.readFile(getFileName(inputFilePrefix, i));
+			lines.addAll(subLines);
+		}
+		BeerRatingFileWriter.writeFile(outputFile, lines);
+
+	}
+
+	private static int getToIndex(int fromIndex, int indexOfLastLine, int maxNumberOfLines) {
+		return fromIndex + maxNumberOfLines < indexOfLastLine ? fromIndex + maxNumberOfLines : indexOfLastLine;
+	}
+
+	private static String getFileName(String fileNamePrefix, int fileNumber) {
+		return fileNamePrefix + fileNumber + ".txt";
+	}
 }

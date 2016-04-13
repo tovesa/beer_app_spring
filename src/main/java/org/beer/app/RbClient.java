@@ -11,7 +11,7 @@ public class RbClient {
 	private static final Logger LOG = LoggerFactory.getLogger(RbClient.class);
 	private static HttpClient httpClient = HttpClient.getInstance();
 
-	public String enhanceBeerData(String line) {
+	public String enhanceBeerData(String line, int lineNumber) {
 		String formattedLine = line;
 		String beerName;
 		String rbId;
@@ -22,7 +22,7 @@ public class RbClient {
 				return formattedLine;
 			}
 		} catch (BeerValidationException e) {
-			LOG.error("Exception: " + e);
+			LOG.error("Line " + lineNumber + ": " + e);
 			return formattedLine;
 		}
 
@@ -37,21 +37,23 @@ public class RbClient {
 		int hits = getNumberOfHits(response);
 		LOG.debug("Number of hits: " + hits + ", search term: " + beerName);
 
-		if (isAlias(response)) {
-			LOG.warn("Alias beer: " + beerName + ". Fix name!");
+		if (hits == 1 && isAlias(response)) {
+			LOG.error("Line number " + lineNumber + ": alias beer: " + beerName + ". Fix name!");
 			return line;
+		} else if (hits > 2 && isAlias(response)) {
+			LOG.warn("Line number " + lineNumber + ": potential alias beer: " + beerName + ". Check this beer.");
 		}
 
 		if (hits == 1) {
 			formattedLine = checkAndUpdateName(response, formattedLine, beerName);
 			formattedLine = checkAndUpdateRbId(response, formattedLine, rbId);
 		} else if (hits == 0) {
-			LOG.error("Beer not found: " + beerName);
+			LOG.error("Line number " + lineNumber + ": beer not found: " + beerName);
 		} else if (hits > 1) {
 			if (isExactMatch(response, beerName)) {
 				formattedLine = checkAndUpdateRbIdMultiHit(response, formattedLine, rbId, beerName);
 			} else {
-				LOG.error(hits + " hits found, but no exact match: " + beerName);
+				LOG.error("Line number " + lineNumber + ": " + hits + " hits found, but no exact match: " + beerName);
 			}
 		}
 
@@ -74,7 +76,12 @@ public class RbClient {
 
 	protected static String getUrl(String beerName) throws UnsupportedEncodingException {
 		final String encoding = "Windows-1252";
-		return "http://www.ratebeer.com/findbeer.asp?BeerName=" + URLEncoder.encode(beerName, encoding);
+		String strippedBeerName = stripProblematicCharacters(beerName);
+		return "http://www.ratebeer.com/findbeer.asp?BeerName=" + URLEncoder.encode(strippedBeerName, encoding);
+	}
+
+	protected static String stripProblematicCharacters(String beerName) {
+		return beerName.replaceAll("['´`’]", "");
 	}
 
 	private static String checkAndUpdateName(String response, String line, String beerName) {

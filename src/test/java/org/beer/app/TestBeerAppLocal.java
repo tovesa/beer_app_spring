@@ -80,7 +80,7 @@ public class TestBeerAppLocal {
 
 	@Test
 	public void testEnhanceSplittedFile2013() {
-		final int fileNumber = 2; // 1-11
+		final int fileNumber = 3; // 1-11
 		String inputFile = "src/main/resources/beers2013_splitted_" + fileNumber + ".txt";
 		String outputFile = "src/main/resources/beers2013_enhanced_" + fileNumber + ".txt";
 		ConvertFile.enhance(inputFile, outputFile);

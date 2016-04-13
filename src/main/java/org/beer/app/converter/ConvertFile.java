@@ -96,7 +96,7 @@ public class ConvertFile {
 			if (formattedLine.startsWith("#")) {
 				continue;
 			}
-			formattedLine = rbClient.enhanceBeerData(formattedLine);
+			formattedLine = rbClient.enhanceBeerData(formattedLine, lineNumber);
 			if (BeerRatingValidator.isValid(formattedLine, lineNumber)) {
 				formattedLines.add(formattedLine);
 			}

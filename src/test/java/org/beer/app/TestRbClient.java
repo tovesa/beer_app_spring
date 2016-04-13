@@ -36,4 +36,9 @@ public class TestRbClient {
 		System.out.println(StringEscapeUtils.escapeHtml4(s));
 	}
 
+	@Test
+	public void testStripProblematicCharacters() {
+		System.out.println(RbClient.stripProblematicCharacters("Weird’ beer'`´'."));
+	}
+
 }

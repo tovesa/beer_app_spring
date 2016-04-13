@@ -1,199 +1,199 @@
-2010-01-17;Pirkkala;2010-01-17;K-citymarket Pirkkala;Mikkeller Herra Huurteinen;Bottle 330ml;;;5;3;6;3;11;No textual comments;0
-2010-01-20;Pirkkala;2010-01-17;K-citymarket Pirkkala;Bath Dark Side;Bottle 500ml;;;6;3;7;2;12;As Bath Dark Hare. No textual comments;0
-2010-01-22;Pirkkala;2010-01-22;Alko Kaleva;Fuller's 1845;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2010-01-17;Pirkkala;2010-01-17;K-citymarket Pirkkala;Mikkeller Herra Huurteinen;Bottle 330ml;;;5;3;6;3;11;No textual comments;109779
+2010-01-20;Pirkkala;2010-01-17;K-citymarket Pirkkala;Bath Dark Side;Bottle 500ml;;;6;3;7;2;12;As Bath Dark Hare. No textual comments;135791
+2010-01-22;Pirkkala;2010-01-22;Alko Kaleva;Fuller’s 1845;Bottle 500ml;;;7;3;7;3;13;No textual comments;294
 2010-01-23;Pirkkala;2010-01-23;Stockmann Tampere;Caledonian 80/- (Pasteurised);Bottle 500ml;;;6;3;6;3;12;No textual comments;1041
-2010-01-23;Pirkkala;2010-01-22;K-citymarket Pirkkala;De Molen Engels;Bottle 330ml;;;6;3;6;2;12;No textual comments;0
-2010-01-23;Pirkkala;2010-01-22;Alko Kaleva;Ridgeway Foreign Export Stout;Bottle 500ml;;;7;3;7;3;14;No textual comments;0
-2010-01-24;Pirkkala;2010-01-22;K-citymarket Pirkkala;De Molen / Revelation Cat Beaches & Peaches;Bottle 330ml;;;7;3;8;3;14;No textual comments;0
-2010-01-24;Pirkkala;2010-01-22;K-citymarket Pirkkala;Revelation Cat Milk Mild;Bottle 330ml;;;6;3;7;3;14;portermainen, prosentteihin nähden todella hyvä;0
-2010-01-27;Pirkkala;2010-01-23;Stockmann Tampere;Brains SA (Bottle, Can & Keg) ;Bottle 500ml;;;5;3;5;2;10;No textual comments;0
-2010-01-29;Pirkkala;2010-01-22;Alko Kaleva;Bath Wild Hare;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
-2010-01-29;Pirkkala;2010-01-23;Stockmann Tampere;Wychwood Scarecrow;Bottle 500ml;;;6;3;6;2;12;No textual comments;0
-2010-02-06;Gastropub Tuulensuu;;;Adnams Tally Ho;Bottle 330ml;;;7;3;6;3;13;No textual comments;0
-2010-02-06;Gastropub Tuulensuu;;;Malheur Bière Brut (Reserve);Bottle 750ml;;;8;3;8;3;15;hyvä, alkoholi ei maistu juuri ollenkaan, kuohuviinimäinen;0
+2010-01-23;Pirkkala;2010-01-22;K-citymarket Pirkkala;De Molen Engels;Bottle 330ml;;;6;3;6;2;12;No textual comments;62297
+2010-01-23;Pirkkala;2010-01-22;Alko Kaleva;Ridgeway Foreign Export Stout;Bottle 500ml;;;7;3;7;3;14;No textual comments;70803
+2010-01-24;Pirkkala;2010-01-22;K-citymarket Pirkkala;De Molen / Revelation Cat Beaches & Peaches;Bottle 330ml;;;7;3;8;3;14;No textual comments;110910
+2010-01-24;Pirkkala;2010-01-22;K-citymarket Pirkkala;Revelation Cat Milk Mild;Bottle 330ml;;;6;3;7;3;14;portermainen, prosentteihin nähden todella hyvä;110751
+2010-01-27;Pirkkala;2010-01-23;Stockmann Tampere;Brains SA (Bottle, Can & Keg);Bottle 500ml;;;5;3;5;2;10;No textual comments;44573
+2010-01-29;Pirkkala;2010-01-22;Alko Kaleva;Bath Wild Hare;Bottle 500ml;;;6;3;6;3;12;No textual comments;49668
+2010-01-29;Pirkkala;2010-01-23;Stockmann Tampere;Wychwood Scarecrow (Bottle);Bottle 500ml;;;6;3;6;2;12;No textual comments;0
+2010-02-06;Gastropub Tuulensuu;;;Adnams Tally-Ho;Bottle 330ml;;;7;3;6;3;13;No textual comments;4727
+2010-02-06;Gastropub Tuulensuu;;;Malheur Bière Brut (Reserve);Bottle 750ml;;;8;3;8;3;15;hyvä, alkoholi ei maistu juuri ollenkaan, kuohuviinimäinen;9115
 2010-02-06;O'Hara's Freehouse;;;Moylans IPA;Bottle 650ml;;;8;3;8;3;15;No textual comments;0
-2010-02-06;O'Hara's Freehouse;;;Shorts Publican Porter;Bottle 355ml;;;8;4;9;4;16;No textual comments;0
-2010-02-06;Olutravintola Konttori;;;Founders Double Trouble IPA;Bottle 355ml;;;9;4;9;4;16;No textual comments;0
-2010-02-12;Pirkkala;2010-02-11;K-citymarket Pirkkala;Menabrea 1846;Bottle 330ml;;;4;2;3;2;9;No textual comments;0
-2010-02-12;Pirkkala;2010-02-11;K-citymarket Turtola;Adnams The Bitter (Bottle/Can);Bottle 500ml;;;6;3;5;2;11;No textual comments;0
-2010-02-19;Pirkkala;2010-02-18;Alko Kaleva;Guinness Special Export (Belgian version);Bottle 330ml;;;7;4;7;3;14;No textual comments;0
-2010-02-20;Pirkkala;2010-02-18;Alko Kaleva;Highgate Old Ale;Bottle 500ml;;;7;3;8;3;14;No textual comments;0
-2010-02-20;Pirkkala;2010-02-18;Alko Kaleva;Ridgeway Bad King John;Bottle 500ml;;;6;3;7;3;13;No textual comments;0
-2010-02-25;Drink Bar & Grill;;;Menabrea Christmas Beer;Bottle 660ml;;;5;3;6;3;11;No textual comments;0
-2010-02-24;Drink Bar & Grill;;;Sillamäe München Vaskne;Draft;;;6;3;6;3;12;No textual comments;0
-2010-02-24;Drink Bar & Grill;;;Manchester Cream Stout;Draft;;;7;3;7;3;13;No textual comments;0
-2010-02-24;Hell Hunt;;;Greene King Hop;Bottle 500ml;;;7;3;6;3;13;No textual comments;0
-2010-02-24;Hell Hunt;;;Hacker-Pschorr Münchner Kellerbier - Anno 1417;Bottle 500ml;;;5;3;6;3;12;No textual comments;0
-2010-02-24;O'Malleys, Tallinn;;;Paulaner Original Münchner Dunkel;Draft;;;5;3;5;3;12;No textual comments;0
-2010-02-25;Gastropub Nordic;;;Amager / Grassroots Black Nitro;Bottle 500ml;;;7;3;8;3;15;No textual comments;0
-2010-02-25;Olutkellari;;;Dieu du Ciel Corne du Diable;Bottle 341ml;;;8;3;8;3;15;No textual comments;0
-2010-02-25;Olutkellari;;;Three Floyds Behemoth Barleywine;Bottle 650ml;;;8;3;8;4;14;No textual comments;0
-2010-02-27;Ruovesi;2010-02-22;S-market Pirkkala;Martens Gold;Can 330ml;;;3;2;2;1;5;No textual comments;0
-2010-02-27;Ruovesi;2010-02-26;K-citymarket Pirkkala;Shepherd Neame Spitfire;Bottle 500ml;;;5;3;5;2;12;Dark copper wwith beige head. Aroma is toffee, caramel malt. Caramel malt, hint of spicy hoppiness. Medium bodu with medium carbonation.;0
-2010-03-05;Pirkkala;2010-03-04;Alko Kaleva;Laitilan Kievari Mämmi IV;Bottle 500ml;;;5;3;6;3;10;No textual comments;0
-2010-03-06;Pirkkala;2010-03-04;Alko Kaleva;Bavaria 8.6 Special Blond Beer;Bottle 330ml;;;4;3;4;3;9;No textual comments;0
+2010-02-06;O'Hara's Freehouse;;;Short’s Publican Porter;Bottle 355ml;;;8;4;9;4;16;No textual comments;62170
+2010-02-06;Olutravintola Konttori;;;Founders Double Trouble IPA;Bottle 355ml;;;9;4;9;4;16;No textual comments;67360
+2010-02-12;Pirkkala;2010-02-11;K-citymarket Pirkkala;Menabrea 1846;Bottle 330ml;;;4;2;3;2;9;No textual comments;5369
+2010-02-12;Pirkkala;2010-02-11;K-citymarket Turtola;Adnams The Bitter (Bottle/Can);Bottle 500ml;;;6;3;5;2;11;No textual comments;12
+2010-02-19;Pirkkala;2010-02-18;Alko Kaleva;Guinness Special Export (Belgian version);Bottle 330ml;;;7;4;7;3;14;No textual comments;9155
+2010-02-20;Pirkkala;2010-02-18;Alko Kaleva;Highgate Old Ale (Bottle);Bottle 500ml;;;7;3;8;3;14;No textual comments;0
+2010-02-20;Pirkkala;2010-02-18;Alko Kaleva;Ridgeway Bad King John;Bottle 500ml;;;6;3;7;3;13;No textual comments;85204
+2010-02-25;Drink Bar & Grill;;;Menabrea Christmas Beer;Bottle 660ml;;;5;3;6;3;11;No textual comments;52691
+2010-02-24;Drink Bar & Grill;;;Sillamäe München Vaskne;Draft;;;6;3;6;3;12;No textual comments;11484
+2010-02-24;Drink Bar & Grill;;;Manchester Cream Stout;Draft;;;7;3;7;3;13;No textual comments;111336
+2010-02-24;Hell Hunt;;;Greene King Hop (Filtered);Bottle 500ml;;;5;3;6;2;11;No textual comments;0
+2010-02-24;Hell Hunt;;;Hacker-Pschorr Münchner Kellerbier - Anno 1417;Bottle 500ml;;;5;3;6;3;12;No textual comments;18207
+2010-02-24;O'Malleys, Tallinn;;;Paulaner Original Münchner Dunkel;Draft;;;5;3;5;3;12;No textual comments;16977
+2010-02-25;Gastropub Nordic;;;Amager / Grassroots Black Nitro;Bottle 500ml;;;7;3;8;3;15;No textual comments;110060
+2010-02-25;Olutkellari;;;Dieu du Ciel Corne du Diable;Bottle 341ml;;;8;3;8;3;15;No textual comments;31102
+2010-02-25;Olutkellari;;;Three Floyds Behemoth Barleywine;Bottle 650ml;;;8;3;8;4;14;No textual comments;6055
+2010-02-27;Ruovesi;2010-02-22;S-market Pirkkala;Martens Gold;Can 330ml;;;3;2;2;1;5;No textual comments;101533
+2010-02-27;Ruovesi;2010-02-26;K-citymarket Pirkkala;Shepherd Neame Spitfire (Bottle);Bottle 500ml;;;5;3;5;2;12;Dark copper wwith beige head. Aroma is toffee, caramel malt. Caramel malt, hint of spicy hoppiness. Medium bodu with medium carbonation.;0
+2010-03-05;Pirkkala;2010-03-04;Alko Kaleva;Laitilan Kievari Mämmi IV;Bottle 500ml;;;5;3;6;3;10;No textual comments;118921
+2010-03-06;Pirkkala;2010-03-04;Alko Kaleva;Bavaria 8.6 Special Blond Beer ;Bottle 330ml;;;4;3;4;3;9;No textual comments;26985
 2010-03-06;Pirkkala;2010-03-04;Alko Kaleva;Bernard Sváteční Ležák / Celebration Lager;Bottle 500ml;;;5;3;5;2;10;No textual comments;26766
-2010-03-07;Pirkkala;2010-03-04;Alko Kaleva;Schmucker Bio Pils;Bottle 330ml;;;5;2;5;2;10;No textual comments;0
-2010-03-12;Pirkkala;2010-03-12;K-citymarket Pirkkala;Carlow O’Hara’s Irish Red;Bottle 500ml;;;6;3;6;2;11;No textual comments;0
-2010-03-12;Pirkkala;2010-03-04;Alko Kaleva;Saint-Germain Page 24 Blanche;Bottle 330ml;;;6;3;7;3;13;No textual comments;0
-2010-03-13;Pirkkala;2010-03-12;K-citymarket Pirkkala;Moor Revival;Bottle 660ml;;;6;3;6;3;13;No textual comments;0
-2010-03-13;Pirkkala;2010-03-04;Alko Kaleva;Saaremaa X;Bottle 500ml;;;4;3;3;2;8;No textual comments;0
-2010-03-14;Pirkkala;2010-03-12;K-citymarket Pirkkala;Lindemans Cassis Lambic;Bottle 330ml;;;6;2;6;3;13;aivan mustaviinimarjamehun makuinen;0
-2010-03-14;Pirkkala;2010-03-12;K-citymarket Pirkkala;Slottskällans Nelson;Bottle 500ml;2010-07-11;;7;3;6;3;13;No textual comments;0
-2010-03-26;Ruovesi;2010-03-25;K-citymarket Pirkkala;Nokian Keisari EloWehnä III;Can 500ml;;;6;3;6;2;11;No textual comments;0
-2010-03-26;Ruovesi;2010-03-25;K-citymarket Pirkkala;Saimaan Marsalkka III;Bottle 330ml;;;4;2;4;2;10;No textual comments;0
-2010-03-26;Ruovesi;2010-03-25;K-citymarket Pirkkala;Stallhagen Dark Lager III;Bottle 330ml;;as Delikat;4;2;3;2;10;No textual comments;0
-2010-03-27;Ruovesi;2010-03-25;Alko Pirkkala Partola;Karhu Tosi Vahva;Bottle 330ml;;;5;3;4;3;10;No textual comments;0
-2010-03-27;Ruovesi;2010-03-25;Alko Pirkkala Partola;Olvi Tuplapukki;Bottle 330ml;;;3;2;4;2;9;No textual comments;0
-2010-03-28;Pirkkala;2010-03-25;K-citymarket Pirkkala;Blanche de Namur;Bottle 330ml;;;6;3;7;3;13;No textual comments;0
-2010-03-31;Pirkkala;2010-03-25;K-citymarket Pirkkala;Ultra Fraîche;Bottle 330ml;;;5;2;5;2;10;No textual comments;0
-2010-04-30;Olutravintola Konttori;;;Avery The Beast Grand Cru Ale;Bottle 355ml;;batch 5, 2007;8;4;8;4;15;No textual comments;0
-2010-04-10;Helsinki Beer Festival;;;Baladin Xyauyù Etichetta Oro (Golden Label);Bottle 750ml;;;8;4;8;4;15;No textual comments;0
-2010-04-10;Helsinki Beer Festival;;;Birrificio Italiano Bibock;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
-2010-04-10;Helsinki Beer Festival;;;Dark Star Festival;Cask;;;4;2;4;2;8;No textual comments;0
-2010-04-10;Helsinki Beer Festival;;;Malmgård Everfrost;Sample;;;7;4;7;4;14;No textual comments;0
-2010-04-10;Helsinki Beer Festival;;;Schlafly Imperial Stout;Sample;;;8;4;8;4;15;No textual comments;0
-2010-04-10;Helsinki Beer Festival;;;Sierra Nevada Kellerweis Hefeweizen;Bottle 355ml;;;6;3;6;2;13;No textual comments;0
-2010-04-10;Helsinki Beer Festival;;;SorAlaMA Hurrà!;Bottle 330ml;;;7;3;6;3;12;No textual comments;0
-2010-04-10;Olutkellari;;;Hair of the Dog Adam;Bottle 355ml;;;8;4;8;4;15;No textual comments;0
-2010-04-10;Olutkellari;;;Hoppin Frog Fresh Frog Raw Hop Imperial Pale Ale;Bottle 650ml;;;9;3;8;3;15;No textual comments;0
-2010-04-10;Olutkellari;;;Port Brewing Hop 15;Bottle 650ml;;as Pizza Port Hop 15;9;3;9;4;15;No textual comments;0
-2010-04-12;Pirkkala;2010-04-10;K-extra Kamppi;Stadin Single Hop Boadicea Bitter;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
-2010-04-13;Pirkkala;2010-04-10;K-Extra Kamppi;Diamond Grass Bock (4.7% version);Bottle 330ml;;;6;3;6;3;11;No textual comments;0
-2010-04-14;Pirkkala;2010-04-10;K-extra Kamppi;Stadin Single Hop Centennial Pale Ale;Bottle 330ml;;;8;3;7;3;13;No textual comments;0
-2010-04-16;Oluthuone Leskinen;;;Laitilan Kievari Imperiaali;Bottle 330ml;;;9;4;8;3;13;Black, Thin khaki head. Roasted malt, burnt engine oil, licorice, salt. bit too Rough and too roasted, re rated 2013-08-17 at home bottle from alko kaleva 2013-08-17 bbe 2015-03-22;0
-2010-04-16;Oluthuone Leskinen;;;Samuel Smiths Imperial Stout;Draft;;;7;3;7;3;13;, vaisu IS, ei juuri makua;0
-2010-04-17;Saariselkä;2010-04-17;System Bolaget Haparanda;Brutal Brewing Pistonhead Hot Roddin’ Lager ;Bottle 330ml;;;4;2;3;2;8;No textual comments;0
-2010-04-18;Saariselkä;2010-04-17;System Bolaget Haparanda;Dugges Påsköl 2011;Bottle 500ml;;;7;3;7;3;14;No textual comments;0
-2010-04-18;Saariselkä;2010-04-17;System Bolaget Haparanda;Shepherd Neame Bishops Finger;Bottle 500ml;;;6;3;6;2;11;No textual comments;0
-2010-04-18;Saariselkä;2010-04-17;System Bolaget Haparanda;Slottskällans Blåkulla;Bottle 500ml;2010-08-29;;6;3;6;3;12;No textual comments;0
-2010-04-20;Saariselkä;2010-04-17;System Bolaget Haparanda;Dugges Spring Beer;Bottle 500ml;2010-10-31;;6;3;6;3;12;No textual comments;0
-2010-04-20;Saariselkä;2010-04-17;System Bolaget Haparanda;Mariestads Export;Bottle 330ml;;;4;2;4;2;9;No textual comments;0
-2010-04-21;Saariselkä;2010-04-17;System Bolaget Haparanda;Norrlands Guld Export;Can 330ml;;;3;2;3;1;7;No textual comments;0
-2010-04-21;Saariselkä;2010-04-17;System Bolaget Haparanda;Pripps Blå Export;Bottle 330ml;;;3;2;3;2;8;No textual comments;0
-2010-04-22;Saariselkä;2010-04-17;System Bolaget Haparanda;Spendrups Old Gold;Bottle 330ml;;;4;2;4;2;8;Just fancy bottle.;0
-2010-04-24;Ruovesi;2010-04-17;System Bolaget Haparanda;Nils Oscar Kalasöl;Bottle 330ml;;;6;3;7;3;13;No textual comments;0
-2010-04-24;Ruovesi;2010-03-04;Alko Kaleva;Thiriez La Maline;Bottle 330ml;;;7;3;6;3;12;No textual comments;0
-2010-04-27;Pirkkala;2010-04-17;System Bolaget Haparanda;Brooklyn Brown Ale;Bottle 355ml;;;7;3;7;3;14;No textual comments;0
-2010-04-29;Pirkkala;2010-04-29;K-citymarket Pirkkala;Laitilan Plevnan Panimosima;Bottle 330ml;;;4;2;4;2;8;No textual comments;0
-2010-04-30;Kahdet Kasvot;;;Schneider Weisse Original;Bottle 500ml;;;8;3;8;3;14;No textual comments;0
-2010-05-01;Gastropub Nordic;;;Gourmetbryggeriet Barley Brew;Bottle 330ml;;;7;3;8;3;14;hyvä, hedelmäinen, ei liian makea;0
-2010-05-01;Gastropub Nordic;;;Gourmetbryggeriet Blue Mountain Stout;Draft;;;6;3;7;3;13;No textual comments;0
-2010-05-01;Soittoruokala Saha;;;Edelweiss Weissbier Snowfresh;Bottle 500ml;;;5;3;5;2;9;esanssin makuinen ja hajuinen, melko huono;0
-2010-05-09;Ruovesi;2010-05-07;Prisma Linnainmaa;Mallaskosken Kuohu Tumma;Can 500ml;;;4;3;3;2;9;No textual comments;0
+2010-03-07;Pirkkala;2010-03-04;Alko Kaleva;Schmucker Bio Pils;Bottle 330ml;;;5;2;5;2;10;No textual comments;89269
+2010-03-12;Pirkkala;2010-03-12;K-citymarket Pirkkala;Carlow O’Hara’s Irish Red;Bottle 500ml;;;6;3;6;2;11;No textual comments;44140
+2010-03-12;Pirkkala;2010-03-04;Alko Kaleva;Saint Germain Page 24 Blanche;Bottle 330ml;;;6;3;7;3;13;No textual comments;62084
+2010-03-13;Pirkkala;2010-03-12;K-citymarket Pirkkala;Moor Revival;Bottle 660ml;;;6;3;6;3;13;No textual comments;82422
+2010-03-13;Pirkkala;2010-03-04;Alko Kaleva;Saaremaa X;Bottle 500ml;;;4;3;3;2;8;No textual comments;7937
+2010-03-14;Pirkkala;2010-03-12;K-citymarket Pirkkala;Lindemans Cassis Lambic;Bottle 330ml;;;6;2;6;3;13;aivan mustaviinimarjamehun makuinen;343
+2010-03-14;Pirkkala;2010-03-12;K-citymarket Pirkkala;Slottskällans Nelson;Bottle 500ml;2010-07-11;;7;3;6;3;13;No textual comments;118841
+2010-03-26;Ruovesi;2010-03-25;K-citymarket Pirkkala;Nokian Keisari EloWehnä III;Can 500ml;;;6;3;6;2;11;No textual comments;120354
+2010-03-26;Ruovesi;2010-03-25;K-citymarket Pirkkala;Saimaan Marsalkka III;Bottle 330ml;;;4;2;4;2;10;No textual comments;23236
+2010-03-26;Ruovesi;2010-03-25;K-citymarket Pirkkala;Stallhagen Dark Lager III;Bottle 330ml;;as Delikat;4;2;3;2;10;No textual comments;42944
+2010-03-27;Ruovesi;2010-03-25;Alko Pirkkala Partola;Karhu Tosi Vahva;Bottle 330ml;;;5;3;4;3;10;No textual comments;12367
+2010-03-27;Ruovesi;2010-03-25;Alko Pirkkala Partola;Olvi Tuplapukki;Bottle 330ml;;;3;2;4;2;9;No textual comments;11867
+2010-03-28;Pirkkala;2010-03-25;K-citymarket Pirkkala;Blanche de Namur;Bottle 330ml;;;6;3;7;3;13;No textual comments;4985
+2010-03-31;Pirkkala;2010-03-25;K-citymarket Pirkkala;Ultra Fraîche;Bottle 330ml;;;5;2;5;2;10;No textual comments;38443
+2010-04-30;Olutravintola Konttori;;;Avery The Beast Grand Cru Ale;Bottle 355ml;;batch 5, 2007;8;4;8;4;15;No textual comments;30519
+2010-04-10;Helsinki Beer Festival;;;Baladin Xyauyù Etichetta Oro (Golden Label);Bottle 750ml;;;8;4;8;4;15;No textual comments;107789
+2010-04-10;Helsinki Beer Festival;;;Birrificio Italiano Bibock;Bottle 330ml;;;6;3;6;3;12;No textual comments;11489
+2010-04-10;Helsinki Beer Festival;;;Dark Star Festival;Cask;;;4;2;4;2;8;No textual comments;28559
+2010-04-10;Helsinki Beer Festival;;;Malmgård Everfrost;Sample;;;7;4;7;4;14;No textual comments;121120
+2010-04-10;Helsinki Beer Festival;;;Schlafly Imperial Stout;Sample;;;8;4;8;4;15;No textual comments;371700
+2010-04-10;Helsinki Beer Festival;;;Sierra Nevada Kellerweis Hefeweizen;Bottle 355ml;;;6;3;6;2;13;No textual comments;100383
+2010-04-10;Helsinki Beer Festival;;;SorAlaMA Hurrà!;Bottle 330ml;;;7;3;6;3;12;No textual comments;79800
+2010-04-10;Olutkellari;;;Hair of the Dog Adam;Bottle 355ml;;;8;4;8;4;15;No textual comments;369739
+2010-04-10;Olutkellari;;;Hoppin’ Frog Fresh Frog Raw Hop Imperial Pale Ale;Bottle 650ml;;;9;3;8;3;15;No textual comments;110621
+2010-04-10;Olutkellari;;;Port Brewing Hop 15;Bottle 650ml;;as Pizza Port Hop 15;9;3;9;4;15;No textual comments;16654
+2010-04-12;Pirkkala;2010-04-10;K-extra Kamppi;Stadin Single Hopped Boadicea Bitter;Bottle 330ml;;;6;3;6;3;12;No textual comments;111594
+2010-04-13;Pirkkala;2010-04-10;K-Extra Kamppi;Diamond Grass Bock (4.7% version);Bottle 330ml;;;6;3;6;3;11;No textual comments;119861
+2010-04-14;Pirkkala;2010-04-10;K-extra Kamppi;Stadin Single Hopped Centennial Pale Ale;Bottle 330ml;;;8;3;7;3;13;No textual comments;105158
+2010-04-16;Oluthuone Leskinen;;;Laitilan Kievari Imperiaali;Bottle 330ml;;;9;4;8;3;13;Black, Thin khaki head. Roasted malt, burnt engine oil, licorice, salt. bit too Rough and too roasted, re rated 2013-08-17 at home bottle from alko kaleva 2013-08-17 bbe 2015-03-22;118794
+2010-04-16;Oluthuone Leskinen;;;Samuel Smiths Imperial Stout;Draft;;;7;3;7;3;13;, vaisu IS, ei juuri makua;85
+2010-04-17;Saariselkä;2010-04-17;System Bolaget Haparanda;Brutal Brewing Pistonhead Hot Roddin’ Lager;Bottle 330ml;;;4;2;3;2;8;No textual comments;117212
+2010-04-18;Saariselkä;2010-04-17;System Bolaget Haparanda;Dugges Påsköl 2011;Bottle 500ml;;;7;3;7;3;14;No textual comments;118868
+2010-04-18;Saariselkä;2010-04-17;System Bolaget Haparanda;Shepherd Neame Bishops Finger (Pasteurised);Bottle 500ml;;;6;3;6;2;11;No textual comments;0
+2010-04-18;Saariselkä;2010-04-17;System Bolaget Haparanda;Slottskällans Blåkulla;Bottle 500ml;2010-08-29;;6;3;6;3;12;No textual comments;11629
+2010-04-20;Saariselkä;2010-04-17;System Bolaget Haparanda;Dugges Spring Beer;Bottle 500ml;2010-10-31;;6;3;6;3;12;No textual comments;115004
+2010-04-20;Saariselkä;2010-04-17;System Bolaget Haparanda;Mariestads Export;Bottle 330ml;;;4;2;4;2;9;No textual comments;10057
+2010-04-21;Saariselkä;2010-04-17;System Bolaget Haparanda;Norrlands Guld Export;Can 330ml;;;3;2;3;1;7;No textual comments;9671
+2010-04-21;Saariselkä;2010-04-17;System Bolaget Haparanda;Pripps Blå Export;Bottle 330ml;;;3;2;3;2;8;No textual comments;12952
+2010-04-22;Saariselkä;2010-04-17;System Bolaget Haparanda;Spendrups Old Gold;Bottle 330ml;;;4;2;4;2;8;Just fancy bottle.;8624
+2010-04-24;Ruovesi;2010-04-17;System Bolaget Haparanda;Nils Oscar Kalasöl;Bottle 330ml;;;6;3;7;3;13;No textual comments;6115
+2010-04-24;Ruovesi;2010-03-04;Alko Kaleva;Thiriez La Maline;Bottle 330ml;;;7;3;6;3;12;No textual comments;45746
+2010-04-27;Pirkkala;2010-04-17;System Bolaget Haparanda;Brooklyn Brown Ale;Bottle 355ml;;;7;3;7;3;14;No textual comments;529
+2010-04-29;Pirkkala;2010-04-29;K-citymarket Pirkkala;Laitilan Plevnan Panimosima;Bottle 330ml;;;4;2;4;2;8;No textual comments;120940
+2010-04-30;Kahdet Kasvot;;;Schneider Weisse Original;Bottle 500ml;;;8;3;8;3;14;As Schneider Weisse Original. No textual comments;0
+2010-05-01;Gastropub Nordic;;;Gourmetbryggeriet Barley Brew;Bottle 330ml;;;7;3;8;3;14;hyvä, hedelmäinen, ei liian makea;55039
+2010-05-01;Gastropub Nordic;;;Gourmetbryggeriet Blue Mountain Stout;Draft;;;6;3;7;3;13;No textual comments;56862
+2010-05-01;Soittoruokala Saha;;;Edelweiss Weissbier Snowfresh;Bottle 500ml;;;5;3;5;2;9;esanssin makuinen ja hajuinen, melko huono;72025
+2010-05-09;Ruovesi;2010-05-07;Prisma Linnainmaa;Mallaskosken Tumma Kuohu III;Can 500ml;;;4;3;3;2;9;No textual comments;0
 2010-05-10;Ruovesi;2010-05-07;Prisma Linnainmaa;Budweiser Budvar B:Classic Svetlé Výčepní Pivo 10°;Bottle 500ml;;;5;2;4;2;10;No textual comments;10183
 2010-05-10;Ruovesi;2010-05-07;Prisma Linnainmaa;Budweiser Budvar B:Dark Tmavý Ležák;Bottle 500ml;;;6;3;6;3;12;No textual comments;36339
-2010-05-10;Ruovesi;2010-05-07;Prisma Linnainmaa;Olvi Suomalainen Saunaolut;Can 500ml;;;3;2;3;1;7;No textual comments;0
-2010-05-12;Ruovesi;2010-05-12;K-citymarket Pirkkala;Brakspear Bitter;Bottle 500ml;;;6;3;5;2;10;No textual comments;0
-2010-05-12;Ruovesi;2010-05-11;Alko Kaleva;Quilmes Cristal;Bottle 330ml;;;5;2;5;2;10;No textual comments;0
-2010-05-13;Ruovesi;2010-05-11;Alko Kaleva;Bavik Pilaarbijter Bruin;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
-2010-05-13;Ruovesi;2010-05-12;K-citymarket Pirkkala;Thwaites Lancaster Bomber;Bottle 500ml;;;6;3;7;3;13;No textual comments;0
-2010-05-14;Ruovesi;2010-05-11;Alko Kaleva;Teerenpeli Luomu;Bottle 330ml;;;5;3;5;2;11;perus pils, melko mauton mutta ihan hyvä aurinkokelin juoma;0
-2010-05-15;Ruovesi;2010-05-15;S-market Ruovesi;Olvi Suomalainen Juhlaolut;Can 500ml;;;4;3;4;3;9;ihan juotava, parempi kuin perus Olvi III;0
-2010-05-15;Ruovesi;2010-05-15;S-market Ruovesi;Olvi Vaakuna;Can 500ml;;;3;2;3;2;9;No textual comments;0
-2010-05-26;Pirkkala;2010-05-26;Alko Kaleva;Weihenstephaner Kristall Weissbier;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
-2010-05-28;Pirkkala;2010-05-26;Alko Kaleva;Nils Oscar Pils;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
-2010-06-19;Gastropub Nordic;;;Haandbryggeriet Akevitt Porter;Bottle 500ml;;;7;4;8;3;15;pistävä tuoksu, omintakeinen hieman pistävä, mutta hyvä maku;0
-2010-06-19;Gastropub Nordic;;;Malmgård K.O.H.O.;Draft;;;7;3;7;2;13;No textual comments;0
-2010-06-11;Olutravintola Konttori;;;Founders Curmudgeon Old Ale;Bottle 355ml;;;7;3;8;3;14;No textual comments;0
-2010-06-11;Olutravintola Konttori;;;Green Flash Hop Head Red (-2013);Bottle 355ml;;;8;4;8;3;15;No textual comments;0
-2010-06-11;Olutravintola Konttori;;;Huvila Arctic Circle Ale;Draft;;;7;4;8;3;14;No textual comments;0
-2010-06-03;Pirkkala;2010-06-02;Alko Kaleva;Stallhagen Sommar!;Bottle 330ml;;;5;3;5;2;12;No textual comments;0
-2010-06-04;Ruovesi;2010-06-04;K-citymarket Pirkkala;Aldaris Pilzenes;Bottle 500ml;;;4;2;3;2;8;No textual comments;0
-2010-06-05;Ruovesi;2010-05-26;Alko Kaleva;Kaiserdom Pilsener;Bottle 330ml;;;4;2;4;2;9;No textual comments;0
+2010-05-10;Ruovesi;2010-05-07;Prisma Linnainmaa;Olvi Suomalainen Saunaolut III;Can 500ml;;;3;2;3;1;7;No textual comments;0
+2010-05-12;Ruovesi;2010-05-12;K-citymarket Pirkkala;Brakspear Bitter (Bottle);Bottle 500ml;;;6;3;5;2;10;No textual comments;0
+2010-05-12;Ruovesi;2010-05-11;Alko Kaleva;Quilmes Cristal;Bottle 330ml;;;5;2;5;2;10;No textual comments;7485
+2010-05-13;Ruovesi;2010-05-11;Alko Kaleva;Bavik Pilaarbijter Bruin;Bottle 330ml;;;6;3;6;3;12;No textual comments;29899
+2010-05-13;Ruovesi;2010-05-12;K-citymarket Pirkkala;Thwaites Lancaster Bomber (Pasteurised);Bottle 500ml;;;6;3;7;3;13;No textual comments;0
+2010-05-14;Ruovesi;2010-05-11;Alko Kaleva;Teerenpeli Luomu;Bottle 330ml;;;5;3;5;2;11;perus pils, melko mauton mutta ihan hyvä aurinkokelin juoma;121118
+2010-05-15;Ruovesi;2010-05-15;S-market Ruovesi;Olvi Suomalainen Juhlaolut;Can 500ml;;;4;3;4;3;9;ihan juotava, parempi kuin perus Olvi III;109181
+2010-05-15;Ruovesi;2010-05-15;S-market Ruovesi;Olvi Vaakuna III;Can 500ml;;;3;2;3;2;9;No textual comments;12550
+2010-05-26;Pirkkala;2010-05-26;Alko Kaleva;Weihenstephaner Kristall Weissbier;Bottle 500ml;;;7;3;7;3;13;No textual comments;4584
+2010-05-28;Pirkkala;2010-05-26;Alko Kaleva;Nils Oscar Pils;Bottle 330ml;;;6;3;6;3;12;No textual comments;70839
+2010-06-19;Gastropub Nordic;;;HaandBryggeriet Fatlagret Porter (Akevitt Porter);Bottle 500ml;;;7;4;8;3;15;pistävä tuoksu, omintakeinen hieman pistävä, mutta hyvä maku;116252
+2010-06-19;Gastropub Nordic;;;Malmgård K.O.H.O.;Draft;;;7;3;7;2;13;No textual comments;121090
+2010-06-11;Olutravintola Konttori;;;Founders Curmudgeon Old Ale;Bottle 355ml;;;7;3;8;3;14;No textual comments;40543
+2010-06-11;Olutravintola Konttori;;;Green Flash Hop Head Red (-2013);Bottle 355ml;;;8;4;8;3;15;No textual comments;71321
+2010-06-11;Olutravintola Konttori;;;Huvila Arctic Circle Ale;Draft;;;7;4;8;3;14;No textual comments;95323
+2010-06-03;Pirkkala;2010-06-02;Alko Kaleva;Stallhagen Sommar!;Bottle 330ml;;;5;3;5;2;12;No textual comments;124120
+2010-06-04;Ruovesi;2010-06-04;K-citymarket Pirkkala;Aldaris Pilzenes;Bottle 500ml;;;4;2;3;2;8;No textual comments;4951
+2010-06-05;Ruovesi;2010-05-26;Alko Kaleva;Kaiserdom Pilsener;Bottle 330ml;;;4;2;4;2;9;No textual comments;15349
 2010-06-05;Ruovesi;2010-06-02;Alko Kaleva;Nova Paka Podkrkonošsky Speciál Tmavý;Bottle 500ml;;;5;3;5;2;10;No textual comments;89833
-2010-06-12;Ruovesi;2010-06-11;K-citymarket Elo;Frankfurter Spitzkrug Premium;Can 500ml;;;3;2;3;1;7;No textual comments;0
-2010-06-12;Ruovesi;2010-06-11;K-citymarket Elo;Löwenbräu Original;Bottle 500ml;;;5;2;4;2;10;No textual comments;0
-2010-06-24;Delano Innestadt, Bremen;;;Erdinger Dunkel;Draft;;;6;3;6;3;12;No textual comments;0
-2010-06-24;Prizeotel Bremen City;2010-06-24;Aldi Bremen-Mitte;Leikeim Premium Weisse;Bottle 500ml;;;6;3;6;3;11;No textual comments;0
-2010-06-25;Haake Beck Ausspann;;;Haake Beck Kräusen;Draft;;;5;3;6;3;12;No textual comments;0
-2010-06-25;Paulaner's Bremen;;;Paulaner Original Münchner Hell;Draft;;;5;3;6;3;12;No textual comments;0
-2010-06-25;Paulaner's Bremen;;;Paulaner Premium Pils;Draft;;;6;3;6;3;13;No textual comments;0
-2010-06-25;Schüttinger;;;Schüttinger Dunkel;Draft;;;5;3;4;2;10;No textual comments;0
-2010-06-25;Schüttinger;;;Schüttinger Hell;Draft;;;6;3;6;3;12;No textual comments;0
-2010-06-26;Haake Beck Ausspann;;;Haake Beck Pils;Draft;;;5;3;5;2;10;No textual comments;0
-2010-06-27;Alex, Bremen;;;Diebels Alt;Draft;;;5;2;6;3;12;No textual comments;0
-2010-06-27;Alex, Bremen;;;Dom Kölsch;Draft;;;5;2;5;2;10;No textual comments;0
-2010-07-01;Pirkkala;2010-06-30;K-citymarket Pirkkala;Beer Hunters Mufloni Intianpässi;Bottle 330ml;;;7;3;7;2;13;No textual comments;0
-2010-07-02;Ruovesi;2010-06-30;K-citymarket Pirkkala;Ridgeway Paper City High & Mighty Beer of the Gods;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
-2010-07-02;Ruovesi;2010-06-30;K-citymarket Pirkkala;Shepherd Neame Late Red;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
-2010-07-02;Ruovesi;2010-07-02;K-citymarket Elo;Sinebrychoff Koff Extra Brew III;Can 568ml;;;3;2;3;1;9;No textual comments;0
-2010-07-05;Pirkkala;2010-06-30;K-citymarket Pirkkala;Morland Old Speckled Hen (3.5%);Bottle 500ml;;;5;3;5;2;11;No textual comments;0
-2010-07-06;Pirkkala;2010-06-30;K-citymarket Pirkkala;Black Sheep Monty Python’s Holy Grail (Bottle);Bottle 500ml;;;5;3;5;2;11;No textual comments;0
-2010-07-09;Ruovesi;2010-07-08;S-market Pirkkala;Sinebrychoff Koff Surfer;Can 500ml;;;3;2;3;1;7;No textual comments;0
-2010-07-10;Ruovesi;2010-06-30;K-citymarket Pirkkala;The Bruery Hottenroth Berliner Weisse;Bottle 650ml;;;6;3;6;2;12;No textual comments;0
-2010-07-13;Pirkkala;2010-06-30;K-citymarket Pirkkala;Det Lille Bryggeri Sommerbryg;Bottle 500ml;;;7;3;7;3;13;No textual comments;0
-2010-07-15;Pirkkala;2010-07-12;K-citymarket Pirkkala;Ayinger Leichte Bräu-Weisse;Bottle 500ml;;;5;3;5;2;11;No textual comments;0
-2010-07-16;Viking Line Gabriella;;;Barbar Belgian Honey Ale;Bottle 330ml;;;6;3;6;3;13;No textual comments;0
-2010-07-16;Viking Line Gabriella;;;BrewDog Paradox SmokeHead;Bottle 330ml;;#015;9;4;8;4;15;No textual comments;0
-2010-07-16;Viking Line Gabriella;;;Ushers Founders Ale;Bottle 500ml;;;6;3;6;3;13;No textual comments;0
-2010-07-22;Ruovesi;2010-07-19;Kiwi Austbygd;Aass Pilsner;Bottle 330ml;;;4;2;3;2;8;No textual comments;0
-2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;BrewDog 77 Lager;Bottle 330ml;;;7;3;6;3;13;No textual comments;0
-2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;Nynäshamns Landsort Lager;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
-2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;Oppigårds Inwit;Bottle 330ml;;;7;3;7;3;13;No textual comments;0
-2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;S:t Eriks Pilsner;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
-2010-07-24;Gastropub Tuulensuu;;;De Dolle Oerbier;Bottle 330ml;;;7;3;8;3;15;No textual comments;0
-2010-07-24;Gastropub Tuulensuu;;;De Dolle Oerbier Special Reserva;Bottle 330ml;;;7;3;8;3;15;hyvä, pistä maku, muuten melkolailla sama kuin normaali versio;0
-2010-07-24;Gastropub Tuulensuu;;;Praght Extra Stout;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
-2010-07-24;Gastropub Tuulensuu;;;SNAB IJsbok;Bottle 330ml;;;7;3;7;3;14;No textual comments;0
-2010-07-24;Gastropub Tuulensuu;;;Struise Pannepeut;Bottle 330ml;;;7;3;8;3;15;No textual comments;0
-2010-07-24;Gastropub Tuulensuu;;;Volendam West Vølen/Pijtje;Bottle 330ml;;;7;3;7;3;13;ei ihan paras bwine;0
-2010-07-24;Pirkkala;2011-06-14;Alko Arkadia;Meantime London Porter;Bottle 750ml;2013-02-10;;8;4;8;3;14;No textual comments;0
-2010-07-24;Pirkkala;2010-07-21;System Bolaget Nacka;Saint Landelin Mythique;Bottle 750ml;;;7;3;6;3;13;No textual comments;0
-2010-07-25;Pirkkala;2010-07-21;System Bolaget Eurostop;Primátor Premium Lager 12°;Bottle 500ml;;;5;2;6;2;11;No textual comments;0
-2010-07-25;Pirkkala;2010-07-22;Alko Arkadia;Sierra Nevada Anniversary Ale 2009;Bottle 355ml;;;7;3;8;3;14;No textual comments;0
-2010-07-26;Ruovesi;2010-07-19;Kiwi Austbygd;Frydenlund Bayerøl;Bottle 330ml;;;5;3;6;2;10;No textual comments;0
-2010-07-26;Ruovesi;2010-07-18;Vinmonopolet Rjukan;Frydenlund Bokkøl;Bottle 330ml;;;6;3;6;3;11;No textual comments;0
-2010-07-27;Ruovesi;2010-07-19;Kiwi Austbygd;Ringnes Premium Lager (Classic);Bottle 330ml;;;4;2;4;2;8;No textual comments;0
-2010-07-29;Ruovesi;2010-07-28;Prisma Kaleva;Frankfurter Hansegold Premium III;Can 500ml;;;4;2;3;1;7;perus lager kuraa;0
-2010-07-29;Ruovesi;2010-07-21;System Bolaget Eurostop;Grebbestad Lager;Bottle 330ml;;;4;2;5;2;10;No textual comments;0
-2010-07-30;Ruovesi;2010-07-28;Alko Kaleva;Aldaris Stiprais;Bottle 500ml;;;5;3;3;3;8;No textual comments;0
-2010-07-30;Ruovesi;2010-07-28;Alko Kaleva;Saku Hele;Bottle 500ml;;;5;2;5;2;10;No textual comments;0
-2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Laitilan Kukko Lager III;Can 500ml;;;3;2;3;2;8;No textual comments;0
-2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Laitilan Kukko Pils III;Can 500ml;;;5;2;4;2;10;No textual comments;0
-2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Laitilan Tumma Kukko;Can 500ml;;;4;3;4;2;9;No textual comments;0
-2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Saaremaa Tuulik;Bottle 500ml;;;4;2;3;2;8;No textual comments;0
-2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Sinebrychoff Koff III;Bottle 330ml;;;3;2;3;2;9;No textual comments;0
-2010-08-02;Ruovesi;2010-07-21;System Bolaget Nacka;Dugges Lager No.1;Bottle 330ml;;;6;3;4;2;9;No textual comments;0
-2010-08-03;Ruovesi;2010-08-03;K-Market Ruovesi;Sinebrychoff Nikolai Tumma Lager;Can 500ml;;;4;2;4;1;9;No textual comments;0
-2010-08-03;Ruovesi;2010-07-21;System Bolaget Nacka;Wisby Pils;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
-2010-08-07;Amarillo Pori;;;Budweiser Budvar (Czechvar) 12°;Bottle 500ml;;;6;3;7;3;14;parhaita tsekki pilsnereitä;0
-2010-08-07;Beer Hunter's;;;Beer Hunters Syntipukki;Bottle 330ml;;;9;4;8;4;16;kahvinen, hieman pistävä maku, ehdottomasti parhaita suomi oluita;0
-2010-08-07;Beer Hunter's;;;Grassroots Aphrills IPA;Draft;;;8;3;8;3;15;No textual comments;0
-2010-08-07;Beer Hunter's;;;Mikkeller Drikkeriget DIPA;Bottle 330ml;;;8;4;8;4;15;hyvä tuoksu, juuresmainen, kitkerä, lievä pettymys;0
-2010-08-08;O'Hara's Freehouse;;;Dieu du Ciel Péché Mortel;Bottle 341ml;;;8;4;8;4;15;kahvinen, suht pehmeä is, lievä pettymys odotuksiin nähden;0
-2010-08-14;Gastropub Nordic;;;Haandbryggeriet Bavarian Weizen;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
-2010-08-14;Gastropub Tuulensuu;;;Fantôme La Fantôme de Gastropub;Bottle 750ml;;;7;3;8;3;15;todella erikoinen, kirpeä sitruunainen, raikas;0
-2010-08-14;Gastropub Tuulensuu;;;Lefebvre Hopus;Bottle 330ml;;;7;3;7;3;13;No textual comments;0
-2010-08-14;Niko;;;Leikeim Kellerbier;Bottle 500ml;;;5;3;5;3;11;No textual comments;0
-2010-08-14;Olutravintola Konttori;;;Mikkeller Bad Dog;Draft;;;7;3;8;3;15;No textual comments;0
-2010-08-28;Sadonkorjuu;;;Anchor Humming Ale;Draft;;;7;3;6;3;13;No textual comments;0
-2010-08-28;Sadonkorjuu;;;Birrificio del Ducato Verdi Imperial Stout;Bottle 330ml;;;8;4;8;3;14;No textual comments;0
-2010-08-28;Sadonkorjuu;;;Flying Dog Raging Bitch;Draft;;;8;3;8;3;15;No textual comments;0
-2010-08-28;Sadonkorjuu;;;Revelation Cat Woodwork Series Reference;Bottle 375ml;;;8;3;8;4;14;No textual comments;0
-2010-08-28;Sadonkorjuu;;;Southern Tier Gemini;Draft;;;8;3;8;4;15;jenkki tyylinen, hieman liian rusinainen;0
-2010-08-28;Sadonkorjuu;;;Struiselensis;Bottle 330ml;;;6;3;7;3;13;No textual comments;0
-2010-08-28;Sadonkorjuu;;;Det Lille Bryggeri Columbus Ale;Bottle 500ml;;;8;3;8;3;14;No textual comments;0
-2010-09-11;Ruovesi;2010-09-09;Alko Pirkkala Partola;Laitilan Kievari Kekri (5.9 % version);Bottle 500ml;;;5;3;4;3;10;No textual comments;0
-2010-09-18;Gastrupub Nordic;;;Beer Here Dark Hops;Bottle 500ml;;;8;4;9;4;15;Black With off white head , aroma is Sweet, fruity hops,Chocolate. flavor is lots of Chocolate, hops, Sweet roasted malt, Nice bipa.;0
-2010-09-18;Gastrupub Nordic;;;Det Lille Bryggeri Indian Pale Ale;Bottle 500ml;;;8;3;8;3;14;No textual comments;0
-2010-09-18;Olutravintola Konttori;;;De Molen Kannen & Kruiken;Bottle 330ml;2014-04-27;brewed 2009-03-23, bottled 2009-04-27;7;3;8;3;15;hyvä, todella samea, ei kovin humalainen;0
-2010-09-18;Olutravintola Konttori;;;Green Flash Double Stout;Bottle 650ml;;;9;4;8;4;16;No textual comments;0
-2010-09-18;Pirkkala;2009-09-26;System Bolaget Regeringsgatan;Hoppin Frog BORIS The Crusher;Bottle 650ml;2011-12-31;;9;4;8;4;14;No textual comments;0
-2010-09-18;Pirkkala;2010-07-21;System Bolaget Nacka;Mohawk Extra IPA;Bottle 500ml;;;7;4;7;3;13;No textual comments;0
-2010-09-18;Pirkkala;2009-09-26;System Bolaget Regeringsgatan;Southern Tier Hoppe;Bottle 650ml;;;8;3;7;3;13;lievä pettymys, olematon humalointi, olis varmaan pitänyt juoda tuoreena, eikä säilyttää vuotta;0
-2010-09-19;Pirkkala;2010-09-18;Alko Kaleva;Ettaler Kloster Edel-Hell;Bottle 500ml;;;5;3;5;3;12;No textual comments;0
-2010-09-24;Pirkkala;2010-09-24;Alko Kaleva;Marstons Owd Rodger;Bottle 500ml;;;6;3;6;3;12;No textual comments;0
+2010-06-12;Ruovesi;2010-06-11;K-citymarket Elo;Frankfurter Spitzkrug Premium;Can 500ml;;;3;2;3;1;7;No textual comments;63330
+2010-06-12;Ruovesi;2010-06-11;K-citymarket Elo;Löwenbräu Original;Bottle 500ml;;;5;2;4;2;10;No textual comments;4792
+2010-06-24;Delano Innestadt, Bremen;;;Erdinger Dunkel;Draft;;;6;3;6;3;12;No textual comments;303853
+2010-06-24;Prizeotel Bremen City;2010-06-24;Aldi Bremen-Mitte;Leikeim Premium Weisse;Bottle 500ml;;;6;3;6;3;11;No textual comments;17770
+2010-06-25;Haake Beck Ausspann;;;Haake Beck Kräusen;Draft;;;5;3;6;3;12;No textual comments;9606
+2010-06-25;Paulaner's Bremen;;;Paulaner Original Münchner Hell Leicht;Draft;;;5;3;6;3;12;No textual comments;17476
+2010-06-25;Paulaner's Bremen;;;Paulaner Premium Pils;Draft;;;6;3;6;3;13;No textual comments;645
+2010-06-25;Schüttinger;;;Schüttinger Dunkel;Draft;;;5;3;4;2;10;No textual comments;53516
+2010-06-25;Schüttinger;;;Schüttinger Hell;Draft;;;6;3;6;3;12;No textual comments;53505
+2010-06-26;Haake Beck Ausspann;;;Haake Beck Pils;Draft;;;5;3;5;2;10;No textual comments;9725
+2010-06-27;Alex, Bremen;;;Diebels Alt;Draft;;;5;2;6;3;12;No textual comments;3990
+2010-06-27;Alex, Bremen;;;Dom Kölsch;Draft;;;5;2;5;2;10;No textual comments;75050
+2010-07-01;Pirkkala;2010-06-30;K-citymarket Pirkkala;Beer Hunters Mufloni Vaalea Intianpässi;Bottle 330ml;;;7;3;7;2;13;No textual comments;0
+2010-07-02;Ruovesi;2010-06-30;K-citymarket Pirkkala;Ridgeway Paper City High & Mighty Beer of the Gods;Bottle 500ml;;;6;3;6;3;12;No textual comments;91680
+2010-07-02;Ruovesi;2010-06-30;K-citymarket Pirkkala;Shepherd Neame Late Red (Bottle);Bottle 500ml;;;7;3;7;3;13;No textual comments;0
+2010-07-02;Ruovesi;2010-07-02;K-citymarket Elo;Sinebrychoff Koff Extra Brew III;Can 568ml;;;3;2;3;1;9;No textual comments;120005
+2010-07-05;Pirkkala;2010-06-30;K-citymarket Pirkkala;Morland Old Speckled Hen (3.5%);Bottle 500ml;;;5;3;5;2;11;No textual comments;69610
+2010-07-06;Pirkkala;2010-06-30;K-citymarket Pirkkala;Black Sheep Monty Python’s Holy Grail (Bottle);Bottle 500ml;;;5;3;5;2;11;No textual comments;5989
+2010-07-09;Ruovesi;2010-07-08;S-market Pirkkala;Sinebrychoff Koff Surfer;Can 500ml;;;3;2;3;1;7;No textual comments;101079
+2010-07-10;Ruovesi;2010-06-30;K-citymarket Pirkkala;Bruery Terreux Hottenroth Berliner Weisse;Bottle 650ml;;;6;3;6;2;12;As The Bruery Hottenroth Berliner Weisse. No textual comments;0
+2010-07-13;Pirkkala;2010-06-30;K-citymarket Pirkkala;Det Lille Bryggeri Sommerbryg;Bottle 500ml;;;7;3;7;3;13;No textual comments;73240
+2010-07-15;Pirkkala;2010-07-12;K-citymarket Pirkkala;Ayinger Leichte Bräu-Weisse;Bottle 500ml;;;5;3;5;2;11;No textual comments;7764
+2010-07-16;Viking Line Gabriella;;;Barbãr;Bottle 330ml;;;6;3;6;3;13;No textual comments;661
+2010-07-16;Viking Line Gabriella;;;BrewDog Paradox SmokeHead (Batch 015) ;Bottle 330ml;;#015;9;4;8;4;15;No textual comments;93595
+2010-07-16;Viking Line Gabriella;;;Ushers Founders Ale (Bottled);Bottle 500ml;;;6;3;6;3;13;No textual comments;0
+2010-07-22;Ruovesi;2010-07-19;Kiwi Austbygd;Aass Pilsner;Bottle 330ml;;;4;2;3;2;8;No textual comments;17280
+2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;BrewDog 77 Lager;Bottle 330ml;;;7;3;6;3;13;No textual comments;98242
+2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;Nynäshamns Landsort Lager;Bottle 500ml;;;6;3;6;3;12;No textual comments;11626
+2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;Oppigårds Inwit;Bottle 330ml;;;7;3;7;3;13;No textual comments;122525
+2010-07-22;Ruovesi;2010-07-21;System Bolaget Eurostop;S:t Eriks Pilsner;Bottle 330ml;;;6;3;6;3;12;No textual comments;120213
+2010-07-24;Gastropub Tuulensuu;;;De Dolle Oerbier;Bottle 330ml;;;7;3;8;3;15;No textual comments;6860
+2010-07-24;Gastropub Tuulensuu;;;De Dolle Oerbier Special Reserva;Bottle 330ml;;;7;3;8;3;15;hyvä, pistä maku, muuten melkolailla sama kuin normaali versio;28132
+2010-07-24;Gastropub Tuulensuu;;;Praght Extra Stout;Bottle 330ml;;;7;3;7;3;14;No textual comments;106726
+2010-07-24;Gastropub Tuulensuu;;;SNAB IJsbok;Bottle 330ml;;;7;3;7;3;14;No textual comments;18127
+2010-07-24;Gastropub Tuulensuu;;;Struise Pannepøt - Old Monk’s Ale - Pannepeut;Bottle 330ml;;;7;3;8;3;15;No textual comments;65376
+2010-07-24;Gastropub Tuulensuu;;;Volendam West Vølen/Pijtje;Bottle 330ml;;;7;3;7;3;13;ei ihan paras bwine;29688
+2010-07-24;Pirkkala;2011-06-14;Alko Arkadia;Meantime London Porter;Bottle 750ml;2013-02-10;;8;4;8;3;14;No textual comments;48499
+2010-07-24;Pirkkala;2010-07-21;System Bolaget Nacka;Saint Landelin Mythique;Bottle 750ml;;;7;3;6;3;13;No textual comments;97843
+2010-07-25;Pirkkala;2010-07-21;System Bolaget Eurostop;Primátor Premium Lager 12°;Bottle 500ml;;;5;2;6;2;11;No textual comments;12035
+2010-07-25;Pirkkala;2010-07-22;Alko Arkadia;Sierra Nevada Anniversary Ale;Bottle 355ml;;2009 version;7;3;8;3;14;No textual comments;0
+2010-07-26;Ruovesi;2010-07-19;Kiwi Austbygd;Frydenlund Bayerøl;Bottle 330ml;;;5;3;6;2;10;No textual comments;12814
+2010-07-26;Ruovesi;2010-07-18;Vinmonopolet Rjukan;Frydenlund Bokkøl;Bottle 330ml;;;6;3;6;3;11;No textual comments;12422
+2010-07-27;Ruovesi;2010-07-19;Kiwi Austbygd;Ringnes Premium Lager (Classic);Bottle 330ml;;;4;2;4;2;8;No textual comments;84018
+2010-07-29;Ruovesi;2010-07-28;Prisma Kaleva;Frankfurter Hansegold Premium III;Can 500ml;;;4;2;3;1;7;perus lager kuraa;119979
+2010-07-29;Ruovesi;2010-07-21;System Bolaget Eurostop;Grebbestad Lager;Bottle 330ml;;;4;2;5;2;10;No textual comments;280083
+2010-07-30;Ruovesi;2010-07-28;Alko Kaleva;Aldaris Stiprais;Bottle 500ml;;;5;3;3;3;8;No textual comments;396766
+2010-07-30;Ruovesi;2010-07-28;Alko Kaleva;Saku Hele;Bottle 500ml;;;5;2;5;2;10;No textual comments;4542
+2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Laitilan Kukko Lager III;Can 500ml;;;3;2;3;2;8;No textual comments;54043
+2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Laitilan Kukko Pils III;Can 500ml;;;5;2;4;2;10;No textual comments;14820
+2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Laitilan Tumma Kukko;Can 500ml;;;4;3;4;2;9;No textual comments;23118
+2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Saaremaa Tuulik;Bottle 500ml;;;4;2;3;2;8;No textual comments;4541
+2010-07-31;Ruovesi;2010-07-31;S-market Ruovesi;Sinebrychoff Koff III;Bottle 330ml;;;3;2;3;2;9;No textual comments;120005
+2010-08-02;Ruovesi;2010-07-21;System Bolaget Nacka;Dugges Lager No.1;Bottle 330ml;;;6;3;4;2;9;No textual comments;110555
+2010-08-03;Ruovesi;2010-08-03;K-Market Ruovesi;Sinebrychoff Nikolai Tumma Lager;Can 500ml;;;4;2;4;1;9;No textual comments;63712
+2010-08-03;Ruovesi;2010-07-21;System Bolaget Nacka;Gotlands Wisby Pils;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
+2010-08-07;Amarillo Pori;;;Budweiser Budvar B:Original (Czechvar) 12°;Bottle 500ml;;;6;3;7;3;14;parhaita tsekki pilsnereitä;1316
+2010-08-07;Beer Hunter's;;;Beer Hunters Syntipukki;Bottle 330ml;;;9;4;8;4;16;kahvinen, hieman pistävä maku, ehdottomasti parhaita suomi oluita;124377
+2010-08-07;Beer Hunter's;;;Grassroots Aphrills IPA;Draft;;;8;3;8;3;15;No textual comments;121093
+2010-08-07;Beer Hunter's;;;Mikkeller Drikkeriget DIPA;Bottle 330ml;;;8;4;8;4;15;hyvä tuoksu, juuresmainen, kitkerä, lievä pettymys;99935
+2010-08-08;O'Hara's Freehouse;;;Dieu du Ciel Péché Mortel;Bottle 341ml;;;8;4;8;4;15;kahvinen, suht pehmeä is, lievä pettymys odotuksiin nähden;11461
+2010-08-14;Gastropub Nordic;;;HaandBryggeriet Bavarian Weizen;Bottle 500ml;;;6;3;6;3;12;No textual comments;49275
+2010-08-14;Gastropub Tuulensuu;;;Fantôme La Fantôme de Gastropub;Bottle 750ml;;;7;3;8;3;15;todella erikoinen, kirpeä sitruunainen, raikas;127757
+2010-08-14;Gastropub Tuulensuu;;;Lefebvre Hopus;Bottle 330ml;;;7;3;7;3;13;No textual comments;96146
+2010-08-14;Niko;;;Leikeim Kellerbier;Bottle 500ml;;;5;3;5;3;11;No textual comments;86956
+2010-08-14;Olutravintola Konttori;;;Mikkeller Bad Dog;Draft;;;7;3;8;3;15;No textual comments;113604
+2010-08-28;Sadonkorjuu;;;Anchor Humming Ale;Draft;;;7;3;6;3;13;No textual comments;112322
+2010-08-28;Sadonkorjuu;;;Birrificio del Ducato Verdi Imperial Stout;Bottle 330ml;;;8;4;8;3;14;No textual comments;84864
+2010-08-28;Sadonkorjuu;;;Flying Dog Raging Bitch;Draft;;;8;3;8;3;15;No textual comments;110932
+2010-08-28;Sadonkorjuu;;;Revelation Cat Woodwork Series Reference;Bottle 375ml;;;8;3;8;4;14;No textual comments;103366
+2010-08-28;Sadonkorjuu;;;Southern Tier Gemini (2007-2013);Draft;;;8;3;8;4;15;jenkki tyylinen, hieman liian rusinainen;0
+2010-08-28;Sadonkorjuu;;;Struiselensis;Bottle 330ml;;;6;3;7;3;13;No textual comments;71858
+2010-08-28;Sadonkorjuu;;;Det Lille Bryggeri Columbus Ale;Bottle 500ml;;;8;3;8;3;14;No textual comments;74314
+2010-09-11;Ruovesi;2010-09-09;Alko Pirkkala Partola;Laitilan Kievari Kekri (5.9 % version);Bottle 500ml;;;5;3;4;3;10;No textual comments;109268
+2010-09-18;Gastrupub Nordic;;;Beer Here Dark Hops ;Bottle 500ml;;;8;4;9;4;15;Black With off white head , aroma is Sweet, fruity hops,Chocolate. flavor is lots of Chocolate, hops, Sweet roasted malt, Nice bipa.;101685
+2010-09-18;Gastrupub Nordic;;;Det Lille Bryggeri Indian Pale Ale;Bottle 500ml;;;8;3;8;3;14;No textual comments;99236
+2010-09-18;Olutravintola Konttori;;;De Molen Kannen & Kruiken;Bottle 330ml;2014-04-27;brewed 2009-03-23, bottled 2009-04-27;7;3;8;3;15;hyvä, todella samea, ei kovin humalainen;102848
+2010-09-18;Olutravintola Konttori;;;Green Flash Double Stout;Bottle 650ml;;;9;4;8;4;16;No textual comments;84962
+2010-09-18;Pirkkala;2009-09-26;System Bolaget Regeringsgatan;Hoppin’ Frog BORIS The Crusher;Bottle 650ml;2011-12-31;;9;4;8;4;14;No textual comments;65881
+2010-09-18;Pirkkala;2010-07-21;System Bolaget Nacka;Mohawk Extra IPA;Bottle 500ml;;;7;4;7;3;13;No textual comments;120360
+2010-09-18;Pirkkala;2009-09-26;System Bolaget Regeringsgatan;Southern Tier Hoppe;Bottle 650ml;;;8;3;7;3;13;lievä pettymys, olematon humalointi, olis varmaan pitänyt juoda tuoreena, eikä säilyttää vuotta;70146
+2010-09-19;Pirkkala;2010-09-18;Alko Kaleva;Ettaler Kloster Edel-Hell;Bottle 500ml;;;5;3;5;3;12;No textual comments;18844
+2010-09-24;Pirkkala;2010-09-24;Alko Kaleva;Marstons Owd Rodger;Bottle 500ml;;;6;3;6;3;12;No textual comments;11211
 2010-09-24;Pirkkala;2010-09-24;Alko Kaleva;Primátor Exkluziv 16°;Bottle 500ml;;;5;3;6;3;13;No textual comments;2349
-2010-09-25;Niko;;;Avery New World Porter;Bottle 355ml;;;7;3;7;3;13;No textual comments;0
-2010-09-25;Niko;;;Nils Oscar Harvest Ale;Bottle 330ml;;;6;3;6;3;12;No textual comments;0
-2010-09-25;Olutravintola Konttori;;;Haandbryggeriet India Pale Ale;Bottle 500ml;;;7;3;7;3;13;hieman mauton ja hajuton, juuresmainen;0
-2010-09-25;Olutravintola Konttori;;;Nøgne Ø Dark Horizon Third Edition;Bottle 250ml;;;8;4;8;4;15;hyvä, makea, kahvinmakuinen, hieman pistävä;0
-2010-09-25;Olutravintola Konttori;;;Nøgne Ø Sweet Horizon;Bottle 250ml;;;8;4;8;4;15;makea, kahvinmakuinen, suklainen;0
-2010-10-21;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale,;Avery India Pale Ale;Bottle 355ml;;;8;3;8;3;15;No textual comments;0
-2010-10-21;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Boulder Beer Mojo Risin;Bottle 355ml;;;8;3;8;3;14;No textual comments;0
-2010-10-18;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Breckenridge 471 Small Batch IPA;Bottle 355ml;;;8;3;8;3;15;No textual comments;0
+2010-09-25;Niko;;;Avery New World Porter;Bottle 355ml;;;7;3;7;3;13;No textual comments;70
+2010-09-25;Niko;;;Nils Oscar Harvest Ale;Bottle 330ml;;;6;3;6;3;12;No textual comments;127587
+2010-09-25;Olutravintola Konttori;;;HaandBryggeriet India Pale Ale;Bottle 500ml;;;7;3;7;3;13;hieman mauton ja hajuton, juuresmainen;0
+2010-09-25;Olutravintola Konttori;;;Nøgne Ø Dark Horizon Third Edition;Bottle 250ml;;;8;4;8;4;15;hyvä, makea, kahvinmakuinen, hieman pistävä;114631
+2010-09-25;Olutravintola Konttori;;;Nøgne Ø Sweet Horizon;Bottle 250ml;;;8;4;8;4;15;makea, kahvinmakuinen, suklainen;114632
+2010-10-21;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale,;Avery IPA;Bottle 355ml;;;8;3;8;3;15;No textual comments;0
+2010-10-21;Grand Beach Hotel Miami;2010-10-19;Total Wine, Fort Lauderdale;Boulder Beer Mojo Risin;Bottle 355ml;;;8;3;8;3;14;No textual comments;132017
+2010-10-18;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Breckenridge 471 Small Batch IPA;Bottle 355ml;;;8;3;8;3;15;No textual comments;73309
 2010-10-15;Crowne Plaza La Concha, Key West;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Cigar City Jai Alai India Pale Ale;Bottle 355ml;;;8;3;8;3;14;No textual comments;0
-2010-10-21;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Cigar City Maduro Oatmeal Brown Ale;Bottle 355ml;;;7;3;7;3;13;No textual comments;0
-2010-10-17;Grand Beach Hotel Miami;2010-10-16;Whole Foods Market, Pinecrest;Dogfish Head 90 Minute Imperial IPA;Bottle 355ml;;;8;3;8;4;15;No textual comments;0
-2010-10-16;Grand Beach Hotel Miami;2010-10-16;Whole Foods Market, Pinecrest;Dogfish Head Indian Brown Ale;Bottle 355ml;;;8;3;7;3;14;No textual comments;0
+2010-10-21;Grand Beach Hotel Miami;2010-10-14;Stop & Shop Ponce/Food Stores, Coral Gables;Cigar City Maduro Brown Ale;Bottle 355ml;;;7;3;7;3;13;No textual comments;0
+2010-10-17;Grand Beach Hotel Miami;2010-10-16;Whole Foods Market, Pinecrest;Dogfish Head 90 Minute Imperial IPA;Bottle 355ml;;;8;3;8;4;15;No textual comments;10569
+2010-10-16;Grand Beach Hotel Miami;2010-10-16;Whole Foods Market, Pinecrest;Dogfish Head Indian Brown Ale;Bottle 355ml;;;8;3;7;3;14;No textual comments;3076

@@ -1,4 +1,4 @@
-package org.beer.app;
+package org.beer.app.dao;
 
 import java.net.InetSocketAddress;
 import java.util.ArrayList;
@@ -8,6 +8,9 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import org.beer.app.AllowedSearchFields;
+import org.beer.app.BeerRating;
+import org.beer.app.BeerValidationException;
 import org.elasticsearch.action.bulk.BulkItemResponse;
 import org.elasticsearch.action.bulk.BulkResponse;
 import org.elasticsearch.action.index.IndexResponse;
@@ -133,7 +136,7 @@ public class ElasticsearchClient implements DataStorageClient {
 	}
 
 	private static void validateSearchField(String searchField) throws BeerValidationException {
-		List<String> allowedValues = Stream.of(ElasticsearchField.values()).map(Enum::name).collect(Collectors.toList());
+		List<String> allowedValues = Stream.of(AllowedSearchFields.values()).map(Enum::name).collect(Collectors.toList());
 		if (!allowedValues.contains(searchField)) {
 			throw new BeerValidationException("Illegal search field: " + searchField);
 		}

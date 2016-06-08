@@ -3,11 +3,12 @@ package org.beer.app.converter;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.beer.app.BeerRatingFileReader;
-import org.beer.app.BeerRatingFileUtil;
-import org.beer.app.BeerRatingFileWriter;
 import org.beer.app.BeerValidationException;
 import org.beer.app.RbClient;
+import org.beer.app.util.BeerRatingFileReader;
+import org.beer.app.util.BeerRatingFileUtil;
+import org.beer.app.util.BeerRatingFileWriter;
+import org.beer.app.util.BeerRatingValidator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

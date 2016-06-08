@@ -1,4 +1,4 @@
-package org.beer.app;
+package org.beer.app.util;
 
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;

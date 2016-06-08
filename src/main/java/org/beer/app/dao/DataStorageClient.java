@@ -1,6 +1,9 @@
-package org.beer.app;
+package org.beer.app.dao;
 
 import java.util.List;
+
+import org.beer.app.BeerRating;
+import org.beer.app.BeerValidationException;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 

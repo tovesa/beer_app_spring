@@ -2,6 +2,7 @@ package org.beer.app.converter;
 
 import static org.junit.Assert.assertFalse;
 
+import org.beer.app.util.BeerRatingValidator;
 import org.junit.Test;
 
 public class TestBeerRatingValidator {

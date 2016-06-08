@@ -7,6 +7,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.beer.app.converter.ConvertFile;
+import org.beer.app.dao.DataStorageClient;
+import org.beer.app.dao.ElasticsearchClient;
+import org.beer.app.dao.RamDirectoryClient;
+import org.beer.app.util.BeerRatingFileReader;
+import org.beer.app.util.BeerRatingFileWriter;
 import org.junit.Ignore;
 import org.junit.Test;
 

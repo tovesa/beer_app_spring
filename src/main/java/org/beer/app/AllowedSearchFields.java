@@ -1,5 +1,5 @@
 package org.beer.app;
 
-public enum ElasticsearchField {
+public enum AllowedSearchFields {
 	name, ratingDate, ratingPlace, brewery, country
 }

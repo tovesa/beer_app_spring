@@ -3,6 +3,8 @@ package org.beer.app;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
+import org.beer.app.http.HttpClient;
+import org.beer.app.util.BeerRatingFileUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

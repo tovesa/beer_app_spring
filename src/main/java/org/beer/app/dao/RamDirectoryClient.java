@@ -1,4 +1,4 @@
-package org.beer.app;
+package org.beer.app.dao;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -26,6 +26,11 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.RAMDirectory;
+import org.beer.app.AllowedSearchFields;
+import org.beer.app.AutoSuggestion;
+import org.beer.app.BeerRating;
+import org.beer.app.BeerValidationException;
+import org.beer.app.util.BeerRatingFileReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -146,7 +151,7 @@ public class RamDirectoryClient implements DataStorageClient {
 	}
 
 	private static void validateSearchField(String searchField) throws BeerValidationException {
-		List<String> allowedValues = Stream.of(ElasticsearchField.values()).map(Enum::name)
+		List<String> allowedValues = Stream.of(AllowedSearchFields.values()).map(Enum::name)
 				.collect(Collectors.toList());
 		if (!allowedValues.contains(searchField)) {
 			throw new BeerValidationException("Illegal search field: " + searchField);

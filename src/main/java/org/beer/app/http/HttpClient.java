@@ -1,4 +1,4 @@
-package org.beer.app;
+package org.beer.app.http;
 
 import java.io.IOException;
 

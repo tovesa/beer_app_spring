@@ -1,10 +1,9 @@
-package org.beer.app.converter;
+package org.beer.app.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
 import org.apache.commons.lang3.StringUtils;
-import org.beer.app.BeerRatingFileUtil;
 import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package org.beer.app;
+package org.beer.app.dao;
 
 public enum DataStorage {
 	RAMDIRECTORY("ramDirectory"), ELASTICSEARCH("elasticsearch"), MONGO("mongo");

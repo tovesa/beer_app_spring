@@ -1,4 +1,4 @@
-package org.beer.app;
+package org.beer.app.util;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,7 +8,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.beer.app.converter.BeerRatingValidator;
+import org.beer.app.BeerRating;
+import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

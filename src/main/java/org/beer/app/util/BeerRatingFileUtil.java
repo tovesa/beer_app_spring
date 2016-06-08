@@ -1,5 +1,6 @@
-package org.beer.app;
+package org.beer.app.util;
 
+import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -11,6 +11,11 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
+import org.beer.app.dao.DataStorage;
+import org.beer.app.dao.DataStorageClient;
+import org.beer.app.dao.ElasticsearchClient;
+import org.beer.app.dao.RamDirectoryClient;
+import org.beer.app.util.PropertyReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

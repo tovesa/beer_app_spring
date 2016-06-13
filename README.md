@@ -1,2 +1,2 @@
-beer_app
+beer_app_spring
 ========

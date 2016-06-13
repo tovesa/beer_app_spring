@@ -21,7 +21,7 @@ public class AutoSuggestion {
 		return this.field;
 	}
 
-	public void setNasetFieldme(String field) {
+	public void setField(String field) {
 		this.field = field;
 	}
 

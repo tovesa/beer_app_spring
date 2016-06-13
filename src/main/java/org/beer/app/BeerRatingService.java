@@ -2,15 +2,6 @@ package org.beer.app;
 
 import java.util.List;
 
-import javax.ws.rs.Consumes;
-import javax.ws.rs.GET;
-import javax.ws.rs.POST;
-import javax.ws.rs.Path;
-import javax.ws.rs.Produces;
-import javax.ws.rs.QueryParam;
-import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
-
 import org.beer.app.dao.DataStorage;
 import org.beer.app.dao.DataStorageClient;
 import org.beer.app.dao.ElasticsearchClient;
@@ -18,8 +9,15 @@ import org.beer.app.dao.RamDirectoryClient;
 import org.beer.app.util.PropertyReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
-@Path("/ws")
+@RestController
 public class BeerRatingService {
 
 	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingService.class);
@@ -38,60 +36,48 @@ public class BeerRatingService {
 		return RamDirectoryClient.getInstance();
 	}
 
-	@POST
-	@Path("createRating")
-	@Consumes(MediaType.APPLICATION_JSON)
-	public Response createRating(BeerRating beerRating) {
+	@RequestMapping(value = "/createRating", method = RequestMethod.POST)
+	public ResponseEntity<BeerRating> createRating(@RequestBody BeerRating beerRating) {
 		LOG.debug("createRating: " + beerRating.toString());
 		try {
 			this.dataStorageClient.createBeerRating(beerRating);
 		} catch (Exception e) {
 			LOG.error("Create rating failed: " + e);
-			int status = 500; // TODO
-			return Response.status(status).entity(e).build();
+			return new ResponseEntity<>(beerRating, getStatus(e));
 		}
-		return Response.status(200).entity("Beer rating succesfully created.").build();
+		return new ResponseEntity<>(beerRating, HttpStatus.OK);
 	}
 
-	@GET
-	@Path("getAutoSuggestions")
-	@Produces(MediaType.APPLICATION_JSON)
-	public Response getAutoSuggestions(@QueryParam("field") String field, @QueryParam("term") String term) {
+	@RequestMapping(value = "/getAutoSuggestions")
+	public Response getAutoSuggestions(@RequestParam("field") String field, @RequestParam("term") String term) {
 		LOG.debug("field: {}, term: {}", field, term);
 		String response = "";
 		try {
 			response = this.dataStorageClient.getAutoSuggestions(field, term);
 		} catch (Exception e) {
 			LOG.error("Get auto suggestions failed: " + e);
-			int status = 500; // TODO
-			return Response.status(status).entity(response).build();
+			return new ResponseEntity<>(beerRating, getStatus(e));
 		}
 		LOG.debug("Response: {}", response);
-		return Response.status(200).entity(response).build();
+		return new ResponseEntity<>(beerRating, HttpStatus.OK);
 	}
 
-	@GET
-	@Path("getRatings")
-	@Produces(MediaType.APPLICATION_JSON)
-	public Response getRatings(@QueryParam("field") String field, @QueryParam("term") String term) {
+	@RequestMapping(value = "/getRatings")
+	public ResponseEntity<List<BeerRating>> getRatings(@RequestParam("field") String field,
+			@RequestParam("term") String term) {
 		LOG.debug("field: {}, term: {}", field, term);
 		List<BeerRating> response;
 		try {
 			response = this.dataStorageClient.getBeerRatings(field, term);
 		} catch (Exception e) {
 			LOG.error("Get ratings failed: " + e);
-			int status = 500; // TODO
-			return Response.status(status).entity(e).build();
+			return new ResponseEntity<>(beerRating, getStatus(e));
 		}
 		LOG.debug("Response: {}", response);
-		return Response.status(200).entity(response).build();
+		return new ResponseEntity<List<BeerRating>>(beerRatings, HttpStatus.OK);
 	}
 
-	@POST
-	@Path("close")
-	@Consumes(MediaType.APPLICATION_JSON)
-	public Response close() {
-		this.dataStorageClient.stop();
-		return Response.status(200).entity("Elasticsearch connection closed.").build();
+	private static HttpStatus getStatus(Exception e) {
+		return HttpStatus.BAD_REQUEST; // TODO
 	}
 }

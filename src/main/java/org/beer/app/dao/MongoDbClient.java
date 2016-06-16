@@ -6,11 +6,13 @@ import org.beer.app.BeerRating;
 import org.beer.app.BeerValidationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Repository;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoDatabase;
 
+@Repository("mongoDb")
 public class MongoDbClient implements DataStorageClient {
 
 	private static final Logger LOG = LoggerFactory.getLogger(MongoDbClient.class);

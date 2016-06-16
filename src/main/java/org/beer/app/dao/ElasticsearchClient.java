@@ -24,11 +24,13 @@ import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.search.SearchHit;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Repository;
 
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+@Repository("elasticsearch")
 public class ElasticsearchClient implements DataStorageClient {
 	private static final Logger LOG = LoggerFactory.getLogger(ElasticsearchClient.class);
 
@@ -136,7 +138,8 @@ public class ElasticsearchClient implements DataStorageClient {
 	}
 
 	private static void validateSearchField(String searchField) throws BeerValidationException {
-		List<String> allowedValues = Stream.of(AllowedSearchFields.values()).map(Enum::name).collect(Collectors.toList());
+		List<String> allowedValues = Stream.of(AllowedSearchFields.values()).map(Enum::name)
+				.collect(Collectors.toList());
 		if (!allowedValues.contains(searchField)) {
 			throw new BeerValidationException("Illegal search field: " + searchField);
 		}

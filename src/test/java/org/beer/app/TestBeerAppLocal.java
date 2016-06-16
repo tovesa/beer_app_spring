@@ -52,8 +52,8 @@ public class TestBeerAppLocal {
 
 	@Test
 	public void testStartBeerApp() {
-		BeerApp app = new BeerApp();
-		app.start();
+		BeerRatingApp app = new BeerRatingApp();
+		// app.start();
 	}
 
 	// --- 2013 ---

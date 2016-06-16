@@ -1,14 +1,14 @@
 package org.beer.app;
 
 import java.util.List;
+import java.util.Map;
 
 import org.beer.app.dao.DataStorage;
 import org.beer.app.dao.DataStorageClient;
-import org.beer.app.dao.ElasticsearchClient;
-import org.beer.app.dao.RamDirectoryClient;
 import org.beer.app.util.PropertyReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -21,19 +21,17 @@ import org.springframework.web.bind.annotation.RestController;
 public class BeerRatingService {
 
 	private static final Logger LOG = LoggerFactory.getLogger(BeerRatingService.class);
+	@Autowired
+	private Map<String, DataStorageClient> dataStorageClientMap;
 	private DataStorageClient dataStorageClient;
 
 	public BeerRatingService() {
-		this.dataStorageClient = getDataStorageClient();
-		this.dataStorageClient.start();
+		selectStorageClient();
 	}
 
-	private static DataStorageClient getDataStorageClient() {
-		String dataStorage = PropertyReader.getProperty("dataStorage", DataStorage.RAMDIRECTORY.getValue());
-		if (dataStorage.equals(DataStorage.ELASTICSEARCH.getValue())) {
-			return ElasticsearchClient.getInstance();
-		}
-		return RamDirectoryClient.getInstance();
+	private void selectStorageClient() {
+		String configuredDataStorage = PropertyReader.getProperty("dataStorage", DataStorage.RAMDIRECTORY.getValue());
+		this.dataStorageClient = this.dataStorageClientMap.get(configuredDataStorage);
 	}
 
 	@RequestMapping(value = "/createRating", method = RequestMethod.POST)
@@ -49,32 +47,33 @@ public class BeerRatingService {
 	}
 
 	@RequestMapping(value = "/getAutoSuggestions")
-	public Response getAutoSuggestions(@RequestParam("field") String field, @RequestParam("term") String term) {
+	public ResponseEntity<String> getAutoSuggestions(@RequestParam("field") String field,
+			@RequestParam("term") String term) {
 		LOG.debug("field: {}, term: {}", field, term);
-		String response = "";
+		String autoSuggestions = "";
 		try {
-			response = this.dataStorageClient.getAutoSuggestions(field, term);
+			autoSuggestions = this.dataStorageClient.getAutoSuggestions(field, term);
 		} catch (Exception e) {
 			LOG.error("Get auto suggestions failed: " + e);
-			return new ResponseEntity<>(beerRating, getStatus(e));
+			return new ResponseEntity<>(autoSuggestions, getStatus(e));
 		}
-		LOG.debug("Response: {}", response);
-		return new ResponseEntity<>(beerRating, HttpStatus.OK);
+		LOG.debug("Response: {}", autoSuggestions);
+		return new ResponseEntity<>(autoSuggestions, HttpStatus.OK);
 	}
 
 	@RequestMapping(value = "/getRatings")
 	public ResponseEntity<List<BeerRating>> getRatings(@RequestParam("field") String field,
 			@RequestParam("term") String term) {
 		LOG.debug("field: {}, term: {}", field, term);
-		List<BeerRating> response;
+		List<BeerRating> beerRatings = null;
 		try {
-			response = this.dataStorageClient.getBeerRatings(field, term);
+			beerRatings = this.dataStorageClient.getBeerRatings(field, term);
 		} catch (Exception e) {
 			LOG.error("Get ratings failed: " + e);
-			return new ResponseEntity<>(beerRating, getStatus(e));
+			return new ResponseEntity<>(beerRatings, getStatus(e));
 		}
-		LOG.debug("Response: {}", response);
-		return new ResponseEntity<List<BeerRating>>(beerRatings, HttpStatus.OK);
+		LOG.debug("Response: {}", beerRatings);
+		return new ResponseEntity<>(beerRatings, HttpStatus.OK);
 	}
 
 	private static HttpStatus getStatus(Exception e) {

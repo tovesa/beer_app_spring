@@ -33,10 +33,12 @@ import org.beer.app.BeerValidationException;
 import org.beer.app.util.BeerRatingFileReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Repository;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+@Repository("ramDirectory")
 public class RamDirectoryClient implements DataStorageClient {
 	private static final Logger LOG = LoggerFactory.getLogger(RamDirectoryClient.class);
 

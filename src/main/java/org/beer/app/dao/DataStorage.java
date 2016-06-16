@@ -1,7 +1,7 @@
 package org.beer.app.dao;
 
 public enum DataStorage {
-	RAMDIRECTORY("ramDirectory"), ELASTICSEARCH("elasticsearch"), MONGO("mongo");
+	RAMDIRECTORY("ramDirectory"), ELASTICSEARCH("elasticsearch"), MONGO("mongoDb");
 	private String value;
 
 	private DataStorage(String value) {
